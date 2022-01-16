@@ -91,6 +91,46 @@
 ]]></content>
   </entry>
   <entry>
+    <title>ELENCO APN ITALIANI</title>
+    <url>/2022/01/16/ELENCO%20APN%20ITALIANI/</url>
+    <content><![CDATA[<h1 id="APN"><a href="#APN" class="headerlink" title="APN"></a>APN</h1><h2 id="TIM"><a href="#TIM" class="headerlink" title="TIM"></a>TIM</h2><p>box.tim.it</p>
+<h2 id="Vodafone"><a href="#Vodafone" class="headerlink" title="Vodafone"></a>Vodafone</h2><p>mobile.vodafone.it<br>iphone.vodafone.it</p>
+<h2 id="Wind"><a href="#Wind" class="headerlink" title="Wind:"></a>Wind:</h2><p>internet.it<br>internet.wind</p>
+<h2 id="Iliad-Italia"><a href="#Iliad-Italia" class="headerlink" title="Iliad Italia"></a>Iliad Italia</h2><p>iliad</p>
+<h2 id="Fastweb-Mobile"><a href="#Fastweb-Mobile" class="headerlink" title="Fastweb Mobile:"></a>Fastweb Mobile:</h2><p>apn.fastweb.it (ricaricabili); datacard.fastweb.it (abbonamenti)</p>
+<h2 id="Poste-Mobile"><a href="#Poste-Mobile" class="headerlink" title="Poste Mobile:"></a>Poste Mobile:</h2><p>wap.postemobile.it<br>casa.postemobile.it (PosteMobile Casa Web)</p>
+<h2 id="Tiscali-Mobile"><a href="#Tiscali-Mobile" class="headerlink" title="Tiscali Mobile:"></a>Tiscali Mobile:</h2><p>tiscalimobileinternet</p>
+<h2 id="Coop-Voce"><a href="#Coop-Voce" class="headerlink" title="Coop Voce:"></a>Coop Voce:</h2><p>web.coopvoce.it</p>
+<h2 id="Kena-Mobile"><a href="#Kena-Mobile" class="headerlink" title="Kena Mobile:"></a>Kena Mobile:</h2><p>web.kenamobile.it</p>
+<h2 id="Ho-Mobile"><a href="#Ho-Mobile" class="headerlink" title="Ho Mobile:"></a>Ho Mobile:</h2><p>web.ho-mobile.it <em>per la navigazione da smartphone</em></p>
+<p>internet.ho-mobile.it <em>per la navigazione in tethering</em></p>
+<h2 id="Lycamobile"><a href="#Lycamobile" class="headerlink" title="Lycamobile:"></a>Lycamobile:</h2><p>data.lycamobile.it</p>
+<h2 id="Rabona-Mobile"><a href="#Rabona-Mobile" class="headerlink" title="Rabona Mobile"></a>Rabona Mobile</h2><p>rabona.it</p>
+<hr>
+<ul>
+<li><h2 id="Related-Links"><a href="#Related-Links" class="headerlink" title="Related Links"></a><strong>Related Links</strong></h2></li>
+<li><h2 id="External-Links"><a href="#External-Links" class="headerlink" title="External Links"></a><strong>External Links</strong></h2></li>
+</ul>
+<hr>
+]]></content>
+  </entry>
+  <entry>
+    <title>Super Internet Casa - Offerte Internet con Super Internet Wi-Fi</title>
+    <url>/2022/01/16/Super-Internet-Casa/</url>
+    <content><![CDATA[<h1 id="Super-Internet-Casa-Offerte-Internet-con-Super-Internet-Wi-Fi"><a href="#Super-Internet-Casa-Offerte-Internet-con-Super-Internet-Wi-Fi" class="headerlink" title="Super Internet Casa - Offerte Internet con Super Internet Wi-Fi"></a>Super Internet Casa - Offerte Internet con Super Internet Wi-Fi</h1><p><a href="https://www.windtre.it/offerte-internet-mobile/super-internet-casa/">Super Internet Casa - Offerte Internet con Super Internet Wi-Fi</a></p>
+<ul>
+<li>Super Internet Casa = SUPER INTERNET CASA EASY PAY  (con carta di credito, conto corrente o carte conto abilitate)</li>
+<li>Fino a 300 Mega in download e 50 Mega in upload</li>
+<li>si disconnette ogni 4 ore</li>
+<li>fino a 500/550 giga vai tranquillo, dopo è un mistero</li>
+<li>il Servizio è prevista una durata di 24 mesi</li>
+<li>SIM si può mettere in qualunque modem</li>
+<li>modem Brandizzato windtre probabile, ma cambiando apn quasi sicuramente si può mettere qualunque sim</li>
+<li>router B628-265 CAT 12 2CA</li>
+</ul>
+]]></content>
+  </entry>
+  <entry>
     <title>Poste Mobile CasaWeb</title>
     <url>/2022/01/15/Poste-Mobile-CasaWeb/</url>
     <content><![CDATA[<h1 id="PosteMobile-Casa-Web"><a href="#PosteMobile-Casa-Web" class="headerlink" title="PosteMobile Casa Web"></a>PosteMobile Casa Web</h1><p><a href="https://www.postemobile.it/offerte-fisso/postemobile-casa-web">PosteMobile Casa Web</a></p>
@@ -143,22 +183,6 @@
 <h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
 
 <p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
-]]></content>
-  </entry>
-  <entry>
-    <title>Super Internet Casa - Offerte Internet con Super Internet Wi-Fi</title>
-    <url>/2022/01/16/Super-Internet-Casa/</url>
-    <content><![CDATA[<h1 id="Super-Internet-Casa-Offerte-Internet-con-Super-Internet-Wi-Fi"><a href="#Super-Internet-Casa-Offerte-Internet-con-Super-Internet-Wi-Fi" class="headerlink" title="Super Internet Casa - Offerte Internet con Super Internet Wi-Fi"></a>Super Internet Casa - Offerte Internet con Super Internet Wi-Fi</h1><p><a href="https://www.windtre.it/offerte-internet-mobile/super-internet-casa/">Super Internet Casa - Offerte Internet con Super Internet Wi-Fi</a></p>
-<ul>
-<li>Super Internet Casa = SUPER INTERNET CASA EASY PAY  (con carta di credito, conto corrente o carte conto abilitate)</li>
-<li>Fino a 300 Mega in download e 50 Mega in upload</li>
-<li>si disconnette ogni 4 ore</li>
-<li>fino a 500/550 giga vai tranquillo, dopo è un mistero</li>
-<li>il Servizio è prevista una durata di 24 mesi</li>
-<li>SIM si può mettere in qualunque modem</li>
-<li>modem Brandizzato windtre probabile, ma cambiando apn quasi sicuramente si può mettere qualunque sim</li>
-<li>router B628-265 CAT 12 2CA</li>
-</ul>
 ]]></content>
   </entry>
 </search>
