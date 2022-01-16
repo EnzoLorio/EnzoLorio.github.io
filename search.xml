@@ -54,30 +54,6 @@
       </tags>
   </entry>
   <entry>
-    <title>ELENCO APN ITALIANI</title>
-    <url>/2022/01/16/ELENCO%20APN%20ITALIANI/</url>
-    <content><![CDATA[<h1 id="APN"><a href="#APN" class="headerlink" title="APN"></a>APN</h1><h2 id="TIM"><a href="#TIM" class="headerlink" title="TIM"></a>TIM</h2><p>box.tim.it</p>
-<h2 id="Vodafone"><a href="#Vodafone" class="headerlink" title="Vodafone"></a>Vodafone</h2><p>mobile.vodafone.it<br>iphone.vodafone.it</p>
-<h2 id="Wind"><a href="#Wind" class="headerlink" title="Wind:"></a>Wind:</h2><p>internet.it<br>internet.wind</p>
-<h2 id="Iliad-Italia"><a href="#Iliad-Italia" class="headerlink" title="Iliad Italia"></a>Iliad Italia</h2><p>iliad</p>
-<h2 id="Fastweb-Mobile"><a href="#Fastweb-Mobile" class="headerlink" title="Fastweb Mobile:"></a>Fastweb Mobile:</h2><p>apn.fastweb.it (ricaricabili); datacard.fastweb.it (abbonamenti)</p>
-<h2 id="Poste-Mobile"><a href="#Poste-Mobile" class="headerlink" title="Poste Mobile:"></a>Poste Mobile:</h2><p>wap.postemobile.it<br>casa.postemobile.it (PosteMobile Casa Web)</p>
-<h2 id="Tiscali-Mobile"><a href="#Tiscali-Mobile" class="headerlink" title="Tiscali Mobile:"></a>Tiscali Mobile:</h2><p>tiscalimobileinternet</p>
-<h2 id="Coop-Voce"><a href="#Coop-Voce" class="headerlink" title="Coop Voce:"></a>Coop Voce:</h2><p>web.coopvoce.it</p>
-<h2 id="Kena-Mobile"><a href="#Kena-Mobile" class="headerlink" title="Kena Mobile:"></a>Kena Mobile:</h2><p>web.kenamobile.it</p>
-<h2 id="Ho-Mobile"><a href="#Ho-Mobile" class="headerlink" title="Ho Mobile:"></a>Ho Mobile:</h2><p>web.ho-mobile.it <em>per la navigazione da smartphone</em></p>
-<p>internet.ho-mobile.it <em>per la navigazione in tethering</em></p>
-<h2 id="Lycamobile"><a href="#Lycamobile" class="headerlink" title="Lycamobile:"></a>Lycamobile:</h2><p>data.lycamobile.it</p>
-<h2 id="Rabona-Mobile"><a href="#Rabona-Mobile" class="headerlink" title="Rabona Mobile"></a>Rabona Mobile</h2><p>rabona.it</p>
-<hr>
-<ul>
-<li><h2 id="Related-Links"><a href="#Related-Links" class="headerlink" title="Related Links"></a><strong>Related Links</strong></h2></li>
-<li><h2 id="External-Links"><a href="#External-Links" class="headerlink" title="External Links"></a><strong>External Links</strong></h2></li>
-</ul>
-<hr>
-]]></content>
-  </entry>
-  <entry>
     <title>B818-263 Firmware</title>
     <url>/2022/01/15/B818-263-Firmware/</url>
     <content><![CDATA[<h1 id="B818-263-Firmware"><a href="#B818-263-Firmware" class="headerlink" title="B818-263 Firmware"></a>B818-263 Firmware</h1><p>c983 fw c1217  è il modello no brand europa</p>
@@ -118,6 +94,30 @@
 <li>non aggrega W3 B1</li>
 <li>non esiste l’11 versione max 10.0.0.5.2</li>
 <li>il B818 ex tim fwa diventa C983 dopo sblocco da parte di Tim (con Conciliaweb) va con tutti i gestori (dopo cessazione fwa anche Tim), rj11 utilizzabile cs voice (no volte) , ma non aggrega la b1 di Tim, ovviamente con versione 11</li>
+</ul>
+<hr>
+]]></content>
+  </entry>
+  <entry>
+    <title>ELENCO APN ITALIANI</title>
+    <url>/2022/01/16/ELENCO%20APN%20ITALIANI/</url>
+    <content><![CDATA[<h1 id="APN"><a href="#APN" class="headerlink" title="APN"></a>APN</h1><h2 id="TIM"><a href="#TIM" class="headerlink" title="TIM"></a>TIM</h2><p>box.tim.it</p>
+<h2 id="Vodafone"><a href="#Vodafone" class="headerlink" title="Vodafone"></a>Vodafone</h2><p>mobile.vodafone.it<br>iphone.vodafone.it</p>
+<h2 id="Wind"><a href="#Wind" class="headerlink" title="Wind:"></a>Wind:</h2><p>internet.it<br>internet.wind</p>
+<h2 id="Iliad-Italia"><a href="#Iliad-Italia" class="headerlink" title="Iliad Italia"></a>Iliad Italia</h2><p>iliad</p>
+<h2 id="Fastweb-Mobile"><a href="#Fastweb-Mobile" class="headerlink" title="Fastweb Mobile:"></a>Fastweb Mobile:</h2><p>apn.fastweb.it (ricaricabili); datacard.fastweb.it (abbonamenti)</p>
+<h2 id="Poste-Mobile"><a href="#Poste-Mobile" class="headerlink" title="Poste Mobile:"></a>Poste Mobile:</h2><p>wap.postemobile.it<br>casa.postemobile.it (PosteMobile Casa Web)</p>
+<h2 id="Tiscali-Mobile"><a href="#Tiscali-Mobile" class="headerlink" title="Tiscali Mobile:"></a>Tiscali Mobile:</h2><p>tiscalimobileinternet</p>
+<h2 id="Coop-Voce"><a href="#Coop-Voce" class="headerlink" title="Coop Voce:"></a>Coop Voce:</h2><p>web.coopvoce.it</p>
+<h2 id="Kena-Mobile"><a href="#Kena-Mobile" class="headerlink" title="Kena Mobile:"></a>Kena Mobile:</h2><p>web.kenamobile.it</p>
+<h2 id="Ho-Mobile"><a href="#Ho-Mobile" class="headerlink" title="Ho Mobile:"></a>Ho Mobile:</h2><p>web.ho-mobile.it <em>per la navigazione da smartphone</em></p>
+<p>internet.ho-mobile.it <em>per la navigazione in tethering</em></p>
+<h2 id="Lycamobile"><a href="#Lycamobile" class="headerlink" title="Lycamobile:"></a>Lycamobile:</h2><p>data.lycamobile.it</p>
+<h2 id="Rabona-Mobile"><a href="#Rabona-Mobile" class="headerlink" title="Rabona Mobile"></a>Rabona Mobile</h2><p>rabona.it</p>
+<hr>
+<ul>
+<li><h2 id="Related-Links"><a href="#Related-Links" class="headerlink" title="Related Links"></a><strong>Related Links</strong></h2></li>
+<li><h2 id="External-Links"><a href="#External-Links" class="headerlink" title="External Links"></a><strong>External Links</strong></h2></li>
 </ul>
 <hr>
 ]]></content>
