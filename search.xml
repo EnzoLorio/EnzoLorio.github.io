@@ -48,12 +48,27 @@
       </tags>
   </entry>
   <entry>
-    <title>MC 801A</title>
-    <url>/2022/01/24/MC-801A/</url>
-    <content><![CDATA[<p><img src="https://s2.loli.net/2022/01/24/WzpQu25Ac36n9ah.jpg" alt="IMG_7804"></p>
-<p><img src="https://s2.loli.net/2022/01/24/9pvhsGK4LawQlm5.png" alt="Snipaste_2022-01-24_15-23-44"></p>
-<p>DreiMaxx<br>Megenta Internet 5G Box<br>A1 Net Cube 5G 2<br>ZTE HyperBox 5G - MC801A</p>
-<p>Megenta Internet 5G Box e ZTE HyperBox 5G - MC801A hanno lo stesso firmware</p>
+    <title>ELENCO APN ITALIANI</title>
+    <url>/2022/01/16/ELENCO%20APN%20ITALIANI/</url>
+    <content><![CDATA[<h1 id="APN"><a href="#APN" class="headerlink" title="APN"></a>APN</h1><h2 id="TIM"><a href="#TIM" class="headerlink" title="TIM"></a>TIM</h2><p>box.tim.it</p>
+<h2 id="Vodafone"><a href="#Vodafone" class="headerlink" title="Vodafone"></a>Vodafone</h2><p>mobile.vodafone.it<br>iphone.vodafone.it</p>
+<h2 id="Wind"><a href="#Wind" class="headerlink" title="Wind:"></a>Wind:</h2><p>internet.it<br>internet.wind</p>
+<h2 id="Iliad-Italia"><a href="#Iliad-Italia" class="headerlink" title="Iliad Italia"></a>Iliad Italia</h2><p>iliad</p>
+<h2 id="Fastweb-Mobile"><a href="#Fastweb-Mobile" class="headerlink" title="Fastweb Mobile:"></a>Fastweb Mobile:</h2><p>apn.fastweb.it (ricaricabili); datacard.fastweb.it (abbonamenti)</p>
+<h2 id="Poste-Mobile"><a href="#Poste-Mobile" class="headerlink" title="Poste Mobile:"></a>Poste Mobile:</h2><p>wap.postemobile.it<br>casa.postemobile.it (PosteMobile Casa Web)</p>
+<h2 id="Tiscali-Mobile"><a href="#Tiscali-Mobile" class="headerlink" title="Tiscali Mobile:"></a>Tiscali Mobile:</h2><p>tiscalimobileinternet</p>
+<h2 id="Coop-Voce"><a href="#Coop-Voce" class="headerlink" title="Coop Voce:"></a>Coop Voce:</h2><p>web.coopvoce.it</p>
+<h2 id="Kena-Mobile"><a href="#Kena-Mobile" class="headerlink" title="Kena Mobile:"></a>Kena Mobile:</h2><p>web.kenamobile.it</p>
+<h2 id="Ho-Mobile"><a href="#Ho-Mobile" class="headerlink" title="Ho Mobile:"></a>Ho Mobile:</h2><p>web.ho-mobile.it <em>per la navigazione da smartphone</em></p>
+<p>internet.ho-mobile.it <em>per la navigazione in tethering</em></p>
+<h2 id="Lycamobile"><a href="#Lycamobile" class="headerlink" title="Lycamobile:"></a>Lycamobile:</h2><p>data.lycamobile.it</p>
+<h2 id="Rabona-Mobile"><a href="#Rabona-Mobile" class="headerlink" title="Rabona Mobile"></a>Rabona Mobile</h2><p>rabona.it</p>
+<hr>
+<ul>
+<li><h2 id="Related-Links"><a href="#Related-Links" class="headerlink" title="Related Links"></a><strong>Related Links</strong></h2></li>
+<li><h2 id="External-Links"><a href="#External-Links" class="headerlink" title="External Links"></a><strong>External Links</strong></h2></li>
+</ul>
+<hr>
 ]]></content>
   </entry>
   <entry>
@@ -111,27 +126,12 @@
 ]]></content>
   </entry>
   <entry>
-    <title>ELENCO APN ITALIANI</title>
-    <url>/2022/01/16/ELENCO%20APN%20ITALIANI/</url>
-    <content><![CDATA[<h1 id="APN"><a href="#APN" class="headerlink" title="APN"></a>APN</h1><h2 id="TIM"><a href="#TIM" class="headerlink" title="TIM"></a>TIM</h2><p>box.tim.it</p>
-<h2 id="Vodafone"><a href="#Vodafone" class="headerlink" title="Vodafone"></a>Vodafone</h2><p>mobile.vodafone.it<br>iphone.vodafone.it</p>
-<h2 id="Wind"><a href="#Wind" class="headerlink" title="Wind:"></a>Wind:</h2><p>internet.it<br>internet.wind</p>
-<h2 id="Iliad-Italia"><a href="#Iliad-Italia" class="headerlink" title="Iliad Italia"></a>Iliad Italia</h2><p>iliad</p>
-<h2 id="Fastweb-Mobile"><a href="#Fastweb-Mobile" class="headerlink" title="Fastweb Mobile:"></a>Fastweb Mobile:</h2><p>apn.fastweb.it (ricaricabili); datacard.fastweb.it (abbonamenti)</p>
-<h2 id="Poste-Mobile"><a href="#Poste-Mobile" class="headerlink" title="Poste Mobile:"></a>Poste Mobile:</h2><p>wap.postemobile.it<br>casa.postemobile.it (PosteMobile Casa Web)</p>
-<h2 id="Tiscali-Mobile"><a href="#Tiscali-Mobile" class="headerlink" title="Tiscali Mobile:"></a>Tiscali Mobile:</h2><p>tiscalimobileinternet</p>
-<h2 id="Coop-Voce"><a href="#Coop-Voce" class="headerlink" title="Coop Voce:"></a>Coop Voce:</h2><p>web.coopvoce.it</p>
-<h2 id="Kena-Mobile"><a href="#Kena-Mobile" class="headerlink" title="Kena Mobile:"></a>Kena Mobile:</h2><p>web.kenamobile.it</p>
-<h2 id="Ho-Mobile"><a href="#Ho-Mobile" class="headerlink" title="Ho Mobile:"></a>Ho Mobile:</h2><p>web.ho-mobile.it <em>per la navigazione da smartphone</em></p>
-<p>internet.ho-mobile.it <em>per la navigazione in tethering</em></p>
-<h2 id="Lycamobile"><a href="#Lycamobile" class="headerlink" title="Lycamobile:"></a>Lycamobile:</h2><p>data.lycamobile.it</p>
-<h2 id="Rabona-Mobile"><a href="#Rabona-Mobile" class="headerlink" title="Rabona Mobile"></a>Rabona Mobile</h2><p>rabona.it</p>
-<hr>
-<ul>
-<li><h2 id="Related-Links"><a href="#Related-Links" class="headerlink" title="Related Links"></a><strong>Related Links</strong></h2></li>
-<li><h2 id="External-Links"><a href="#External-Links" class="headerlink" title="External Links"></a><strong>External Links</strong></h2></li>
-</ul>
-<hr>
+    <title>MC 801A</title>
+    <url>/2022/01/24/MC-801A/</url>
+    <content><![CDATA[<p><img src="https://s2.loli.net/2022/01/24/WzpQu25Ac36n9ah.jpg" alt="IMG_7804"></p>
+<p><img src="https://s2.loli.net/2022/01/24/9pvhsGK4LawQlm5.png" alt="Snipaste_2022-01-24_15-23-44"></p>
+<p>DreiMaxx<br>Megenta Internet 5G Box<br>A1 Net Cube 5G 2<br>ZTE HyperBox 5G - MC801A</p>
+<p>Megenta Internet 5G Box e ZTE HyperBox 5G - MC801A hanno lo stesso firmware</p>
 ]]></content>
   </entry>
   <entry>
@@ -172,34 +172,19 @@
 ]]></content>
   </entry>
   <entry>
-    <title>le soluzioni per w3</title>
-    <url>/2022/01/20/le-soluzioni-per-w3/</url>
-    <content><![CDATA[<h1 id="le-soluzioni-per-w3"><a href="#le-soluzioni-per-w3" class="headerlink" title="le soluzioni per w3"></a>le soluzioni per w3</h1><p><a href="https://www.mondomobileweb.it/226647-windtre-mobile-prima-rimodulazione-2022/">WINDTRE Mobile rimodulazione 2022: da oggi partono gli aumenti ad alcuni clienti. Cosa è cambiato - MondoMobileWeb.it</a></p>
-<blockquote>
-<p><em>“6.1.5. Per i piani, opzioni e/o promozioni che prevedono traffico voce e dati, è altresì prevista la fruizione del servizio in apparati/terminali omologati e non diversi da cellulare o smartphone”</em>.</p>
-</blockquote>
-<p>In poche parole, w3 non permette agli utenti di usare la sim sul router<br>Almeno questo è quello che dice il contratto</p>
-<p><a href="https://www.windtre.it/trasparenza-tariffaria/">i contratti w3</a></p>
-<p><img src="https://s2.loli.net/2022/01/21/ar3HsSF6hxmZj7A.png" alt="image-20220121104810921"></p>
-<h2 id="Android"><a href="#Android" class="headerlink" title="Android"></a>Android</h2><p>Ethernet tethering (richiede Android 11) + </p>
-<p>Adattatore di Rete USB-C a RJ45 con porta di ricarica + </p>
-<p>AP (che genera il wi-fi)</p>
-<p><a href="https://cacombos.com/device/RMX2111">Realme 7 5G (RMX2111)</a></p>
-<p><a href="https://www.androidpolice.com/2020/04/23/ethernet-tethering-arrives-in-latest-android-11-developer-preview/">Ethernet tethering arrives in latest Android 11 Developer Preview</a></p>
-<p><a href="https://www.amazon.it/Xiaomi-AX3600-Router-29010-DVB4251GL/dp/B08MV83J94/ref=sr_1_2?__mk_it_IT=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=3S2TTNUMURJYU&keywords=AX+3600&qid=1642675001&sprefix=ax+3600,aps,528&sr=8-2">Xiaomi AX3600 – Router WiFi 6 e AIoT 29010 / DVB4251GL : Amazon.it: Informatica</a></p>
-<p><img src="https://s2.loli.net/2022/01/20/EYstJzq7Gm4ZQr2.png" alt="image-20220120113748879"></p>
-<p><img src="https://s2.loli.net/2022/01/20/o13DehHwk2QJRWB.png" alt="image-20220120113814934"></p>
-<h2 id="IMEI"><a href="#IMEI" class="headerlink" title="IMEI"></a>IMEI</h2><p>Usa l’imei del telefono</p>
-<h3 id="mc801a"><a href="#mc801a" class="headerlink" title="mc801a"></a>mc801a</h3><blockquote>
-<p>Il mio Hyperbox è morto dopo il flasshato, nessun servizio ho provato tutti i firmware e niente<br>In pratica, è confermato che non si può cambiare l’imei in questa versione..</p>
-<p>“web_version”:”WEB_DETMOMC801AV1.0.0B06”,<br>“wa_inner_version”:”MC801AV1.0.0B06”</p>
-<p>versione Hyperbox ha firmware tedesco e non ha la porta rj11 (ma presente nascosta) versione non Hyperbox tutti quelli con la porta rj11 a vista</p>
-<p><strong>Megenta Internet 5G Box = Hyperbox 5G = Telekom MC 801A</strong></p>
-<p><img src="https://s2.loli.net/2022/01/21/DTrEyg3AIflhCML.png" alt="image-20220121104429227"></p>
-</blockquote>
-<p>mc801a versione non <strong>Hyperbox</strong> </p>
-<h3 id="ROS"><a href="#ROS" class="headerlink" title="ROS"></a>ROS</h3><p>Non ci sono problemi con i router che hanno questo sistema.</p>
-<p>I dettagli dell’operazione possono essere trovati online</p>
+    <title>Super Internet Casa - Offerte Internet con Super Internet Wi-Fi</title>
+    <url>/2022/01/16/Super-Internet-Casa/</url>
+    <content><![CDATA[<h1 id="Super-Internet-Casa-Offerte-Internet-con-Super-Internet-Wi-Fi"><a href="#Super-Internet-Casa-Offerte-Internet-con-Super-Internet-Wi-Fi" class="headerlink" title="Super Internet Casa - Offerte Internet con Super Internet Wi-Fi"></a>Super Internet Casa - Offerte Internet con Super Internet Wi-Fi</h1><p><a href="https://www.windtre.it/offerte-internet-mobile/super-internet-casa/">Super Internet Casa - Offerte Internet con Super Internet Wi-Fi</a></p>
+<ul>
+<li>Super Internet Casa = SUPER INTERNET CASA EASY PAY  (con carta di credito, conto corrente o carte conto abilitate)</li>
+<li>Fino a 300 Mega in download e 50 Mega in upload</li>
+<li>si disconnette ogni 4 ore</li>
+<li>fino a 500/550 giga vai tranquillo, dopo è un mistero</li>
+<li>il Servizio è prevista una durata di 24 mesi</li>
+<li>SIM si può mettere in qualunque modem</li>
+<li>modem Brandizzato windtre probabile, ma cambiando apn quasi sicuramente si può mettere qualunque sim</li>
+<li>router B628-265 CAT 12 2CA</li>
+</ul>
 ]]></content>
   </entry>
   <entry>
@@ -221,19 +206,34 @@
 ]]></content>
   </entry>
   <entry>
-    <title>Super Internet Casa - Offerte Internet con Super Internet Wi-Fi</title>
-    <url>/2022/01/16/Super-Internet-Casa/</url>
-    <content><![CDATA[<h1 id="Super-Internet-Casa-Offerte-Internet-con-Super-Internet-Wi-Fi"><a href="#Super-Internet-Casa-Offerte-Internet-con-Super-Internet-Wi-Fi" class="headerlink" title="Super Internet Casa - Offerte Internet con Super Internet Wi-Fi"></a>Super Internet Casa - Offerte Internet con Super Internet Wi-Fi</h1><p><a href="https://www.windtre.it/offerte-internet-mobile/super-internet-casa/">Super Internet Casa - Offerte Internet con Super Internet Wi-Fi</a></p>
-<ul>
-<li>Super Internet Casa = SUPER INTERNET CASA EASY PAY  (con carta di credito, conto corrente o carte conto abilitate)</li>
-<li>Fino a 300 Mega in download e 50 Mega in upload</li>
-<li>si disconnette ogni 4 ore</li>
-<li>fino a 500/550 giga vai tranquillo, dopo è un mistero</li>
-<li>il Servizio è prevista una durata di 24 mesi</li>
-<li>SIM si può mettere in qualunque modem</li>
-<li>modem Brandizzato windtre probabile, ma cambiando apn quasi sicuramente si può mettere qualunque sim</li>
-<li>router B628-265 CAT 12 2CA</li>
-</ul>
+    <title>le soluzioni per w3</title>
+    <url>/2022/01/20/le-soluzioni-per-w3/</url>
+    <content><![CDATA[<h1 id="le-soluzioni-per-w3"><a href="#le-soluzioni-per-w3" class="headerlink" title="le soluzioni per w3"></a>le soluzioni per w3</h1><p><a href="https://www.mondomobileweb.it/226647-windtre-mobile-prima-rimodulazione-2022/">WINDTRE Mobile rimodulazione 2022: da oggi partono gli aumenti ad alcuni clienti. Cosa è cambiato - MondoMobileWeb.it</a></p>
+<blockquote>
+<p><em>“6.1.5. Per i piani, opzioni e/o promozioni che prevedono traffico voce e dati, è altresì prevista la fruizione del servizio in apparati/terminali omologati e non diversi da cellulare o smartphone”</em>.</p>
+</blockquote>
+<p>In poche parole, w3 non permette agli utenti di usare la sim sul router<br>Almeno questo è quello che dice il contratto</p>
+<p><a href="https://www.windtre.it/trasparenza-tariffaria/">i contratti w3</a></p>
+<p><img src="https://s2.loli.net/2022/01/21/ar3HsSF6hxmZj7A.png" alt="image-20220121104810921"></p>
+<h2 id="Android"><a href="#Android" class="headerlink" title="Android"></a>Android</h2><p>Ethernet tethering (richiede Android 11) + </p>
+<p>Adattatore di Rete USB-C a RJ45 con porta di ricarica + </p>
+<p>AP (che genera il wi-fi)</p>
+<p><a href="https://cacombos.com/device/RMX2111">Realme 7 5G (RMX2111)</a></p>
+<p><a href="https://www.androidpolice.com/2020/04/23/ethernet-tethering-arrives-in-latest-android-11-developer-preview/">Ethernet tethering arrives in latest Android 11 Developer Preview</a></p>
+<p><a href="https://www.amazon.it/Xiaomi-AX3600-Router-29010-DVB4251GL/dp/B08MV83J94/ref=sr_1_2?__mk_it_IT=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=3S2TTNUMURJYU&keywords=AX+3600&qid=1642675001&sprefix=ax+3600,aps,528&sr=8-2">Xiaomi AX3600 – Router WiFi 6 e AIoT 29010 / DVB4251GL : Amazon.it: Informatica</a></p>
+<p><img src="https://s2.loli.net/2022/01/20/EYstJzq7Gm4ZQr2.png" alt="image-20220120113748879"></p>
+<p><img src="https://s2.loli.net/2022/01/20/o13DehHwk2QJRWB.png" alt="image-20220120113814934"></p>
+<h2 id="IMEI"><a href="#IMEI" class="headerlink" title="IMEI"></a>IMEI</h2><p>Usa l’imei del telefono</p>
+<h3 id="mc801a"><a href="#mc801a" class="headerlink" title="mc801a"></a>mc801a</h3><p>mc801a versione non <strong>Hyperbox</strong> </p>
+<blockquote>
+<p>Il mio Hyperbox è morto dopo il flasshato, nessun servizio ho provato tutti i firmware e niente<br>In pratica, è confermato che non si può cambiare l’imei in questa versione..</p>
+<p>“web_version”:”WEB_DETMOMC801AV1.0.0B06”,<br>“wa_inner_version”:”MC801AV1.0.0B06”</p>
+<p>versione Hyperbox ha firmware tedesco e non ha la porta rj11 (ma presente nascosta) versione non Hyperbox tutti quelli con la porta rj11 a vista</p>
+<p><strong>Megenta Internet 5G Box = Hyperbox 5G = Telekom MC 801A</strong></p>
+<p><img src="https://s2.loli.net/2022/01/21/DTrEyg3AIflhCML.png" alt="image-20220121104429227"></p>
+</blockquote>
+<h3 id="ROS"><a href="#ROS" class="headerlink" title="ROS"></a>ROS</h3><p>Non ci sono problemi con i router che hanno questo sistema.</p>
+<p>I dettagli dell’operazione possono essere trovati online</p>
 ]]></content>
   </entry>
 </search>
