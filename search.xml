@@ -1,6 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>Configurare APN su 818-263</title>
+    <url>/2022/01/16/818-263-APN/</url>
+    <content><![CDATA[<h1 id="Configurare-APN-su-818-263"><a href="#Configurare-APN-su-818-263" class="headerlink" title="Configurare APN su 818-263"></a>Configurare APN su 818-263</h1><p><img src="https://s2.loli.net/2022/01/16/AKIOWQlpF2L4D9u.png" alt="APN 818 263"></p>
+<p><img src="https://s2.loli.net/2022/01/21/21Y8UiyLIZ9NVQX.png" alt="image-20220121145544942"></p>
+]]></content>
+      <tags>
+        <tag>818-263</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>4G 5G module</title>
     <url>/2022/01/16/4G-5G-module/</url>
     <content><![CDATA[<h1 id="4G-5G-module"><a href="#4G-5G-module" class="headerlink" title="4G 5G module"></a>4G 5G module</h1><p><a href="https://www.ofmodemsandmen.com/modems.html">ROOter by Of Modems and Men</a></p>
@@ -38,14 +48,11 @@
       </tags>
   </entry>
   <entry>
-    <title>Configurare APN su 818-263</title>
-    <url>/2022/01/16/818-263-APN/</url>
-    <content><![CDATA[<h1 id="Configurare-APN-su-818-263"><a href="#Configurare-APN-su-818-263" class="headerlink" title="Configurare APN su 818-263"></a>Configurare APN su 818-263</h1><p><img src="https://s2.loli.net/2022/01/16/AKIOWQlpF2L4D9u.png" alt="APN 818 263"></p>
-<p><img src="https://s2.loli.net/2022/01/21/21Y8UiyLIZ9NVQX.png" alt="image-20220121145544942"></p>
+    <title>CAP VF</title>
+    <url>/2022/02/04/CAP-VF/</url>
+    <content><![CDATA[<p><img src="https://s2.loli.net/2022/02/04/wAsFDijHBdaZ6SX.png" alt="Snipaste_2022-02-04_13-16-30"></p>
+<p><a href="https://www.vodafone.it/privati/supporto/sim-piano-mobile/gestione-piano-mobile.html?icmp=infinito">https://www.vodafone.it/privati/supporto/sim-piano-mobile/gestione-piano-mobile.html?icmp=infinito</a></p>
 ]]></content>
-      <tags>
-        <tag>818-263</tag>
-      </tags>
   </entry>
   <entry>
     <title>B818-263 Firmware</title>
@@ -114,13 +121,6 @@
 ]]></content>
   </entry>
   <entry>
-    <title>CAP VF</title>
-    <url>/2022/02/04/CAP-VF/</url>
-    <content><![CDATA[<p><img src="https://s2.loli.net/2022/02/04/wAsFDijHBdaZ6SX.png" alt="Snipaste_2022-02-04_13-16-30"></p>
-<p><a href="https://www.vodafone.it/privati/supporto/sim-piano-mobile/gestione-piano-mobile.html?icmp=infinito">https://www.vodafone.it/privati/supporto/sim-piano-mobile/gestione-piano-mobile.html?icmp=infinito</a></p>
-]]></content>
-  </entry>
-  <entry>
     <title>Costruire un sistema di rete 4G</title>
     <url>/2022/02/24/Costruire-un-sistema-di-rete-4G/</url>
     <content><![CDATA[<h1 id="Costruire-un-sistema-di-rete-4G"><a href="#Costruire-un-sistema-di-rete-4G" class="headerlink" title="Costruire un sistema di rete 4G"></a>Costruire un sistema di rete 4G</h1><h2 id="Glossario"><a href="#Glossario" class="headerlink" title="Glossario"></a>Glossario</h2><p>BTS = stazione radio base </p>
@@ -149,6 +149,12 @@
 <ul>
 <li><a href="https://wiki.lteitaly.it/ca_combos/">Combo CA (4G+) di Smartphone e Modem - LTE ITALY Wiki</a></li>
 <li><a href="https://cacombos.com/">4G/5G Bands &amp; Combos</a></li>
+</ul>
+<p>5G DSS</p>
+<ul>
+<li>N3</li>
+<li>La sintesi è che in generale la velocità di download non è così veloce e stabile come il 4g+, ma la velocità di upload è più veloce.</li>
+<li>5g fake</li>
 </ul>
 <h2 id="Come-facciamo-a-sapere-quali-stazioni-base-sono-vicine-a-noi"><a href="#Come-facciamo-a-sapere-quali-stazioni-base-sono-vicine-a-noi" class="headerlink" title="Come facciamo a sapere quali stazioni base sono vicine a noi?"></a>Come facciamo a sapere quali stazioni base sono vicine a noi?</h2><p><a href="https://lteitaly.it/it/">LTE ITALY - Mappa Antenne 4G</a></p>
 <p><img src="https://s2.loli.net/2022/02/24/XpQ1GyCbBguwakV.png" alt="image-20220224102939375"></p>
