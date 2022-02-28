@@ -203,18 +203,6 @@
 ]]></content>
   </entry>
   <entry>
-    <title>H138-380 HUAWEI 5G CPE Pro 3</title>
-    <url>/2022/01/27/H138-380/</url>
-    <content><![CDATA[<p><img src="https://s2.loli.net/2022/01/27/eXUGBDcq59jmstF.jpg" alt="IMG_7933"></p>
-<p><img src="https://s2.loli.net/2022/01/27/q8OhzQb5Pj46ZoL.jpg" alt="IMG_7936"></p>
-<p><img src="https://s2.loli.net/2022/01/27/uJ3kxqvoTdb8FPw.jpg" alt="IMG_7937"></p>
-<p><img src="https://s2.loli.net/2022/01/27/81fA5naW2GpVPMR.jpg" alt="IMG_7938"></p>
-<p><img src="https://s2.loli.net/2022/01/27/wnJimDqQvFu8a2Z.png" alt="Snipaste_2022-01-27_13-17-10"></p>
-<p><img src="https://s2.loli.net/2022/01/27/1tiTVLDMS8j4dQF.png" alt="Snipaste_2022-01-27_13-17-41"></p>
-<p><img src="https://s2.loli.net/2022/01/27/ifJLIoSKyMg2bAt.png" alt="Snipaste_2022-01-27_13-18-19"></p>
-]]></content>
-  </entry>
-  <entry>
     <title>ELENCO APN ITALIANI</title>
     <url>/2022/01/16/ELENCO%20APN%20ITALIANI/</url>
     <content><![CDATA[<h1 id="APN"><a href="#APN" class="headerlink" title="APN"></a>APN</h1><h2 id="TIM"><a href="#TIM" class="headerlink" title="TIM"></a>TIM</h2><p>box.tim.it</p>
@@ -236,6 +224,40 @@
 <li><h2 id="External-Links"><a href="#External-Links" class="headerlink" title="External Links"></a><strong>External Links</strong></h2></li>
 </ul>
 <hr>
+]]></content>
+  </entry>
+  <entry>
+    <title>H138-380 HUAWEI 5G CPE Pro 3</title>
+    <url>/2022/01/27/H138-380/</url>
+    <content><![CDATA[<p><img src="https://s2.loli.net/2022/01/27/eXUGBDcq59jmstF.jpg" alt="IMG_7933"></p>
+<p><img src="https://s2.loli.net/2022/01/27/q8OhzQb5Pj46ZoL.jpg" alt="IMG_7936"></p>
+<p><img src="https://s2.loli.net/2022/01/27/uJ3kxqvoTdb8FPw.jpg" alt="IMG_7937"></p>
+<p><img src="https://s2.loli.net/2022/01/27/81fA5naW2GpVPMR.jpg" alt="IMG_7938"></p>
+<p><img src="https://s2.loli.net/2022/01/27/wnJimDqQvFu8a2Z.png" alt="Snipaste_2022-01-27_13-17-10"></p>
+<p><img src="https://s2.loli.net/2022/01/27/1tiTVLDMS8j4dQF.png" alt="Snipaste_2022-01-27_13-17-41"></p>
+<p><img src="https://s2.loli.net/2022/01/27/ifJLIoSKyMg2bAt.png" alt="Snipaste_2022-01-27_13-18-19"></p>
+]]></content>
+  </entry>
+  <entry>
+    <title>MC 801A</title>
+    <url>/2022/01/24/MC-801A/</url>
+    <content><![CDATA[<p><img src="https://s2.loli.net/2022/01/24/WzpQu25Ac36n9ah.jpg" alt="IMG_7804"></p>
+<p><img src="https://s2.loli.net/2022/01/24/9pvhsGK4LawQlm5.png" alt="Snipaste_2022-01-24_15-23-44"></p>
+<p>DreiMaxx<br>Megenta Internet 5G Box<br>A1 Net Cube 5G 2<br>ZTE HyperBox 5G - MC801A</p>
+<p>Megenta Internet 5G Box e ZTE HyperBox 5G - MC801A hanno lo stesso firmware</p>
+<h1 id="HyperBox-o-Megenta"><a href="#HyperBox-o-Megenta" class="headerlink" title="HyperBox o Megenta"></a>HyperBox o Megenta</h1><p>Megenta Internet 5G Box e ZTE HyperBox 5G - MC801A hanno lo stesso firmware</p>
+<p>HyperBox non può flashare se no perde il segnale e per momento no c’è modo per recuperare il segnale</p>
+<p>hanno la porta nascosta cs non funziona VoIP funziona</p>
+<h1 id="DreiMaxx"><a href="#DreiMaxx" class="headerlink" title="DreiMaxx"></a>DreiMaxx</h1><p>Può essere flashato con qualsiasi fw e cambiare imei</p>
+<p><img src="https://s2.loli.net/2022/02/21/CIbksW9GNTtmD26.png" alt="image-20220221162733920"></p>
+<p>Alcuni dreimaxx hanno dei blocchi per motivi sconosciuti</p>
+<p><strong>Ma con la possibilità di cambiare l’imei e il firmware, questo non è un problema</strong></p>
+<p>ha la porta rj11 e funziona </p>
+<p><strong>Questa è la versione migliore</strong></p>
+<h1 id="A1-Net-Cube-5G-2"><a href="#A1-Net-Cube-5G-2" class="headerlink" title="A1 Net Cube 5G 2"></a>A1 Net Cube 5G 2</h1><p>Il segnale può essere ripristinato flashando 396590B1250BD_FITELIAMC801AV1.0.0B12</p>
+<p>ma non c’e’ modo per ritornare fw originale</p>
+<p>ha la porta rj11 e funziona </p>
+<p>Il motivo della perdita del segnale è ancora sconosciuto, ci dovrebbe essere un posto per memorizzare i dati all’interno</p>
 ]]></content>
   </entry>
   <entry>
@@ -270,28 +292,6 @@
 </ul>
 </li>
 </ul>
-]]></content>
-  </entry>
-  <entry>
-    <title>MC 801A</title>
-    <url>/2022/01/24/MC-801A/</url>
-    <content><![CDATA[<p><img src="https://s2.loli.net/2022/01/24/WzpQu25Ac36n9ah.jpg" alt="IMG_7804"></p>
-<p><img src="https://s2.loli.net/2022/01/24/9pvhsGK4LawQlm5.png" alt="Snipaste_2022-01-24_15-23-44"></p>
-<p>DreiMaxx<br>Megenta Internet 5G Box<br>A1 Net Cube 5G 2<br>ZTE HyperBox 5G - MC801A</p>
-<p>Megenta Internet 5G Box e ZTE HyperBox 5G - MC801A hanno lo stesso firmware</p>
-<h1 id="HyperBox-o-Megenta"><a href="#HyperBox-o-Megenta" class="headerlink" title="HyperBox o Megenta"></a>HyperBox o Megenta</h1><p>Megenta Internet 5G Box e ZTE HyperBox 5G - MC801A hanno lo stesso firmware</p>
-<p>HyperBox non può flashare se no perde il segnale e per momento no c’è modo per recuperare il segnale</p>
-<p>hanno la porta nascosta cs non funziona VoIP funziona</p>
-<h1 id="DreiMaxx"><a href="#DreiMaxx" class="headerlink" title="DreiMaxx"></a>DreiMaxx</h1><p>Può essere flashato con qualsiasi fw e cambiare imei</p>
-<p><img src="https://s2.loli.net/2022/02/21/CIbksW9GNTtmD26.png" alt="image-20220221162733920"></p>
-<p>Alcuni dreimaxx hanno dei blocchi per motivi sconosciuti</p>
-<p><strong>Ma con la possibilità di cambiare l’imei e il firmware, questo non è un problema</strong></p>
-<p>ha la porta rj11 e funziona </p>
-<p><strong>Questa è la versione migliore</strong></p>
-<h1 id="A1-Net-Cube-5G-2"><a href="#A1-Net-Cube-5G-2" class="headerlink" title="A1 Net Cube 5G 2"></a>A1 Net Cube 5G 2</h1><p>Il segnale può essere ripristinato flashando 396590B1250BD_FITELIAMC801AV1.0.0B12</p>
-<p>ma non c’e’ modo per ritornare fw originale</p>
-<p>ha la porta rj11 e funziona </p>
-<p>Il motivo della perdita del segnale è ancora sconosciuto, ci dovrebbe essere un posto per memorizzare i dati all’interno</p>
 ]]></content>
   </entry>
   <entry>
@@ -413,6 +413,7 @@
 <p>ANT2 AUX</p>
 <p>ANT3 MIMO_0</p>
 <p>MLB = MONOPOLE LOW BAND<br>HB = HIGH BAND<br>AUX = AUXILIARY</p>
+<p><img src="https://s2.loli.net/2022/02/28/bY2CyRNoA8Oi9Xf.png" alt="image-20220228144646853"></p>
 ]]></content>
   </entry>
 </search>
