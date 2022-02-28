@@ -38,6 +38,23 @@
       </tags>
   </entry>
   <entry>
+    <title>Configurare APN su 818-263</title>
+    <url>/2022/01/16/818-263-APN/</url>
+    <content><![CDATA[<h1 id="Configurare-APN-su-818-263"><a href="#Configurare-APN-su-818-263" class="headerlink" title="Configurare APN su 818-263"></a>Configurare APN su 818-263</h1><p><img src="https://s2.loli.net/2022/01/16/AKIOWQlpF2L4D9u.png" alt="APN 818 263"></p>
+<p><img src="https://s2.loli.net/2022/01/21/21Y8UiyLIZ9NVQX.png" alt="image-20220121145544942"></p>
+]]></content>
+      <tags>
+        <tag>818-263</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>CAP VF</title>
+    <url>/2022/02/04/CAP-VF/</url>
+    <content><![CDATA[<p><img src="https://s2.loli.net/2022/02/04/wAsFDijHBdaZ6SX.png" alt="Snipaste_2022-02-04_13-16-30"></p>
+<p><a href="https://www.vodafone.it/privati/supporto/sim-piano-mobile/gestione-piano-mobile.html?icmp=infinito">https://www.vodafone.it/privati/supporto/sim-piano-mobile/gestione-piano-mobile.html?icmp=infinito</a></p>
+]]></content>
+  </entry>
+  <entry>
     <title>B818-263 Firmware</title>
     <url>/2022/01/15/B818-263-Firmware/</url>
     <content><![CDATA[<h1 id="B818-263-Firmware"><a href="#B818-263-Firmware" class="headerlink" title="B818-263 Firmware"></a>B818-263 Firmware</h1><p><strong>Al momento possiamo solo accedere al pannello del router per capire che modello è il router.</strong></p>
@@ -95,13 +112,6 @@
 ]]></content>
   </entry>
   <entry>
-    <title>CAP VF</title>
-    <url>/2022/02/04/CAP-VF/</url>
-    <content><![CDATA[<p><img src="https://s2.loli.net/2022/02/04/wAsFDijHBdaZ6SX.png" alt="Snipaste_2022-02-04_13-16-30"></p>
-<p><a href="https://www.vodafone.it/privati/supporto/sim-piano-mobile/gestione-piano-mobile.html?icmp=infinito">https://www.vodafone.it/privati/supporto/sim-piano-mobile/gestione-piano-mobile.html?icmp=infinito</a></p>
-]]></content>
-  </entry>
-  <entry>
     <title>Chateau CAT 18</title>
     <url>/2022/02/24/Chateau-CAT-18/</url>
     <content><![CDATA[<h1 id="Chateau-CAT-18"><a href="#Chateau-CAT-18" class="headerlink" title="Chateau CAT 18"></a>Chateau CAT 18</h1><p><img src="https://s2.loli.net/2022/02/24/mtdJXL23xiBEh6D.jpg" alt="IMG_8153"></p>
@@ -109,40 +119,6 @@
 <p><img src="https://s2.loli.net/2022/02/24/CXopbPB6VF7YNhZ.jpg" alt="IMG_8160(1)"></p>
 <p><img src="https://s2.loli.net/2022/02/24/SwQ58MTHRtnDmrq.png" alt="Snipaste_2022-02-10_19-58-06"></p>
 <p><img src="https://s2.loli.net/2022/02/24/DG8nSM3qZHO1KsW.png" alt="Snipaste_2022-02-13_19-00-17"></p>
-]]></content>
-  </entry>
-  <entry>
-    <title>Configurare APN su 818-263</title>
-    <url>/2022/01/16/818-263-APN/</url>
-    <content><![CDATA[<h1 id="Configurare-APN-su-818-263"><a href="#Configurare-APN-su-818-263" class="headerlink" title="Configurare APN su 818-263"></a>Configurare APN su 818-263</h1><p><img src="https://s2.loli.net/2022/01/16/AKIOWQlpF2L4D9u.png" alt="APN 818 263"></p>
-<p><img src="https://s2.loli.net/2022/01/21/21Y8UiyLIZ9NVQX.png" alt="image-20220121145544942"></p>
-]]></content>
-      <tags>
-        <tag>818-263</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>ELENCO APN ITALIANI</title>
-    <url>/2022/01/16/ELENCO%20APN%20ITALIANI/</url>
-    <content><![CDATA[<h1 id="APN"><a href="#APN" class="headerlink" title="APN"></a>APN</h1><h2 id="TIM"><a href="#TIM" class="headerlink" title="TIM"></a>TIM</h2><p>box.tim.it</p>
-<h2 id="Vodafone"><a href="#Vodafone" class="headerlink" title="Vodafone"></a>Vodafone</h2><p>mobile.vodafone.it<br>iphone.vodafone.it</p>
-<h2 id="Wind"><a href="#Wind" class="headerlink" title="Wind:"></a>Wind:</h2><p>internet.it<br>internet.wind</p>
-<h2 id="Iliad-Italia"><a href="#Iliad-Italia" class="headerlink" title="Iliad Italia"></a>Iliad Italia</h2><p>iliad</p>
-<h2 id="Fastweb-Mobile"><a href="#Fastweb-Mobile" class="headerlink" title="Fastweb Mobile:"></a>Fastweb Mobile:</h2><p>apn.fastweb.it (ricaricabili); datacard.fastweb.it (abbonamenti)</p>
-<h2 id="Poste-Mobile"><a href="#Poste-Mobile" class="headerlink" title="Poste Mobile:"></a>Poste Mobile:</h2><p>wap.postemobile.it<br>casa.postemobile.it (PosteMobile Casa Web)</p>
-<h2 id="Tiscali-Mobile"><a href="#Tiscali-Mobile" class="headerlink" title="Tiscali Mobile:"></a>Tiscali Mobile:</h2><p>tiscalimobileinternet</p>
-<h2 id="Coop-Voce"><a href="#Coop-Voce" class="headerlink" title="Coop Voce:"></a>Coop Voce:</h2><p>web.coopvoce.it</p>
-<h2 id="Kena-Mobile"><a href="#Kena-Mobile" class="headerlink" title="Kena Mobile:"></a>Kena Mobile:</h2><p>web.kenamobile.it</p>
-<h2 id="Ho-Mobile"><a href="#Ho-Mobile" class="headerlink" title="Ho Mobile:"></a>Ho Mobile:</h2><p>web.ho-mobile.it <em>per la navigazione da smartphone</em></p>
-<p>internet.ho-mobile.it <em>per la navigazione in tethering</em></p>
-<h2 id="Lycamobile"><a href="#Lycamobile" class="headerlink" title="Lycamobile:"></a>Lycamobile:</h2><p>data.lycamobile.it</p>
-<h2 id="Rabona-Mobile"><a href="#Rabona-Mobile" class="headerlink" title="Rabona Mobile"></a>Rabona Mobile</h2><p>rabona.it</p>
-<hr>
-<ul>
-<li><h2 id="Related-Links"><a href="#Related-Links" class="headerlink" title="Related Links"></a><strong>Related Links</strong></h2></li>
-<li><h2 id="External-Links"><a href="#External-Links" class="headerlink" title="External Links"></a><strong>External Links</strong></h2></li>
-</ul>
-<hr>
 ]]></content>
   </entry>
   <entry>
@@ -227,6 +203,30 @@
 ]]></content>
   </entry>
   <entry>
+    <title>ELENCO APN ITALIANI</title>
+    <url>/2022/01/16/ELENCO%20APN%20ITALIANI/</url>
+    <content><![CDATA[<h1 id="APN"><a href="#APN" class="headerlink" title="APN"></a>APN</h1><h2 id="TIM"><a href="#TIM" class="headerlink" title="TIM"></a>TIM</h2><p>box.tim.it</p>
+<h2 id="Vodafone"><a href="#Vodafone" class="headerlink" title="Vodafone"></a>Vodafone</h2><p>mobile.vodafone.it<br>iphone.vodafone.it</p>
+<h2 id="Wind"><a href="#Wind" class="headerlink" title="Wind:"></a>Wind:</h2><p>internet.it<br>internet.wind</p>
+<h2 id="Iliad-Italia"><a href="#Iliad-Italia" class="headerlink" title="Iliad Italia"></a>Iliad Italia</h2><p>iliad</p>
+<h2 id="Fastweb-Mobile"><a href="#Fastweb-Mobile" class="headerlink" title="Fastweb Mobile:"></a>Fastweb Mobile:</h2><p>apn.fastweb.it (ricaricabili); datacard.fastweb.it (abbonamenti)</p>
+<h2 id="Poste-Mobile"><a href="#Poste-Mobile" class="headerlink" title="Poste Mobile:"></a>Poste Mobile:</h2><p>wap.postemobile.it<br>casa.postemobile.it (PosteMobile Casa Web)</p>
+<h2 id="Tiscali-Mobile"><a href="#Tiscali-Mobile" class="headerlink" title="Tiscali Mobile:"></a>Tiscali Mobile:</h2><p>tiscalimobileinternet</p>
+<h2 id="Coop-Voce"><a href="#Coop-Voce" class="headerlink" title="Coop Voce:"></a>Coop Voce:</h2><p>web.coopvoce.it</p>
+<h2 id="Kena-Mobile"><a href="#Kena-Mobile" class="headerlink" title="Kena Mobile:"></a>Kena Mobile:</h2><p>web.kenamobile.it</p>
+<h2 id="Ho-Mobile"><a href="#Ho-Mobile" class="headerlink" title="Ho Mobile:"></a>Ho Mobile:</h2><p>web.ho-mobile.it <em>per la navigazione da smartphone</em></p>
+<p>internet.ho-mobile.it <em>per la navigazione in tethering</em></p>
+<h2 id="Lycamobile"><a href="#Lycamobile" class="headerlink" title="Lycamobile:"></a>Lycamobile:</h2><p>data.lycamobile.it</p>
+<h2 id="Rabona-Mobile"><a href="#Rabona-Mobile" class="headerlink" title="Rabona Mobile"></a>Rabona Mobile</h2><p>rabona.it</p>
+<hr>
+<ul>
+<li><h2 id="Related-Links"><a href="#Related-Links" class="headerlink" title="Related Links"></a><strong>Related Links</strong></h2></li>
+<li><h2 id="External-Links"><a href="#External-Links" class="headerlink" title="External Links"></a><strong>External Links</strong></h2></li>
+</ul>
+<hr>
+]]></content>
+  </entry>
+  <entry>
     <title>H138-380 HUAWEI 5G CPE Pro 3</title>
     <url>/2022/01/27/H138-380/</url>
     <content><![CDATA[<p><img src="https://s2.loli.net/2022/01/27/eXUGBDcq59jmstF.jpg" alt="IMG_7933"></p>
@@ -261,24 +261,6 @@
 ]]></content>
   </entry>
   <entry>
-    <title>Hello World</title>
-    <url>/2022/01/15/hello-world/</url>
-    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
-<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
-<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
-<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
-<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
-]]></content>
-  </entry>
-  <entry>
     <title>Poste Mobile CasaWeb</title>
     <url>/2022/01/15/Poste-Mobile-CasaWeb/</url>
     <content><![CDATA[<h1 id="PosteMobile-Casa-Web"><a href="#PosteMobile-Casa-Web" class="headerlink" title="PosteMobile Casa Web"></a>PosteMobile Casa Web</h1><p><a href="https://www.postemobile.it/offerte-fisso/postemobile-casa-web">PosteMobile Casa Web</a></p>
@@ -306,6 +288,7 @@
 <ul>
 <li><strong>External Links</strong><ul>
 <li><a href="https://www.uiblog.it/2020/06/ho-fatto-postemobile-casa-web-l-lnternet-illimitato-di-poste/">Ho fatto PosteMobile Casa Web, l’ lnternet illimitato LTE di poste - UiBlog.it</a></li>
+<li><a href="https://forum.fibra.click/d/21208-super-internet-casa-easy-pay/2">Super Internet Casa Easy Pay - FibraClick Forum</a></li>
 </ul>
 </li>
 </ul>
@@ -359,6 +342,24 @@
 ]]></content>
   </entry>
   <entry>
+    <title>Hello World</title>
+    <url>/2022/01/15/hello-world/</url>
+    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
+<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
+<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
+<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
+]]></content>
+  </entry>
+  <entry>
     <title>ZTE MF 289F MODEM ROUTER CPE 4G LET CAT 20 FUNZIONA CON TUTTE LE SIM</title>
     <url>/2022/02/19/zte-289f/</url>
     <content><![CDATA[<h2 id="ZTE-MF-289F-MODEM-ROUTER-CPE-4G-LET-CAT-20-FUNZIONA-CON-TUTTE-LE-SIM"><a href="#ZTE-MF-289F-MODEM-ROUTER-CPE-4G-LET-CAT-20-FUNZIONA-CON-TUTTE-LE-SIM" class="headerlink" title="ZTE MF 289F MODEM ROUTER CPE 4G LET CAT 20 FUNZIONA CON TUTTE LE SIM"></a>ZTE MF 289F MODEM ROUTER CPE 4G LET CAT 20 FUNZIONA CON TUTTE LE SIM</h2><ul>
@@ -394,6 +395,14 @@
 <p><img src="https://s2.loli.net/2022/02/15/kBvVOQoa5biyU8P.jpg" alt="photo_2022-02-12_12-51-07"></p>
 <p><img src="https://s2.loli.net/2022/02/15/nc6IRDUq2lr9QFx.jpg" alt="photo_2022-02-12_12-51-09"></p>
 <p><img src="https://s2.loli.net/2022/02/19/4xlhrB9OzfPRQaq.jpg" alt="photo_2022-02-12_12-51-10"></p>
+<p><img src="https://s2.loli.net/2022/02/28/fYBCIWkP25FgZcw.jpg" alt="20220225220404"></p>
+<p><img src="https://s2.loli.net/2022/02/28/Jq5zuKNrvlRUjGC.png" alt="image-20220228122129156"></p>
+<p>ANT4 MIMO_1</p>
+<p>ANT1 MAIN_HB</p>
+<p>ANT0 MAIN_MLB</p>
+<p>ANT2 AUX</p>
+<p>ANT3 MIMO_0</p>
+<p>MLB = MONOPOLE LOW BAND<br>HB = HIGH BAND<br>AUX = AUXILIARY</p>
 ]]></content>
   </entry>
 </search>
