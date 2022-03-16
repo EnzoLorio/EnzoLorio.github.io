@@ -1,6 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>Configurare APN su 818-263</title>
+    <url>/2022/01/16/818-263-APN/</url>
+    <content><![CDATA[<h1 id="Configurare-APN-su-818-263"><a href="#Configurare-APN-su-818-263" class="headerlink" title="Configurare APN su 818-263"></a>Configurare APN su 818-263</h1><p><img src="https://s2.loli.net/2022/01/16/AKIOWQlpF2L4D9u.png" alt="APN 818 263"></p>
+<p><img src="https://s2.loli.net/2022/01/21/21Y8UiyLIZ9NVQX.png" alt="image-20220121145544942"></p>
+]]></content>
+      <tags>
+        <tag>818-263</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>4G 5G module</title>
     <url>/2022/01/16/4G-5G-module/</url>
     <content><![CDATA[<h1 id="4G-5G-module"><a href="#4G-5G-module" class="headerlink" title="4G 5G module"></a>4G 5G module</h1><p><a href="https://www.ofmodemsandmen.com/modems.html">ROOter by Of Modems and Men</a></p>
@@ -38,80 +48,11 @@
       </tags>
   </entry>
   <entry>
-    <title>B818-263 Firmware</title>
-    <url>/2022/01/15/B818-263-Firmware/</url>
-    <content><![CDATA[<h1 id="B818-263"><a href="#B818-263" class="headerlink" title="B818-263"></a>B818-263</h1><h2 id="Firmware"><a href="#Firmware" class="headerlink" title="Firmware"></a>Firmware</h2><p><strong>Al momento possiamo solo accedere al pannello del router per capire che modello è il router.</strong></p>
-<p><a href="http://192.168.8.1/html/content.html#deviceinformation">http://192.168.8.1/html/content.html#deviceinformation</a></p>
-<p>Configurazione versione file    B818-263-CUST 8.0.1.1(<strong>C35</strong>)</p>
-<p><img src="https://s2.loli.net/2022/02/26/8bwArnzmoZSON3i.png" alt="05"></p>
-<p>c983 fw c1217  è il modello no brand europa</p>
-<ul>
-<li>aggrega W3 B1</li>
-<li>La versione più completa.</li>
-</ul>
-<p>C11/C35 è il brandizzato Vodafone Tedesco (GigaCube)</p>
-<ul>
-<li>aggrega W3 B1</li>
-<li>RJ11 disabilitare</li>
-<li>La versione più consigliata da acquistare al momento, si può trovare di seconda mano su ebay e subito. (HUAWEI 4G Router B818-263 VODAFONE TEDESCO (GIGACUBE ) FW11 FUNZIONA TUTTE SIM)</li>
-</ul>
-<p>9831 è il brandizzato DNA (operatore finlandesen)</p>
-<ul>
-<li>aggiornabile ma non aggrega W3 B1</li>
-</ul>
-<p>C583 è il brandizzato Tiscali</p>
-<ul>
-<li> <strong>funziona solo con la sim abbinata</strong></li>
-</ul>
-<p>C521 è il brandizzato Vodafone IT </p>
-<ul>
-<li>la B20 disabilitata</li>
-<li>aggiornabil FW 11</li>
-<li><strong>aggrega W3 B1</strong></li>
-<li>funziona con tutte le sim</li>
-</ul>
-<p>c983 fw c965  no brand vietnam </p>
-<ul>
-<li>aggiornabile ma non aggrega</li>
-</ul>
-<p>C74 è il brandizzato Optus (Australia)</p>
-<ul>
-<li>non aggiornabile FW11</li>
-<li>non aggrega W3 B1</li>
-</ul>
-<p>c192 è il brandizzato Tim</p>
-<ul>
-<li>Il router funziona con tutti i gestori tranne che con TIM e Vodafone e i loro operatori virtuali affiliati! </li>
-<li>non aggrega W3 B1</li>
-<li>non esiste l’11 versione max 10.0.0.5.2</li>
-<li>il B818 ex tim fwa diventa C983 dopo sblocco da parte di Tim (con Conciliaweb) va con tutti i gestori (dopo cessazione fwa anche Tim), rj11 utilizzabile cs voice (no volte) , ma non aggrega la b1 di Tim, ovviamente con versione 11</li>
-</ul>
-<blockquote>
-<p>Attualmente tutte le B818 hanno il problema di non aggregare B1 con tim , anche le versione no brand.<br>Per essere precisi, questo non è un problema, il B818 è così.</p>
-<p>Porta telefonica RJ-11 bloccata in tutte le versioni brandizzate.</p>
-</blockquote>
-<h2 id="Antenne-4x4MIMO"><a href="#Antenne-4x4MIMO" class="headerlink" title="Antenne 4x4MIMO"></a>Antenne 4x4MIMO</h2><p><img src="https://s2.loli.net/2022/03/09/mROZ2NUuPqThnwa.png" alt="Pasted image 20210816020623"><img src="https://s2.loli.net/2022/03/09/1e2bODxhzcYZ9Fl.png" alt="Pasted image 20210816020605"></p>
-<p><a href="http://www.bez-kabli.pl/viewtopic.php?f=12&amp;t=58667">http://www.bez-kabli.pl/viewtopic.php?f=12&amp;t=58667</a></p>
-<p><strong>IPX1 TO SMA</strong></p>
-<h2 id="Driver"><a href="#Driver" class="headerlink" title="Driver"></a><img src="https://s2.loli.net/2022/03/09/U4CzfGVp1nZiK2v.jpg" alt="O1CN01AqCxxt1X8ARWusVX2_!!17381272878">Driver</h2><p><a href="https://drive.google.com/drive/folders/130sdv0Uf4JiIxFz1KB0vk940DSc2qLVC">https://drive.google.com/drive/folders/130sdv0Uf4JiIxFz1KB0vk940DSc2qLVC</a></p>
-]]></content>
-  </entry>
-  <entry>
     <title>CAP VF</title>
     <url>/2022/02/04/CAP-VF/</url>
     <content><![CDATA[<p><img src="https://s2.loli.net/2022/02/04/wAsFDijHBdaZ6SX.png" alt="Snipaste_2022-02-04_13-16-30"></p>
 <p><a href="https://www.vodafone.it/privati/supporto/sim-piano-mobile/gestione-piano-mobile.html?icmp=infinito">https://www.vodafone.it/privati/supporto/sim-piano-mobile/gestione-piano-mobile.html?icmp=infinito</a></p>
 ]]></content>
-  </entry>
-  <entry>
-    <title>Configurare APN su 818-263</title>
-    <url>/2022/01/16/818-263-APN/</url>
-    <content><![CDATA[<h1 id="Configurare-APN-su-818-263"><a href="#Configurare-APN-su-818-263" class="headerlink" title="Configurare APN su 818-263"></a>Configurare APN su 818-263</h1><p><img src="https://s2.loli.net/2022/01/16/AKIOWQlpF2L4D9u.png" alt="APN 818 263"></p>
-<p><img src="https://s2.loli.net/2022/01/21/21Y8UiyLIZ9NVQX.png" alt="image-20220121145544942"></p>
-]]></content>
-      <tags>
-        <tag>818-263</tag>
-      </tags>
   </entry>
   <entry>
     <title>Chateau CAT 18</title>
@@ -212,6 +153,66 @@
 <p><a href="https://enzolorio.github.io/2022/01/15/B818-263-Firmware/?highlight=818">Huawei B818-263</a></p>
 <p>I router migliori non danno una migliore velocità di internet, dipende sempre da BTS</p>
 <p><strong>Se la nostra BTS sono collegate tramite un filo di rame arrugginito, non possiamo avere una buona velocità di internet</strong></p>
+]]></content>
+  </entry>
+  <entry>
+    <title>B818-263 Firmware</title>
+    <url>/2022/01/15/B818-263-Firmware/</url>
+    <content><![CDATA[<h1 id="B818-263"><a href="#B818-263" class="headerlink" title="B818-263"></a>B818-263</h1><h2 id="Firmware"><a href="#Firmware" class="headerlink" title="Firmware"></a>Firmware</h2><p><strong>Al momento possiamo solo accedere al pannello del router per capire che modello è il router.</strong></p>
+<p><a href="http://192.168.8.1/html/content.html#deviceinformation">http://192.168.8.1/html/content.html#deviceinformation</a></p>
+<p>Configurazione versione file    B818-263-CUST 8.0.1.1(<strong>C35</strong>)</p>
+<p><img src="https://s2.loli.net/2022/02/26/8bwArnzmoZSON3i.png" alt="05"></p>
+<p>c983 fw c1217  è il modello no brand europa</p>
+<ul>
+<li>aggrega W3 B1</li>
+<li>La versione più completa.</li>
+</ul>
+<p>C11/C35 è il brandizzato Vodafone Tedesco (GigaCube)</p>
+<ul>
+<li>aggrega W3 B1</li>
+<li>RJ11 disabilitare</li>
+<li>La versione più consigliata da acquistare al momento, si può trovare di seconda mano su ebay e subito. (HUAWEI 4G Router B818-263 VODAFONE TEDESCO (GIGACUBE ) FW11 FUNZIONA TUTTE SIM)</li>
+</ul>
+<p>9831 è il brandizzato DNA (operatore finlandesen)</p>
+<ul>
+<li>aggiornabile ma non aggrega W3 B1</li>
+</ul>
+<p>C583 è il brandizzato Tiscali</p>
+<ul>
+<li> <strong>funziona solo con la sim abbinata</strong></li>
+</ul>
+<p>C521 è il brandizzato Vodafone IT </p>
+<ul>
+<li>la B20 disabilitata</li>
+<li>aggiornabil FW 11</li>
+<li><strong>aggrega W3 B1</strong></li>
+<li>funziona con tutte le sim</li>
+</ul>
+<p>c983 fw c965  no brand vietnam </p>
+<ul>
+<li>aggiornabile ma non aggrega</li>
+</ul>
+<p>C74 è il brandizzato Optus (Australia)</p>
+<ul>
+<li>non aggiornabile FW11</li>
+<li>non aggrega W3 B1</li>
+</ul>
+<p>c192 è il brandizzato Tim</p>
+<ul>
+<li>Il router funziona con tutti i gestori tranne che con TIM e Vodafone e i loro operatori virtuali affiliati! </li>
+<li>non aggrega W3 B1</li>
+<li>non esiste l’11 versione max 10.0.0.5.2</li>
+<li>il B818 ex tim fwa diventa C983 dopo sblocco da parte di Tim (con Conciliaweb) va con tutti i gestori (dopo cessazione fwa anche Tim), rj11 utilizzabile cs voice (no volte) , ma non aggrega la b1 di Tim, ovviamente con versione 11</li>
+</ul>
+<blockquote>
+<p>Attualmente tutte le B818 hanno il problema di non aggregare B1 con tim , anche le versione no brand.<br>Per essere precisi, questo non è un problema, il B818 è così.</p>
+<p>Porta telefonica RJ-11 bloccata in tutte le versioni brandizzate.</p>
+</blockquote>
+<h2 id="Antenne-4x4MIMO"><a href="#Antenne-4x4MIMO" class="headerlink" title="Antenne 4x4MIMO"></a>Antenne 4x4MIMO</h2><p><a href="https://www.youtube.com/results?search_query=b818+teardown">b818 teardown - YouTube</a></p>
+<p><img src="https://s2.loli.net/2022/03/09/mROZ2NUuPqThnwa.png" alt="Pasted image 20210816020623"><img src="https://s2.loli.net/2022/03/09/1e2bODxhzcYZ9Fl.png" alt="Pasted image 20210816020605"></p>
+<p><a href="http://www.bez-kabli.pl/viewtopic.php?f=12&amp;t=58667">http://www.bez-kabli.pl/viewtopic.php?f=12&amp;t=58667</a></p>
+<p><strong>IPX1 TO SMA</strong></p>
+<h2 id="Driver"><a href="#Driver" class="headerlink" title="Driver"></a><img src="https://s2.loli.net/2022/03/09/U4CzfGVp1nZiK2v.jpg" alt="O1CN01AqCxxt1X8ARWusVX2_!!17381272878">Driver</h2><p><a href="https://drive.google.com/drive/folders/130sdv0Uf4JiIxFz1KB0vk940DSc2qLVC">https://drive.google.com/drive/folders/130sdv0Uf4JiIxFz1KB0vk940DSc2qLVC</a></p>
 ]]></content>
   </entry>
   <entry>
