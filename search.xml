@@ -1,16 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>Configurare APN su 818-263</title>
-    <url>/2022/01/16/818-263-APN/</url>
-    <content><![CDATA[<h1 id="Configurare-APN-su-818-263"><a href="#Configurare-APN-su-818-263" class="headerlink" title="Configurare APN su 818-263"></a>Configurare APN su 818-263</h1><p><img src="https://s2.loli.net/2022/01/16/AKIOWQlpF2L4D9u.png" alt="APN 818 263"></p>
-<p><img src="https://s2.loli.net/2022/01/21/21Y8UiyLIZ9NVQX.png" alt="image-20220121145544942"></p>
-]]></content>
-      <tags>
-        <tag>818-263</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>4G 5G module</title>
     <url>/2022/01/16/4G-5G-module/</url>
     <content><![CDATA[<h1 id="4G-5G-module"><a href="#4G-5G-module" class="headerlink" title="4G 5G module"></a>4G 5G module</h1><p><a href="https://www.ofmodemsandmen.com/modems.html">ROOter by Of Modems and Men</a></p>
@@ -53,6 +43,76 @@
     <content><![CDATA[<p><img src="https://s2.loli.net/2022/02/04/wAsFDijHBdaZ6SX.png" alt="Snipaste_2022-02-04_13-16-30"></p>
 <p><a href="https://www.vodafone.it/privati/supporto/sim-piano-mobile/gestione-piano-mobile.html?icmp=infinito">https://www.vodafone.it/privati/supporto/sim-piano-mobile/gestione-piano-mobile.html?icmp=infinito</a></p>
 ]]></content>
+  </entry>
+  <entry>
+    <title>B818-263 Firmware</title>
+    <url>/2022/01/15/B818-263-Firmware/</url>
+    <content><![CDATA[<h1 id="B818-263"><a href="#B818-263" class="headerlink" title="B818-263"></a>B818-263</h1><h2 id="Firmware"><a href="#Firmware" class="headerlink" title="Firmware"></a>Firmware</h2><p><strong>Al momento possiamo solo accedere al pannello del router per capire che modello è il router.</strong></p>
+<p><a href="http://192.168.8.1/html/content.html#deviceinformation">http://192.168.8.1/html/content.html#deviceinformation</a></p>
+<p>Configurazione versione file    B818-263-CUST 8.0.1.1(<strong>C35</strong>)</p>
+<p><img src="https://s2.loli.net/2022/02/26/8bwArnzmoZSON3i.png" alt="05"></p>
+<p>c983 fw c1217  è il modello no brand europa</p>
+<ul>
+<li>aggrega W3 B1</li>
+<li>La versione più completa.</li>
+</ul>
+<p>C11/C35 è il brandizzato Vodafone Tedesco (GigaCube)</p>
+<ul>
+<li>aggrega W3 B1</li>
+<li>RJ11 disabilitare</li>
+<li>La versione più consigliata da acquistare al momento, si può trovare di seconda mano su ebay e subito. (HUAWEI 4G Router B818-263 VODAFONE TEDESCO (GIGACUBE ) FW11 FUNZIONA TUTTE SIM)</li>
+</ul>
+<p>9831 è il brandizzato DNA (operatore finlandesen)</p>
+<ul>
+<li>aggiornabile ma non aggrega W3 B1</li>
+</ul>
+<p>C583 è il brandizzato Tiscali</p>
+<ul>
+<li> <strong>funziona solo con la sim abbinata</strong></li>
+</ul>
+<p>C521 è il brandizzato Vodafone IT </p>
+<ul>
+<li>la B20 disabilitata</li>
+<li>aggiornabil FW 11</li>
+<li><strong>aggrega W3 B1</strong></li>
+<li>funziona con tutte le sim</li>
+</ul>
+<p>c983 fw c965  no brand vietnam </p>
+<ul>
+<li>aggiornabile ma non aggrega</li>
+</ul>
+<p>C74 è il brandizzato Optus (Australia)</p>
+<ul>
+<li>non aggiornabile FW11</li>
+<li>non aggrega W3 B1</li>
+</ul>
+<p>c192 è il brandizzato Tim</p>
+<ul>
+<li>Il router funziona con tutti i gestori tranne che con TIM e Vodafone e i loro operatori virtuali affiliati! </li>
+<li>non aggrega W3 B1</li>
+<li>non esiste l’11 versione max 10.0.0.5.2</li>
+<li>il B818 ex tim fwa diventa C983 dopo sblocco da parte di Tim (con Conciliaweb) va con tutti i gestori (dopo cessazione fwa anche Tim), rj11 utilizzabile cs voice (no volte) , ma non aggrega la b1 di Tim, ovviamente con versione 11</li>
+</ul>
+<blockquote>
+<p>Attualmente tutte le B818 hanno il problema di non aggregare B1 con tim , anche le versione no brand.<br>Per essere precisi, questo non è un problema, il B818 è così.</p>
+<p>Porta telefonica RJ-11 bloccata in tutte le versioni brandizzate.</p>
+</blockquote>
+<h2 id="Antenne-4x4MIMO"><a href="#Antenne-4x4MIMO" class="headerlink" title="Antenne 4x4MIMO"></a>Antenne 4x4MIMO</h2><p><a href="https://www.youtube.com/results?search_query=b818+teardown">b818 teardown - YouTube</a></p>
+<p><img src="https://s2.loli.net/2022/03/09/mROZ2NUuPqThnwa.png" alt="Pasted image 20210816020623"><img src="https://s2.loli.net/2022/03/09/1e2bODxhzcYZ9Fl.png" alt="Pasted image 20210816020605"></p>
+<p><a href="http://www.bez-kabli.pl/viewtopic.php?f=12&amp;t=58667">http://www.bez-kabli.pl/viewtopic.php?f=12&amp;t=58667</a></p>
+<p><strong>IPX1 TO SMA</strong></p>
+<h2 id="Driver"><a href="#Driver" class="headerlink" title="Driver"></a><img src="https://s2.loli.net/2022/03/09/U4CzfGVp1nZiK2v.jpg" alt="O1CN01AqCxxt1X8ARWusVX2_!!17381272878">Driver</h2><p><a href="https://drive.google.com/drive/folders/130sdv0Uf4JiIxFz1KB0vk940DSc2qLVC">https://drive.google.com/drive/folders/130sdv0Uf4JiIxFz1KB0vk940DSc2qLVC</a></p>
+]]></content>
+  </entry>
+  <entry>
+    <title>Configurare APN su 818-263</title>
+    <url>/2022/01/16/818-263-APN/</url>
+    <content><![CDATA[<h1 id="Configurare-APN-su-818-263"><a href="#Configurare-APN-su-818-263" class="headerlink" title="Configurare APN su 818-263"></a>Configurare APN su 818-263</h1><p><img src="https://s2.loli.net/2022/01/16/AKIOWQlpF2L4D9u.png" alt="APN 818 263"></p>
+<p><img src="https://s2.loli.net/2022/01/21/21Y8UiyLIZ9NVQX.png" alt="image-20220121145544942"></p>
+]]></content>
+      <tags>
+        <tag>818-263</tag>
+      </tags>
   </entry>
   <entry>
     <title>Chateau CAT 18</title>
@@ -156,66 +216,6 @@
 ]]></content>
   </entry>
   <entry>
-    <title>B818-263 Firmware</title>
-    <url>/2022/01/15/B818-263-Firmware/</url>
-    <content><![CDATA[<h1 id="B818-263"><a href="#B818-263" class="headerlink" title="B818-263"></a>B818-263</h1><h2 id="Firmware"><a href="#Firmware" class="headerlink" title="Firmware"></a>Firmware</h2><p><strong>Al momento possiamo solo accedere al pannello del router per capire che modello è il router.</strong></p>
-<p><a href="http://192.168.8.1/html/content.html#deviceinformation">http://192.168.8.1/html/content.html#deviceinformation</a></p>
-<p>Configurazione versione file    B818-263-CUST 8.0.1.1(<strong>C35</strong>)</p>
-<p><img src="https://s2.loli.net/2022/02/26/8bwArnzmoZSON3i.png" alt="05"></p>
-<p>c983 fw c1217  è il modello no brand europa</p>
-<ul>
-<li>aggrega W3 B1</li>
-<li>La versione più completa.</li>
-</ul>
-<p>C11/C35 è il brandizzato Vodafone Tedesco (GigaCube)</p>
-<ul>
-<li>aggrega W3 B1</li>
-<li>RJ11 disabilitare</li>
-<li>La versione più consigliata da acquistare al momento, si può trovare di seconda mano su ebay e subito. (HUAWEI 4G Router B818-263 VODAFONE TEDESCO (GIGACUBE ) FW11 FUNZIONA TUTTE SIM)</li>
-</ul>
-<p>9831 è il brandizzato DNA (operatore finlandesen)</p>
-<ul>
-<li>aggiornabile ma non aggrega W3 B1</li>
-</ul>
-<p>C583 è il brandizzato Tiscali</p>
-<ul>
-<li> <strong>funziona solo con la sim abbinata</strong></li>
-</ul>
-<p>C521 è il brandizzato Vodafone IT </p>
-<ul>
-<li>la B20 disabilitata</li>
-<li>aggiornabil FW 11</li>
-<li><strong>aggrega W3 B1</strong></li>
-<li>funziona con tutte le sim</li>
-</ul>
-<p>c983 fw c965  no brand vietnam </p>
-<ul>
-<li>aggiornabile ma non aggrega</li>
-</ul>
-<p>C74 è il brandizzato Optus (Australia)</p>
-<ul>
-<li>non aggiornabile FW11</li>
-<li>non aggrega W3 B1</li>
-</ul>
-<p>c192 è il brandizzato Tim</p>
-<ul>
-<li>Il router funziona con tutti i gestori tranne che con TIM e Vodafone e i loro operatori virtuali affiliati! </li>
-<li>non aggrega W3 B1</li>
-<li>non esiste l’11 versione max 10.0.0.5.2</li>
-<li>il B818 ex tim fwa diventa C983 dopo sblocco da parte di Tim (con Conciliaweb) va con tutti i gestori (dopo cessazione fwa anche Tim), rj11 utilizzabile cs voice (no volte) , ma non aggrega la b1 di Tim, ovviamente con versione 11</li>
-</ul>
-<blockquote>
-<p>Attualmente tutte le B818 hanno il problema di non aggregare B1 con tim , anche le versione no brand.<br>Per essere precisi, questo non è un problema, il B818 è così.</p>
-<p>Porta telefonica RJ-11 bloccata in tutte le versioni brandizzate.</p>
-</blockquote>
-<h2 id="Antenne-4x4MIMO"><a href="#Antenne-4x4MIMO" class="headerlink" title="Antenne 4x4MIMO"></a>Antenne 4x4MIMO</h2><p><a href="https://www.youtube.com/results?search_query=b818+teardown">b818 teardown - YouTube</a></p>
-<p><img src="https://s2.loli.net/2022/03/09/mROZ2NUuPqThnwa.png" alt="Pasted image 20210816020623"><img src="https://s2.loli.net/2022/03/09/1e2bODxhzcYZ9Fl.png" alt="Pasted image 20210816020605"></p>
-<p><a href="http://www.bez-kabli.pl/viewtopic.php?f=12&amp;t=58667">http://www.bez-kabli.pl/viewtopic.php?f=12&amp;t=58667</a></p>
-<p><strong>IPX1 TO SMA</strong></p>
-<h2 id="Driver"><a href="#Driver" class="headerlink" title="Driver"></a><img src="https://s2.loli.net/2022/03/09/U4CzfGVp1nZiK2v.jpg" alt="O1CN01AqCxxt1X8ARWusVX2_!!17381272878">Driver</h2><p><a href="https://drive.google.com/drive/folders/130sdv0Uf4JiIxFz1KB0vk940DSc2qLVC">https://drive.google.com/drive/folders/130sdv0Uf4JiIxFz1KB0vk940DSc2qLVC</a></p>
-]]></content>
-  </entry>
-  <entry>
     <title>ELENCO APN ITALIANI</title>
     <url>/2022/01/16/ELENCO%20APN%20ITALIANI/</url>
     <content><![CDATA[<h1 id="APN"><a href="#APN" class="headerlink" title="APN"></a>APN</h1><h2 id="TIM"><a href="#TIM" class="headerlink" title="TIM"></a>TIM</h2><p>box.tim.it</p>
@@ -240,18 +240,6 @@
 ]]></content>
   </entry>
   <entry>
-    <title>H138-380 HUAWEI 5G CPE Pro 3</title>
-    <url>/2022/01/27/H138-380/</url>
-    <content><![CDATA[<p><img src="https://s2.loli.net/2022/01/27/eXUGBDcq59jmstF.jpg" alt="IMG_7933"></p>
-<p><img src="https://s2.loli.net/2022/01/27/q8OhzQb5Pj46ZoL.jpg" alt="IMG_7936"></p>
-<p><img src="https://s2.loli.net/2022/01/27/uJ3kxqvoTdb8FPw.jpg" alt="IMG_7937"></p>
-<p><img src="https://s2.loli.net/2022/01/27/81fA5naW2GpVPMR.jpg" alt="IMG_7938"></p>
-<p><img src="https://s2.loli.net/2022/01/27/wnJimDqQvFu8a2Z.png" alt="Snipaste_2022-01-27_13-17-10"></p>
-<p><img src="https://s2.loli.net/2022/01/27/1tiTVLDMS8j4dQF.png" alt="Snipaste_2022-01-27_13-17-41"></p>
-<p><img src="https://s2.loli.net/2022/01/27/ifJLIoSKyMg2bAt.png" alt="Snipaste_2022-01-27_13-18-19"></p>
-]]></content>
-  </entry>
-  <entry>
     <title>MC 801A</title>
     <url>/2022/01/24/MC-801A/</url>
     <content><![CDATA[<p><img src="https://s2.loli.net/2022/01/24/WzpQu25Ac36n9ah.jpg" alt="IMG_7804"></p>
@@ -271,6 +259,33 @@
 <p>ma non c’e’ modo per ritornare fw originale</p>
 <p>ha la porta rj11 e funziona </p>
 <p>Il motivo della perdita del segnale è ancora sconosciuto, ci dovrebbe essere un posto per memorizzare i dati all’interno</p>
+]]></content>
+  </entry>
+  <entry>
+    <title>H138-380 HUAWEI 5G CPE Pro 3</title>
+    <url>/2022/01/27/H138-380/</url>
+    <content><![CDATA[<p><img src="https://s2.loli.net/2022/01/27/eXUGBDcq59jmstF.jpg" alt="IMG_7933"></p>
+<p><img src="https://s2.loli.net/2022/01/27/q8OhzQb5Pj46ZoL.jpg" alt="IMG_7936"></p>
+<p><img src="https://s2.loli.net/2022/01/27/uJ3kxqvoTdb8FPw.jpg" alt="IMG_7937"></p>
+<p><img src="https://s2.loli.net/2022/01/27/81fA5naW2GpVPMR.jpg" alt="IMG_7938"></p>
+<p><img src="https://s2.loli.net/2022/01/27/wnJimDqQvFu8a2Z.png" alt="Snipaste_2022-01-27_13-17-10"></p>
+<p><img src="https://s2.loli.net/2022/01/27/1tiTVLDMS8j4dQF.png" alt="Snipaste_2022-01-27_13-17-41"></p>
+<p><img src="https://s2.loli.net/2022/01/27/ifJLIoSKyMg2bAt.png" alt="Snipaste_2022-01-27_13-18-19"></p>
+]]></content>
+  </entry>
+  <entry>
+    <title>NETGEAR Nighthawk M1 4X4 MIMO MOD</title>
+    <url>/2022/03/19/NETGEAR-Nighthawk-M1/</url>
+    <content><![CDATA[<h1 id="NETGEAR-Nighthawk-M1-4X4-MIMO-MOD"><a href="#NETGEAR-Nighthawk-M1-4X4-MIMO-MOD" class="headerlink" title="NETGEAR Nighthawk M1 4X4 MIMO MOD"></a>NETGEAR Nighthawk M1 4X4 MIMO MOD</h1><p><img src="https://s2.loli.net/2022/03/20/iFEWcbfSaI81dJp.jpg" alt="s-l1600 (2)"></p>
+<p><img src="https://s2.loli.net/2022/03/20/AfR6XuxZp8qY3tB.jpg" alt="s-l1600 (3)"></p>
+<p><img src="https://s2.loli.net/2022/03/20/24J81iBascO9z3Z.jpg" alt="s-l1600 (4)"></p>
+<p><img src="https://s2.loli.net/2022/03/20/W87EbIAuKRUDBfa.jpg" alt="s-l1600 (5)"></p>
+<p><img src="https://s2.loli.net/2022/03/20/3dkVwblMqcfF6RY.jpg" alt="s-l1600 (6)"></p>
+<p><img src="https://s2.loli.net/2022/03/20/aRmNVLh2E93Itbw.jpg" alt="s-l1600 (7)"></p>
+<p><img src="https://s2.loli.net/2022/03/20/PYo84UHqViJLRpQ.jpg" alt="s-l1600 (8)"></p>
+<p><img src="https://s2.loli.net/2022/03/20/9DSpcC8PyVxqXng.jpg" alt="s-l1600"></p>
+<p>by</p>
+<p><a href="https://www.ebay.it/itm/">NETGEAR Nighthawk M1 4gx LTE Mobile Router Mr1100 (Network unlocked)</a></p>
 ]]></content>
   </entry>
   <entry>
