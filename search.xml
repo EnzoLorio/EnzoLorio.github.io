@@ -130,7 +130,7 @@
     <content><![CDATA[<p>title: ‘Costruire un sistema di rete 4G’<br>date: 2022-02-24 10:45:18<br>tags:</p>
 <h1 id="Costruire-un-sistema-di-rete-4G"><a href="#Costruire-un-sistema-di-rete-4G" class="headerlink" title="Costruire un sistema di rete 4G"></a>Costruire un sistema di rete 4G</h1><h2 id="Glossario"><a href="#Glossario" class="headerlink" title="Glossario"></a>Glossario</h2><p>BTS = stazione radio base</p>
 <ul>
-<li>BTS fibrata<ul>
+<li>BTS fibrata <ul>
 <li>sono collegate tramite fibra ottica</li>
 <li><a href="https://wiki.lteitaly.it/faq/">Come capisco se una BTS è “fibrata”?</a></li>
 </ul>
