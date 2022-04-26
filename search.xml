@@ -108,13 +108,6 @@
 ]]></content>
   </entry>
   <entry>
-    <title>CAP VF</title>
-    <url>/2022/02/04/CAP-VF/</url>
-    <content><![CDATA[<p><img src="https://s2.loli.net/2022/02/04/wAsFDijHBdaZ6SX.png" alt="Snipaste_2022-02-04_13-16-30"></p>
-<p><a href="https://www.vodafone.it/privati/supporto/sim-piano-mobile/gestione-piano-mobile.html?icmp=infinito">https://www.vodafone.it/privati/supporto/sim-piano-mobile/gestione-piano-mobile.html?icmp=infinito</a></p>
-]]></content>
-  </entry>
-  <entry>
     <title>Chateau CAT 18</title>
     <url>/2022/02/24/Chateau-CAT-18/</url>
     <content><![CDATA[<h1 id="Chateau-CAT-18"><a href="#Chateau-CAT-18" class="headerlink" title="Chateau CAT 18"></a>Chateau CAT 18</h1><p><img src="https://s2.loli.net/2022/02/24/mtdJXL23xiBEh6D.jpg" alt="IMG_8153"></p>
@@ -125,12 +118,18 @@
 ]]></content>
   </entry>
   <entry>
-    <title></title>
+    <title>CAP VF</title>
+    <url>/2022/02/04/CAP-VF/</url>
+    <content><![CDATA[<p><img src="https://s2.loli.net/2022/02/04/wAsFDijHBdaZ6SX.png" alt="Snipaste_2022-02-04_13-16-30"></p>
+<p><a href="https://www.vodafone.it/privati/supporto/sim-piano-mobile/gestione-piano-mobile.html?icmp=infinito">https://www.vodafone.it/privati/supporto/sim-piano-mobile/gestione-piano-mobile.html?icmp=infinito</a></p>
+]]></content>
+  </entry>
+  <entry>
+    <title>Costruire un sistema di rete 4G</title>
     <url>/2022/02/24/Costruire-un-sistema-di-rete-4G/</url>
-    <content><![CDATA[<p>title: ‘Costruire un sistema di rete 4G’<br>date: 2022-02-24 10:45:18<br>tags:</p>
-<h1 id="Costruire-un-sistema-di-rete-4G"><a href="#Costruire-un-sistema-di-rete-4G" class="headerlink" title="Costruire un sistema di rete 4G"></a>Costruire un sistema di rete 4G</h1><h2 id="Glossario"><a href="#Glossario" class="headerlink" title="Glossario"></a>Glossario</h2><p>BTS = stazione radio base</p>
+    <content><![CDATA[<h1 id="Costruire-un-sistema-di-rete-4G"><a href="#Costruire-un-sistema-di-rete-4G" class="headerlink" title="Costruire un sistema di rete 4G"></a>Costruire un sistema di rete 4G</h1><h2 id="Glossario"><a href="#Glossario" class="headerlink" title="Glossario"></a>Glossario</h2><p>BTS = stazione radio base</p>
 <ul>
-<li>BTS fibrata <ul>
+<li>BTS fibrata<ul>
 <li>sono collegate tramite fibra ottica</li>
 <li><a href="https://wiki.lteitaly.it/faq/">Come capisco se una BTS è “fibrata”?</a></li>
 </ul>
