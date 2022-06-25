@@ -127,42 +127,6 @@
 ]]></content>
   </entry>
   <entry>
-    <title>ELENCO APN ITALIANI</title>
-    <url>/2022/01/16/ELENCO%20APN%20ITALIANI/</url>
-    <content><![CDATA[<h1 id="APN"><a href="#APN" class="headerlink" title="APN"></a>APN</h1><h2 id="TIM"><a href="#TIM" class="headerlink" title="TIM"></a>TIM</h2><p>box.tim.it</p>
-<h2 id="Vodafone"><a href="#Vodafone" class="headerlink" title="Vodafone"></a>Vodafone</h2><p>mobile.vodafone.it<br>iphone.vodafone.it</p>
-<h2 id="Wind"><a href="#Wind" class="headerlink" title="Wind:"></a>Wind:</h2><p>internet.it<br>internet.wind</p>
-<h2 id="Iliad-Italia"><a href="#Iliad-Italia" class="headerlink" title="Iliad Italia"></a>Iliad Italia</h2><p>iliad</p>
-<h2 id="Fastweb-Mobile"><a href="#Fastweb-Mobile" class="headerlink" title="Fastweb Mobile:"></a>Fastweb Mobile:</h2><p>apn.fastweb.it (ricaricabili); datacard.fastweb.it (abbonamenti)</p>
-<h2 id="Poste-Mobile"><a href="#Poste-Mobile" class="headerlink" title="Poste Mobile:"></a>Poste Mobile:</h2><p>wap.postemobile.it<br>casa.postemobile.it (PosteMobile Casa Web)</p>
-<h2 id="Tiscali-Mobile"><a href="#Tiscali-Mobile" class="headerlink" title="Tiscali Mobile:"></a>Tiscali Mobile:</h2><p>tiscalimobileinternet</p>
-<h2 id="Coop-Voce"><a href="#Coop-Voce" class="headerlink" title="Coop Voce:"></a>Coop Voce:</h2><p>web.coopvoce.it</p>
-<h2 id="Kena-Mobile"><a href="#Kena-Mobile" class="headerlink" title="Kena Mobile:"></a>Kena Mobile:</h2><p>web.kenamobile.it</p>
-<h2 id="Ho-Mobile"><a href="#Ho-Mobile" class="headerlink" title="Ho Mobile:"></a>Ho Mobile:</h2><p>web.ho-mobile.it <em>per la navigazione da smartphone</em></p>
-<p>internet.ho-mobile.it <em>per la navigazione in tethering</em></p>
-<h2 id="Lycamobile"><a href="#Lycamobile" class="headerlink" title="Lycamobile:"></a>Lycamobile:</h2><p>data.lycamobile.it</p>
-<h2 id="Rabona-Mobile"><a href="#Rabona-Mobile" class="headerlink" title="Rabona Mobile"></a>Rabona Mobile</h2><p>rabona.it</p>
-<hr>
-<ul>
-<li><h2 id="Related-Links"><a href="#Related-Links" class="headerlink" title="Related Links"></a><strong>Related Links</strong></h2></li>
-<li><h2 id="External-Links"><a href="#External-Links" class="headerlink" title="External Links"></a><strong>External Links</strong></h2></li>
-</ul>
-<hr>
-]]></content>
-  </entry>
-  <entry>
-    <title>H138-380 HUAWEI 5G CPE Pro 3</title>
-    <url>/2022/01/27/H138-380/</url>
-    <content><![CDATA[<p><img src="https://s2.loli.net/2022/01/27/eXUGBDcq59jmstF.jpg" alt="IMG_7933"></p>
-<p><img src="https://s2.loli.net/2022/01/27/q8OhzQb5Pj46ZoL.jpg" alt="IMG_7936"></p>
-<p><img src="https://s2.loli.net/2022/01/27/uJ3kxqvoTdb8FPw.jpg" alt="IMG_7937"></p>
-<p><img src="https://s2.loli.net/2022/01/27/81fA5naW2GpVPMR.jpg" alt="IMG_7938"></p>
-<p><img src="https://s2.loli.net/2022/01/27/wnJimDqQvFu8a2Z.png" alt="Snipaste_2022-01-27_13-17-10"></p>
-<p><img src="https://s2.loli.net/2022/01/27/1tiTVLDMS8j4dQF.png" alt="Snipaste_2022-01-27_13-17-41"></p>
-<p><img src="https://s2.loli.net/2022/01/27/ifJLIoSKyMg2bAt.png" alt="Snipaste_2022-01-27_13-18-19"></p>
-]]></content>
-  </entry>
-  <entry>
     <title>Costruire un sistema di rete 4G</title>
     <url>/2022/02/24/Costruire-un-sistema-di-rete-4G/</url>
     <content><![CDATA[<h1 id="Costruire-un-sistema-di-rete-4G"><a href="#Costruire-un-sistema-di-rete-4G" class="headerlink" title="Costruire un sistema di rete 4G"></a>Costruire un sistema di rete 4G</h1><h2 id="Glossario"><a href="#Glossario" class="headerlink" title="Glossario"></a>Glossario</h2><p>BTS = stazione radio base</p>
@@ -269,6 +233,30 @@
 ]]></content>
   </entry>
   <entry>
+    <title>ELENCO APN ITALIANI</title>
+    <url>/2022/01/16/ELENCO%20APN%20ITALIANI/</url>
+    <content><![CDATA[<h1 id="APN"><a href="#APN" class="headerlink" title="APN"></a>APN</h1><h2 id="TIM"><a href="#TIM" class="headerlink" title="TIM"></a>TIM</h2><p>box.tim.it</p>
+<h2 id="Vodafone"><a href="#Vodafone" class="headerlink" title="Vodafone"></a>Vodafone</h2><p>mobile.vodafone.it<br>iphone.vodafone.it</p>
+<h2 id="Wind"><a href="#Wind" class="headerlink" title="Wind:"></a>Wind:</h2><p>internet.it<br>internet.wind</p>
+<h2 id="Iliad-Italia"><a href="#Iliad-Italia" class="headerlink" title="Iliad Italia"></a>Iliad Italia</h2><p>iliad</p>
+<h2 id="Fastweb-Mobile"><a href="#Fastweb-Mobile" class="headerlink" title="Fastweb Mobile:"></a>Fastweb Mobile:</h2><p>apn.fastweb.it (ricaricabili); datacard.fastweb.it (abbonamenti)</p>
+<h2 id="Poste-Mobile"><a href="#Poste-Mobile" class="headerlink" title="Poste Mobile:"></a>Poste Mobile:</h2><p>wap.postemobile.it<br>casa.postemobile.it (PosteMobile Casa Web)</p>
+<h2 id="Tiscali-Mobile"><a href="#Tiscali-Mobile" class="headerlink" title="Tiscali Mobile:"></a>Tiscali Mobile:</h2><p>tiscalimobileinternet</p>
+<h2 id="Coop-Voce"><a href="#Coop-Voce" class="headerlink" title="Coop Voce:"></a>Coop Voce:</h2><p>web.coopvoce.it</p>
+<h2 id="Kena-Mobile"><a href="#Kena-Mobile" class="headerlink" title="Kena Mobile:"></a>Kena Mobile:</h2><p>web.kenamobile.it</p>
+<h2 id="Ho-Mobile"><a href="#Ho-Mobile" class="headerlink" title="Ho Mobile:"></a>Ho Mobile:</h2><p>web.ho-mobile.it <em>per la navigazione da smartphone</em></p>
+<p>internet.ho-mobile.it <em>per la navigazione in tethering</em></p>
+<h2 id="Lycamobile"><a href="#Lycamobile" class="headerlink" title="Lycamobile:"></a>Lycamobile:</h2><p>data.lycamobile.it</p>
+<h2 id="Rabona-Mobile"><a href="#Rabona-Mobile" class="headerlink" title="Rabona Mobile"></a>Rabona Mobile</h2><p>rabona.it</p>
+<hr>
+<ul>
+<li><h2 id="Related-Links"><a href="#Related-Links" class="headerlink" title="Related Links"></a><strong>Related Links</strong></h2></li>
+<li><h2 id="External-Links"><a href="#External-Links" class="headerlink" title="External Links"></a><strong>External Links</strong></h2></li>
+</ul>
+<hr>
+]]></content>
+  </entry>
+  <entry>
     <title>MC 801A</title>
     <url>/2022/01/24/MC-801A/</url>
     <content><![CDATA[<h1 id="ZTE-801A"><a href="#ZTE-801A" class="headerlink" title="ZTE 801A"></a>ZTE 801A</h1><p><img src="https://s2.loli.net/2022/01/24/WzpQu25Ac36n9ah.jpg" alt="IMG_7804"></p>
@@ -315,6 +303,39 @@
 ]]></content>
   </entry>
   <entry>
+    <title>H138-380 HUAWEI 5G CPE Pro 3</title>
+    <url>/2022/01/27/H138-380/</url>
+    <content><![CDATA[<p><img src="https://s2.loli.net/2022/01/27/eXUGBDcq59jmstF.jpg" alt="IMG_7933"></p>
+<p><img src="https://s2.loli.net/2022/01/27/q8OhzQb5Pj46ZoL.jpg" alt="IMG_7936"></p>
+<p><img src="https://s2.loli.net/2022/01/27/uJ3kxqvoTdb8FPw.jpg" alt="IMG_7937"></p>
+<p><img src="https://s2.loli.net/2022/01/27/81fA5naW2GpVPMR.jpg" alt="IMG_7938"></p>
+<p><img src="https://s2.loli.net/2022/01/27/wnJimDqQvFu8a2Z.png" alt="Snipaste_2022-01-27_13-17-10"></p>
+<p><img src="https://s2.loli.net/2022/01/27/1tiTVLDMS8j4dQF.png" alt="Snipaste_2022-01-27_13-17-41"></p>
+<p><img src="https://s2.loli.net/2022/01/27/ifJLIoSKyMg2bAt.png" alt="Snipaste_2022-01-27_13-18-19"></p>
+]]></content>
+  </entry>
+  <entry>
+    <title>Modalità di antenna del CPE ZTE</title>
+    <url>/2022/06/25/Modalit%C3%A0-di-antenna-del-CPE-ZTE/</url>
+    <content><![CDATA[<h1 id="Modalita-di-antenna-del-CPE-ZTE"><a href="#Modalita-di-antenna-del-CPE-ZTE" class="headerlink" title="Modalità di antenna del CPE ZTE"></a>Modalità di antenna del CPE ZTE</h1><h2 id="MF286D-MF289F"><a href="#MF286D-MF289F" class="headerlink" title="MF286D MF289F"></a>MF286D MF289F</h2><p>I due modelli più popolari di router zte attualmente disponibili sono entrambi in modalità antenna SISO</p>
+<p><img src="E:\Screenshots\temp\siso-mimo-overview.png" alt="siso-mimo-overview"></p>
+<p>Modalità di trasmissione a ingresso singolo Uscita singola (SISO) </p>
+<p>Modalità di trasmissione a ingresso multiplo e uscita multipla (MIMO) </p>
+<p><strong>single Input Single Output</strong> (SISO) </p>
+<p><strong>multiple-input and multiple-output</strong> (MIMO) </p>
+<p>In breve, è possibile installare l’antenna, ma funziona in modalità SISO anziché MIMO, poi, quando si usa l’antenna interna, si usa la modalità 4x4 MIMO. Il segnale può essere migliorato, ma non si sa se la velocità della rete sarà migliorata, dato che la maggior parte delle stazioni base supporta ancora il 2X2 MIMO.</p>
+<h3 id="Come-far-si-che-supportino-il-MIMO"><a href="#Come-far-si-che-supportino-il-MIMO" class="headerlink" title="Come far sì che supportino il MIMO"></a>Come far sì che supportino il MIMO</h3><h2 id="289F"><a href="#289F" class="headerlink" title="289F"></a>289F</h2><p><img src="https://s2.loli.net/2022/02/28/Jq5zuKNrvlRUjGC.png" alt="image-20220228122129156"></p>
+<p>ANT4 MIMO_1</p>
+<p>ANT1 MAIN_HB</p>
+<p>ANT0 MAIN_MLB</p>
+<p>ANT2 AUX</p>
+<p>ANT3 MIMO_0</p>
+<p>MLB = MONOPOLE LOW BAND<br>HB = HIGH BAND<br>AUX = AUXILIARY</p>
+<p><img src="https://s2.loli.net/2022/02/28/bY2CyRNoA8Oi9Xf.png" alt="image-20220228144646853"></p>
+<h2 id="286D"><a href="#286D" class="headerlink" title="286D"></a>286D</h2><p>286D dovrebbe essere uguale a 289f con 5 interfacce</p>
+]]></content>
+  </entry>
+  <entry>
     <title>NETGEAR Nighthawk M1 4X4 MIMO MOD</title>
     <url>/2022/03/19/NETGEAR-Nighthawk-M1/</url>
     <content><![CDATA[<h1 id="NETGEAR-Nighthawk-M1-4X4-MIMO-MOD"><a href="#NETGEAR-Nighthawk-M1-4X4-MIMO-MOD" class="headerlink" title="NETGEAR Nighthawk M1 4X4 MIMO MOD"></a>NETGEAR Nighthawk M1 4X4 MIMO MOD</h1><p><img src="https://s2.loli.net/2022/03/20/iFEWcbfSaI81dJp.jpg" alt="s-l1600 (2)"></p>
@@ -349,6 +370,45 @@
 <p><img src="https://s2.loli.net/2022/06/05/U23q5mXvTHFPrfa.jpg" alt="Snipaste_2022-06-05_10-38-30"></p>
 <ul>
 <li><h2 id="External-Links"><a href="#External-Links" class="headerlink" title="External Links"></a><strong>External Links</strong></h2></li>
+</ul>
+]]></content>
+  </entry>
+  <entry>
+    <title>Poste Mobile CasaWeb</title>
+    <url>/2022/01/15/Poste-Mobile-CasaWeb/</url>
+    <content><![CDATA[<h1 id="PosteMobile-Casa-Web"><a href="#PosteMobile-Casa-Web" class="headerlink" title="PosteMobile Casa Web"></a>PosteMobile Casa Web</h1><p><a href="https://www.postemobile.it/offerte-fisso/postemobile-casa-web">PosteMobile Casa Web</a></p>
+<ul>
+<li>Costo mensile    20,90€</li>
+<li>Attivazione29€</li>
+<li>Traffico internet ILLIMITATO (Ho testato personalmente <strong>1.8TB</strong> in un mese.)</li>
+<li>La velocità massima è solo <strong>150Mbps</strong> e non è la stessa del contratto (300 Mbps). La velocità della rete è stata ridotta dal passaggio da w3 a vf.</li>
+<li>Modem WiFi INCLUSO E TRASPORTABILE <ul>
+<li>Puoi mettere la sim su qualsiasi dispositivo e portarla con te ovunque…🧐</li>
+</ul>
+</li>
+<li>Old Router:    ZTE MF286R</li>
+<li>New Router: <a href="https://www.dlink-forum.it/index.php?topic=4343.0">DWR-960 PosteMobile: Router 4G+ AC1200</a></li>
+</ul>
+<p><img src="https://s2.loli.net/2022/02/13/b7VLtGXCvNIegFn.png" alt="image_2022-02-13_12-39-29"></p>
+<hr>
+<p><img src="https://s2.loli.net/2022/02/20/owdLHxGbDszAQUv.png" alt="Snipaste_2022-02-20_13-17-39"></p>
+<h2 id="non-mi-ancora-arrivato-la-fattura"><a href="#non-mi-ancora-arrivato-la-fattura" class="headerlink" title="non mi ancora arrivato la fattura"></a>non mi ancora arrivato la fattura</h2><p>Ci possono essere mille ragioni per essere in ritardo, ma possiamo scaricarle, quindi non è un problema.</p>
+<p><a href="https://www.postemobile.it/">https://www.postemobile.it/</a></p>
+<p><strong>Selezionare fisso invece di mobile al momento della registrazione</strong></p>
+<p><img src="https://s2.loli.net/2022/03/10/b96TKUJafQ84DZs.jpg" alt="Snipaste_2022-03-10_15-48-07"></p>
+<p><strong><a href="https://www.postemobile.it/Assistenza/Pagine/PM13/MobileChat.html">WEB CHAT postemobile</a></strong></p>
+<p>To do</p>
+<ul>
+<li>Invia un’e-mail per richiedere un addebito diretto sulla  carta</li>
+<li>Accede al sito ufficiale e imposta Fattura elettronica</li>
+<li>Le fatture cartacee costano</li>
+</ul>
+<ul>
+<li><strong>External Links</strong><ul>
+<li><a href="https://www.uiblog.it/2020/06/ho-fatto-postemobile-casa-web-l-lnternet-illimitato-di-poste/">Ho fatto PosteMobile Casa Web, l’ lnternet illimitato LTE di poste - UiBlog.it</a></li>
+<li><a href="https://forum.fibra.click/d/21208-super-internet-casa-easy-pay/2">Super Internet Casa Easy Pay - FibraClick Forum</a></li>
+</ul>
+</li>
 </ul>
 ]]></content>
   </entry>
@@ -407,45 +467,6 @@
 <h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
 
 <p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
-]]></content>
-  </entry>
-  <entry>
-    <title>Poste Mobile CasaWeb</title>
-    <url>/2022/01/15/Poste-Mobile-CasaWeb/</url>
-    <content><![CDATA[<h1 id="PosteMobile-Casa-Web"><a href="#PosteMobile-Casa-Web" class="headerlink" title="PosteMobile Casa Web"></a>PosteMobile Casa Web</h1><p><a href="https://www.postemobile.it/offerte-fisso/postemobile-casa-web">PosteMobile Casa Web</a></p>
-<ul>
-<li>Costo mensile    20,90€</li>
-<li>Attivazione29€</li>
-<li>Traffico internet ILLIMITATO (Ho testato personalmente <strong>1.8TB</strong> in un mese.)</li>
-<li>La velocità massima è solo <strong>150Mbps</strong> e non è la stessa del contratto (300 Mbps). La velocità della rete è stata ridotta dal passaggio da w3 a vf.</li>
-<li>Modem WiFi INCLUSO E TRASPORTABILE <ul>
-<li>Puoi mettere la sim su qualsiasi dispositivo e portarla con te ovunque…🧐</li>
-</ul>
-</li>
-<li>Old Router:    ZTE MF286R</li>
-<li>New Router: <a href="https://www.dlink-forum.it/index.php?topic=4343.0">DWR-960 PosteMobile: Router 4G+ AC1200</a></li>
-</ul>
-<p><img src="https://s2.loli.net/2022/02/13/b7VLtGXCvNIegFn.png" alt="image_2022-02-13_12-39-29"></p>
-<hr>
-<p><img src="https://s2.loli.net/2022/02/20/owdLHxGbDszAQUv.png" alt="Snipaste_2022-02-20_13-17-39"></p>
-<h2 id="non-mi-ancora-arrivato-la-fattura"><a href="#non-mi-ancora-arrivato-la-fattura" class="headerlink" title="non mi ancora arrivato la fattura"></a>non mi ancora arrivato la fattura</h2><p>Ci possono essere mille ragioni per essere in ritardo, ma possiamo scaricarle, quindi non è un problema.</p>
-<p><a href="https://www.postemobile.it/">https://www.postemobile.it/</a></p>
-<p><strong>Selezionare fisso invece di mobile al momento della registrazione</strong></p>
-<p><img src="https://s2.loli.net/2022/03/10/b96TKUJafQ84DZs.jpg" alt="Snipaste_2022-03-10_15-48-07"></p>
-<p><strong><a href="https://www.postemobile.it/Assistenza/Pagine/PM13/MobileChat.html">WEB CHAT postemobile</a></strong></p>
-<p>To do</p>
-<ul>
-<li>Invia un’e-mail per richiedere un addebito diretto sulla  carta</li>
-<li>Accede al sito ufficiale e imposta Fattura elettronica</li>
-<li>Le fatture cartacee costano</li>
-</ul>
-<ul>
-<li><strong>External Links</strong><ul>
-<li><a href="https://www.uiblog.it/2020/06/ho-fatto-postemobile-casa-web-l-lnternet-illimitato-di-poste/">Ho fatto PosteMobile Casa Web, l’ lnternet illimitato LTE di poste - UiBlog.it</a></li>
-<li><a href="https://forum.fibra.click/d/21208-super-internet-casa-easy-pay/2">Super Internet Casa Easy Pay - FibraClick Forum</a></li>
-</ul>
-</li>
-</ul>
 ]]></content>
   </entry>
   <entry>
