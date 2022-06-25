@@ -127,6 +127,18 @@
 ]]></content>
   </entry>
   <entry>
+    <title>Modalità di antenna del CPE ZTE</title>
+    <url>/2022/06/25/Come-rendere-la-rete-pi%C3%B9-stabile/</url>
+    <content><![CDATA[<h1 id="Come-rendere-la-rete-piu-stabile"><a href="#Come-rendere-la-rete-piu-stabile" class="headerlink" title="Come rendere la rete più stabile"></a>Come rendere la rete più stabile</h1><h2 id="Scheduled-reboot-Riavvio-programmato"><a href="#Scheduled-reboot-Riavvio-programmato" class="headerlink" title="Scheduled reboot / Riavvio programmato"></a>Scheduled reboot / Riavvio programmato</h2><p>Molti router supportano questa funzione, quindi assicuratevi di attivarla.</p>
+<blockquote>
+<p>Prima il mio computer si sconnetteva ogni pochi minuti, avevo appena sostituito la scheda di rete del computer, pensavo che ci fosse un problema con la scheda, ma dopo aver riavviato il router andava tutto bene…</p>
+</blockquote>
+<p>Il riavvio programmato è una funzione che si pensava fosse una necessità sui router precedenti con hardware scadente e poca memoria. Alcuni router moderni non supportano queste funzioni e il mio ha funzionato bene per un mese o due prima del problema.</p>
+<h2 id="Ridurre-il-lavoro-del-router"><a href="#Ridurre-il-lavoro-del-router" class="headerlink" title="Ridurre il lavoro del router"></a>Ridurre il lavoro del router</h2><p>In generale, è sufficiente disattivare la funzione wifi del router e collegare un AP.</p>
+<p><img src="https://s2.loli.net/2022/06/25/rD1ZUmxSefidH4n.jpg" alt="Snipaste_2022-06-25_11-41-49"></p>
+]]></content>
+  </entry>
+  <entry>
     <title>Costruire un sistema di rete 4G</title>
     <url>/2022/02/24/Costruire-un-sistema-di-rete-4G/</url>
     <content><![CDATA[<h1 id="Costruire-un-sistema-di-rete-4G"><a href="#Costruire-un-sistema-di-rete-4G" class="headerlink" title="Costruire un sistema di rete 4G"></a>Costruire un sistema di rete 4G</h1><h2 id="Glossario"><a href="#Glossario" class="headerlink" title="Glossario"></a>Glossario</h2><p>BTS = stazione radio base</p>
@@ -257,6 +269,18 @@
 ]]></content>
   </entry>
   <entry>
+    <title>H138-380 HUAWEI 5G CPE Pro 3</title>
+    <url>/2022/01/27/H138-380/</url>
+    <content><![CDATA[<p><img src="https://s2.loli.net/2022/01/27/eXUGBDcq59jmstF.jpg" alt="IMG_7933"></p>
+<p><img src="https://s2.loli.net/2022/01/27/q8OhzQb5Pj46ZoL.jpg" alt="IMG_7936"></p>
+<p><img src="https://s2.loli.net/2022/01/27/uJ3kxqvoTdb8FPw.jpg" alt="IMG_7937"></p>
+<p><img src="https://s2.loli.net/2022/01/27/81fA5naW2GpVPMR.jpg" alt="IMG_7938"></p>
+<p><img src="https://s2.loli.net/2022/01/27/wnJimDqQvFu8a2Z.png" alt="Snipaste_2022-01-27_13-17-10"></p>
+<p><img src="https://s2.loli.net/2022/01/27/1tiTVLDMS8j4dQF.png" alt="Snipaste_2022-01-27_13-17-41"></p>
+<p><img src="https://s2.loli.net/2022/01/27/ifJLIoSKyMg2bAt.png" alt="Snipaste_2022-01-27_13-18-19"></p>
+]]></content>
+  </entry>
+  <entry>
     <title>MC 801A</title>
     <url>/2022/01/24/MC-801A/</url>
     <content><![CDATA[<h1 id="ZTE-801A"><a href="#ZTE-801A" class="headerlink" title="ZTE 801A"></a>ZTE 801A</h1><p><img src="https://s2.loli.net/2022/01/24/WzpQu25Ac36n9ah.jpg" alt="IMG_7804"></p>
@@ -303,22 +327,10 @@
 ]]></content>
   </entry>
   <entry>
-    <title>H138-380 HUAWEI 5G CPE Pro 3</title>
-    <url>/2022/01/27/H138-380/</url>
-    <content><![CDATA[<p><img src="https://s2.loli.net/2022/01/27/eXUGBDcq59jmstF.jpg" alt="IMG_7933"></p>
-<p><img src="https://s2.loli.net/2022/01/27/q8OhzQb5Pj46ZoL.jpg" alt="IMG_7936"></p>
-<p><img src="https://s2.loli.net/2022/01/27/uJ3kxqvoTdb8FPw.jpg" alt="IMG_7937"></p>
-<p><img src="https://s2.loli.net/2022/01/27/81fA5naW2GpVPMR.jpg" alt="IMG_7938"></p>
-<p><img src="https://s2.loli.net/2022/01/27/wnJimDqQvFu8a2Z.png" alt="Snipaste_2022-01-27_13-17-10"></p>
-<p><img src="https://s2.loli.net/2022/01/27/1tiTVLDMS8j4dQF.png" alt="Snipaste_2022-01-27_13-17-41"></p>
-<p><img src="https://s2.loli.net/2022/01/27/ifJLIoSKyMg2bAt.png" alt="Snipaste_2022-01-27_13-18-19"></p>
-]]></content>
-  </entry>
-  <entry>
     <title>Modalità di antenna del CPE ZTE</title>
     <url>/2022/06/25/Modalit%C3%A0-di-antenna-del-CPE-ZTE/</url>
     <content><![CDATA[<h1 id="Modalita-di-antenna-del-CPE-ZTE"><a href="#Modalita-di-antenna-del-CPE-ZTE" class="headerlink" title="Modalità di antenna del CPE ZTE"></a>Modalità di antenna del CPE ZTE</h1><h2 id="MF286D-MF289F"><a href="#MF286D-MF289F" class="headerlink" title="MF286D MF289F"></a>MF286D MF289F</h2><p>I due modelli più popolari di router zte attualmente disponibili sono entrambi in modalità antenna SISO</p>
-<p><img src="E:\Screenshots\temp\siso-mimo-overview.png" alt="siso-mimo-overview"></p>
+<p><img src="https://s2.loli.net/2022/06/25/ENDc7rnTgC2jHIl.png" alt="siso-mimo-overview"></p>
 <p>Modalità di trasmissione a ingresso singolo Uscita singola (SISO) </p>
 <p>Modalità di trasmissione a ingresso multiplo e uscita multipla (MIMO) </p>
 <p><strong>single Input Single Output</strong> (SISO) </p>
