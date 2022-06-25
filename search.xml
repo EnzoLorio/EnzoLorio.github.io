@@ -48,13 +48,6 @@
       </tags>
   </entry>
   <entry>
-    <title>CAP VF</title>
-    <url>/2022/02/04/CAP-VF/</url>
-    <content><![CDATA[<p><img src="https://s2.loli.net/2022/02/04/wAsFDijHBdaZ6SX.png" alt="Snipaste_2022-02-04_13-16-30"></p>
-<p><a href="https://www.vodafone.it/privati/supporto/sim-piano-mobile/gestione-piano-mobile.html?icmp=infinito">https://www.vodafone.it/privati/supporto/sim-piano-mobile/gestione-piano-mobile.html?icmp=infinito</a></p>
-]]></content>
-  </entry>
-  <entry>
     <title>HUAWEI 4G ROUTER 3 PRIME B818-263 CAT19 LTE ROUTER</title>
     <url>/2022/01/15/B818-263-Firmware/</url>
     <content><![CDATA[<h1 id="HUAWEI-4G-ROUTER-3-PRIME-B818-263-CAT19-LTE-ROUTER"><a href="#HUAWEI-4G-ROUTER-3-PRIME-B818-263-CAT19-LTE-ROUTER" class="headerlink" title="HUAWEI 4G ROUTER 3 PRIME B818-263 CAT19 LTE ROUTER"></a>HUAWEI 4G ROUTER 3 PRIME B818-263 CAT19 LTE ROUTER</h1><h2 id="Firmware"><a href="#Firmware" class="headerlink" title="Firmware"></a>Firmware</h2><p><img src="https://s2.loli.net/2022/05/23/94odUhp5H7IcTSL.png" alt="img"></p>
@@ -115,6 +108,13 @@
 <p><a href="http://www.bez-kabli.pl/viewtopic.php?f=12&amp;t=58667">http://www.bez-kabli.pl/viewtopic.php?f=12&amp;t=58667</a></p>
 <p><strong>IPX1 TO SMA</strong></p>
 <h2 id=""><a href="#" class="headerlink" title=""></a><img src="https://s2.loli.net/2022/03/09/U4CzfGVp1nZiK2v.jpg" alt="O1CN01AqCxxt1X8ARWusVX2_!!17381272878"></h2>]]></content>
+  </entry>
+  <entry>
+    <title>CAP VF</title>
+    <url>/2022/02/04/CAP-VF/</url>
+    <content><![CDATA[<p><img src="https://s2.loli.net/2022/02/04/wAsFDijHBdaZ6SX.png" alt="Snipaste_2022-02-04_13-16-30"></p>
+<p><a href="https://www.vodafone.it/privati/supporto/sim-piano-mobile/gestione-piano-mobile.html?icmp=infinito">https://www.vodafone.it/privati/supporto/sim-piano-mobile/gestione-piano-mobile.html?icmp=infinito</a></p>
+]]></content>
   </entry>
   <entry>
     <title>Chateau CAT 18</title>
@@ -300,7 +300,7 @@
 <li>piezoelettrico: sotto ogni ugello è sistemato un canalino circondato da un cristallo piezoelettrico a cui vengono mandati degli impulsi elettrici; ogni impulso provoca la deformazione del cristallo e conseguentemente la repentina strozzatura del canalino e l’eiezione dell’inchiostro; è la tecnologia utilizzata da Epson.</li>
 </ul>
 <p>L’uso della tecnologia termica è assolutamente sconsigliato , perché nella maggior parte dei casi la testina di stampa è un materiale di consumo………….</p>
-<p>Le stampanti Epson, che sono completamente diverse, utilizzano la tecnologia piezoelettrica e hanno una durata molto lunga della testina di stampa, e alcuni acquistano le loro stampanti specificamente per uso commerciale, come il trasferimento termico ecc..<a href="https://www.youtube.com/results?search_query=Modified+Epson">Modified Epson - YouTube</a></p>
+<p>Le stampanti Epson, che sono completamente diverse, utilizzano la tecnologia piezoelettrica e hanno una durata molto lunga della testina di stampa, e alcuni acquistano le loro stampanti specificamente per uso commerciale, come il trasferimento termico <a href="https://www.youtube.com/results?search_query=Modified+Epson">ecc..</a></p>
 <h2 id="Alcuni-parametri-da-conoscere-quando-si-acquista-una-stampante"><a href="#Alcuni-parametri-da-conoscere-quando-si-acquista-una-stampante" class="headerlink" title="Alcuni parametri da conoscere quando si acquista una stampante"></a>Alcuni parametri da conoscere quando si acquista una stampante</h2><h5 id="Configurazione-ugelli"><a href="#Configurazione-ugelli" class="headerlink" title="Configurazione ugelli"></a>Configurazione ugelli</h5><p>800 ugelli per il nero, 256 ugelli per ciascun colore</p>
 <ul>
 <li>più ugelli sono meglio è  (più preciso e più veloce)</li>
@@ -320,7 +320,16 @@
 <h2 id="CISS"><a href="#CISS" class="headerlink" title="CISS"></a>CISS</h2><p>CISS = continuous ink supply system = continuous ink supply system</p>
 <p>In teoria tutte le cartucce sono ricaricabili.</p>
 <p>Tuttavia, i produttori hanno limitato la stampante installando un chip che registra le informazioni sulla cartuccia e la stampante non funziona se le informazioni non sono corrette.</p>
-<p>Per ricaricare la cartuccia è quindi necessario un chip auto rest.</p>
+<p>Per ricaricare la cartuccia è quindi necessario un <strong>chip autoreset</strong>.</p>
+<p>Per quanto ne so, ci sono tre tipi di autoreset.</p>
+<ul>
+<li>La stampante legge le informazioni contenute nella cartuccia e, se scopre che l’inchiostro nella cartuccia è esaurito, il chip inizia ad azzerare la cartuccia. (Il chip non conosce la quantità effettiva di inchiostro presente nella cartuccia, che può essere calcolata solo in base a ciascuna stampa.) Se non c’è inchiostro nella cartuccia, il chip si danneggia, non so perché, ma è quello che mi ha detto il venditore , assicuratevi quindi che ci sia sempre inchiostro nella cartuccia.</li>
+<li>C’è un pulsante che, se tenuto premuto, inizia ad azzerare la cartuccia.</li>
+<li>Non ho mai usato uno di questi modelli e ho sentito dire che si tratta solo di rimontare la cartuccia.</li>
+</ul>
+<h2 id="Valvole-unidirezionali"><a href="#Valvole-unidirezionali" class="headerlink" title="Valvole unidirezionali"></a>Valvole unidirezionali</h2><p>Utilizzato per evitare che la cartuccia ritorni nella contenitore.</p>
+<p>Questo è sempre importante, dopo tutto l’acqua scorre in discesa.</p>
+<p><img src="https://s2.loli.net/2022/06/25/1fxFgnARMih82rs.jpg" alt="IMG_20220522_155614"></p>
 <p>da finire………………….</p>
 <p>da finire………………….</p>
 <p>da finire………………….</p>
