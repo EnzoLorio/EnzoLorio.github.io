@@ -38,23 +38,6 @@
       </tags>
   </entry>
   <entry>
-    <title>Configurare APN su 818-263</title>
-    <url>/2022/01/16/818-263-APN/</url>
-    <content><![CDATA[<h1 id="Configurare-APN-su-818-263"><a href="#Configurare-APN-su-818-263" class="headerlink" title="Configurare APN su 818-263"></a>Configurare APN su 818-263</h1><p><img src="https://s2.loli.net/2022/01/16/AKIOWQlpF2L4D9u.png" alt="APN 818 263"></p>
-<p><img src="https://s2.loli.net/2022/01/21/21Y8UiyLIZ9NVQX.png" alt="image-20220121145544942"></p>
-]]></content>
-      <tags>
-        <tag>818-263</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>CAP VF</title>
-    <url>/2022/02/04/CAP-VF/</url>
-    <content><![CDATA[<p><img src="https://s2.loli.net/2022/02/04/wAsFDijHBdaZ6SX.png" alt="Snipaste_2022-02-04_13-16-30"></p>
-<p><a href="https://www.vodafone.it/privati/supporto/sim-piano-mobile/gestione-piano-mobile.html?icmp=infinito">https://www.vodafone.it/privati/supporto/sim-piano-mobile/gestione-piano-mobile.html?icmp=infinito</a></p>
-]]></content>
-  </entry>
-  <entry>
     <title>HUAWEI 4G ROUTER 3 PRIME B818-263 CAT19 LTE ROUTER</title>
     <url>/2022/01/15/B818-263-Firmware/</url>
     <content><![CDATA[<h1 id="HUAWEI-4G-ROUTER-3-PRIME-B818-263-CAT19-LTE-ROUTER"><a href="#HUAWEI-4G-ROUTER-3-PRIME-B818-263-CAT19-LTE-ROUTER" class="headerlink" title="HUAWEI 4G ROUTER 3 PRIME B818-263 CAT19 LTE ROUTER"></a>HUAWEI 4G ROUTER 3 PRIME B818-263 CAT19 LTE ROUTER</h1><h2 id="Firmware"><a href="#Firmware" class="headerlink" title="Firmware"></a>Firmware</h2><p><img src="https://s2.loli.net/2022/05/23/94odUhp5H7IcTSL.png" alt="img"></p>
@@ -117,15 +100,20 @@
 <h2 id=""><a href="#" class="headerlink" title=""></a><img src="https://s2.loli.net/2022/03/09/U4CzfGVp1nZiK2v.jpg" alt="O1CN01AqCxxt1X8ARWusVX2_!!17381272878"></h2>]]></content>
   </entry>
   <entry>
-    <title>Modalità di antenna del CPE ZTE</title>
-    <url>/2022/06/25/Come-rendere-la-rete-pi%C3%B9-stabile/</url>
-    <content><![CDATA[<h1 id="Come-rendere-la-rete-piu-stabile"><a href="#Come-rendere-la-rete-piu-stabile" class="headerlink" title="Come rendere la rete più stabile"></a>Come rendere la rete più stabile</h1><h2 id="Scheduled-reboot-Riavvio-programmato"><a href="#Scheduled-reboot-Riavvio-programmato" class="headerlink" title="Scheduled reboot / Riavvio programmato"></a>Scheduled reboot / Riavvio programmato</h2><p>Molti router supportano questa funzione, quindi assicuratevi di attivarla.</p>
-<blockquote>
-<p>Prima il mio computer si sconnetteva ogni pochi minuti, avevo appena sostituito la scheda di rete del computer, pensavo che ci fosse un problema con la scheda, ma dopo aver riavviato il router andava tutto bene…</p>
-</blockquote>
-<p>Il riavvio programmato è una funzione che si pensava fosse una necessità sui router precedenti con hardware scadente e poca memoria. Alcuni router moderni non supportano queste funzioni e il mio ha funzionato bene per un mese o due prima del problema.</p>
-<h2 id="Ridurre-il-lavoro-del-router"><a href="#Ridurre-il-lavoro-del-router" class="headerlink" title="Ridurre il lavoro del router"></a>Ridurre il lavoro del router</h2><p>In generale, è sufficiente disattivare la funzione wifi del router e collegare un AP.</p>
-<p><img src="https://s2.loli.net/2022/06/25/rD1ZUmxSefidH4n.jpg" alt="Snipaste_2022-06-25_11-41-49"></p>
+    <title>Configurare APN su 818-263</title>
+    <url>/2022/01/16/818-263-APN/</url>
+    <content><![CDATA[<h1 id="Configurare-APN-su-818-263"><a href="#Configurare-APN-su-818-263" class="headerlink" title="Configurare APN su 818-263"></a>Configurare APN su 818-263</h1><p><img src="https://s2.loli.net/2022/01/16/AKIOWQlpF2L4D9u.png" alt="APN 818 263"></p>
+<p><img src="https://s2.loli.net/2022/01/21/21Y8UiyLIZ9NVQX.png" alt="image-20220121145544942"></p>
+]]></content>
+      <tags>
+        <tag>818-263</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>CAP VF</title>
+    <url>/2022/02/04/CAP-VF/</url>
+    <content><![CDATA[<p><img src="https://s2.loli.net/2022/02/04/wAsFDijHBdaZ6SX.png" alt="Snipaste_2022-02-04_13-16-30"></p>
+<p><a href="https://www.vodafone.it/privati/supporto/sim-piano-mobile/gestione-piano-mobile.html?icmp=infinito">https://www.vodafone.it/privati/supporto/sim-piano-mobile/gestione-piano-mobile.html?icmp=infinito</a></p>
 ]]></content>
   </entry>
   <entry>
@@ -269,6 +257,76 @@
 ]]></content>
   </entry>
   <entry>
+    <title>Modalità di antenna del CPE ZTE</title>
+    <url>/2022/06/25/Come-rendere-la-rete-pi%C3%B9-stabile/</url>
+    <content><![CDATA[<h1 id="Come-rendere-la-rete-piu-stabile"><a href="#Come-rendere-la-rete-piu-stabile" class="headerlink" title="Come rendere la rete più stabile"></a>Come rendere la rete più stabile</h1><h2 id="Scheduled-reboot-Riavvio-programmato"><a href="#Scheduled-reboot-Riavvio-programmato" class="headerlink" title="Scheduled reboot / Riavvio programmato"></a>Scheduled reboot / Riavvio programmato</h2><p>Molti router supportano questa funzione, quindi assicuratevi di attivarla.</p>
+<blockquote>
+<p>Prima il mio computer si sconnetteva ogni pochi minuti, avevo appena sostituito la scheda di rete del computer, pensavo che ci fosse un problema con la scheda, ma dopo aver riavviato il router andava tutto bene…</p>
+</blockquote>
+<p>Il riavvio programmato è una funzione che si pensava fosse una necessità sui router precedenti con hardware scadente e poca memoria. Alcuni router moderni non supportano queste funzioni e il mio ha funzionato bene per un mese o due prima del problema.</p>
+<h2 id="Ridurre-il-lavoro-del-router"><a href="#Ridurre-il-lavoro-del-router" class="headerlink" title="Ridurre il lavoro del router"></a>Ridurre il lavoro del router</h2><p>In generale, è sufficiente disattivare la funzione wifi del router e collegare un AP.</p>
+<p><img src="https://s2.loli.net/2022/06/25/rD1ZUmxSefidH4n.jpg" alt="Snipaste_2022-06-25_11-41-49"></p>
+]]></content>
+  </entry>
+  <entry>
+    <title>H138-380 HUAWEI 5G CPE Pro 3</title>
+    <url>/2022/01/27/H138-380/</url>
+    <content><![CDATA[<p><img src="https://s2.loli.net/2022/01/27/eXUGBDcq59jmstF.jpg" alt="IMG_7933"></p>
+<p><img src="https://s2.loli.net/2022/01/27/q8OhzQb5Pj46ZoL.jpg" alt="IMG_7936"></p>
+<p><img src="https://s2.loli.net/2022/01/27/uJ3kxqvoTdb8FPw.jpg" alt="IMG_7937"></p>
+<p><img src="https://s2.loli.net/2022/01/27/81fA5naW2GpVPMR.jpg" alt="IMG_7938"></p>
+<p><img src="https://s2.loli.net/2022/01/27/wnJimDqQvFu8a2Z.png" alt="Snipaste_2022-01-27_13-17-10"></p>
+<p><img src="https://s2.loli.net/2022/01/27/1tiTVLDMS8j4dQF.png" alt="Snipaste_2022-01-27_13-17-41"></p>
+<p><img src="https://s2.loli.net/2022/01/27/ifJLIoSKyMg2bAt.png" alt="Snipaste_2022-01-27_13-18-19"></p>
+]]></content>
+  </entry>
+  <entry>
+    <title>MC 801A</title>
+    <url>/2022/01/24/MC-801A/</url>
+    <content><![CDATA[<h1 id="ZTE-801A"><a href="#ZTE-801A" class="headerlink" title="ZTE 801A"></a>ZTE 801A</h1><p><img src="https://s2.loli.net/2022/01/24/WzpQu25Ac36n9ah.jpg" alt="IMG_7804"></p>
+<p><img src="https://s2.loli.net/2022/01/24/9pvhsGK4LawQlm5.png" alt="Snipaste_2022-01-24_15-23-44"></p>
+<p>DreiMaxx<br>Megenta Internet 5G Box<br>A1 Net Cube 5G 2<br>ZTE HyperBox 5G - MC801A</p>
+<p>Megenta Internet 5G Box e ZTE HyperBox 5G - MC801A hanno lo stesso firmware</p>
+<h2 id="HyperBox-o-Megenta"><a href="#HyperBox-o-Megenta" class="headerlink" title="HyperBox o Megenta"></a>HyperBox o Megenta</h2><p>Megenta Internet 5G Box e ZTE HyperBox 5G - MC801A hanno lo stesso firmware</p>
+<p>HyperBox non può flashare se no perde il segnale e per momento no c’è modo per recuperare il segnale</p>
+<p>hanno la porta nascosta cs non funziona VoIP funziona</p>
+<h2 id="DreiMaxx"><a href="#DreiMaxx" class="headerlink" title="DreiMaxx"></a>DreiMaxx</h2><p>Può essere flashato con qualsiasi fw e cambiare imei</p>
+<p><img src="https://s2.loli.net/2022/02/21/CIbksW9GNTtmD26.png" alt="image-20220221162733920"></p>
+<p>Alcuni dreimaxx hanno dei blocchi per motivi sconosciuti</p>
+<p><strong>Ma con la possibilità di cambiare l’imei e il firmware, questo non è un problema</strong></p>
+<p>ha la porta rj11 e funziona </p>
+<p><strong>Questa è la versione migliore</strong></p>
+<h2 id="A1-Net-Cube-5G-2"><a href="#A1-Net-Cube-5G-2" class="headerlink" title="A1 Net Cube 5G 2"></a>A1 Net Cube 5G 2</h2><p>Il segnale può essere ripristinato flashando 396590B1250BD_FITELIAMC801AV1.0.0B12</p>
+<p>ma non c’e’ modo per ritornare fw originale</p>
+<p>ha la porta rj11 e funziona </p>
+<p>Il motivo della perdita del segnale è ancora sconosciuto, ci dovrebbe essere un posto per memorizzare i dati all’interno</p>
+<h2 id="firmware"><a href="#firmware" class="headerlink" title="firmware"></a>firmware</h2><p>Quando questo router è stato rilasciato per la prima volta, poiché le persone non ne erano a conoscenza, alcuni hanno provato a flsharlo e a sperimentare altri firmware.<br>Questo è ciò che causa l’assenza di segnale</p>
+<p>Dal momento che mionono ha rilasciato l’haker, non ha più senso cambiare il firmware.</p>
+<h2 id="imei"><a href="#imei" class="headerlink" title="imei"></a>imei</h2><p>Se esiste una priorità, il telefono deve avere una priorità superiore a quella del router.</p>
+<p><a href="https://www.fastweb.it/myfastweb/assistenza/guide/5g-mobile/">MyFastweb - Rete Mobile 5G</a></p>
+<ul>
+<li>In teoria è possibile utilizzare la rete 5g di fastweb modificando l’imei, ma non ho mai provato.</li>
+</ul>
+<h2 id="Alimentazione"><a href="#Alimentazione" class="headerlink" title="Alimentazione"></a>Alimentazione</h2><p>Il router può funzionare a 5v</p>
+<p>Molti caricabatterie supportano la ricarica rapida, e quindi non un 5v fisso commuterà automaticamente la tensione in base al dispositivo. (Prestare attenzione se si utilizzano cavi a tensione variabile da 5v a 12v.)</p>
+<p><img src="https://s2.loli.net/2022/05/18/QUXkry8MVJjgEG3.jpg" alt="IMG_20210413_233445"></p>
+<h2 id="Antenna-4g-esterna"><a href="#Antenna-4g-esterna" class="headerlink" title="Antenna 4g esterna"></a>Antenna 4g esterna</h2><p><a href="https://www.adslgate.com/dsl/showthread.php?p=1083314126">تعديل راوتر ZTE 5G MC801A وعمل وصلات للانتينا الخارجي - البوابة الرقمية ADSLGATE</a></p>
+<p><a href="https://www.adslgate.com/dsl/showthread.php?t=2630621">مشاركة تجربة وصلات 4G بدون لحام لراوتر ZTE MC801A 5G - البوابة الرقمية ADSLGATE</a></p>
+<p><a href="https://4pda.to/forum/index.php?showtopic=1011903&st=1100#entry113199006">ZTE MC801 / MC801а – обсуждение - 4PDA</a></p>
+<p><img src="https://s2.loli.net/2022/05/18/Bs7Z2aExD51YMW6.jpg" alt="DREIMAXX"></p>
+<p>A1 E A3 sono main</p>
+<p>Le due plastiche sono antenne</p>
+<p>Il nome del cavo è MS156</p>
+<p><img src="https://s2.loli.net/2022/05/18/hr6AvbR3MOuoaQD.jpg"></p>
+<h2 id="LED"><a href="#LED" class="headerlink" title="LED"></a>LED</h2><ol>
+<li>SEGNALE<br>(Tre luci)<br>Acceso: Tre spie indicano la potenza del segnale. Più luci accese significano segnali migliori.<br>Spento: non c’è segnale o non è inserita una scheda nano-SIM.</li>
+<li>RETE<br>Rosso: il dispositivo è acceso ma non è registrato alla rete mobile.<br>Blu fisso: il dispositivo è registrato o connesso alla rete mobile 3G/4G.<br>Bianco fisso: il dispositivo è registrato o connesso alla rete 5G.<br>Blu (1 SECONDO) Rosso  (2 SECONDI)<br>Il router ti ricorda di tenere sotto controllo il tuo traffico<br><img src="https://s2.loli.net/2022/05/23/3Y9swNQ7BdZEA6r.png" alt="image-20220522185358952"></li>
+<li>WIFI<br>Acceso: La WLAN (Wi-Fi) funziona normalmente. Lampeggiante: WPS si sta attivando.<br>Spento: la WLAN(Wi-Fi) è disattivata.</li>
+<li>ALIMENTAZIONE<br>Acceso: Il dispositivo è acceso.<br>Off: il dispositivo è spento.</li>
+</ol>
+]]></content>
+  </entry>
+  <entry>
     <title>Libertà di stampa</title>
     <url>/2022/06/25/Libert%C3%A0-di-stampa/</url>
     <content><![CDATA[<h1 id="Liberta-di-stampa"><a href="#Liberta-di-stampa" class="headerlink" title="Libertà di stampa"></a>Libertà di stampa</h1><p>La libertà di stampa è in realtà una cosa molto facile da ottenere.😀</p>
@@ -340,52 +398,6 @@
 ]]></content>
   </entry>
   <entry>
-    <title>MC 801A</title>
-    <url>/2022/01/24/MC-801A/</url>
-    <content><![CDATA[<h1 id="ZTE-801A"><a href="#ZTE-801A" class="headerlink" title="ZTE 801A"></a>ZTE 801A</h1><p><img src="https://s2.loli.net/2022/01/24/WzpQu25Ac36n9ah.jpg" alt="IMG_7804"></p>
-<p><img src="https://s2.loli.net/2022/01/24/9pvhsGK4LawQlm5.png" alt="Snipaste_2022-01-24_15-23-44"></p>
-<p>DreiMaxx<br>Megenta Internet 5G Box<br>A1 Net Cube 5G 2<br>ZTE HyperBox 5G - MC801A</p>
-<p>Megenta Internet 5G Box e ZTE HyperBox 5G - MC801A hanno lo stesso firmware</p>
-<h2 id="HyperBox-o-Megenta"><a href="#HyperBox-o-Megenta" class="headerlink" title="HyperBox o Megenta"></a>HyperBox o Megenta</h2><p>Megenta Internet 5G Box e ZTE HyperBox 5G - MC801A hanno lo stesso firmware</p>
-<p>HyperBox non può flashare se no perde il segnale e per momento no c’è modo per recuperare il segnale</p>
-<p>hanno la porta nascosta cs non funziona VoIP funziona</p>
-<h2 id="DreiMaxx"><a href="#DreiMaxx" class="headerlink" title="DreiMaxx"></a>DreiMaxx</h2><p>Può essere flashato con qualsiasi fw e cambiare imei</p>
-<p><img src="https://s2.loli.net/2022/02/21/CIbksW9GNTtmD26.png" alt="image-20220221162733920"></p>
-<p>Alcuni dreimaxx hanno dei blocchi per motivi sconosciuti</p>
-<p><strong>Ma con la possibilità di cambiare l’imei e il firmware, questo non è un problema</strong></p>
-<p>ha la porta rj11 e funziona </p>
-<p><strong>Questa è la versione migliore</strong></p>
-<h2 id="A1-Net-Cube-5G-2"><a href="#A1-Net-Cube-5G-2" class="headerlink" title="A1 Net Cube 5G 2"></a>A1 Net Cube 5G 2</h2><p>Il segnale può essere ripristinato flashando 396590B1250BD_FITELIAMC801AV1.0.0B12</p>
-<p>ma non c’e’ modo per ritornare fw originale</p>
-<p>ha la porta rj11 e funziona </p>
-<p>Il motivo della perdita del segnale è ancora sconosciuto, ci dovrebbe essere un posto per memorizzare i dati all’interno</p>
-<h2 id="firmware"><a href="#firmware" class="headerlink" title="firmware"></a>firmware</h2><p>Quando questo router è stato rilasciato per la prima volta, poiché le persone non ne erano a conoscenza, alcuni hanno provato a flsharlo e a sperimentare altri firmware.<br>Questo è ciò che causa l’assenza di segnale</p>
-<p>Dal momento che mionono ha rilasciato l’haker, non ha più senso cambiare il firmware.</p>
-<h2 id="imei"><a href="#imei" class="headerlink" title="imei"></a>imei</h2><p>Se esiste una priorità, il telefono deve avere una priorità superiore a quella del router.</p>
-<p><a href="https://www.fastweb.it/myfastweb/assistenza/guide/5g-mobile/">MyFastweb - Rete Mobile 5G</a></p>
-<ul>
-<li>In teoria è possibile utilizzare la rete 5g di fastweb modificando l’imei, ma non ho mai provato.</li>
-</ul>
-<h2 id="Alimentazione"><a href="#Alimentazione" class="headerlink" title="Alimentazione"></a>Alimentazione</h2><p>Il router può funzionare a 5v</p>
-<p>Molti caricabatterie supportano la ricarica rapida, e quindi non un 5v fisso commuterà automaticamente la tensione in base al dispositivo. (Prestare attenzione se si utilizzano cavi a tensione variabile da 5v a 12v.)</p>
-<p><img src="https://s2.loli.net/2022/05/18/QUXkry8MVJjgEG3.jpg" alt="IMG_20210413_233445"></p>
-<h2 id="Antenna-4g-esterna"><a href="#Antenna-4g-esterna" class="headerlink" title="Antenna 4g esterna"></a>Antenna 4g esterna</h2><p><a href="https://www.adslgate.com/dsl/showthread.php?p=1083314126">تعديل راوتر ZTE 5G MC801A وعمل وصلات للانتينا الخارجي - البوابة الرقمية ADSLGATE</a></p>
-<p><a href="https://www.adslgate.com/dsl/showthread.php?t=2630621">مشاركة تجربة وصلات 4G بدون لحام لراوتر ZTE MC801A 5G - البوابة الرقمية ADSLGATE</a></p>
-<p><a href="https://4pda.to/forum/index.php?showtopic=1011903&st=1100#entry113199006">ZTE MC801 / MC801а – обсуждение - 4PDA</a></p>
-<p><img src="https://s2.loli.net/2022/05/18/Bs7Z2aExD51YMW6.jpg" alt="DREIMAXX"></p>
-<p>A1 E A3 sono main</p>
-<p>Le due plastiche sono antenne</p>
-<p>Il nome del cavo è MS156</p>
-<p><img src="https://s2.loli.net/2022/05/18/hr6AvbR3MOuoaQD.jpg"></p>
-<h2 id="LED"><a href="#LED" class="headerlink" title="LED"></a>LED</h2><ol>
-<li>SEGNALE<br>(Tre luci)<br>Acceso: Tre spie indicano la potenza del segnale. Più luci accese significano segnali migliori.<br>Spento: non c’è segnale o non è inserita una scheda nano-SIM.</li>
-<li>RETE<br>Rosso: il dispositivo è acceso ma non è registrato alla rete mobile.<br>Blu fisso: il dispositivo è registrato o connesso alla rete mobile 3G/4G.<br>Bianco fisso: il dispositivo è registrato o connesso alla rete 5G.<br>Blu (1 SECONDO) Rosso  (2 SECONDI)<br>Il router ti ricorda di tenere sotto controllo il tuo traffico<br><img src="https://s2.loli.net/2022/05/23/3Y9swNQ7BdZEA6r.png" alt="image-20220522185358952"></li>
-<li>WIFI<br>Acceso: La WLAN (Wi-Fi) funziona normalmente. Lampeggiante: WPS si sta attivando.<br>Spento: la WLAN(Wi-Fi) è disattivata.</li>
-<li>ALIMENTAZIONE<br>Acceso: Il dispositivo è acceso.<br>Off: il dispositivo è spento.</li>
-</ol>
-]]></content>
-  </entry>
-  <entry>
     <title>NETGEAR Nighthawk M1 4X4 MIMO MOD</title>
     <url>/2022/03/19/NETGEAR-Nighthawk-M1/</url>
     <content><![CDATA[<h1 id="NETGEAR-Nighthawk-M1-4X4-MIMO-MOD"><a href="#NETGEAR-Nighthawk-M1-4X4-MIMO-MOD" class="headerlink" title="NETGEAR Nighthawk M1 4X4 MIMO MOD"></a>NETGEAR Nighthawk M1 4X4 MIMO MOD</h1><p><img src="https://s2.loli.net/2022/03/20/iFEWcbfSaI81dJp.jpg" alt="s-l1600 (2)"></p>
@@ -398,40 +410,6 @@
 <p><img src="https://s2.loli.net/2022/03/20/9DSpcC8PyVxqXng.jpg" alt="s-l1600"></p>
 <p>by</p>
 <p><a href="https://www.ebay.it/itm/">NETGEAR Nighthawk M1 4gx LTE Mobile Router Mr1100 (Network unlocked)</a></p>
-]]></content>
-  </entry>
-  <entry>
-    <title>H138-380 HUAWEI 5G CPE Pro 3</title>
-    <url>/2022/01/27/H138-380/</url>
-    <content><![CDATA[<p><img src="https://s2.loli.net/2022/01/27/eXUGBDcq59jmstF.jpg" alt="IMG_7933"></p>
-<p><img src="https://s2.loli.net/2022/01/27/q8OhzQb5Pj46ZoL.jpg" alt="IMG_7936"></p>
-<p><img src="https://s2.loli.net/2022/01/27/uJ3kxqvoTdb8FPw.jpg" alt="IMG_7937"></p>
-<p><img src="https://s2.loli.net/2022/01/27/81fA5naW2GpVPMR.jpg" alt="IMG_7938"></p>
-<p><img src="https://s2.loli.net/2022/01/27/wnJimDqQvFu8a2Z.png" alt="Snipaste_2022-01-27_13-17-10"></p>
-<p><img src="https://s2.loli.net/2022/01/27/1tiTVLDMS8j4dQF.png" alt="Snipaste_2022-01-27_13-17-41"></p>
-<p><img src="https://s2.loli.net/2022/01/27/ifJLIoSKyMg2bAt.png" alt="Snipaste_2022-01-27_13-18-19"></p>
-]]></content>
-  </entry>
-  <entry>
-    <title>Modalità di antenna del CPE ZTE</title>
-    <url>/2022/06/25/Modalit%C3%A0-di-antenna-del-CPE-ZTE/</url>
-    <content><![CDATA[<h1 id="Modalita-di-antenna-del-CPE-ZTE"><a href="#Modalita-di-antenna-del-CPE-ZTE" class="headerlink" title="Modalità di antenna del CPE ZTE"></a>Modalità di antenna del CPE ZTE</h1><h2 id="MF286D-MF289F"><a href="#MF286D-MF289F" class="headerlink" title="MF286D MF289F"></a>MF286D MF289F</h2><p>I due modelli più popolari di router zte attualmente disponibili sono entrambi in modalità antenna SISO</p>
-<p><img src="https://s2.loli.net/2022/06/25/ENDc7rnTgC2jHIl.png" alt="siso-mimo-overview"></p>
-<p>Modalità di trasmissione a ingresso singolo Uscita singola (SISO) </p>
-<p>Modalità di trasmissione a ingresso multiplo e uscita multipla (MIMO) </p>
-<p><strong>single Input Single Output</strong> (SISO) </p>
-<p><strong>multiple-input and multiple-output</strong> (MIMO) </p>
-<p>In breve, è possibile installare l’antenna, ma funziona in modalità SISO anziché MIMO, poi, quando si usa l’antenna interna, si usa la modalità 4x4 MIMO. Il segnale può essere migliorato, ma non si sa se la velocità della rete sarà migliorata, dato che la maggior parte delle stazioni base supporta ancora il 2X2 MIMO.</p>
-<h3 id="Come-far-si-che-supportino-il-MIMO"><a href="#Come-far-si-che-supportino-il-MIMO" class="headerlink" title="Come far sì che supportino il MIMO"></a>Come far sì che supportino il MIMO</h3><h2 id="289F"><a href="#289F" class="headerlink" title="289F"></a>289F</h2><p><img src="https://s2.loli.net/2022/02/28/Jq5zuKNrvlRUjGC.png" alt="image-20220228122129156"></p>
-<p>ANT4 MIMO_1</p>
-<p>ANT1 MAIN_HB</p>
-<p>ANT0 MAIN_MLB</p>
-<p>ANT2 AUX</p>
-<p>ANT3 MIMO_0</p>
-<p>MLB = MONOPOLE LOW BAND<br>HB = HIGH BAND<br>AUX = AUXILIARY</p>
-<p><img src="https://s2.loli.net/2022/02/28/bY2CyRNoA8Oi9Xf.png" alt="image-20220228144646853"></p>
-<h2 id="286D"><a href="#286D" class="headerlink" title="286D"></a>286D</h2><p>286D dovrebbe essere uguale a 289f con 5 interfacce</p>
-<p>IPX1 -&gt; SMA</p>
 ]]></content>
   </entry>
   <entry>
@@ -458,21 +436,25 @@
 ]]></content>
   </entry>
   <entry>
-    <title>Hello World</title>
-    <url>/2023/02/23/hello-world/</url>
-    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
-<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
-<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
-<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
-<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
+    <title>Modalità di antenna del CPE ZTE</title>
+    <url>/2022/06/25/Modalit%C3%A0-di-antenna-del-CPE-ZTE/</url>
+    <content><![CDATA[<h1 id="Modalita-di-antenna-del-CPE-ZTE"><a href="#Modalita-di-antenna-del-CPE-ZTE" class="headerlink" title="Modalità di antenna del CPE ZTE"></a>Modalità di antenna del CPE ZTE</h1><h2 id="MF286D-MF289F"><a href="#MF286D-MF289F" class="headerlink" title="MF286D MF289F"></a>MF286D MF289F</h2><p>I due modelli più popolari di router zte attualmente disponibili sono entrambi in modalità antenna SISO</p>
+<p><img src="https://s2.loli.net/2022/06/25/ENDc7rnTgC2jHIl.png" alt="siso-mimo-overview"></p>
+<p>Modalità di trasmissione a ingresso singolo Uscita singola (SISO) </p>
+<p>Modalità di trasmissione a ingresso multiplo e uscita multipla (MIMO) </p>
+<p><strong>single Input Single Output</strong> (SISO) </p>
+<p><strong>multiple-input and multiple-output</strong> (MIMO) </p>
+<p>In breve, è possibile installare l’antenna, ma funziona in modalità SISO anziché MIMO, poi, quando si usa l’antenna interna, si usa la modalità 4x4 MIMO. Il segnale può essere migliorato, ma non si sa se la velocità della rete sarà migliorata, dato che la maggior parte delle stazioni base supporta ancora il 2X2 MIMO.</p>
+<h3 id="Come-far-si-che-supportino-il-MIMO"><a href="#Come-far-si-che-supportino-il-MIMO" class="headerlink" title="Come far sì che supportino il MIMO"></a>Come far sì che supportino il MIMO</h3><h2 id="289F"><a href="#289F" class="headerlink" title="289F"></a>289F</h2><p><img src="https://s2.loli.net/2022/02/28/Jq5zuKNrvlRUjGC.png" alt="image-20220228122129156"></p>
+<p>ANT4 MIMO_1</p>
+<p>ANT1 MAIN_HB</p>
+<p>ANT0 MAIN_MLB</p>
+<p>ANT2 AUX</p>
+<p>ANT3 MIMO_0</p>
+<p>MLB = MONOPOLE LOW BAND<br>HB = HIGH BAND<br>AUX = AUXILIARY</p>
+<p><img src="https://s2.loli.net/2022/02/28/bY2CyRNoA8Oi9Xf.png" alt="image-20220228144646853"></p>
+<h2 id="286D"><a href="#286D" class="headerlink" title="286D"></a>286D</h2><p>286D dovrebbe essere uguale a 289f con 5 interfacce</p>
+<p>IPX1 -&gt; SMA</p>
 ]]></content>
   </entry>
   <entry>
@@ -554,34 +536,21 @@
 ]]></content>
   </entry>
   <entry>
-    <title>le soluzioni per w3</title>
-    <url>/2022/01/20/le-soluzioni-per-w3/</url>
-    <content><![CDATA[<h1 id="le-soluzioni-per-w3"><a href="#le-soluzioni-per-w3" class="headerlink" title="le soluzioni per w3"></a>le soluzioni per w3</h1><p><a href="https://www.mondomobileweb.it/226647-windtre-mobile-prima-rimodulazione-2022/">WINDTRE Mobile rimodulazione 2022: da oggi partono gli aumenti ad alcuni clienti. Cosa è cambiato - MondoMobileWeb.it</a></p>
-<blockquote>
-<p><em>“6.1.5. Per i piani, opzioni e/o promozioni che prevedono traffico voce e dati, è altresì prevista la fruizione del servizio in apparati/terminali omologati e non diversi da cellulare o smartphone”</em>.</p>
-</blockquote>
-<p>In poche parole, w3 non permette agli utenti di usare la sim sul router<br>Almeno questo è quello che dice il contratto</p>
-<p><a href="https://www.windtre.it/trasparenza-tariffaria/">i contratti w3</a></p>
-<p><img src="https://s2.loli.net/2022/01/21/ar3HsSF6hxmZj7A.png" alt="image-20220121104810921"></p>
-<h2 id="Android"><a href="#Android" class="headerlink" title="Android"></a>Android</h2><p>Ethernet tethering (richiede Android 11) + </p>
-<p>Adattatore di Rete USB-C a RJ45 con porta di ricarica + </p>
-<p>AP (che genera il wi-fi)</p>
-<p><a href="https://cacombos.com/device/RMX2111">Realme 7 5G (RMX2111)</a></p>
-<p><a href="https://www.androidpolice.com/2020/04/23/ethernet-tethering-arrives-in-latest-android-11-developer-preview/">Ethernet tethering arrives in latest Android 11 Developer Preview</a></p>
-<p><a href="https://www.amazon.it/Xiaomi-AX3600-Router-29010-DVB4251GL/dp/B08MV83J94/ref=sr_1_2?__mk_it_IT=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=3S2TTNUMURJYU&keywords=AX+3600&qid=1642675001&sprefix=ax+3600,aps,528&sr=8-2">Xiaomi AX3600 – Router WiFi 6 e AIoT 29010 / DVB4251GL : Amazon.it: Informatica</a></p>
-<p><img src="https://s2.loli.net/2022/01/20/EYstJzq7Gm4ZQr2.png" alt="image-20220120113748879"></p>
-<p><img src="https://s2.loli.net/2022/01/20/o13DehHwk2QJRWB.png" alt="image-20220120113814934"></p>
-<h2 id="IMEI"><a href="#IMEI" class="headerlink" title="IMEI"></a>IMEI</h2><p>Usa l’imei del telefono</p>
-<h3 id="mc801a"><a href="#mc801a" class="headerlink" title="mc801a"></a>mc801a</h3><p>mc801a versione non <strong>Hyperbox</strong> </p>
-<blockquote>
-<p>Il mio Hyperbox è morto dopo il flasshato, nessun servizio ho provato tutti i firmware e niente<br>In pratica, è confermato che non si può cambiare l’imei in questa versione..</p>
-<p>“web_version”:”WEB_DETMOMC801AV1.0.0B06”,<br>“wa_inner_version”:”MC801AV1.0.0B06”</p>
-<p>versione Hyperbox ha firmware tedesco e non ha la porta rj11 (ma presente nascosta) versione non Hyperbox tutti quelli con la porta rj11 a vista</p>
-<p><strong>Megenta Internet 5G Box = Hyperbox 5G = Telekom MC 801A</strong></p>
-<p><img src="https://s2.loli.net/2022/01/21/DTrEyg3AIflhCML.png" alt="image-20220121104429227"></p>
-</blockquote>
-<h3 id="ROS"><a href="#ROS" class="headerlink" title="ROS"></a>ROS</h3><p>Non ci sono problemi con i router che hanno questo sistema.</p>
-<p>I dettagli dell’operazione possono essere trovati online</p>
+    <title>Hello World</title>
+    <url>/2023/02/23/hello-world/</url>
+    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
+<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
+<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
+<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
 ]]></content>
   </entry>
   <entry>
@@ -634,6 +603,37 @@
 <p><img src="https://s2.loli.net/2022/04/26/lG97ApdReUCYQmg.jpg" alt="IMG_8645_compressed"></p>
 <p>Utilizza un’interfaccia non standard, simile alla ipx1, ma a metà altezza.</p>
 <p>Tuttavia, anche l’IPX1 è si collega e funziona bene.</p>
+]]></content>
+  </entry>
+  <entry>
+    <title>le soluzioni per w3</title>
+    <url>/2022/01/20/le-soluzioni-per-w3/</url>
+    <content><![CDATA[<h1 id="le-soluzioni-per-w3"><a href="#le-soluzioni-per-w3" class="headerlink" title="le soluzioni per w3"></a>le soluzioni per w3</h1><p><a href="https://www.mondomobileweb.it/226647-windtre-mobile-prima-rimodulazione-2022/">WINDTRE Mobile rimodulazione 2022: da oggi partono gli aumenti ad alcuni clienti. Cosa è cambiato - MondoMobileWeb.it</a></p>
+<blockquote>
+<p><em>“6.1.5. Per i piani, opzioni e/o promozioni che prevedono traffico voce e dati, è altresì prevista la fruizione del servizio in apparati/terminali omologati e non diversi da cellulare o smartphone”</em>.</p>
+</blockquote>
+<p>In poche parole, w3 non permette agli utenti di usare la sim sul router<br>Almeno questo è quello che dice il contratto</p>
+<p><a href="https://www.windtre.it/trasparenza-tariffaria/">i contratti w3</a></p>
+<p><img src="https://s2.loli.net/2022/01/21/ar3HsSF6hxmZj7A.png" alt="image-20220121104810921"></p>
+<h2 id="Android"><a href="#Android" class="headerlink" title="Android"></a>Android</h2><p>Ethernet tethering (richiede Android 11) + </p>
+<p>Adattatore di Rete USB-C a RJ45 con porta di ricarica + </p>
+<p>AP (che genera il wi-fi)</p>
+<p><a href="https://cacombos.com/device/RMX2111">Realme 7 5G (RMX2111)</a></p>
+<p><a href="https://www.androidpolice.com/2020/04/23/ethernet-tethering-arrives-in-latest-android-11-developer-preview/">Ethernet tethering arrives in latest Android 11 Developer Preview</a></p>
+<p><a href="https://www.amazon.it/Xiaomi-AX3600-Router-29010-DVB4251GL/dp/B08MV83J94/ref=sr_1_2?__mk_it_IT=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=3S2TTNUMURJYU&keywords=AX+3600&qid=1642675001&sprefix=ax+3600,aps,528&sr=8-2">Xiaomi AX3600 – Router WiFi 6 e AIoT 29010 / DVB4251GL : Amazon.it: Informatica</a></p>
+<p><img src="https://s2.loli.net/2022/01/20/EYstJzq7Gm4ZQr2.png" alt="image-20220120113748879"></p>
+<p><img src="https://s2.loli.net/2022/01/20/o13DehHwk2QJRWB.png" alt="image-20220120113814934"></p>
+<h2 id="IMEI"><a href="#IMEI" class="headerlink" title="IMEI"></a>IMEI</h2><p>Usa l’imei del telefono</p>
+<h3 id="mc801a"><a href="#mc801a" class="headerlink" title="mc801a"></a>mc801a</h3><p>mc801a versione non <strong>Hyperbox</strong> </p>
+<blockquote>
+<p>Il mio Hyperbox è morto dopo il flasshato, nessun servizio ho provato tutti i firmware e niente<br>In pratica, è confermato che non si può cambiare l’imei in questa versione..</p>
+<p>“web_version”:”WEB_DETMOMC801AV1.0.0B06”,<br>“wa_inner_version”:”MC801AV1.0.0B06”</p>
+<p>versione Hyperbox ha firmware tedesco e non ha la porta rj11 (ma presente nascosta) versione non Hyperbox tutti quelli con la porta rj11 a vista</p>
+<p><strong>Megenta Internet 5G Box = Hyperbox 5G = Telekom MC 801A</strong></p>
+<p><img src="https://s2.loli.net/2022/01/21/DTrEyg3AIflhCML.png" alt="image-20220121104429227"></p>
+</blockquote>
+<h3 id="ROS"><a href="#ROS" class="headerlink" title="ROS"></a>ROS</h3><p>Non ci sono problemi con i router che hanno questo sistema.</p>
+<p>I dettagli dell’operazione possono essere trovati online</p>
 ]]></content>
   </entry>
 </search>
