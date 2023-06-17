@@ -38,15 +38,30 @@
       </tags>
   </entry>
   <entry>
-    <title>Modalità di antenna del CPE ZTE</title>
-    <url>/2022/06/25/Come-rendere-la-rete-pi%C3%B9-stabile/</url>
-    <content><![CDATA[<h1 id="Come-rendere-la-rete-piu-stabile"><a href="#Come-rendere-la-rete-piu-stabile" class="headerlink" title="Come rendere la rete più stabile"></a>Come rendere la rete più stabile</h1><h2 id="Scheduled-reboot-Riavvio-programmato"><a href="#Scheduled-reboot-Riavvio-programmato" class="headerlink" title="Scheduled reboot / Riavvio programmato"></a>Scheduled reboot / Riavvio programmato</h2><p>Molti router supportano questa funzione, quindi assicuratevi di attivarla.</p>
-<blockquote>
-<p>Prima il mio computer si sconnetteva ogni pochi minuti, avevo appena sostituito la scheda di rete del computer, pensavo che ci fosse un problema con la scheda, ma dopo aver riavviato il router andava tutto bene…</p>
-</blockquote>
-<p>Il riavvio programmato è una funzione che si pensava fosse una necessità sui router precedenti con hardware scadente e poca memoria. Alcuni router moderni non supportano queste funzioni e il mio ha funzionato bene per un mese o due prima del problema.</p>
-<h2 id="Ridurre-il-lavoro-del-router"><a href="#Ridurre-il-lavoro-del-router" class="headerlink" title="Ridurre il lavoro del router"></a>Ridurre il lavoro del router</h2><p>In generale, è sufficiente disattivare la funzione wifi del router e collegare un AP.</p>
-<p><img src="https://s2.loli.net/2022/06/25/rD1ZUmxSefidH4n.jpg" alt="Snipaste_2022-06-25_11-41-49"></p>
+    <title>Configurare APN su 818-263</title>
+    <url>/2022/01/16/818-263-APN/</url>
+    <content><![CDATA[<h1 id="Configurare-APN-su-818-263"><a href="#Configurare-APN-su-818-263" class="headerlink" title="Configurare APN su 818-263"></a>Configurare APN su 818-263</h1><p><img src="https://s2.loli.net/2022/01/16/AKIOWQlpF2L4D9u.png" alt="APN 818 263"></p>
+<p><img src="https://s2.loli.net/2022/01/21/21Y8UiyLIZ9NVQX.png" alt="image-20220121145544942"></p>
+]]></content>
+      <tags>
+        <tag>818-263</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Chateau CAT 18</title>
+    <url>/2022/02/24/Chateau-CAT-18/</url>
+    <content><![CDATA[<h1 id="Chateau-CAT-18"><a href="#Chateau-CAT-18" class="headerlink" title="Chateau CAT 18"></a>Chateau CAT 18</h1><p><img src="https://s2.loli.net/2022/02/24/mtdJXL23xiBEh6D.jpg" alt="IMG_8153"></p>
+<p><img src="https://s2.loli.net/2022/02/24/fvKhtoqXQ3IilgM.jpg" alt="IMG_8158"></p>
+<p><img src="https://s2.loli.net/2022/02/24/CXopbPB6VF7YNhZ.jpg" alt="IMG_8160(1)"></p>
+<p><img src="https://s2.loli.net/2022/02/24/SwQ58MTHRtnDmrq.png" alt="Snipaste_2022-02-10_19-58-06"></p>
+<p><img src="https://s2.loli.net/2022/02/24/DG8nSM3qZHO1KsW.png" alt="Snipaste_2022-02-13_19-00-17"></p>
+]]></content>
+  </entry>
+  <entry>
+    <title>CAP VF</title>
+    <url>/2022/02/04/CAP-VF/</url>
+    <content><![CDATA[<p><img src="https://s2.loli.net/2022/02/04/wAsFDijHBdaZ6SX.png" alt="Snipaste_2022-02-04_13-16-30"></p>
+<p><a href="https://www.vodafone.it/privati/supporto/sim-piano-mobile/gestione-piano-mobile.html?icmp=infinito">https://www.vodafone.it/privati/supporto/sim-piano-mobile/gestione-piano-mobile.html?icmp=infinito</a></p>
 ]]></content>
   </entry>
   <entry>
@@ -119,21 +134,27 @@
 <h2 id=""><a href="#" class="headerlink" title=""></a><img src="https://s2.loli.net/2022/03/09/U4CzfGVp1nZiK2v.jpg" alt="O1CN01AqCxxt1X8ARWusVX2_!!17381272878"></h2>]]></content>
   </entry>
   <entry>
-    <title>CAP VF</title>
-    <url>/2022/02/04/CAP-VF/</url>
-    <content><![CDATA[<p><img src="https://s2.loli.net/2022/02/04/wAsFDijHBdaZ6SX.png" alt="Snipaste_2022-02-04_13-16-30"></p>
-<p><a href="https://www.vodafone.it/privati/supporto/sim-piano-mobile/gestione-piano-mobile.html?icmp=infinito">https://www.vodafone.it/privati/supporto/sim-piano-mobile/gestione-piano-mobile.html?icmp=infinito</a></p>
+    <title>Modalità di antenna del CPE ZTE</title>
+    <url>/2022/06/25/Come-rendere-la-rete-pi%C3%B9-stabile/</url>
+    <content><![CDATA[<h1 id="Come-rendere-la-rete-piu-stabile"><a href="#Come-rendere-la-rete-piu-stabile" class="headerlink" title="Come rendere la rete più stabile"></a>Come rendere la rete più stabile</h1><h2 id="Scheduled-reboot-Riavvio-programmato"><a href="#Scheduled-reboot-Riavvio-programmato" class="headerlink" title="Scheduled reboot / Riavvio programmato"></a>Scheduled reboot / Riavvio programmato</h2><p>Molti router supportano questa funzione, quindi assicuratevi di attivarla.</p>
+<blockquote>
+<p>Prima il mio computer si sconnetteva ogni pochi minuti, avevo appena sostituito la scheda di rete del computer, pensavo che ci fosse un problema con la scheda, ma dopo aver riavviato il router andava tutto bene…</p>
+</blockquote>
+<p>Il riavvio programmato è una funzione che si pensava fosse una necessità sui router precedenti con hardware scadente e poca memoria. Alcuni router moderni non supportano queste funzioni e il mio ha funzionato bene per un mese o due prima del problema.</p>
+<h2 id="Ridurre-il-lavoro-del-router"><a href="#Ridurre-il-lavoro-del-router" class="headerlink" title="Ridurre il lavoro del router"></a>Ridurre il lavoro del router</h2><p>In generale, è sufficiente disattivare la funzione wifi del router e collegare un AP.</p>
+<p><img src="https://s2.loli.net/2022/06/25/rD1ZUmxSefidH4n.jpg" alt="Snipaste_2022-06-25_11-41-49"></p>
 ]]></content>
   </entry>
   <entry>
-    <title>Configurare APN su 818-263</title>
-    <url>/2022/01/16/818-263-APN/</url>
-    <content><![CDATA[<h1 id="Configurare-APN-su-818-263"><a href="#Configurare-APN-su-818-263" class="headerlink" title="Configurare APN su 818-263"></a>Configurare APN su 818-263</h1><p><img src="https://s2.loli.net/2022/01/16/AKIOWQlpF2L4D9u.png" alt="APN 818 263"></p>
-<p><img src="https://s2.loli.net/2022/01/21/21Y8UiyLIZ9NVQX.png" alt="image-20220121145544942"></p>
+    <title>HUAWEI Router 5G CPE PRO 2 (H122-373)</title>
+    <url>/2022/12/06/H122-373/</url>
+    <content><![CDATA[<p>Il firmware versione 10 non può aggregare tim e wind b1</p>
+<p>Non tutti i router possono essere aggiornati, devono ricevere l’OTA .</p>
+<p>porta rj11 serve solo per VOIP , In poche parole, non è possibile effettuare chiamate da o verso la sim nel router.</p>
+<p>27-01-2023</p>
+<p>È possibile fare l’aggiornamento <strong>solo via OTA</strong>; se si esegue l’aggiornamento in locale, il router diventa un mattone. (Easy Firmware………………)</p>
+<p><img src="https://s2.loli.net/2022/12/06/pLEa39WOf1rPDUm.png" alt="image-20221206165552506"></p>
 ]]></content>
-      <tags>
-        <tag>818-263</tag>
-      </tags>
   </entry>
   <entry>
     <title>ELENCO APN ITALIANI</title>
@@ -166,179 +187,6 @@
 <p>data.lycamobile.it </p>
 <p><strong>Rabona Mobile:</strong> </p>
 <p>rabona.it</p>
-]]></content>
-  </entry>
-  <entry>
-    <title>Chateau CAT 18</title>
-    <url>/2022/02/24/Chateau-CAT-18/</url>
-    <content><![CDATA[<h1 id="Chateau-CAT-18"><a href="#Chateau-CAT-18" class="headerlink" title="Chateau CAT 18"></a>Chateau CAT 18</h1><p><img src="https://s2.loli.net/2022/02/24/mtdJXL23xiBEh6D.jpg" alt="IMG_8153"></p>
-<p><img src="https://s2.loli.net/2022/02/24/fvKhtoqXQ3IilgM.jpg" alt="IMG_8158"></p>
-<p><img src="https://s2.loli.net/2022/02/24/CXopbPB6VF7YNhZ.jpg" alt="IMG_8160(1)"></p>
-<p><img src="https://s2.loli.net/2022/02/24/SwQ58MTHRtnDmrq.png" alt="Snipaste_2022-02-10_19-58-06"></p>
-<p><img src="https://s2.loli.net/2022/02/24/DG8nSM3qZHO1KsW.png" alt="Snipaste_2022-02-13_19-00-17"></p>
-]]></content>
-  </entry>
-  <entry>
-    <title>HUAWEI Router 5G CPE PRO 2 (H122-373)</title>
-    <url>/2022/12/06/H122-373/</url>
-    <content><![CDATA[<p>Il firmware versione 10 non può aggregare tim e wind b1</p>
-<p>Non tutti i router possono essere aggiornati, devono ricevere l’OTA .</p>
-<p>porta rj11 serve solo per VOIP , In poche parole, non è possibile effettuare chiamate da o verso la sim nel router.</p>
-<p>27-01-2023</p>
-<p>È possibile fare l’aggiornamento <strong>solo via OTA</strong>; se si esegue l’aggiornamento in locale, il router diventa un mattone. (Easy Firmware………………)</p>
-<p><img src="https://s2.loli.net/2022/12/06/pLEa39WOf1rPDUm.png" alt="image-20221206165552506"></p>
-]]></content>
-  </entry>
-  <entry>
-    <title>H138-380 HUAWEI 5G CPE Pro 3</title>
-    <url>/2022/01/27/H138-380/</url>
-    <content><![CDATA[<p><img src="https://s2.loli.net/2022/01/27/eXUGBDcq59jmstF.jpg" alt="IMG_7933"></p>
-<p><img src="https://s2.loli.net/2022/01/27/q8OhzQb5Pj46ZoL.jpg" alt="IMG_7936"></p>
-<p><img src="https://s2.loli.net/2022/01/27/uJ3kxqvoTdb8FPw.jpg" alt="IMG_7937"></p>
-<p><img src="https://s2.loli.net/2022/01/27/81fA5naW2GpVPMR.jpg" alt="IMG_7938"></p>
-<p><img src="https://s2.loli.net/2022/01/27/wnJimDqQvFu8a2Z.png" alt="Snipaste_2022-01-27_13-17-10"></p>
-<p><img src="https://s2.loli.net/2022/01/27/1tiTVLDMS8j4dQF.png" alt="Snipaste_2022-01-27_13-17-41"></p>
-<p><img src="https://s2.loli.net/2022/01/27/ifJLIoSKyMg2bAt.png" alt="Snipaste_2022-01-27_13-18-19"></p>
-]]></content>
-  </entry>
-  <entry>
-    <title>MC 801A</title>
-    <url>/2022/01/24/MC-801A/</url>
-    <content><![CDATA[<h1 id="ZTE-801A"><a href="#ZTE-801A" class="headerlink" title="ZTE 801A"></a>ZTE 801A</h1><p><img src="https://s2.loli.net/2022/01/24/WzpQu25Ac36n9ah.jpg" alt="IMG_7804"></p>
-<p><img src="https://s2.loli.net/2022/01/24/9pvhsGK4LawQlm5.png" alt="Snipaste_2022-01-24_15-23-44"></p>
-<p>DreiMaxx<br>Megenta Internet 5G Box<br>A1 Net Cube 5G 2<br>ZTE HyperBox 5G - MC801A</p>
-<p>Megenta Internet 5G Box e ZTE HyperBox 5G - MC801A hanno lo stesso firmware</p>
-<p>L’aggiornamento online dell’801a richiede molto tempo… 5 minuti?<br>Non è consigliabile eseguire l’aggiornamento se il router è attualmente stabile.</p>
-<p>In particolare, il dreimaxx è diventato instabile dopo l’aggiornamento del firmware. (b17)</p>
-<h2 id="HyperBox-o-Megenta"><a href="#HyperBox-o-Megenta" class="headerlink" title="HyperBox o Megenta"></a>HyperBox o Megenta</h2><p>Megenta Internet 5G Box e ZTE HyperBox 5G - MC801A hanno lo stesso firmware</p>
-<p><em>HyperBox non può flashare se no perde il segnale e per momento no c’è modo per recuperare il segnale</em></p>
-<ul>
-<li>I amici russi hanno risolto questo problema.<ul>
-<li><a href="https://4pda.to/forum/index.php?showtopic=1011903&amp;view=findpost&amp;p=117679496">https://4pda.to/forum/index.php?showtopic=1011903&amp;view=findpost&amp;p=117679496</a></li>
-<li><a href="https://4pda.to/forum/index.php?showtopic=1011903&amp;st=1900#entry119272281">https://4pda.to/forum/index.php?showtopic=1011903&amp;st=1900#entry119272281</a><ul>
-<li><a href="https://4pda.to/forum/index.php?showuser=4957492">USER@555 - w3bsit3-dns.com</a></li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-<p>hanno la porta nascosta cs non funziona VoIP funziona</p>
-<h2 id="DreiMaxx"><a href="#DreiMaxx" class="headerlink" title="DreiMaxx"></a>DreiMaxx</h2><p>Può essere flashato con qualsiasi fw e cambiare imei</p>
-<p><img src="https://s2.loli.net/2022/02/21/CIbksW9GNTtmD26.png" alt="image-20220221162733920"></p>
-<p>Alcuni dreimaxx hanno dei blocchi per motivi sconosciuti</p>
-<p><strong>Ma con la possibilità di cambiare l’imei e il firmware, questo non è un problema</strong></p>
-<p>ha la porta rj11 e funziona </p>
-<p>27-01-2023</p>
-<ul>
-<li>Ho trovato un dreimaxx che non poteva essere flashato con il firmware dreimaxx (nessun segnale).</li>
-<li>Problema risolto con 396590B1250BD_FITELIAMC801AV1.0.0B12.</li>
-</ul>
-<p><strong>Questa è la versione migliore</strong></p>
-<h2 id="A1-Net-Cube-5G-2"><a href="#A1-Net-Cube-5G-2" class="headerlink" title="A1 Net Cube 5G 2"></a>A1 Net Cube 5G 2</h2><p>Il segnale può essere ripristinato flashando 396590B1250BD_FITELIAMC801AV1.0.0B12</p>
-<p>ma non c’e’ modo per ritornare fw originale</p>
-<p>ha la porta rj11 e funziona </p>
-<p>Il motivo della perdita del segnale è ancora sconosciuto, ci dovrebbe essere un posto per memorizzare i dati all’interno</p>
-<h2 id="firmware"><a href="#firmware" class="headerlink" title="firmware"></a>firmware</h2><p>Quando questo router è stato rilasciato per la prima volta, poiché le persone non ne erano a conoscenza, alcuni hanno provato a flsharlo e a sperimentare altri firmware.<br>Questo è ciò che causa l’assenza di segnale</p>
-<p>Dal momento che mionono ha rilasciato l’haker, non ha più senso cambiare il firmware.</p>
-<h2 id="imei"><a href="#imei" class="headerlink" title="imei"></a>imei</h2><p>Se esiste una priorità, il telefono deve avere una priorità superiore a quella del router.</p>
-<p><a href="https://www.fastweb.it/myfastweb/assistenza/guide/5g-mobile/">MyFastweb - Rete Mobile 5G</a></p>
-<ul>
-<li>In teoria è possibile utilizzare la rete 5g di fastweb modificando l’imei, ma non ho mai provato.</li>
-</ul>
-<h2 id="Alimentazione"><a href="#Alimentazione" class="headerlink" title="Alimentazione"></a>Alimentazione</h2><p>Il router può funzionare a 5v</p>
-<p>Molti caricabatterie supportano la ricarica rapida, e quindi non un 5v fisso commuterà automaticamente la tensione in base al dispositivo. (Prestare attenzione se si utilizzano cavi a tensione variabile da 5v a 12v.)</p>
-<p><img src="https://s2.loli.net/2022/05/18/QUXkry8MVJjgEG3.jpg" alt="IMG_20210413_233445"></p>
-<h2 id="Antenna-4g-esterna"><a href="#Antenna-4g-esterna" class="headerlink" title="Antenna 4g esterna"></a>Antenna 4g esterna</h2><p><a href="https://www.adslgate.com/dsl/showthread.php?p=1083314126">تعديل راوتر ZTE 5G MC801A وعمل وصلات للانتينا الخارجي - البوابة الرقمية ADSLGATE</a></p>
-<p><a href="https://www.adslgate.com/dsl/showthread.php?t=2630621">مشاركة تجربة وصلات 4G بدون لحام لراوتر ZTE MC801A 5G - البوابة الرقمية ADSLGATE</a></p>
-<p><a href="https://4pda.to/forum/index.php?showtopic=1011903&st=1100#entry113199006">ZTE MC801 / MC801а – обсуждение - 4PDA</a></p>
-<p><img src="https://s2.loli.net/2022/05/18/Bs7Z2aExD51YMW6.jpg" alt="DREIMAXX"></p>
-<p>A1 E A3 sono main</p>
-<p>Le due plastiche sono antenne</p>
-<p>Il nome del cavo è MS156</p>
-<p><img src="https://s2.loli.net/2022/05/18/hr6AvbR3MOuoaQD.jpg"></p>
-<h2 id="Antenna-esterna"><a href="#Antenna-esterna" class="headerlink" title="Antenna esterna"></a>Antenna esterna</h2><p>L’801a è dotato di due connettori ts9 per la ricezione di segnali 5g.</p>
-<p>5g n78 no N3 (Usa la frequenza 4g)</p>
-<h2 id="LAN"><a href="#LAN" class="headerlink" title="LAN"></a>LAN</h2><p><img src="https://s2.loli.net/2023/01/04/DjaARpxM9XBgiUo.jpg" alt="photo_2022-01-28_18-27-50"></p>
-<p>Bisogna ammettere che ha una latenza maggiore rispetto ad altri router.</p>
-<p>ping </p>
-<p>qpc -&gt; router via LAN</p>
-<h2 id="LED"><a href="#LED" class="headerlink" title="LED"></a>LED</h2><ol>
-<li>SEGNALE<br>(Tre luci)<br>Acceso: Tre spie indicano la potenza del segnale. Più luci accese significano segnali migliori.<br>Spento: non c’è segnale o non è inserita una scheda nano-SIM.</li>
-<li>RETE<br>Rosso: il dispositivo è acceso ma non è registrato alla rete mobile.<br>Blu fisso: il dispositivo è registrato o connesso alla rete mobile 3G/4G.<br>Bianco fisso: il dispositivo è registrato o connesso alla rete 5G.<br>Blu (1 SECONDO) Rosso  (2 SECONDI)<br>Il router ti ricorda di tenere sotto controllo il tuo traffico<br><img src="https://s2.loli.net/2022/05/23/3Y9swNQ7BdZEA6r.png" alt="image-20220522185358952"></li>
-<li>WIFI<br>Acceso: La WLAN (Wi-Fi) funziona normalmente. Lampeggiante: WPS si sta attivando.<br>Spento: la WLAN(Wi-Fi) è disattivata.</li>
-<li>ALIMENTAZIONE<br>Acceso: Il dispositivo è acceso.<br>Off: il dispositivo è spento.</li>
-</ol>
-]]></content>
-  </entry>
-  <entry>
-    <title>Libertà di stampa</title>
-    <url>/2022/06/25/Libert%C3%A0-di-stampa/</url>
-    <content><![CDATA[<h1 id="Liberta-di-stampa"><a href="#Liberta-di-stampa" class="headerlink" title="Libertà di stampa"></a>Libertà di stampa</h1><p>La libertà di stampa è in realtà una cosa molto facile da ottenere.😀</p>
-<h2 id="Selezione-della-stampante"><a href="#Selezione-della-stampante" class="headerlink" title="Selezione della stampante"></a>Selezione della stampante</h2><p>Le stampanti per uso domestico sono essenzialmente due</p>
-<ul>
-<li><p>Stampanti a getto d’inchiostro che usano dei piccoli fori per spruzzare l’inchiostro sulla carta.</p>
-</li>
-<li><p>Stampanti laser che usano inchiostro secco (il toner) che viene appiccicato sulla carta mediante carica elettrostatica.</p>
-<ul>
-<li>Non è consigliato, perché crea polvere e ozono quando è in funzione. anche se «Tutto è veleno: nulla esiste di non velenoso. <strong>Solo</strong> la dose fa in modo che il veleno non faccia effetto.» ma non è consigliato.</li>
-<li>Se dovete usarlo, non mettetelo nella stanza da letto.</li>
-</ul>
-</li>
-</ul>
-<h2 id="Stampanti-a-getto-d’inchiostro"><a href="#Stampanti-a-getto-d’inchiostro" class="headerlink" title="Stampanti a getto d’inchiostro"></a>Stampanti a getto d’inchiostro</h2><ul>
-<li>termico: in corrispondenza di ogni ugello è posizionato un resistore attraverso il quale vengono fatti passare impulsi di corrente; ad ogni impulso il resistore si scalda alla temperatura di alcune centinaia di gradi in pochi microsecondi e genera nell’inchiostro a contatto con esso una bolla di vapore. L’espansione di quest’ultima provoca l’espulsione della goccia dall’ugello soprastante. Questa è la tecnologia più diffusa nell’ambito home/office ed è utilizzata da Hewlett-Packard, Canon, Lexmark e Olivetti;</li>
-<li>piezoelettrico: sotto ogni ugello è sistemato un canalino circondato da un cristallo piezoelettrico a cui vengono mandati degli impulsi elettrici; ogni impulso provoca la deformazione del cristallo e conseguentemente la repentina strozzatura del canalino e l’eiezione dell’inchiostro; è la tecnologia utilizzata da Epson.</li>
-</ul>
-<p>L’uso della tecnologia termica è assolutamente sconsigliato , perché nella maggior parte dei casi la testina di stampa è un materiale di consumo………….</p>
-<p>Le stampanti Epson, che sono completamente diverse, utilizzano la tecnologia piezoelettrica e hanno una durata molto lunga della testina di stampa, e alcuni acquistano le loro stampanti specificamente per uso commerciale, come il trasferimento termico <a href="https://www.youtube.com/results?search_query=Modified+Epson">ecc..</a></p>
-<h2 id="Alcuni-parametri-da-conoscere-quando-si-acquista-una-stampante"><a href="#Alcuni-parametri-da-conoscere-quando-si-acquista-una-stampante" class="headerlink" title="Alcuni parametri da conoscere quando si acquista una stampante"></a>Alcuni parametri da conoscere quando si acquista una stampante</h2><h5 id="Configurazione-ugelli"><a href="#Configurazione-ugelli" class="headerlink" title="Configurazione ugelli"></a>Configurazione ugelli</h5><p>800 ugelli per il nero, 256 ugelli per ciascun colore</p>
-<ul>
-<li>più ugelli sono meglio è  (più preciso e più veloce)</li>
-</ul>
-<p><strong>Monthly Duty Cycle</strong></p>
-<p>50000</p>
-<ul>
-<li>Il ciclo di lavoro mensile è il numero massimo di pagine che una stampante può stampare al mese senza rompersi. </li>
-</ul>
-<h5 id="Velocita-di-stampa-ISO-IEC-24734"><a href="#Velocita-di-stampa-ISO-IEC-24734" class="headerlink" title="Velocità di stampa ISO/IEC 24734"></a>Velocità di stampa ISO/IEC 24734</h5><p>25 pagine/min Monocromatico, 12 pagine/min Colour</p>
-<ul>
-<li><a href="https://www.iso.org/obp/ui/#iso:std:iso-iec:24734:ed-3:v1:en">ISO/IEC 24734:2021(en), Information technology — Office equipment — Method for measuring digital printing productivity</a></li>
-</ul>
-<p><strong>Capacità della cartuccia</strong></p>
-<p>Capacità della cartuccia d’inchiostro: maggiore è la capacità, meglio è.</p>
-<p>-<a href="https://www.google.com/search?q=903xl+ml">903xl ml - Google Search</a></p>
-<h2 id="CISS"><a href="#CISS" class="headerlink" title="CISS"></a>CISS</h2><p>CISS = continuous ink supply system = continuous ink supply system</p>
-<p>In teoria tutte le cartucce sono ricaricabili.</p>
-<p>Tuttavia, i produttori hanno limitato la stampante installando un chip che registra le informazioni sulla cartuccia e la stampante non funziona se le informazioni non sono corrette.</p>
-<p>Per ricaricare la cartuccia è quindi necessario un <strong>chip autoreset</strong>.</p>
-<p>Per quanto ne so, ci sono tre tipi di autoreset.</p>
-<ul>
-<li>La stampante legge le informazioni contenute nella cartuccia e, se scopre che l’inchiostro nella cartuccia è esaurito, il chip inizia ad azzerare la cartuccia. (Il chip non conosce la quantità effettiva di inchiostro presente nella cartuccia, che può essere calcolata solo in base a ciascuna stampa.) Se non c’è inchiostro nella cartuccia, il chip si danneggia, non so perché, ma è quello che mi ha detto il venditore , assicuratevi quindi che ci sia sempre inchiostro nella cartuccia.</li>
-<li>C’è un pulsante che, se tenuto premuto, inizia ad azzerare la cartuccia.</li>
-<li>Non ho mai usato uno di questi modelli e ho sentito dire che si tratta solo di rimontare la cartuccia.</li>
-</ul>
-<h2 id="Valvole-unidirezionali"><a href="#Valvole-unidirezionali" class="headerlink" title="Valvole unidirezionali"></a>Valvole unidirezionali</h2><p>Utilizzato per evitare che la cartuccia ritorni nella contenitore.</p>
-<p>Questo è sempre importante, dopo tutto l’acqua scorre in discesa.</p>
-<p><img src="https://s2.loli.net/2022/06/25/1fxFgnARMih82rs.jpg" alt="IMG_20220522_155614"></p>
-<p>da finire………………….</p>
-<p>da finire………………….</p>
-<p>da finire………………….</p>
-<p>da finire………………….</p>
-<p>da finire………………….</p>
-<p>da finire………………….</p>
-<p>da finire………………….</p>
-<p>da finire………………….</p>
-<p>da finire………………….</p>
-<p>da finire………………….</p>
-<p>da finire………………….</p>
-<p>da finire………………….</p>
-<p>da finire………………….</p>
-<p>da finire………………….</p>
-<p>da finire………………….</p>
-<p>da finire………………….</p>
-<p>da finire………………….</p>
-<p>da finire………………….</p>
-<p>[Getto di inchiostro - Wikiwand<a href="https://t.me/+Rn43J2hi2Zs3ZDBh">https://t.me/+Rn43J2hi2Zs3ZDBh</a>)</p>
 ]]></content>
   </entry>
   <entry>
@@ -535,6 +383,173 @@
 ]]></content>
   </entry>
   <entry>
+    <title>H138-380 HUAWEI 5G CPE Pro 3</title>
+    <url>/2022/01/27/H138-380/</url>
+    <content><![CDATA[<p><img src="https://s2.loli.net/2022/01/27/eXUGBDcq59jmstF.jpg" alt="IMG_7933"></p>
+<p><img src="https://s2.loli.net/2022/01/27/q8OhzQb5Pj46ZoL.jpg" alt="IMG_7936"></p>
+<p><img src="https://s2.loli.net/2022/01/27/uJ3kxqvoTdb8FPw.jpg" alt="IMG_7937"></p>
+<p><img src="https://s2.loli.net/2022/01/27/81fA5naW2GpVPMR.jpg" alt="IMG_7938"></p>
+<p><img src="https://s2.loli.net/2022/01/27/wnJimDqQvFu8a2Z.png" alt="Snipaste_2022-01-27_13-17-10"></p>
+<p><img src="https://s2.loli.net/2022/01/27/1tiTVLDMS8j4dQF.png" alt="Snipaste_2022-01-27_13-17-41"></p>
+<p><img src="https://s2.loli.net/2022/01/27/ifJLIoSKyMg2bAt.png" alt="Snipaste_2022-01-27_13-18-19"></p>
+]]></content>
+  </entry>
+  <entry>
+    <title>Libertà di stampa</title>
+    <url>/2022/06/25/Libert%C3%A0-di-stampa/</url>
+    <content><![CDATA[<h1 id="Liberta-di-stampa"><a href="#Liberta-di-stampa" class="headerlink" title="Libertà di stampa"></a>Libertà di stampa</h1><p>La libertà di stampa è in realtà una cosa molto facile da ottenere.😀</p>
+<h2 id="Selezione-della-stampante"><a href="#Selezione-della-stampante" class="headerlink" title="Selezione della stampante"></a>Selezione della stampante</h2><p>Le stampanti per uso domestico sono essenzialmente due</p>
+<ul>
+<li><p>Stampanti a getto d’inchiostro che usano dei piccoli fori per spruzzare l’inchiostro sulla carta.</p>
+</li>
+<li><p>Stampanti laser che usano inchiostro secco (il toner) che viene appiccicato sulla carta mediante carica elettrostatica.</p>
+<ul>
+<li>Non è consigliato, perché crea polvere e ozono quando è in funzione. anche se «Tutto è veleno: nulla esiste di non velenoso. <strong>Solo</strong> la dose fa in modo che il veleno non faccia effetto.» ma non è consigliato.</li>
+<li>Se dovete usarlo, non mettetelo nella stanza da letto.</li>
+</ul>
+</li>
+</ul>
+<h2 id="Stampanti-a-getto-d’inchiostro"><a href="#Stampanti-a-getto-d’inchiostro" class="headerlink" title="Stampanti a getto d’inchiostro"></a>Stampanti a getto d’inchiostro</h2><ul>
+<li>termico: in corrispondenza di ogni ugello è posizionato un resistore attraverso il quale vengono fatti passare impulsi di corrente; ad ogni impulso il resistore si scalda alla temperatura di alcune centinaia di gradi in pochi microsecondi e genera nell’inchiostro a contatto con esso una bolla di vapore. L’espansione di quest’ultima provoca l’espulsione della goccia dall’ugello soprastante. Questa è la tecnologia più diffusa nell’ambito home/office ed è utilizzata da Hewlett-Packard, Canon, Lexmark e Olivetti;</li>
+<li>piezoelettrico: sotto ogni ugello è sistemato un canalino circondato da un cristallo piezoelettrico a cui vengono mandati degli impulsi elettrici; ogni impulso provoca la deformazione del cristallo e conseguentemente la repentina strozzatura del canalino e l’eiezione dell’inchiostro; è la tecnologia utilizzata da Epson.</li>
+</ul>
+<p>L’uso della tecnologia termica è assolutamente sconsigliato , perché nella maggior parte dei casi la testina di stampa è un materiale di consumo………….</p>
+<p>Le stampanti Epson, che sono completamente diverse, utilizzano la tecnologia piezoelettrica e hanno una durata molto lunga della testina di stampa, e alcuni acquistano le loro stampanti specificamente per uso commerciale, come il trasferimento termico <a href="https://www.youtube.com/results?search_query=Modified+Epson">ecc..</a></p>
+<h2 id="Alcuni-parametri-da-conoscere-quando-si-acquista-una-stampante"><a href="#Alcuni-parametri-da-conoscere-quando-si-acquista-una-stampante" class="headerlink" title="Alcuni parametri da conoscere quando si acquista una stampante"></a>Alcuni parametri da conoscere quando si acquista una stampante</h2><h5 id="Configurazione-ugelli"><a href="#Configurazione-ugelli" class="headerlink" title="Configurazione ugelli"></a>Configurazione ugelli</h5><p>800 ugelli per il nero, 256 ugelli per ciascun colore</p>
+<ul>
+<li>più ugelli sono meglio è  (più preciso e più veloce)</li>
+</ul>
+<p><strong>Monthly Duty Cycle</strong></p>
+<p>50000</p>
+<ul>
+<li>Il ciclo di lavoro mensile è il numero massimo di pagine che una stampante può stampare al mese senza rompersi. </li>
+</ul>
+<h5 id="Velocita-di-stampa-ISO-IEC-24734"><a href="#Velocita-di-stampa-ISO-IEC-24734" class="headerlink" title="Velocità di stampa ISO/IEC 24734"></a>Velocità di stampa ISO/IEC 24734</h5><p>25 pagine/min Monocromatico, 12 pagine/min Colour</p>
+<ul>
+<li><a href="https://www.iso.org/obp/ui/#iso:std:iso-iec:24734:ed-3:v1:en">ISO/IEC 24734:2021(en), Information technology — Office equipment — Method for measuring digital printing productivity</a></li>
+</ul>
+<p><strong>Capacità della cartuccia</strong></p>
+<p>Capacità della cartuccia d’inchiostro: maggiore è la capacità, meglio è.</p>
+<p>-<a href="https://www.google.com/search?q=903xl+ml">903xl ml - Google Search</a></p>
+<h2 id="CISS"><a href="#CISS" class="headerlink" title="CISS"></a>CISS</h2><p>CISS = continuous ink supply system = continuous ink supply system</p>
+<p>In teoria tutte le cartucce sono ricaricabili.</p>
+<p>Tuttavia, i produttori hanno limitato la stampante installando un chip che registra le informazioni sulla cartuccia e la stampante non funziona se le informazioni non sono corrette.</p>
+<p>Per ricaricare la cartuccia è quindi necessario un <strong>chip autoreset</strong>.</p>
+<p>Per quanto ne so, ci sono tre tipi di autoreset.</p>
+<ul>
+<li>La stampante legge le informazioni contenute nella cartuccia e, se scopre che l’inchiostro nella cartuccia è esaurito, il chip inizia ad azzerare la cartuccia. (Il chip non conosce la quantità effettiva di inchiostro presente nella cartuccia, che può essere calcolata solo in base a ciascuna stampa.) Se non c’è inchiostro nella cartuccia, il chip si danneggia, non so perché, ma è quello che mi ha detto il venditore , assicuratevi quindi che ci sia sempre inchiostro nella cartuccia.</li>
+<li>C’è un pulsante che, se tenuto premuto, inizia ad azzerare la cartuccia.</li>
+<li>Non ho mai usato uno di questi modelli e ho sentito dire che si tratta solo di rimontare la cartuccia.</li>
+</ul>
+<h2 id="Valvole-unidirezionali"><a href="#Valvole-unidirezionali" class="headerlink" title="Valvole unidirezionali"></a>Valvole unidirezionali</h2><p>Utilizzato per evitare che la cartuccia ritorni nella contenitore.</p>
+<p>Questo è sempre importante, dopo tutto l’acqua scorre in discesa.</p>
+<p><img src="https://s2.loli.net/2022/06/25/1fxFgnARMih82rs.jpg" alt="IMG_20220522_155614"></p>
+<p>da finire………………….</p>
+<p>da finire………………….</p>
+<p>da finire………………….</p>
+<p>da finire………………….</p>
+<p>da finire………………….</p>
+<p>da finire………………….</p>
+<p>da finire………………….</p>
+<p>da finire………………….</p>
+<p>da finire………………….</p>
+<p>da finire………………….</p>
+<p>da finire………………….</p>
+<p>da finire………………….</p>
+<p>da finire………………….</p>
+<p>da finire………………….</p>
+<p>da finire………………….</p>
+<p>da finire………………….</p>
+<p>da finire………………….</p>
+<p>da finire………………….</p>
+<p>[Getto di inchiostro - Wikiwand<a href="https://t.me/+Rn43J2hi2Zs3ZDBh">https://t.me/+Rn43J2hi2Zs3ZDBh</a>)</p>
+]]></content>
+  </entry>
+  <entry>
+    <title>MC 801A</title>
+    <url>/2022/01/24/MC-801A/</url>
+    <content><![CDATA[<h1 id="ZTE-801A"><a href="#ZTE-801A" class="headerlink" title="ZTE 801A"></a>ZTE 801A</h1><p><img src="https://s2.loli.net/2022/01/24/WzpQu25Ac36n9ah.jpg" alt="IMG_7804"></p>
+<p><img src="https://s2.loli.net/2022/01/24/9pvhsGK4LawQlm5.png" alt="Snipaste_2022-01-24_15-23-44"></p>
+<p>DreiMaxx<br>Megenta Internet 5G Box<br>A1 Net Cube 5G 2<br>ZTE HyperBox 5G - MC801A</p>
+<p>Megenta Internet 5G Box e ZTE HyperBox 5G - MC801A hanno lo stesso firmware</p>
+<p>L’aggiornamento online dell’801a richiede molto tempo… 5 minuti?<br>Non è consigliabile eseguire l’aggiornamento se il router è attualmente stabile.</p>
+<p>In particolare, il dreimaxx è diventato instabile dopo l’aggiornamento del firmware. (b17)</p>
+<h2 id="HyperBox-o-Megenta"><a href="#HyperBox-o-Megenta" class="headerlink" title="HyperBox o Megenta"></a>HyperBox o Megenta</h2><p>Megenta Internet 5G Box e ZTE HyperBox 5G - MC801A hanno lo stesso firmware</p>
+<p><em>HyperBox non può flashare se no perde il segnale e per momento no c’è modo per recuperare il segnale</em></p>
+<ul>
+<li>I amici russi hanno risolto questo problema.<ul>
+<li><a href="https://4pda.to/forum/index.php?showtopic=1011903&amp;view=findpost&amp;p=117679496">https://4pda.to/forum/index.php?showtopic=1011903&amp;view=findpost&amp;p=117679496</a></li>
+<li><a href="https://4pda.to/forum/index.php?showtopic=1011903&amp;st=1900#entry119272281">https://4pda.to/forum/index.php?showtopic=1011903&amp;st=1900#entry119272281</a><ul>
+<li><a href="https://4pda.to/forum/index.php?showuser=4957492">USER@555 - w3bsit3-dns.com</a></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<p>hanno la porta nascosta cs non funziona VoIP funziona</p>
+<h2 id="DreiMaxx"><a href="#DreiMaxx" class="headerlink" title="DreiMaxx"></a>DreiMaxx</h2><p>Può essere flashato con qualsiasi fw e cambiare imei</p>
+<p><img src="https://s2.loli.net/2022/02/21/CIbksW9GNTtmD26.png" alt="image-20220221162733920"></p>
+<p>Alcuni dreimaxx hanno dei blocchi per motivi sconosciuti</p>
+<p><strong>Ma con la possibilità di cambiare l’imei e il firmware, questo non è un problema</strong></p>
+<p>ha la porta rj11 e funziona </p>
+<p>27-01-2023</p>
+<ul>
+<li>Ho trovato un dreimaxx che non poteva essere flashato con il firmware dreimaxx (nessun segnale).</li>
+<li>Problema risolto con 396590B1250BD_FITELIAMC801AV1.0.0B12.</li>
+</ul>
+<p><strong>Questa è la versione migliore</strong></p>
+<h2 id="A1-Net-Cube-5G-2"><a href="#A1-Net-Cube-5G-2" class="headerlink" title="A1 Net Cube 5G 2"></a>A1 Net Cube 5G 2</h2><p>Il segnale può essere ripristinato flashando 396590B1250BD_FITELIAMC801AV1.0.0B12</p>
+<p>ma non c’e’ modo per ritornare fw originale</p>
+<p>ha la porta rj11 e funziona </p>
+<p>Il motivo della perdita del segnale è ancora sconosciuto, ci dovrebbe essere un posto per memorizzare i dati all’interno</p>
+<h2 id="firmware"><a href="#firmware" class="headerlink" title="firmware"></a>firmware</h2><p>Quando questo router è stato rilasciato per la prima volta, poiché le persone non ne erano a conoscenza, alcuni hanno provato a flsharlo e a sperimentare altri firmware.<br>Questo è ciò che causa l’assenza di segnale</p>
+<p>Dal momento che mionono ha rilasciato l’haker, non ha più senso cambiare il firmware.</p>
+<h2 id="imei"><a href="#imei" class="headerlink" title="imei"></a>imei</h2><p>Se esiste una priorità, il telefono deve avere una priorità superiore a quella del router.</p>
+<p><a href="https://www.fastweb.it/myfastweb/assistenza/guide/5g-mobile/">MyFastweb - Rete Mobile 5G</a></p>
+<ul>
+<li>In teoria è possibile utilizzare la rete 5g di fastweb modificando l’imei, ma non ho mai provato.</li>
+</ul>
+<h2 id="Alimentazione"><a href="#Alimentazione" class="headerlink" title="Alimentazione"></a>Alimentazione</h2><p>Il router può funzionare a 5v</p>
+<p>Molti caricabatterie supportano la ricarica rapida, e quindi non un 5v fisso commuterà automaticamente la tensione in base al dispositivo. (Prestare attenzione se si utilizzano cavi a tensione variabile da 5v a 12v.)</p>
+<p><img src="https://s2.loli.net/2022/05/18/QUXkry8MVJjgEG3.jpg" alt="IMG_20210413_233445"></p>
+<h2 id="Antenna-4g-esterna"><a href="#Antenna-4g-esterna" class="headerlink" title="Antenna 4g esterna"></a>Antenna 4g esterna</h2><p><a href="https://www.adslgate.com/dsl/showthread.php?p=1083314126">تعديل راوتر ZTE 5G MC801A وعمل وصلات للانتينا الخارجي - البوابة الرقمية ADSLGATE</a></p>
+<p><a href="https://www.adslgate.com/dsl/showthread.php?t=2630621">مشاركة تجربة وصلات 4G بدون لحام لراوتر ZTE MC801A 5G - البوابة الرقمية ADSLGATE</a></p>
+<p><a href="https://4pda.to/forum/index.php?showtopic=1011903&st=1100#entry113199006">ZTE MC801 / MC801а – обсуждение - 4PDA</a></p>
+<p><img src="https://s2.loli.net/2022/05/18/Bs7Z2aExD51YMW6.jpg" alt="DREIMAXX"></p>
+<p>A1 E A3 sono main</p>
+<p>Le due plastiche sono antenne</p>
+<p>Il nome del cavo è MS156</p>
+<p><img src="https://s2.loli.net/2022/05/18/hr6AvbR3MOuoaQD.jpg"></p>
+<h2 id="Antenna-esterna"><a href="#Antenna-esterna" class="headerlink" title="Antenna esterna"></a>Antenna esterna</h2><p>L’801a è dotato di due connettori ts9 per la ricezione di segnali 5g.</p>
+<p>5g n78 no N3 (Usa la frequenza 4g)</p>
+<h2 id="LAN"><a href="#LAN" class="headerlink" title="LAN"></a>LAN</h2><p><img src="https://s2.loli.net/2023/01/04/DjaARpxM9XBgiUo.jpg" alt="photo_2022-01-28_18-27-50"></p>
+<p>Bisogna ammettere che ha una latenza maggiore rispetto ad altri router.</p>
+<p>ping </p>
+<p>qpc -&gt; router via LAN</p>
+<h2 id="LED"><a href="#LED" class="headerlink" title="LED"></a>LED</h2><ol>
+<li>SEGNALE<br>(Tre luci)<br>Acceso: Tre spie indicano la potenza del segnale. Più luci accese significano segnali migliori.<br>Spento: non c’è segnale o non è inserita una scheda nano-SIM.</li>
+<li>RETE<br>Rosso: il dispositivo è acceso ma non è registrato alla rete mobile.<br>Blu fisso: il dispositivo è registrato o connesso alla rete mobile 3G/4G.<br>Bianco fisso: il dispositivo è registrato o connesso alla rete 5G.<br>Blu (1 SECONDO) Rosso  (2 SECONDI)<br>Il router ti ricorda di tenere sotto controllo il tuo traffico<br><img src="https://s2.loli.net/2022/05/23/3Y9swNQ7BdZEA6r.png" alt="image-20220522185358952"></li>
+<li>WIFI<br>Acceso: La WLAN (Wi-Fi) funziona normalmente. Lampeggiante: WPS si sta attivando.<br>Spento: la WLAN(Wi-Fi) è disattivata.</li>
+<li>ALIMENTAZIONE<br>Acceso: Il dispositivo è acceso.<br>Off: il dispositivo è spento.</li>
+</ol>
+]]></content>
+  </entry>
+  <entry>
+    <title>NETGEAR Nighthawk M1 4X4 MIMO MOD</title>
+    <url>/2022/03/19/NETGEAR-Nighthawk-M1/</url>
+    <content><![CDATA[<h1 id="NETGEAR-Nighthawk-M1-4X4-MIMO-MOD"><a href="#NETGEAR-Nighthawk-M1-4X4-MIMO-MOD" class="headerlink" title="NETGEAR Nighthawk M1 4X4 MIMO MOD"></a>NETGEAR Nighthawk M1 4X4 MIMO MOD</h1><p><img src="https://s2.loli.net/2022/03/20/iFEWcbfSaI81dJp.jpg" alt="s-l1600 (2)"></p>
+<p><img src="https://s2.loli.net/2022/03/20/AfR6XuxZp8qY3tB.jpg" alt="s-l1600 (3)"></p>
+<p><img src="https://s2.loli.net/2022/03/20/24J81iBascO9z3Z.jpg" alt="s-l1600 (4)"></p>
+<p><img src="https://s2.loli.net/2022/03/20/W87EbIAuKRUDBfa.jpg" alt="s-l1600 (5)"></p>
+<p><img src="https://s2.loli.net/2022/03/20/3dkVwblMqcfF6RY.jpg" alt="s-l1600 (6)"></p>
+<p><img src="https://s2.loli.net/2022/03/20/aRmNVLh2E93Itbw.jpg" alt="s-l1600 (7)"></p>
+<p><img src="https://s2.loli.net/2022/03/20/PYo84UHqViJLRpQ.jpg" alt="s-l1600 (8)"></p>
+<p><img src="https://s2.loli.net/2022/03/20/9DSpcC8PyVxqXng.jpg" alt="s-l1600"></p>
+<p>by</p>
+<p><a href="https://www.ebay.it/itm/">NETGEAR Nighthawk M1 4gx LTE Mobile Router Mr1100 (Network unlocked)</a></p>
+]]></content>
+  </entry>
+  <entry>
     <title>Modalità di antenna del CPE ZTE</title>
     <url>/2022/06/25/Modalit%C3%A0-di-antenna-del-CPE-ZTE/</url>
     <content><![CDATA[<h1 id="Modalita-di-antenna-del-CPE-ZTE"><a href="#Modalita-di-antenna-del-CPE-ZTE" class="headerlink" title="Modalità di antenna del CPE ZTE"></a>Modalità di antenna del CPE ZTE</h1><h2 id="MF286D-MF289F"><a href="#MF286D-MF289F" class="headerlink" title="MF286D MF289F"></a>MF286D MF289F</h2><p>I due modelli più popolari di router zte attualmente disponibili sono entrambi in modalità antenna SISO</p>
@@ -557,24 +572,10 @@
 ]]></content>
   </entry>
   <entry>
-    <title>NETGEAR Nighthawk M1 4X4 MIMO MOD</title>
-    <url>/2022/03/19/NETGEAR-Nighthawk-M1/</url>
-    <content><![CDATA[<h1 id="NETGEAR-Nighthawk-M1-4X4-MIMO-MOD"><a href="#NETGEAR-Nighthawk-M1-4X4-MIMO-MOD" class="headerlink" title="NETGEAR Nighthawk M1 4X4 MIMO MOD"></a>NETGEAR Nighthawk M1 4X4 MIMO MOD</h1><p><img src="https://s2.loli.net/2022/03/20/iFEWcbfSaI81dJp.jpg" alt="s-l1600 (2)"></p>
-<p><img src="https://s2.loli.net/2022/03/20/AfR6XuxZp8qY3tB.jpg" alt="s-l1600 (3)"></p>
-<p><img src="https://s2.loli.net/2022/03/20/24J81iBascO9z3Z.jpg" alt="s-l1600 (4)"></p>
-<p><img src="https://s2.loli.net/2022/03/20/W87EbIAuKRUDBfa.jpg" alt="s-l1600 (5)"></p>
-<p><img src="https://s2.loli.net/2022/03/20/3dkVwblMqcfF6RY.jpg" alt="s-l1600 (6)"></p>
-<p><img src="https://s2.loli.net/2022/03/20/aRmNVLh2E93Itbw.jpg" alt="s-l1600 (7)"></p>
-<p><img src="https://s2.loli.net/2022/03/20/PYo84UHqViJLRpQ.jpg" alt="s-l1600 (8)"></p>
-<p><img src="https://s2.loli.net/2022/03/20/9DSpcC8PyVxqXng.jpg" alt="s-l1600"></p>
-<p>by</p>
-<p><a href="https://www.ebay.it/itm/">NETGEAR Nighthawk M1 4gx LTE Mobile Router Mr1100 (Network unlocked)</a></p>
-]]></content>
-  </entry>
-  <entry>
     <title>Poste Mobile CasaWeb</title>
     <url>/2022/01/15/Poste-Mobile-CasaWeb/</url>
-    <content><![CDATA[<h1 id="PosteMobile-Casa-Web"><a href="#PosteMobile-Casa-Web" class="headerlink" title="PosteMobile Casa Web"></a>PosteMobile Casa Web</h1><h2 id="01-11-2023-Addio-PosteMobile-Casa-Web"><a href="#01-11-2023-Addio-PosteMobile-Casa-Web" class="headerlink" title="01-11-2023 Addio PosteMobile Casa Web"></a>01-11-2023 Addio PosteMobile Casa Web</h2><p><a href="https://www.postemobile.it/offerte-fisso/postemobile-casa-web">https://www.postemobile.it/offerte-fisso/postemobile-casa-web</a></p>
+    <content><![CDATA[<h1 id="PosteMobile-Casa-Web"><a href="#PosteMobile-Casa-Web" class="headerlink" title="PosteMobile Casa Web"></a>PosteMobile Casa Web</h1><h2 id="17-06-2023"><a href="#17-06-2023" class="headerlink" title="17-06-2023"></a>17-06-2023</h2><p>Finora, hanno solo modificato il contratto senza imporre restrizioni agli utenti.</p>
+<h2 id="01-11-2023-Addio-PosteMobile-Casa-Web"><a href="#01-11-2023-Addio-PosteMobile-Casa-Web" class="headerlink" title="01-11-2023 Addio PosteMobile Casa Web"></a>01-11-2023 Addio PosteMobile Casa Web</h2><p><a href="https://www.postemobile.it/offerte-fisso/postemobile-casa-web">https://www.postemobile.it/offerte-fisso/postemobile-casa-web</a></p>
 <p><img src="https://s2.loli.net/2023/01/12/tK2zgjuNwI1QUMJ.png" alt="image-20230111193052584"></p>
 <p>120GB x 4 volte ………………………</p>
 <p><strong>Addio</strong></p>
@@ -612,6 +613,65 @@
 </ul>
 </li>
 </ul>
+]]></content>
+  </entry>
+  <entry>
+    <title>Pixel 1 spazio illimitato su Google Foto</title>
+    <url>/2022/06/05/Pixel-1-spazio-illimitato-su-Google-Foto/</url>
+    <content><![CDATA[<h1 id="Pixel-1-spazio-illimitato-su-Google-Foto"><a href="#Pixel-1-spazio-illimitato-su-Google-Foto" class="headerlink" title="Pixel 1 spazio illimitato su Google Foto"></a>Pixel 1 spazio illimitato su Google Foto</h1><p><a href="https://support.google.com/photos/answer/6220791?hl=it">Scegliere le dimensioni di caricamento di foto e video - Computer - Guida di Google Foto</a></p>
+<p><img src="https://s2.loli.net/2022/06/05/mtCqAwXUgaIcB15.jpg" alt="Snipaste_2022-06-05_10-24-41"></p>
+<p><img src="https://s2.loli.net/2022/06/05/SDFjuLrBNd4TlZR.jpg" alt="IMG_20220531_131445"></p>
+<p><img src="https://s2.loli.net/2022/06/05/Hrfy9gECbstTv6D.png" alt="image-20220605102702984"></p>
+<h2 id="informazione"><a href="#informazione" class="headerlink" title="informazione"></a>informazione</h2><ul>
+<li>Il telefono è stato rilasciato nel 2016 e all’epoca il prezzo non era basso.<ul>
+<li>649 dollari per Pixel da 32 GB. 749 dollari per Pixel da 128 GB. 769 dollari per Pixel XL da 32 GB. 869 dollari per Pixel XL da 128 GB.Oct 4, 2016</li>
+</ul>
+</li>
+<li>Lo schermo è OLED, quindi invecchierà e si brucerà (Burn-in).</li>
+<li>Per sostituire la batteria è necessario rimuovere lo schermo, che è fragile e può essere facilmente danneggiato da questa operazione.</li>
+<li>Se questo telefono ha un problema di surriscaldamento o di riavvio, di solito è un problema di scheda madre, quindi non acquistate questo tipo di telefono usato.</li>
+</ul>
+<h1 id="Il-metodo-di-backup-delle-foto"><a href="#Il-metodo-di-backup-delle-foto" class="headerlink" title="Il metodo di backup delle foto"></a>Il metodo di backup delle foto</h1><p>Foto -&gt; Pixel -&gt; Google Foto -&gt; Liberare spazio</p>
+<p><img src="https://s2.loli.net/2022/06/05/U23q5mXvTHFPrfa.jpg" alt="Snipaste_2022-06-05_10-38-30"></p>
+<ul>
+<li><h2 id="External-Links"><a href="#External-Links" class="headerlink" title="External Links"></a><strong>External Links</strong></h2></li>
+</ul>
+]]></content>
+  </entry>
+  <entry>
+    <title>Tenda 5G03 AX1800 Wi-Fi 6 5G NR Router</title>
+    <url>/2023/02/11/TENDA-5G03/</url>
+    <content><![CDATA[<h1 id="Tenda-5G03-AX1800-Wi-Fi-6-5G-NR-Router"><a href="#Tenda-5G03-AX1800-Wi-Fi-6-5G-NR-Router" class="headerlink" title="Tenda 5G03 AX1800 Wi-Fi 6 5G NR Router"></a>Tenda 5G03 AX1800 Wi-Fi 6 5G NR Router</h1><p><a href="https://www.tendacn.com/it/product/download/5G03.html">5G03 Download-Tenda (Italia)</a></p>
+]]></content>
+  </entry>
+  <entry>
+    <title>Tenda 5G03 AX1800 Wi-Fi 6 5G NR Router PHOTOS</title>
+    <url>/2023/02/11/TENDA-5G03-PHOTOS/</url>
+    <content><![CDATA[<h1 id="Tenda-5G03-AX1800-Wi-Fi-6-5G-NR-Router-PHOTOS"><a href="#Tenda-5G03-AX1800-Wi-Fi-6-5G-NR-Router-PHOTOS" class="headerlink" title="Tenda 5G03 AX1800 Wi-Fi 6 5G NR Router PHOTOS"></a>Tenda 5G03 AX1800 Wi-Fi 6 5G NR Router PHOTOS</h1><p><img src="https://s2.loli.net/2023/02/12/RH8d6wa5iP7zEjn.jpg" alt="0002"></p>
+<span id="more"></span>
+
+<p><img src="https://s2.loli.net/2023/02/12/HkM1jaxiXnZBNRT.jpg" alt="0003"></p>
+<p><img src="https://s2.loli.net/2023/02/12/JWq82tHBVTmOoEG.jpg" alt="0004"></p>
+<p><img src="https://s2.loli.net/2023/02/12/X7DelCwo5xQYHIN.jpg" alt="0005"></p>
+<p><img src="https://s2.loli.net/2023/02/12/AuQZFje8tg9wiqT.jpg" alt="0006"></p>
+<p><img src="https://s2.loli.net/2023/02/12/ZSDEjeJUc17Xnt2.jpg" alt="0007"></p>
+<p><img src="https://s2.loli.net/2023/02/12/DcsifY75EgA3QzP.jpg" alt="0008"></p>
+<p><img src="https://s2.loli.net/2023/02/12/iL3M1m4qutw2fIY.jpg" alt="0009"></p>
+<p><img src="https://s2.loli.net/2023/02/12/eE1zPVXGiaC4lFg.jpg" alt="0010"></p>
+<p><img src="https://s2.loli.net/2023/02/12/Zm1NQpUrMifRH62.jpg" alt="0011"></p>
+<p><img src="https://s2.loli.net/2023/02/12/1ng5PF26fSWNvsh.jpg" alt="0012"></p>
+<p><img src="https://s2.loli.net/2023/02/12/5phStVPir3xbZ4w.jpg" alt="0013"></p>
+<p><img src="https://s2.loli.net/2023/02/12/uJGk6VPCBz7mpyK.jpg" alt="0014"></p>
+<p><img src="https://s2.loli.net/2023/02/12/RueY15dtaLslNw2.jpg" alt="0015"></p>
+<p><img src="https://s2.loli.net/2023/02/12/isYy7zQxcD6tbd5.jpg" alt="0016"></p>
+<p><img src="https://s2.loli.net/2023/02/12/eREDOgyHWiS2nsa.jpg" alt="0017"></p>
+<p><img src="https://s2.loli.net/2023/02/12/Z2MnisD7JNyqRbm.jpg" alt="0018"></p>
+<p><img src="https://s2.loli.net/2023/02/12/5MqSZtcpk4m71og.jpg" alt="0019"></p>
+<p><img src="https://s2.loli.net/2023/02/12/FdgqKoA8OxzInBJ.jpg" alt="0020"></p>
+<p><img src="https://s2.loli.net/2023/02/12/hb5cuUfGlviBZJn.jpg" alt="0021"></p>
+<p><img src="https://s2.loli.net/2023/02/12/tvBqxpSzrXanQmO.jpg" alt="0022"></p>
+<p><img src="https://s2.loli.net/2023/02/12/z8kqf1TGxBXiHnM.jpg" alt="0023"></p>
+<p><img src="https://s2.loli.net/2023/02/12/UYmrNs2AhTGInFt.jpg" alt="0024"></p>
 ]]></content>
   </entry>
   <entry>
@@ -654,26 +714,36 @@
 ]]></content>
   </entry>
   <entry>
-    <title>Pixel 1 spazio illimitato su Google Foto</title>
-    <url>/2022/06/05/Pixel-1-spazio-illimitato-su-Google-Foto/</url>
-    <content><![CDATA[<h1 id="Pixel-1-spazio-illimitato-su-Google-Foto"><a href="#Pixel-1-spazio-illimitato-su-Google-Foto" class="headerlink" title="Pixel 1 spazio illimitato su Google Foto"></a>Pixel 1 spazio illimitato su Google Foto</h1><p><a href="https://support.google.com/photos/answer/6220791?hl=it">Scegliere le dimensioni di caricamento di foto e video - Computer - Guida di Google Foto</a></p>
-<p><img src="https://s2.loli.net/2022/06/05/mtCqAwXUgaIcB15.jpg" alt="Snipaste_2022-06-05_10-24-41"></p>
-<p><img src="https://s2.loli.net/2022/06/05/SDFjuLrBNd4TlZR.jpg" alt="IMG_20220531_131445"></p>
-<p><img src="https://s2.loli.net/2022/06/05/Hrfy9gECbstTv6D.png" alt="image-20220605102702984"></p>
-<h2 id="informazione"><a href="#informazione" class="headerlink" title="informazione"></a>informazione</h2><ul>
-<li>Il telefono è stato rilasciato nel 2016 e all’epoca il prezzo non era basso.<ul>
-<li>649 dollari per Pixel da 32 GB. 749 dollari per Pixel da 128 GB. 769 dollari per Pixel XL da 32 GB. 869 dollari per Pixel XL da 128 GB.Oct 4, 2016</li>
-</ul>
-</li>
-<li>Lo schermo è OLED, quindi invecchierà e si brucerà (Burn-in).</li>
-<li>Per sostituire la batteria è necessario rimuovere lo schermo, che è fragile e può essere facilmente danneggiato da questa operazione.</li>
-<li>Se questo telefono ha un problema di surriscaldamento o di riavvio, di solito è un problema di scheda madre, quindi non acquistate questo tipo di telefono usato.</li>
-</ul>
-<h1 id="Il-metodo-di-backup-delle-foto"><a href="#Il-metodo-di-backup-delle-foto" class="headerlink" title="Il metodo di backup delle foto"></a>Il metodo di backup delle foto</h1><p>Foto -&gt; Pixel -&gt; Google Foto -&gt; Liberare spazio</p>
-<p><img src="https://s2.loli.net/2022/06/05/U23q5mXvTHFPrfa.jpg" alt="Snipaste_2022-06-05_10-38-30"></p>
+    <title>MC 801A</title>
+    <url>/2023/05/15/ZTE-MC7010/</url>
+    <content><![CDATA[<h1 id="ZTE-MC7010-5G-Router-WiFi-per-esterni"><a href="#ZTE-MC7010-5G-Router-WiFi-per-esterni" class="headerlink" title="ZTE MC7010 5G - Router WiFi per esterni"></a>ZTE MC7010 5G - Router WiFi per esterni</h1><h2 id="LINKEM"><a href="#LINKEM" class="headerlink" title="LINKEM"></a>LINKEM</h2><p>BD_ITLINKEMMC7010V1.0.0B07</p>
 <ul>
-<li><h2 id="External-Links"><a href="#External-Links" class="headerlink" title="External Links"></a><strong>External Links</strong></h2></li>
+<li><p>Impossibile modificare l’apn</p>
+</li>
+<li><p>Impossibile modificare il firmware, perdita di segnale dopo la modifica del firmware.</p>
+</li>
 </ul>
+<h2 id="Vodafone"><a href="#Vodafone" class="headerlink" title="Vodafone"></a>Vodafone</h2><p>Aggancia solo 7+3+ non aggrega b20</p>
+<p>hack di miononno non funziona</p>
+<p>non funziona con Vodafone</p>
+<p>niente Cell lock ne scelta bande</p>
+<h2 id="Fastweb"><a href="#Fastweb" class="headerlink" title="Fastweb"></a>Fastweb</h2><p>da scoprire</p>
+<p>In ogni caso, controllate la versione prima di acquistarla.</p>
+<h2 id="Wind"><a href="#Wind" class="headerlink" title="Wind"></a>Wind</h2><p>sembra essere veramente brandizzato</p>
+]]></content>
+  </entry>
+  <entry>
+    <title>Zyxel 5G NR/4G LTE CPE Quick Sales Guide</title>
+    <url>/2023/02/17/Zyxel-5G-NR-4G-LTE-CPE-Quick-Sales-Guide/</url>
+    <content><![CDATA[<h1 id="Zyxel-5G-NR-4G-LTE-CPE-Quick-Sales-Guide"><a href="#Zyxel-5G-NR-4G-LTE-CPE-Quick-Sales-Guide" class="headerlink" title="Zyxel 5G NR/4G LTE CPE Quick Sales Guide"></a>Zyxel 5G NR/4G LTE CPE Quick Sales Guide</h1><p><img src="https://s2.loli.net/2023/02/17/s5AOIDBub9VFZz6.png" alt="0001"></p>
+<span id="more"></span>
+
+<p><img src="https://s2.loli.net/2023/02/17/Dw9BPSrGUtbHTiq.png" alt="0002"></p>
+<p><img src="https://s2.loli.net/2023/02/17/Eufame8xqg4vT6H.png" alt="0003"></p>
+<p><img src="https://s2.loli.net/2023/02/17/gtRiSZjBpFhOMVL.png" alt="0004"></p>
+<p><img src="https://s2.loli.net/2023/02/17/yjmKBlvEGHqZXNd.png" alt="0005"></p>
+<p><img src="https://s2.loli.net/2023/02/17/nohQUDyGqa12uWm.png" alt="0006"></p>
+<p><img src="https://s2.loli.net/2023/02/17/eQTjW2xuRvL5G9A.png" alt="0007"></p>
 ]]></content>
   </entry>
   <entry>
@@ -699,87 +769,10 @@
 ]]></content>
   </entry>
   <entry>
-    <title>Tenda 5G03 AX1800 Wi-Fi 6 5G NR Router PHOTOS</title>
-    <url>/2023/02/11/TENDA-5G03-PHOTOS/</url>
-    <content><![CDATA[<h1 id="Tenda-5G03-AX1800-Wi-Fi-6-5G-NR-Router-PHOTOS"><a href="#Tenda-5G03-AX1800-Wi-Fi-6-5G-NR-Router-PHOTOS" class="headerlink" title="Tenda 5G03 AX1800 Wi-Fi 6 5G NR Router PHOTOS"></a>Tenda 5G03 AX1800 Wi-Fi 6 5G NR Router PHOTOS</h1><p><img src="https://s2.loli.net/2023/02/12/RH8d6wa5iP7zEjn.jpg" alt="0002"></p>
-<span id="more"></span>
-
-<p><img src="https://s2.loli.net/2023/02/12/HkM1jaxiXnZBNRT.jpg" alt="0003"></p>
-<p><img src="https://s2.loli.net/2023/02/12/JWq82tHBVTmOoEG.jpg" alt="0004"></p>
-<p><img src="https://s2.loli.net/2023/02/12/X7DelCwo5xQYHIN.jpg" alt="0005"></p>
-<p><img src="https://s2.loli.net/2023/02/12/AuQZFje8tg9wiqT.jpg" alt="0006"></p>
-<p><img src="https://s2.loli.net/2023/02/12/ZSDEjeJUc17Xnt2.jpg" alt="0007"></p>
-<p><img src="https://s2.loli.net/2023/02/12/DcsifY75EgA3QzP.jpg" alt="0008"></p>
-<p><img src="https://s2.loli.net/2023/02/12/iL3M1m4qutw2fIY.jpg" alt="0009"></p>
-<p><img src="https://s2.loli.net/2023/02/12/eE1zPVXGiaC4lFg.jpg" alt="0010"></p>
-<p><img src="https://s2.loli.net/2023/02/12/Zm1NQpUrMifRH62.jpg" alt="0011"></p>
-<p><img src="https://s2.loli.net/2023/02/12/1ng5PF26fSWNvsh.jpg" alt="0012"></p>
-<p><img src="https://s2.loli.net/2023/02/12/5phStVPir3xbZ4w.jpg" alt="0013"></p>
-<p><img src="https://s2.loli.net/2023/02/12/uJGk6VPCBz7mpyK.jpg" alt="0014"></p>
-<p><img src="https://s2.loli.net/2023/02/12/RueY15dtaLslNw2.jpg" alt="0015"></p>
-<p><img src="https://s2.loli.net/2023/02/12/isYy7zQxcD6tbd5.jpg" alt="0016"></p>
-<p><img src="https://s2.loli.net/2023/02/12/eREDOgyHWiS2nsa.jpg" alt="0017"></p>
-<p><img src="https://s2.loli.net/2023/02/12/Z2MnisD7JNyqRbm.jpg" alt="0018"></p>
-<p><img src="https://s2.loli.net/2023/02/12/5MqSZtcpk4m71og.jpg" alt="0019"></p>
-<p><img src="https://s2.loli.net/2023/02/12/FdgqKoA8OxzInBJ.jpg" alt="0020"></p>
-<p><img src="https://s2.loli.net/2023/02/12/hb5cuUfGlviBZJn.jpg" alt="0021"></p>
-<p><img src="https://s2.loli.net/2023/02/12/tvBqxpSzrXanQmO.jpg" alt="0022"></p>
-<p><img src="https://s2.loli.net/2023/02/12/z8kqf1TGxBXiHnM.jpg" alt="0023"></p>
-<p><img src="https://s2.loli.net/2023/02/12/UYmrNs2AhTGInFt.jpg" alt="0024"></p>
-]]></content>
-  </entry>
-  <entry>
-    <title>Tenda 5G03 AX1800 Wi-Fi 6 5G NR Router</title>
-    <url>/2023/02/11/TENDA-5G03/</url>
-    <content><![CDATA[<h1 id="Tenda-5G03-AX1800-Wi-Fi-6-5G-NR-Router"><a href="#Tenda-5G03-AX1800-Wi-Fi-6-5G-NR-Router" class="headerlink" title="Tenda 5G03 AX1800 Wi-Fi 6 5G NR Router"></a>Tenda 5G03 AX1800 Wi-Fi 6 5G NR Router</h1><p><a href="https://www.tendacn.com/it/product/download/5G03.html">5G03 Download-Tenda (Italia)</a></p>
-]]></content>
-  </entry>
-  <entry>
-    <title>MC 801A</title>
-    <url>/2023/05/15/ZTE-MC7010/</url>
-    <content><![CDATA[<h1 id="ZTE-MC7010-5G-Router-WiFi-per-esterni"><a href="#ZTE-MC7010-5G-Router-WiFi-per-esterni" class="headerlink" title="ZTE MC7010 5G - Router WiFi per esterni"></a>ZTE MC7010 5G - Router WiFi per esterni</h1><h2 id="LINKEM"><a href="#LINKEM" class="headerlink" title="LINKEM"></a>LINKEM</h2><p>BD_ITLINKEMMC7010V1.0.0B07</p>
-<ul>
-<li><p>Impossibile modificare l’apn</p>
-</li>
-<li><p>Impossibile modificare il firmware, perdita di segnale dopo la modifica del firmware.</p>
-</li>
-</ul>
-<h2 id="Vodafone"><a href="#Vodafone" class="headerlink" title="Vodafone"></a>Vodafone</h2><p>Aggancia solo 7+3+ non aggrega b20</p>
-<p>hack di miononno non funziona</p>
-<p>non funziona con Vodafone</p>
-<p>niente Cell lock ne scelta bande</p>
-<h2 id="Fastweb"><a href="#Fastweb" class="headerlink" title="Fastweb"></a>Fastweb</h2><p>da scoprire</p>
-<p>In ogni caso, controllate la versione prima di acquistarla.</p>
-<h2 id="Wind"><a href="#Wind" class="headerlink" title="Wind"></a>Wind</h2><p>sembra essere veramente brandizzato</p>
-]]></content>
-  </entry>
-  <entry>
-    <title>Xiaomi 5G CPE Pro Magenta Internet 5G Box AX5400</title>
-    <url>/2022/12/05/Xiaomi%205G%20CPE%20Pro%20Magenta%20Internet%205G%20Box%20AX5400/</url>
-    <content><![CDATA[<h1 id="Xiaomi-5G-CPE-Pro-Magenta-Internet-5G-Box-AX5400"><a href="#Xiaomi-5G-CPE-Pro-Magenta-Internet-5G-Box-AX5400" class="headerlink" title="Xiaomi 5G CPE Pro Magenta Internet 5G Box AX5400"></a>Xiaomi 5G CPE Pro Magenta Internet 5G Box AX5400</h1><p><img src="https://s2.loli.net/2022/12/05/GjPduyWFMpm9gNZ.jpg" alt="1"></p>
-<span id="more"></span>
-
-<p><img src="https://s2.loli.net/2022/12/05/32wJgt5Fxj6KlUG.jpg" alt="2"></p>
-<p><img src="https://s2.loli.net/2022/12/05/TiSteKAaDvq8z6W.jpg" alt="3"></p>
-<p><img src="https://s2.loli.net/2022/12/05/zKmUqs2iAVDwkyx.jpg" alt="5"></p>
-<p><img src="https://s2.loli.net/2022/12/05/YSMPqguW2hO7wxC.jpg" alt="6"></p>
-<p><img src="https://s2.loli.net/2022/12/05/frI8opGFdnlucAk.jpg" alt="7"></p>
-<p><img src="https://s2.loli.net/2022/12/05/xVwSTelLO75QEor.jpg" alt="44"></p>
-<p><img src="https://s2.loli.net/2022/12/05/67JxY2NhbvrIpdU.jpg" alt="1670255127831"></p>
-]]></content>
-  </entry>
-  <entry>
-    <title>Zyxel 5G NR/4G LTE CPE Quick Sales Guide</title>
-    <url>/2023/02/17/Zyxel-5G-NR-4G-LTE-CPE-Quick-Sales-Guide/</url>
-    <content><![CDATA[<h1 id="Zyxel-5G-NR-4G-LTE-CPE-Quick-Sales-Guide"><a href="#Zyxel-5G-NR-4G-LTE-CPE-Quick-Sales-Guide" class="headerlink" title="Zyxel 5G NR/4G LTE CPE Quick Sales Guide"></a>Zyxel 5G NR/4G LTE CPE Quick Sales Guide</h1><p><img src="https://s2.loli.net/2023/02/17/s5AOIDBub9VFZz6.png" alt="0001"></p>
-<span id="more"></span>
-
-<p><img src="https://s2.loli.net/2023/02/17/Dw9BPSrGUtbHTiq.png" alt="0002"></p>
-<p><img src="https://s2.loli.net/2023/02/17/Eufame8xqg4vT6H.png" alt="0003"></p>
-<p><img src="https://s2.loli.net/2023/02/17/gtRiSZjBpFhOMVL.png" alt="0004"></p>
-<p><img src="https://s2.loli.net/2023/02/17/yjmKBlvEGHqZXNd.png" alt="0005"></p>
-<p><img src="https://s2.loli.net/2023/02/17/nohQUDyGqa12uWm.png" alt="0006"></p>
-<p><img src="https://s2.loli.net/2023/02/17/eQTjW2xuRvL5G9A.png" alt="0007"></p>
+    <title>istruzione per 286D NORDIC</title>
+    <url>/2022/07/12/istruzione-per-286D-NORDIC/</url>
+    <content><![CDATA[<p><img src="https://s2.loli.net/2022/07/13/Aa8j6hP5tOg7Srs.jpg" alt="0001"></p>
+<p><img src="https://s2.loli.net/2022/07/13/4n3gv5JEfKzOqRr.jpg" alt="0002"></p>
 ]]></content>
   </entry>
   <entry>
@@ -813,17 +806,18 @@
 ]]></content>
   </entry>
   <entry>
-    <title>istruzione per 286D NORDIC</title>
-    <url>/2022/07/12/istruzione-per-286D-NORDIC/</url>
-    <content><![CDATA[<p><img src="https://s2.loli.net/2022/07/13/Aa8j6hP5tOg7Srs.jpg" alt="0001"></p>
-<p><img src="https://s2.loli.net/2022/07/13/4n3gv5JEfKzOqRr.jpg" alt="0002"></p>
-]]></content>
-  </entry>
-  <entry>
-    <title>istruzione per 289F</title>
-    <url>/2022/07/12/istruzione-per-289F/</url>
-    <content><![CDATA[<p><img src="https://s2.loli.net/2022/07/13/18FBNn4eXZwT6lP.png" alt="0001"></p>
-<p><img src="https://s2.loli.net/2022/07/13/J68O5Azldvo2uma.png" alt="0002"></p>
+    <title>Xiaomi 5G CPE Pro Magenta Internet 5G Box AX5400</title>
+    <url>/2022/12/05/Xiaomi%205G%20CPE%20Pro%20Magenta%20Internet%205G%20Box%20AX5400/</url>
+    <content><![CDATA[<h1 id="Xiaomi-5G-CPE-Pro-Magenta-Internet-5G-Box-AX5400"><a href="#Xiaomi-5G-CPE-Pro-Magenta-Internet-5G-Box-AX5400" class="headerlink" title="Xiaomi 5G CPE Pro Magenta Internet 5G Box AX5400"></a>Xiaomi 5G CPE Pro Magenta Internet 5G Box AX5400</h1><p><img src="https://s2.loli.net/2022/12/05/GjPduyWFMpm9gNZ.jpg" alt="1"></p>
+<span id="more"></span>
+
+<p><img src="https://s2.loli.net/2022/12/05/32wJgt5Fxj6KlUG.jpg" alt="2"></p>
+<p><img src="https://s2.loli.net/2022/12/05/TiSteKAaDvq8z6W.jpg" alt="3"></p>
+<p><img src="https://s2.loli.net/2022/12/05/zKmUqs2iAVDwkyx.jpg" alt="5"></p>
+<p><img src="https://s2.loli.net/2022/12/05/YSMPqguW2hO7wxC.jpg" alt="6"></p>
+<p><img src="https://s2.loli.net/2022/12/05/frI8opGFdnlucAk.jpg" alt="7"></p>
+<p><img src="https://s2.loli.net/2022/12/05/xVwSTelLO75QEor.jpg" alt="44"></p>
+<p><img src="https://s2.loli.net/2022/12/05/67JxY2NhbvrIpdU.jpg" alt="1670255127831"></p>
 ]]></content>
   </entry>
   <entry>
@@ -858,6 +852,13 @@
 ]]></content>
   </entry>
   <entry>
+    <title>istruzione per 289F</title>
+    <url>/2022/07/12/istruzione-per-289F/</url>
+    <content><![CDATA[<p><img src="https://s2.loli.net/2022/07/13/18FBNn4eXZwT6lP.png" alt="0001"></p>
+<p><img src="https://s2.loli.net/2022/07/13/J68O5Azldvo2uma.png" alt="0002"></p>
+]]></content>
+  </entry>
+  <entry>
     <title>istruzione per 818 263</title>
     <url>/2022/07/12/istruzione-per-818-263/</url>
     <content><![CDATA[<p><img src="https://s2.loli.net/2022/07/13/hKGmg6Ra8JEYrnP.jpg" alt="0001"></p>
@@ -871,77 +872,6 @@
 <ul>
 <li>Disattivare il DHCP significa ridurre il carico di lavoro della CPE.</li>
 </ul>
-]]></content>
-  </entry>
-  <entry>
-    <title>ZTE MF 289F MODEM ROUTER CPE 4G LET CAT 20 FUNZIONA CON TUTTE LE SIM</title>
-    <url>/2022/02/19/zte-289f/</url>
-    <content><![CDATA[<h2 id="ZTE-MF-289F-MODEM-ROUTER-CPE-4G-LET-CAT-20-FUNZIONA-CON-TUTTE-LE-SIM"><a href="#ZTE-MF-289F-MODEM-ROUTER-CPE-4G-LET-CAT-20-FUNZIONA-CON-TUTTE-LE-SIM" class="headerlink" title="ZTE MF 289F MODEM ROUTER CPE 4G LET CAT 20 FUNZIONA CON TUTTE LE SIM"></a>ZTE MF 289F MODEM ROUTER CPE 4G LET CAT 20 FUNZIONA CON TUTTE LE SIM</h2><ul>
-<li><p>rj11 va - cs (può ricevere e fare chiamate)</p>
-</li>
-<li><p>selezione le bande - ✓</p>
-</li>
-<li><p>VPN ✓</p>
-</li>
-<li><p>aggrega b1 ✓</p>
-</li>
-<li><p>aggrega b20 ✓</p>
-</li>
-<li><p>supporta tutte le sim ✓</p>
-</li>
-<li><p>antenna esterna - ha due attacchi TS9 pero non spinge niente con antenna non andrà in 2x2 mimo (meglio usarlo in casa e amen)</p>
-</li>
-<li><p>Questo router ha le stesse prestazioni dell’ huawei b818-263</p>
-</li>
-<li><p>versione Vodafone Tedesco (GigaCube) ZTE MF289F aggrega la B20 </p>
-<p><strong>versione Vodafone FWA ITALIA</strong></p>
-<ul>
-<li><strong>versione Vodafone FWA ITALIA non aggrega la B20</strong><ul>
-<li><a href="https://forum.fibra.click/d/32421-zte-mf289f-vodafone-fwa-sblocco-aggregazione-b20-su-modello-vfit/39">ZTE MF289F (Vodafone FWA) - Sblocco aggregazione B20 su modello VFIT - FibraClick Forum</a></li>
-<li>Può essere sbloccato, richiede saldatura, ttl.</li>
-<li>Non è possibile ricevere chiamate o fare chiamate tramite rj11.</li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-<h2 id="VOLTE"><a href="#VOLTE" class="headerlink" title="VOLTE"></a>VOLTE</h2><p><strong>289f versione gigacube</strong></p>
-<p>TIM —&gt; VOLTE<br>W3 —&gt; NO VOLTE 3G<br>VF—&gt; NO VOLTE 2G</p>
-<p><img src="https://s2.loli.net/2022/02/19/MEevQuZgXmSpf5Y.jpg" alt="IMG_8118"></p>
-<p><img src="https://s2.loli.net/2022/02/19/mDjVT7ekbYdsfu8.jpg" alt="IMG_8119"></p>
-<p><img src="https://s2.loli.net/2022/02/19/IXKcvB1V5R9xfUp.jpg" alt="IMG_8120"></p>
-<p><img src="https://s2.loli.net/2022/02/19/VWz59nTOyeXmgd3.jpg" alt="IMG_8121"></p>
-<p><img src="https://s2.loli.net/2022/02/19/qGeADSMsphmo1P4.jpg" alt="IMG_8122"></p>
-<p><img src="https://s2.loli.net/2022/02/19/e3wo6EtqicxbY9r.jpg" alt="IMG_8123"></p>
-<p><img src="https://s2.loli.net/2022/02/19/H3ReuyLi6flbzX1.jpg" alt="IMG_7896"></p>
-<p><img src="https://s2.loli.net/2022/02/19/Wq6MsOGkPgUtfD8.jpg" alt="IMG_8072"></p>
-<p><img src="https://s2.loli.net/2022/02/19/Q4z3AIc1jtgh6nb.jpg" alt="photo_2022-01-30_07-28-32"></p>
-<p><img src="https://s2.loli.net/2022/02/19/QlNPBLTbhzFGXZM.png" alt="Snipaste_2022-01-25_19-28-25"></p>
-<p><img src="https://s2.loli.net/2022/02/19/ClPj3Yh6vIXRWiu.png" alt="Snipaste_2022-01-25_19-35-09"></p>
-<p><img src="https://s2.loli.net/2022/02/15/ae9W4NGmjKquwIH.jpg" alt="photo_2022-02-12_12-50-54"></p>
-<p><img src="https://s2.loli.net/2022/02/15/ktOiMzj36w9UA1p.jpg" alt="photo_2022-02-12_12-50-56"></p>
-<p><img src="https://s2.loli.net/2022/02/15/6Dix9PdRjMs3zcn.jpg" alt="photo_2022-02-12_12-50-58"></p>
-<p><img src="https://s2.loli.net/2022/02/15/wcPXVguBiNH2hTs.jpg" alt="photo_2022-02-12_12-51-00"></p>
-<p><img src="https://s2.loli.net/2022/02/15/IOW3nDEkljH2FtB.jpg" alt="photo_2022-02-12_12-51-02"></p>
-<p><img src="https://s2.loli.net/2022/02/15/dzPvHC6TZsfY1IW.jpg" alt="photo_2022-02-12_12-51-03"></p>
-<p><img src="https://s2.loli.net/2022/02/15/G5eBUQkhmajLcKx.jpg" alt="photo_2022-02-12_12-51-05"></p>
-<p><img src="https://s2.loli.net/2022/02/15/kBvVOQoa5biyU8P.jpg" alt="photo_2022-02-12_12-51-07"></p>
-<p><img src="https://s2.loli.net/2022/02/15/nc6IRDUq2lr9QFx.jpg" alt="photo_2022-02-12_12-51-09"></p>
-<p><img src="https://s2.loli.net/2022/02/19/4xlhrB9OzfPRQaq.jpg" alt="photo_2022-02-12_12-51-10"></p>
-<p><img src="https://s2.loli.net/2022/02/28/fYBCIWkP25FgZcw.jpg" alt="20220225220404"></p>
-<p><img src="https://s2.loli.net/2022/02/28/Jq5zuKNrvlRUjGC.png" alt="image-20220228122129156"></p>
-<p>ANT4 MIMO_1</p>
-<p>ANT1 MAIN_HB</p>
-<p>ANT0 MAIN_MLB</p>
-<p>ANT2 AUX</p>
-<p>ANT3 MIMO_0</p>
-<p>MLB = MONOPOLE LOW BAND<br>HB = HIGH BAND<br>AUX = AUXILIARY</p>
-<p><img src="https://s2.loli.net/2022/02/28/bY2CyRNoA8Oi9Xf.png" alt="image-20220228144646853"></p>
-<p><img src="https://s2.loli.net/2022/04/26/Gtws4rYXUjTnba3.jpg" alt="IMG_8643_compressed"></p>
-<p><img src="https://s2.loli.net/2022/04/26/ADsIgPaJilMpnQr.jpg" alt="IMG_8644_compressed"></p>
-<p><img src="https://s2.loli.net/2022/04/26/lG97ApdReUCYQmg.jpg" alt="IMG_8645_compressed"></p>
-<p>Utilizza un’interfaccia non standard, simile alla ipx1, ma a metà altezza.</p>
-<p>Tuttavia, anche l’IPX1 è si collega e funziona bene.</p>
 ]]></content>
   </entry>
 </search>
