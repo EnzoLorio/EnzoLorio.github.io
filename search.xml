@@ -38,6 +38,16 @@
       </tags>
   </entry>
   <entry>
+    <title>Configurare APN su 818-263</title>
+    <url>/2022/01/16/818-263-APN/</url>
+    <content><![CDATA[<h1 id="Configurare-APN-su-818-263"><a href="#Configurare-APN-su-818-263" class="headerlink" title="Configurare APN su 818-263"></a>Configurare APN su 818-263</h1><p><img src="https://s2.loli.net/2022/01/16/AKIOWQlpF2L4D9u.png" alt="APN 818 263"></p>
+<p><img src="https://s2.loli.net/2022/01/21/21Y8UiyLIZ9NVQX.png" alt="image-20220121145544942"></p>
+]]></content>
+      <tags>
+        <tag>818-263</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>HUAWEI 4G ROUTER 3 PRIME B818-263 CAT19 LTE ROUTER</title>
     <url>/2022/01/15/B818-263-Firmware/</url>
     <content><![CDATA[<h1 id="HUAWEI-4G-ROUTER-3-PRIME-B818-263-CAT19-LTE-ROUTER"><a href="#HUAWEI-4G-ROUTER-3-PRIME-B818-263-CAT19-LTE-ROUTER" class="headerlink" title="HUAWEI 4G ROUTER 3 PRIME B818-263 CAT19 LTE ROUTER"></a>HUAWEI 4G ROUTER 3 PRIME B818-263 CAT19 LTE ROUTER</h1><h2 id="Firmware"><a href="#Firmware" class="headerlink" title="Firmware"></a>Firmware</h2><p><img src="https://s2.loli.net/2022/05/23/94odUhp5H7IcTSL.png" alt="img"></p>
@@ -107,14 +117,11 @@
 <h2 id=""><a href="#" class="headerlink" title=""></a><img src="https://s2.loli.net/2022/03/09/U4CzfGVp1nZiK2v.jpg" alt="O1CN01AqCxxt1X8ARWusVX2_!!17381272878"></h2>]]></content>
   </entry>
   <entry>
-    <title>Configurare APN su 818-263</title>
-    <url>/2022/01/16/818-263-APN/</url>
-    <content><![CDATA[<h1 id="Configurare-APN-su-818-263"><a href="#Configurare-APN-su-818-263" class="headerlink" title="Configurare APN su 818-263"></a>Configurare APN su 818-263</h1><p><img src="https://s2.loli.net/2022/01/16/AKIOWQlpF2L4D9u.png" alt="APN 818 263"></p>
-<p><img src="https://s2.loli.net/2022/01/21/21Y8UiyLIZ9NVQX.png" alt="image-20220121145544942"></p>
+    <title>CAP VF</title>
+    <url>/2022/02/04/CAP-VF/</url>
+    <content><![CDATA[<p><img src="https://s2.loli.net/2022/02/04/wAsFDijHBdaZ6SX.png" alt="Snipaste_2022-02-04_13-16-30"></p>
+<p><a href="https://www.vodafone.it/privati/supporto/sim-piano-mobile/gestione-piano-mobile.html?icmp=infinito">https://www.vodafone.it/privati/supporto/sim-piano-mobile/gestione-piano-mobile.html?icmp=infinito</a></p>
 ]]></content>
-      <tags>
-        <tag>818-263</tag>
-      </tags>
   </entry>
   <entry>
     <title>Chateau CAT 18</title>
@@ -124,25 +131,6 @@
 <p><img src="https://s2.loli.net/2022/02/24/CXopbPB6VF7YNhZ.jpg" alt="IMG_8160(1)"></p>
 <p><img src="https://s2.loli.net/2022/02/24/SwQ58MTHRtnDmrq.png" alt="Snipaste_2022-02-10_19-58-06"></p>
 <p><img src="https://s2.loli.net/2022/02/24/DG8nSM3qZHO1KsW.png" alt="Snipaste_2022-02-13_19-00-17"></p>
-]]></content>
-  </entry>
-  <entry>
-    <title>CAP VF</title>
-    <url>/2022/02/04/CAP-VF/</url>
-    <content><![CDATA[<p><img src="https://s2.loli.net/2022/02/04/wAsFDijHBdaZ6SX.png" alt="Snipaste_2022-02-04_13-16-30"></p>
-<p><a href="https://www.vodafone.it/privati/supporto/sim-piano-mobile/gestione-piano-mobile.html?icmp=infinito">https://www.vodafone.it/privati/supporto/sim-piano-mobile/gestione-piano-mobile.html?icmp=infinito</a></p>
-]]></content>
-  </entry>
-  <entry>
-    <title>Modalità di antenna del CPE ZTE</title>
-    <url>/2022/06/25/Come-rendere-la-rete-pi%C3%B9-stabile/</url>
-    <content><![CDATA[<h1 id="Come-rendere-la-rete-piu-stabile"><a href="#Come-rendere-la-rete-piu-stabile" class="headerlink" title="Come rendere la rete più stabile"></a>Come rendere la rete più stabile</h1><h2 id="Scheduled-reboot-Riavvio-programmato"><a href="#Scheduled-reboot-Riavvio-programmato" class="headerlink" title="Scheduled reboot / Riavvio programmato"></a>Scheduled reboot / Riavvio programmato</h2><p>Molti router supportano questa funzione, quindi assicuratevi di attivarla.</p>
-<blockquote>
-<p>Prima il mio computer si sconnetteva ogni pochi minuti, avevo appena sostituito la scheda di rete del computer, pensavo che ci fosse un problema con la scheda, ma dopo aver riavviato il router andava tutto bene…</p>
-</blockquote>
-<p>Il riavvio programmato è una funzione che si pensava fosse una necessità sui router precedenti con hardware scadente e poca memoria. Alcuni router moderni non supportano queste funzioni e il mio ha funzionato bene per un mese o due prima del problema.</p>
-<h2 id="Ridurre-il-lavoro-del-router"><a href="#Ridurre-il-lavoro-del-router" class="headerlink" title="Ridurre il lavoro del router"></a>Ridurre il lavoro del router</h2><p>In generale, è sufficiente disattivare la funzione wifi del router e collegare un AP.</p>
-<p><img src="https://s2.loli.net/2022/06/25/rD1ZUmxSefidH4n.jpg" alt="Snipaste_2022-06-25_11-41-49"></p>
 ]]></content>
   </entry>
   <entry>
@@ -176,6 +164,18 @@
 <p>data.lycamobile.it </p>
 <p><strong>Rabona Mobile:</strong> </p>
 <p>rabona.it</p>
+]]></content>
+  </entry>
+  <entry>
+    <title>Modalità di antenna del CPE ZTE</title>
+    <url>/2022/06/25/Come-rendere-la-rete-pi%C3%B9-stabile/</url>
+    <content><![CDATA[<h1 id="Come-rendere-la-rete-piu-stabile"><a href="#Come-rendere-la-rete-piu-stabile" class="headerlink" title="Come rendere la rete più stabile"></a>Come rendere la rete più stabile</h1><h2 id="Scheduled-reboot-Riavvio-programmato"><a href="#Scheduled-reboot-Riavvio-programmato" class="headerlink" title="Scheduled reboot / Riavvio programmato"></a>Scheduled reboot / Riavvio programmato</h2><p>Molti router supportano questa funzione, quindi assicuratevi di attivarla.</p>
+<blockquote>
+<p>Prima il mio computer si sconnetteva ogni pochi minuti, avevo appena sostituito la scheda di rete del computer, pensavo che ci fosse un problema con la scheda, ma dopo aver riavviato il router andava tutto bene…</p>
+</blockquote>
+<p>Il riavvio programmato è una funzione che si pensava fosse una necessità sui router precedenti con hardware scadente e poca memoria. Alcuni router moderni non supportano queste funzioni e il mio ha funzionato bene per un mese o due prima del problema.</p>
+<h2 id="Ridurre-il-lavoro-del-router"><a href="#Ridurre-il-lavoro-del-router" class="headerlink" title="Ridurre il lavoro del router"></a>Ridurre il lavoro del router</h2><p>In generale, è sufficiente disattivare la funzione wifi del router e collegare un AP.</p>
+<p><img src="https://s2.loli.net/2022/06/25/rD1ZUmxSefidH4n.jpg" alt="Snipaste_2022-06-25_11-41-49"></p>
 ]]></content>
   </entry>
   <entry>
@@ -395,6 +395,19 @@
 ]]></content>
   </entry>
   <entry>
+    <title>TCL HH500v 5G LTE ROUTER 5G SNAPDRAGON X55 WIFI 6 APN</title>
+    <url>/2023/07/03/HH500v-APN/</url>
+    <content><![CDATA[<h2 id="Dopo-aver-personalizzato-l’APN-il-router-non-si-connette-automaticamente"><a href="#Dopo-aver-personalizzato-l’APN-il-router-non-si-connette-automaticamente" class="headerlink" title="Dopo aver personalizzato l’APN, il router non si connette automaticamente."></a>Dopo aver personalizzato l’APN, il router non si connette automaticamente.</h2><p>Per risolvere questo problema, la prima cosa da fare è impostare la modalità di connessione del router su manuale. Successivamente, modifica il nome dell’apn predefinito “default” in un altro nome di tua scelta. Dopodiché, crea un nuovo apn e, una volta creato con successo, rinominalo come “default”. Infine, reimposta la modalità di connessione su automatico.</p>
+<p>Si applica solo a HH500V_VDFES_V2.0.0B19.</p>
+<p><img src="https://s2.loli.net/2023/07/03/28c6Ue7r9jKgAo1.png" alt="0002"></p>
+<p><img src="https://s2.loli.net/2023/07/03/TQ2wrulgC8dxim9.png" alt="0003"></p>
+<p><img src="https://s2.loli.net/2023/07/03/tORsISxCLdYnZ8b.png" alt="0004"></p>
+<p><img src="https://s2.loli.net/2023/07/03/VcEjRNQJt5rlkiL.png" alt="0005"></p>
+<p><img src="https://s2.loli.net/2023/07/03/uYqOnsiLEZwT5lP.png" alt="0006"></p>
+<p><img src="https://s2.loli.net/2023/07/03/nAEm6uhtZzRPGeL.png" alt="0007"></p>
+]]></content>
+  </entry>
+  <entry>
     <title>Libertà di stampa</title>
     <url>/2022/06/25/Libert%C3%A0-di-stampa/</url>
     <content><![CDATA[<h1 id="Liberta-di-stampa"><a href="#Liberta-di-stampa" class="headerlink" title="Libertà di stampa"></a>Libertà di stampa</h1><p>La libertà di stampa è in realtà una cosa molto facile da ottenere.😀</p>
@@ -466,19 +479,6 @@
 ]]></content>
   </entry>
   <entry>
-    <title>TCL HH500v 5G LTE ROUTER 5G SNAPDRAGON X55 WIFI 6 APN</title>
-    <url>/2023/07/03/HH500v-APN/</url>
-    <content><![CDATA[<h2 id="Dopo-aver-personalizzato-l’APN-il-router-non-si-connette-automaticamente"><a href="#Dopo-aver-personalizzato-l’APN-il-router-non-si-connette-automaticamente" class="headerlink" title="Dopo aver personalizzato l’APN, il router non si connette automaticamente."></a>Dopo aver personalizzato l’APN, il router non si connette automaticamente.</h2><p>Per risolvere questo problema, la prima cosa da fare è impostare la modalità di connessione del router su manuale. Successivamente, modifica il nome dell’apn predefinito “default” in un altro nome di tua scelta. Dopodiché, crea un nuovo apn e, una volta creato con successo, rinominalo come “default”. Infine, reimposta la modalità di connessione su automatico.</p>
-<p>Si applica solo a HH500V_VDFES_V2.0.0B19.</p>
-<p><img src="https://s2.loli.net/2023/07/03/28c6Ue7r9jKgAo1.png" alt="0002"></p>
-<p><img src="https://s2.loli.net/2023/07/03/TQ2wrulgC8dxim9.png" alt="0003"></p>
-<p><img src="https://s2.loli.net/2023/07/03/tORsISxCLdYnZ8b.png" alt="0004"></p>
-<p><img src="https://s2.loli.net/2023/07/03/VcEjRNQJt5rlkiL.png" alt="0005"></p>
-<p><img src="https://s2.loli.net/2023/07/03/uYqOnsiLEZwT5lP.png" alt="0006"></p>
-<p><img src="https://s2.loli.net/2023/07/03/nAEm6uhtZzRPGeL.png" alt="0007"></p>
-]]></content>
-  </entry>
-  <entry>
     <title>MC 801A</title>
     <url>/2022/01/24/MC-801A/</url>
     <content><![CDATA[<h1 id="ZTE-801A"><a href="#ZTE-801A" class="headerlink" title="ZTE 801A"></a>ZTE 801A</h1><p><img src="https://s2.loli.net/2022/01/24/WzpQu25Ac36n9ah.jpg" alt="IMG_7804"></p>
@@ -545,6 +545,28 @@
 <li>WIFI<br>Acceso: La WLAN (Wi-Fi) funziona normalmente. Lampeggiante: WPS si sta attivando.<br>Spento: la WLAN(Wi-Fi) è disattivata.</li>
 <li>ALIMENTAZIONE<br>Acceso: Il dispositivo è acceso.<br>Off: il dispositivo è spento.</li>
 </ol>
+]]></content>
+  </entry>
+  <entry>
+    <title>Modalità di antenna del CPE ZTE</title>
+    <url>/2022/06/25/Modalit%C3%A0-di-antenna-del-CPE-ZTE/</url>
+    <content><![CDATA[<h1 id="Modalita-di-antenna-del-CPE-ZTE"><a href="#Modalita-di-antenna-del-CPE-ZTE" class="headerlink" title="Modalità di antenna del CPE ZTE"></a>Modalità di antenna del CPE ZTE</h1><h2 id="MF286D-MF289F"><a href="#MF286D-MF289F" class="headerlink" title="MF286D MF289F"></a>MF286D MF289F</h2><p>I due modelli più popolari di router zte attualmente disponibili sono entrambi in modalità antenna SISO</p>
+<p><img src="https://s2.loli.net/2022/06/25/ENDc7rnTgC2jHIl.png" alt="siso-mimo-overview"></p>
+<p>Modalità di trasmissione a ingresso singolo Uscita singola (SISO) </p>
+<p>Modalità di trasmissione a ingresso multiplo e uscita multipla (MIMO) </p>
+<p><strong>single Input Single Output</strong> (SISO) </p>
+<p><strong>multiple-input and multiple-output</strong> (MIMO) </p>
+<p>In breve, è possibile installare l’antenna, ma funziona in modalità SISO anziché MIMO, poi, quando si usa l’antenna interna, si usa la modalità 4x4 MIMO. Il segnale può essere migliorato, ma non si sa se la velocità della rete sarà migliorata, dato che la maggior parte delle stazioni base supporta ancora il 2X2 MIMO.</p>
+<h3 id="Come-far-si-che-supportino-il-MIMO"><a href="#Come-far-si-che-supportino-il-MIMO" class="headerlink" title="Come far sì che supportino il MIMO"></a>Come far sì che supportino il MIMO</h3><h2 id="289F"><a href="#289F" class="headerlink" title="289F"></a>289F</h2><p><img src="https://s2.loli.net/2022/02/28/Jq5zuKNrvlRUjGC.png" alt="image-20220228122129156"></p>
+<p>ANT4 MIMO_1</p>
+<p>ANT1 MAIN_HB</p>
+<p>ANT0 MAIN_MLB</p>
+<p>ANT2 AUX</p>
+<p>ANT3 MIMO_0</p>
+<p>MLB = MONOPOLE LOW BAND<br>HB = HIGH BAND<br>AUX = AUXILIARY</p>
+<p><img src="https://s2.loli.net/2022/02/28/bY2CyRNoA8Oi9Xf.png" alt="image-20220228144646853"></p>
+<h2 id="286D"><a href="#286D" class="headerlink" title="286D"></a>286D</h2><p>286D dovrebbe essere uguale a 289f con 5 interfacce</p>
+<p>IPX1 -&gt; SMA</p>
 ]]></content>
   </entry>
   <entry>
@@ -634,58 +656,6 @@
 ]]></content>
   </entry>
   <entry>
-    <title>Modalità di antenna del CPE ZTE</title>
-    <url>/2022/06/25/Modalit%C3%A0-di-antenna-del-CPE-ZTE/</url>
-    <content><![CDATA[<h1 id="Modalita-di-antenna-del-CPE-ZTE"><a href="#Modalita-di-antenna-del-CPE-ZTE" class="headerlink" title="Modalità di antenna del CPE ZTE"></a>Modalità di antenna del CPE ZTE</h1><h2 id="MF286D-MF289F"><a href="#MF286D-MF289F" class="headerlink" title="MF286D MF289F"></a>MF286D MF289F</h2><p>I due modelli più popolari di router zte attualmente disponibili sono entrambi in modalità antenna SISO</p>
-<p><img src="https://s2.loli.net/2022/06/25/ENDc7rnTgC2jHIl.png" alt="siso-mimo-overview"></p>
-<p>Modalità di trasmissione a ingresso singolo Uscita singola (SISO) </p>
-<p>Modalità di trasmissione a ingresso multiplo e uscita multipla (MIMO) </p>
-<p><strong>single Input Single Output</strong> (SISO) </p>
-<p><strong>multiple-input and multiple-output</strong> (MIMO) </p>
-<p>In breve, è possibile installare l’antenna, ma funziona in modalità SISO anziché MIMO, poi, quando si usa l’antenna interna, si usa la modalità 4x4 MIMO. Il segnale può essere migliorato, ma non si sa se la velocità della rete sarà migliorata, dato che la maggior parte delle stazioni base supporta ancora il 2X2 MIMO.</p>
-<h3 id="Come-far-si-che-supportino-il-MIMO"><a href="#Come-far-si-che-supportino-il-MIMO" class="headerlink" title="Come far sì che supportino il MIMO"></a>Come far sì che supportino il MIMO</h3><h2 id="289F"><a href="#289F" class="headerlink" title="289F"></a>289F</h2><p><img src="https://s2.loli.net/2022/02/28/Jq5zuKNrvlRUjGC.png" alt="image-20220228122129156"></p>
-<p>ANT4 MIMO_1</p>
-<p>ANT1 MAIN_HB</p>
-<p>ANT0 MAIN_MLB</p>
-<p>ANT2 AUX</p>
-<p>ANT3 MIMO_0</p>
-<p>MLB = MONOPOLE LOW BAND<br>HB = HIGH BAND<br>AUX = AUXILIARY</p>
-<p><img src="https://s2.loli.net/2022/02/28/bY2CyRNoA8Oi9Xf.png" alt="image-20220228144646853"></p>
-<h2 id="286D"><a href="#286D" class="headerlink" title="286D"></a>286D</h2><p>286D dovrebbe essere uguale a 289f con 5 interfacce</p>
-<p>IPX1 -&gt; SMA</p>
-]]></content>
-  </entry>
-  <entry>
-    <title>Tenda 5G03 AX1800 Wi-Fi 6 5G NR Router PHOTOS</title>
-    <url>/2023/02/11/TENDA-5G03-PHOTOS/</url>
-    <content><![CDATA[<h1 id="Tenda-5G03-AX1800-Wi-Fi-6-5G-NR-Router-PHOTOS"><a href="#Tenda-5G03-AX1800-Wi-Fi-6-5G-NR-Router-PHOTOS" class="headerlink" title="Tenda 5G03 AX1800 Wi-Fi 6 5G NR Router PHOTOS"></a>Tenda 5G03 AX1800 Wi-Fi 6 5G NR Router PHOTOS</h1><p><img src="https://s2.loli.net/2023/02/12/RH8d6wa5iP7zEjn.jpg" alt="0002"></p>
-<span id="more"></span>
-
-<p><img src="https://s2.loli.net/2023/02/12/HkM1jaxiXnZBNRT.jpg" alt="0003"></p>
-<p><img src="https://s2.loli.net/2023/02/12/JWq82tHBVTmOoEG.jpg" alt="0004"></p>
-<p><img src="https://s2.loli.net/2023/02/12/X7DelCwo5xQYHIN.jpg" alt="0005"></p>
-<p><img src="https://s2.loli.net/2023/02/12/AuQZFje8tg9wiqT.jpg" alt="0006"></p>
-<p><img src="https://s2.loli.net/2023/02/12/ZSDEjeJUc17Xnt2.jpg" alt="0007"></p>
-<p><img src="https://s2.loli.net/2023/02/12/DcsifY75EgA3QzP.jpg" alt="0008"></p>
-<p><img src="https://s2.loli.net/2023/02/12/iL3M1m4qutw2fIY.jpg" alt="0009"></p>
-<p><img src="https://s2.loli.net/2023/02/12/eE1zPVXGiaC4lFg.jpg" alt="0010"></p>
-<p><img src="https://s2.loli.net/2023/02/12/Zm1NQpUrMifRH62.jpg" alt="0011"></p>
-<p><img src="https://s2.loli.net/2023/02/12/1ng5PF26fSWNvsh.jpg" alt="0012"></p>
-<p><img src="https://s2.loli.net/2023/02/12/5phStVPir3xbZ4w.jpg" alt="0013"></p>
-<p><img src="https://s2.loli.net/2023/02/12/uJGk6VPCBz7mpyK.jpg" alt="0014"></p>
-<p><img src="https://s2.loli.net/2023/02/12/RueY15dtaLslNw2.jpg" alt="0015"></p>
-<p><img src="https://s2.loli.net/2023/02/12/isYy7zQxcD6tbd5.jpg" alt="0016"></p>
-<p><img src="https://s2.loli.net/2023/02/12/eREDOgyHWiS2nsa.jpg" alt="0017"></p>
-<p><img src="https://s2.loli.net/2023/02/12/Z2MnisD7JNyqRbm.jpg" alt="0018"></p>
-<p><img src="https://s2.loli.net/2023/02/12/5MqSZtcpk4m71og.jpg" alt="0019"></p>
-<p><img src="https://s2.loli.net/2023/02/12/FdgqKoA8OxzInBJ.jpg" alt="0020"></p>
-<p><img src="https://s2.loli.net/2023/02/12/hb5cuUfGlviBZJn.jpg" alt="0021"></p>
-<p><img src="https://s2.loli.net/2023/02/12/tvBqxpSzrXanQmO.jpg" alt="0022"></p>
-<p><img src="https://s2.loli.net/2023/02/12/z8kqf1TGxBXiHnM.jpg" alt="0023"></p>
-<p><img src="https://s2.loli.net/2023/02/12/UYmrNs2AhTGInFt.jpg" alt="0024"></p>
-]]></content>
-  </entry>
-  <entry>
     <title>Super Internet Casa - Offerte Internet con Super Internet Wi-Fi</title>
     <url>/2022/01/16/Super-Internet-Casa/</url>
     <content><![CDATA[<h1 id="Super-Internet-Casa-Offerte-Internet-con-Super-Internet-Wi-Fi"><a href="#Super-Internet-Casa-Offerte-Internet-con-Super-Internet-Wi-Fi" class="headerlink" title="Super Internet Casa - Offerte Internet con Super Internet Wi-Fi"></a>Super Internet Casa - Offerte Internet con Super Internet Wi-Fi</h1><p><a href="https://www.windtre.it/offerte-internet-mobile/super-internet-casa/">Super Internet Casa - Offerte Internet con Super Internet Wi-Fi</a></p>
@@ -725,9 +695,49 @@
 ]]></content>
   </entry>
   <entry>
+    <title>Tenda 5G03 AX1800 Wi-Fi 6 5G NR Router PHOTOS</title>
+    <url>/2023/02/11/TENDA-5G03-PHOTOS/</url>
+    <content><![CDATA[<h1 id="Tenda-5G03-AX1800-Wi-Fi-6-5G-NR-Router-PHOTOS"><a href="#Tenda-5G03-AX1800-Wi-Fi-6-5G-NR-Router-PHOTOS" class="headerlink" title="Tenda 5G03 AX1800 Wi-Fi 6 5G NR Router PHOTOS"></a>Tenda 5G03 AX1800 Wi-Fi 6 5G NR Router PHOTOS</h1><p><img src="https://s2.loli.net/2023/02/12/RH8d6wa5iP7zEjn.jpg" alt="0002"></p>
+<span id="more"></span>
+
+<p><img src="https://s2.loli.net/2023/02/12/HkM1jaxiXnZBNRT.jpg" alt="0003"></p>
+<p><img src="https://s2.loli.net/2023/02/12/JWq82tHBVTmOoEG.jpg" alt="0004"></p>
+<p><img src="https://s2.loli.net/2023/02/12/X7DelCwo5xQYHIN.jpg" alt="0005"></p>
+<p><img src="https://s2.loli.net/2023/02/12/AuQZFje8tg9wiqT.jpg" alt="0006"></p>
+<p><img src="https://s2.loli.net/2023/02/12/ZSDEjeJUc17Xnt2.jpg" alt="0007"></p>
+<p><img src="https://s2.loli.net/2023/02/12/DcsifY75EgA3QzP.jpg" alt="0008"></p>
+<p><img src="https://s2.loli.net/2023/02/12/iL3M1m4qutw2fIY.jpg" alt="0009"></p>
+<p><img src="https://s2.loli.net/2023/02/12/eE1zPVXGiaC4lFg.jpg" alt="0010"></p>
+<p><img src="https://s2.loli.net/2023/02/12/Zm1NQpUrMifRH62.jpg" alt="0011"></p>
+<p><img src="https://s2.loli.net/2023/02/12/1ng5PF26fSWNvsh.jpg" alt="0012"></p>
+<p><img src="https://s2.loli.net/2023/02/12/5phStVPir3xbZ4w.jpg" alt="0013"></p>
+<p><img src="https://s2.loli.net/2023/02/12/uJGk6VPCBz7mpyK.jpg" alt="0014"></p>
+<p><img src="https://s2.loli.net/2023/02/12/RueY15dtaLslNw2.jpg" alt="0015"></p>
+<p><img src="https://s2.loli.net/2023/02/12/isYy7zQxcD6tbd5.jpg" alt="0016"></p>
+<p><img src="https://s2.loli.net/2023/02/12/eREDOgyHWiS2nsa.jpg" alt="0017"></p>
+<p><img src="https://s2.loli.net/2023/02/12/Z2MnisD7JNyqRbm.jpg" alt="0018"></p>
+<p><img src="https://s2.loli.net/2023/02/12/5MqSZtcpk4m71og.jpg" alt="0019"></p>
+<p><img src="https://s2.loli.net/2023/02/12/FdgqKoA8OxzInBJ.jpg" alt="0020"></p>
+<p><img src="https://s2.loli.net/2023/02/12/hb5cuUfGlviBZJn.jpg" alt="0021"></p>
+<p><img src="https://s2.loli.net/2023/02/12/tvBqxpSzrXanQmO.jpg" alt="0022"></p>
+<p><img src="https://s2.loli.net/2023/02/12/z8kqf1TGxBXiHnM.jpg" alt="0023"></p>
+<p><img src="https://s2.loli.net/2023/02/12/UYmrNs2AhTGInFt.jpg" alt="0024"></p>
+]]></content>
+  </entry>
+  <entry>
     <title>Tenda 5G03 AX1800 Wi-Fi 6 5G NR Router</title>
     <url>/2023/02/11/TENDA-5G03/</url>
     <content><![CDATA[<h1 id="Tenda-5G03-AX1800-Wi-Fi-6-5G-NR-Router"><a href="#Tenda-5G03-AX1800-Wi-Fi-6-5G-NR-Router" class="headerlink" title="Tenda 5G03 AX1800 Wi-Fi 6 5G NR Router"></a>Tenda 5G03 AX1800 Wi-Fi 6 5G NR Router</h1><p><a href="https://www.tendacn.com/it/product/download/5G03.html">5G03 Download-Tenda (Italia)</a></p>
+]]></content>
+  </entry>
+  <entry>
+    <title>China Unicom VN007+China Unicom VN007+</title>
+    <url>/2023/07/08/VN007+/</url>
+    <content><![CDATA[<h1 id="China-Unicom-VN007"><a href="#China-Unicom-VN007" class="headerlink" title="China Unicom VN007+"></a>China Unicom VN007+</h1><p><img src="https://s2.loli.net/2023/07/09/YZeM6w82V5iGFRt.jpg" alt="⚛️antykat_v26.R16_LMC_11TPro_20230618_232216_lmc_8.4"></p>
+<p><img src="https://s2.loli.net/2023/07/09/Zm7VxSMqefjJzdF.jpg" alt="⚛️antykat_v26.R16_LMC_11TPro_20230618_232231_lmc_8.4"></p>
+<p><img src="https://s2.loli.net/2023/07/09/4iqkLfwyjnA5PdF.jpg" alt="⚛️antykat_v26.R16_LMC_11TPro_20230618_232301_lmc_8.4"></p>
+<p><img src="https://s2.loli.net/2023/07/09/qgln7FbvCrNmS8x.jpg" alt="⚛️antykat_v26.R16_LMC_11TPro_20230618_232354_lmc_8.4"></p>
+<p><img src="https://s2.loli.net/2023/07/09/RcQWuiX6pVdaCYI.jpg" alt="Snipaste_2023-06-18_23-32-37"></p>
 ]]></content>
   </entry>
   <entry>
@@ -788,33 +798,18 @@
 <p><img src="https://s2.loli.net/2023/06/28/cdGm5NjkQiSWrVb.jpg" alt="photo_2023-06-27_14-20-27 (2)"></p>
 <p><img src="https://s2.loli.net/2023/06/28/eJ26rQy3amPDsjM.jpg" alt="photo_2023-06-27_14-20-27"></p>
 <h2 id="Wind"><a href="#Wind" class="headerlink" title="Wind"></a>Wind</h2><p>funziona tutto</p>
+<h2 id="DNA"><a href="#DNA" class="headerlink" title="DNA"></a>DNA</h2><p>non ha la b38</p>
 <h2 id="3-UK"><a href="#3-UK" class="headerlink" title="3 UK"></a>3 UK</h2><p>SIM LOCKED</p>
 <h2 id="7010CA"><a href="#7010CA" class="headerlink" title="7010CA"></a>7010CA</h2><p>No segnale</p>
-<h2 id="Telenor"><a href="#Telenor" class="headerlink" title="Telenor"></a>Telenor</h2><p>versione svedese, funziona tutto</p>
+<h2 id="Telenor"><a href="#Telenor" class="headerlink" title="Telenor"></a>Telenor</h2><p><a href="https://www.ispreview.co.uk/talk/threads/outdoor-cpes.37141/post-283530">no 38 e 32</a></p>
+<p><a href="https://www.ispreview.co.uk/talk/search/10567/?c%5Busers%5D=lyonanderson&o=date">Qualcuno ha provato a modificare il firmware e ci è riuscito</a></p>
+<ul>
+<li><a href="https://www.ispreview.co.uk/talk/threads/outdoor-cpes.37141/post-289510">I’m 100% what he did. From what I could see he took the files from 3_Download_File MC7010_Elisa1_B07 and then replaced the sdxprairie-sysfs.ubi file with that from the Play firmware.</a></li>
+</ul>
+<p>versione svedese, funziona tutto</p>
 <p><img src="https://s2.loli.net/2023/07/05/qJ3ReMSWXZj4HsB.png" alt="image-20230705034458396"></p>
 <p>PV_ZTE_MC7010CAV1.0.0B01</p>
 <h1 id="In-ogni-caso-controllate-la-versione-prima-di-acquistarla"><a href="#In-ogni-caso-controllate-la-versione-prima-di-acquistarla" class="headerlink" title="In ogni caso, controllate la versione prima di acquistarla."></a>In ogni caso, controllate la versione prima di acquistarla.</h1>]]></content>
-  </entry>
-  <entry>
-    <title>Zyxel 5G NR/4G LTE CPE Quick Sales Guide</title>
-    <url>/2023/02/17/Zyxel-5G-NR-4G-LTE-CPE-Quick-Sales-Guide/</url>
-    <content><![CDATA[<h1 id="Zyxel-5G-NR-4G-LTE-CPE-Quick-Sales-Guide"><a href="#Zyxel-5G-NR-4G-LTE-CPE-Quick-Sales-Guide" class="headerlink" title="Zyxel 5G NR/4G LTE CPE Quick Sales Guide"></a>Zyxel 5G NR/4G LTE CPE Quick Sales Guide</h1><p><img src="https://s2.loli.net/2023/02/17/s5AOIDBub9VFZz6.png" alt="0001"></p>
-<span id="more"></span>
-
-<p><img src="https://s2.loli.net/2023/02/17/Dw9BPSrGUtbHTiq.png" alt="0002"></p>
-<p><img src="https://s2.loli.net/2023/02/17/Eufame8xqg4vT6H.png" alt="0003"></p>
-<p><img src="https://s2.loli.net/2023/02/17/gtRiSZjBpFhOMVL.png" alt="0004"></p>
-<p><img src="https://s2.loli.net/2023/02/17/yjmKBlvEGHqZXNd.png" alt="0005"></p>
-<p><img src="https://s2.loli.net/2023/02/17/nohQUDyGqa12uWm.png" alt="0006"></p>
-<p><img src="https://s2.loli.net/2023/02/17/eQTjW2xuRvL5G9A.png" alt="0007"></p>
-]]></content>
-  </entry>
-  <entry>
-    <title>istruzione per 286D NORDIC</title>
-    <url>/2022/07/12/istruzione-per-286D-NORDIC/</url>
-    <content><![CDATA[<p><img src="https://s2.loli.net/2022/07/13/Aa8j6hP5tOg7Srs.jpg" alt="0001"></p>
-<p><img src="https://s2.loli.net/2022/07/13/4n3gv5JEfKzOqRr.jpg" alt="0002"></p>
-]]></content>
   </entry>
   <entry>
     <title>Zyxel NR5103E</title>
@@ -858,6 +853,27 @@
 ]]></content>
   </entry>
   <entry>
+    <title>Zyxel 5G NR/4G LTE CPE Quick Sales Guide</title>
+    <url>/2023/02/17/Zyxel-5G-NR-4G-LTE-CPE-Quick-Sales-Guide/</url>
+    <content><![CDATA[<h1 id="Zyxel-5G-NR-4G-LTE-CPE-Quick-Sales-Guide"><a href="#Zyxel-5G-NR-4G-LTE-CPE-Quick-Sales-Guide" class="headerlink" title="Zyxel 5G NR/4G LTE CPE Quick Sales Guide"></a>Zyxel 5G NR/4G LTE CPE Quick Sales Guide</h1><p><img src="https://s2.loli.net/2023/02/17/s5AOIDBub9VFZz6.png" alt="0001"></p>
+<span id="more"></span>
+
+<p><img src="https://s2.loli.net/2023/02/17/Dw9BPSrGUtbHTiq.png" alt="0002"></p>
+<p><img src="https://s2.loli.net/2023/02/17/Eufame8xqg4vT6H.png" alt="0003"></p>
+<p><img src="https://s2.loli.net/2023/02/17/gtRiSZjBpFhOMVL.png" alt="0004"></p>
+<p><img src="https://s2.loli.net/2023/02/17/yjmKBlvEGHqZXNd.png" alt="0005"></p>
+<p><img src="https://s2.loli.net/2023/02/17/nohQUDyGqa12uWm.png" alt="0006"></p>
+<p><img src="https://s2.loli.net/2023/02/17/eQTjW2xuRvL5G9A.png" alt="0007"></p>
+]]></content>
+  </entry>
+  <entry>
+    <title>istruzione per 286D NORDIC</title>
+    <url>/2022/07/12/istruzione-per-286D-NORDIC/</url>
+    <content><![CDATA[<p><img src="https://s2.loli.net/2022/07/13/Aa8j6hP5tOg7Srs.jpg" alt="0001"></p>
+<p><img src="https://s2.loli.net/2022/07/13/4n3gv5JEfKzOqRr.jpg" alt="0002"></p>
+]]></content>
+  </entry>
+  <entry>
     <title>istruzione per 289F</title>
     <url>/2022/07/12/istruzione-per-289F/</url>
     <content><![CDATA[<p><img src="https://s2.loli.net/2022/07/13/18FBNn4eXZwT6lP.png" alt="0001"></p>
@@ -869,6 +885,37 @@
     <url>/2022/07/12/istruzione-per-818-263/</url>
     <content><![CDATA[<p><img src="https://s2.loli.net/2022/07/13/hKGmg6Ra8JEYrnP.jpg" alt="0001"></p>
 <p><img src="https://s2.loli.net/2022/07/13/4n3gv5JEfKzOqRr.jpg" alt="0002"></p>
+]]></content>
+  </entry>
+  <entry>
+    <title>le soluzioni per w3</title>
+    <url>/2022/01/20/le-soluzioni-per-w3/</url>
+    <content><![CDATA[<h1 id="le-soluzioni-per-w3"><a href="#le-soluzioni-per-w3" class="headerlink" title="le soluzioni per w3"></a>le soluzioni per w3</h1><p><a href="https://www.mondomobileweb.it/226647-windtre-mobile-prima-rimodulazione-2022/">WINDTRE Mobile rimodulazione 2022: da oggi partono gli aumenti ad alcuni clienti. Cosa è cambiato - MondoMobileWeb.it</a></p>
+<blockquote>
+<p><em>“6.1.5. Per i piani, opzioni e/o promozioni che prevedono traffico voce e dati, è altresì prevista la fruizione del servizio in apparati/terminali omologati e non diversi da cellulare o smartphone”</em>.</p>
+</blockquote>
+<p>In poche parole, w3 non permette agli utenti di usare la sim sul router<br>Almeno questo è quello che dice il contratto</p>
+<p><a href="https://www.windtre.it/trasparenza-tariffaria/">i contratti w3</a></p>
+<p><img src="https://s2.loli.net/2022/01/21/ar3HsSF6hxmZj7A.png" alt="image-20220121104810921"></p>
+<h2 id="Android"><a href="#Android" class="headerlink" title="Android"></a>Android</h2><p>Ethernet tethering (richiede Android 11) + </p>
+<p>Adattatore di Rete USB-C a RJ45 con porta di ricarica + </p>
+<p>AP (che genera il wi-fi)</p>
+<p><a href="https://cacombos.com/device/RMX2111">Realme 7 5G (RMX2111)</a></p>
+<p><a href="https://www.androidpolice.com/2020/04/23/ethernet-tethering-arrives-in-latest-android-11-developer-preview/">Ethernet tethering arrives in latest Android 11 Developer Preview</a></p>
+<p><a href="https://www.amazon.it/Xiaomi-AX3600-Router-29010-DVB4251GL/dp/B08MV83J94/ref=sr_1_2?__mk_it_IT=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=3S2TTNUMURJYU&keywords=AX+3600&qid=1642675001&sprefix=ax+3600,aps,528&sr=8-2">Xiaomi AX3600 – Router WiFi 6 e AIoT 29010 / DVB4251GL : Amazon.it: Informatica</a></p>
+<p><img src="https://s2.loli.net/2022/01/20/EYstJzq7Gm4ZQr2.png" alt="image-20220120113748879"></p>
+<p><img src="https://s2.loli.net/2022/01/20/o13DehHwk2QJRWB.png" alt="image-20220120113814934"></p>
+<h2 id="IMEI"><a href="#IMEI" class="headerlink" title="IMEI"></a>IMEI</h2><p>Usa l’imei del telefono</p>
+<h3 id="mc801a"><a href="#mc801a" class="headerlink" title="mc801a"></a>mc801a</h3><p>mc801a versione non <strong>Hyperbox</strong> </p>
+<blockquote>
+<p>Il mio Hyperbox è morto dopo il flasshato, nessun servizio ho provato tutti i firmware e niente<br>In pratica, è confermato che non si può cambiare l’imei in questa versione..</p>
+<p>“web_version”:”WEB_DETMOMC801AV1.0.0B06”,<br>“wa_inner_version”:”MC801AV1.0.0B06”</p>
+<p>versione Hyperbox ha firmware tedesco e non ha la porta rj11 (ma presente nascosta) versione non Hyperbox tutti quelli con la porta rj11 a vista</p>
+<p><strong>Megenta Internet 5G Box = Hyperbox 5G = Telekom MC 801A</strong></p>
+<p><img src="https://s2.loli.net/2022/01/21/DTrEyg3AIflhCML.png" alt="image-20220121104429227"></p>
+</blockquote>
+<h3 id="ROS"><a href="#ROS" class="headerlink" title="ROS"></a>ROS</h3><p>Non ci sono problemi con i router che hanno questo sistema.</p>
+<p>I dettagli dell’operazione possono essere trovati online</p>
 ]]></content>
   </entry>
   <entry>
@@ -930,37 +977,6 @@
 <p><img src="https://s2.loli.net/2022/04/26/lG97ApdReUCYQmg.jpg" alt="IMG_8645_compressed"></p>
 <p>Utilizza un’interfaccia non standard, simile alla ipx1, ma a metà altezza.</p>
 <p>Tuttavia, anche l’IPX1 è si collega e funziona bene.</p>
-]]></content>
-  </entry>
-  <entry>
-    <title>le soluzioni per w3</title>
-    <url>/2022/01/20/le-soluzioni-per-w3/</url>
-    <content><![CDATA[<h1 id="le-soluzioni-per-w3"><a href="#le-soluzioni-per-w3" class="headerlink" title="le soluzioni per w3"></a>le soluzioni per w3</h1><p><a href="https://www.mondomobileweb.it/226647-windtre-mobile-prima-rimodulazione-2022/">WINDTRE Mobile rimodulazione 2022: da oggi partono gli aumenti ad alcuni clienti. Cosa è cambiato - MondoMobileWeb.it</a></p>
-<blockquote>
-<p><em>“6.1.5. Per i piani, opzioni e/o promozioni che prevedono traffico voce e dati, è altresì prevista la fruizione del servizio in apparati/terminali omologati e non diversi da cellulare o smartphone”</em>.</p>
-</blockquote>
-<p>In poche parole, w3 non permette agli utenti di usare la sim sul router<br>Almeno questo è quello che dice il contratto</p>
-<p><a href="https://www.windtre.it/trasparenza-tariffaria/">i contratti w3</a></p>
-<p><img src="https://s2.loli.net/2022/01/21/ar3HsSF6hxmZj7A.png" alt="image-20220121104810921"></p>
-<h2 id="Android"><a href="#Android" class="headerlink" title="Android"></a>Android</h2><p>Ethernet tethering (richiede Android 11) + </p>
-<p>Adattatore di Rete USB-C a RJ45 con porta di ricarica + </p>
-<p>AP (che genera il wi-fi)</p>
-<p><a href="https://cacombos.com/device/RMX2111">Realme 7 5G (RMX2111)</a></p>
-<p><a href="https://www.androidpolice.com/2020/04/23/ethernet-tethering-arrives-in-latest-android-11-developer-preview/">Ethernet tethering arrives in latest Android 11 Developer Preview</a></p>
-<p><a href="https://www.amazon.it/Xiaomi-AX3600-Router-29010-DVB4251GL/dp/B08MV83J94/ref=sr_1_2?__mk_it_IT=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=3S2TTNUMURJYU&keywords=AX+3600&qid=1642675001&sprefix=ax+3600,aps,528&sr=8-2">Xiaomi AX3600 – Router WiFi 6 e AIoT 29010 / DVB4251GL : Amazon.it: Informatica</a></p>
-<p><img src="https://s2.loli.net/2022/01/20/EYstJzq7Gm4ZQr2.png" alt="image-20220120113748879"></p>
-<p><img src="https://s2.loli.net/2022/01/20/o13DehHwk2QJRWB.png" alt="image-20220120113814934"></p>
-<h2 id="IMEI"><a href="#IMEI" class="headerlink" title="IMEI"></a>IMEI</h2><p>Usa l’imei del telefono</p>
-<h3 id="mc801a"><a href="#mc801a" class="headerlink" title="mc801a"></a>mc801a</h3><p>mc801a versione non <strong>Hyperbox</strong> </p>
-<blockquote>
-<p>Il mio Hyperbox è morto dopo il flasshato, nessun servizio ho provato tutti i firmware e niente<br>In pratica, è confermato che non si può cambiare l’imei in questa versione..</p>
-<p>“web_version”:”WEB_DETMOMC801AV1.0.0B06”,<br>“wa_inner_version”:”MC801AV1.0.0B06”</p>
-<p>versione Hyperbox ha firmware tedesco e non ha la porta rj11 (ma presente nascosta) versione non Hyperbox tutti quelli con la porta rj11 a vista</p>
-<p><strong>Megenta Internet 5G Box = Hyperbox 5G = Telekom MC 801A</strong></p>
-<p><img src="https://s2.loli.net/2022/01/21/DTrEyg3AIflhCML.png" alt="image-20220121104429227"></p>
-</blockquote>
-<h3 id="ROS"><a href="#ROS" class="headerlink" title="ROS"></a>ROS</h3><p>Non ci sono problemi con i router che hanno questo sistema.</p>
-<p>I dettagli dell’operazione possono essere trovati online</p>
 ]]></content>
   </entry>
   <entry>
