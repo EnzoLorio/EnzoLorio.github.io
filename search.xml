@@ -134,6 +134,18 @@
 ]]></content>
   </entry>
   <entry>
+    <title>Modalità di antenna del CPE ZTE</title>
+    <url>/2022/06/25/Come-rendere-la-rete-pi%C3%B9-stabile/</url>
+    <content><![CDATA[<h1 id="Come-rendere-la-rete-piu-stabile"><a href="#Come-rendere-la-rete-piu-stabile" class="headerlink" title="Come rendere la rete più stabile"></a>Come rendere la rete più stabile</h1><h2 id="Scheduled-reboot-Riavvio-programmato"><a href="#Scheduled-reboot-Riavvio-programmato" class="headerlink" title="Scheduled reboot / Riavvio programmato"></a>Scheduled reboot / Riavvio programmato</h2><p>Molti router supportano questa funzione, quindi assicuratevi di attivarla.</p>
+<blockquote>
+<p>Prima il mio computer si sconnetteva ogni pochi minuti, avevo appena sostituito la scheda di rete del computer, pensavo che ci fosse un problema con la scheda, ma dopo aver riavviato il router andava tutto bene…</p>
+</blockquote>
+<p>Il riavvio programmato è una funzione che si pensava fosse una necessità sui router precedenti con hardware scadente e poca memoria. Alcuni router moderni non supportano queste funzioni e il mio ha funzionato bene per un mese o due prima del problema.</p>
+<h2 id="Ridurre-il-lavoro-del-router"><a href="#Ridurre-il-lavoro-del-router" class="headerlink" title="Ridurre il lavoro del router"></a>Ridurre il lavoro del router</h2><p>In generale, è sufficiente disattivare la funzione wifi del router e collegare un AP.</p>
+<p><img src="https://s2.loli.net/2022/06/25/rD1ZUmxSefidH4n.jpg" alt="Snipaste_2022-06-25_11-41-49"></p>
+]]></content>
+  </entry>
+  <entry>
     <title>ELENCO APN ITALIANI</title>
     <url>/2022/01/16/ELENCO%20APN%20ITALIANI/</url>
     <content><![CDATA[<h1 id="APN"><a href="#APN" class="headerlink" title="APN"></a>APN</h1><p>ELENCO APN ITALIANI</p>
@@ -167,15 +179,14 @@
 ]]></content>
   </entry>
   <entry>
-    <title>Modalità di antenna del CPE ZTE</title>
-    <url>/2022/06/25/Come-rendere-la-rete-pi%C3%B9-stabile/</url>
-    <content><![CDATA[<h1 id="Come-rendere-la-rete-piu-stabile"><a href="#Come-rendere-la-rete-piu-stabile" class="headerlink" title="Come rendere la rete più stabile"></a>Come rendere la rete più stabile</h1><h2 id="Scheduled-reboot-Riavvio-programmato"><a href="#Scheduled-reboot-Riavvio-programmato" class="headerlink" title="Scheduled reboot / Riavvio programmato"></a>Scheduled reboot / Riavvio programmato</h2><p>Molti router supportano questa funzione, quindi assicuratevi di attivarla.</p>
-<blockquote>
-<p>Prima il mio computer si sconnetteva ogni pochi minuti, avevo appena sostituito la scheda di rete del computer, pensavo che ci fosse un problema con la scheda, ma dopo aver riavviato il router andava tutto bene…</p>
-</blockquote>
-<p>Il riavvio programmato è una funzione che si pensava fosse una necessità sui router precedenti con hardware scadente e poca memoria. Alcuni router moderni non supportano queste funzioni e il mio ha funzionato bene per un mese o due prima del problema.</p>
-<h2 id="Ridurre-il-lavoro-del-router"><a href="#Ridurre-il-lavoro-del-router" class="headerlink" title="Ridurre il lavoro del router"></a>Ridurre il lavoro del router</h2><p>In generale, è sufficiente disattivare la funzione wifi del router e collegare un AP.</p>
-<p><img src="https://s2.loli.net/2022/06/25/rD1ZUmxSefidH4n.jpg" alt="Snipaste_2022-06-25_11-41-49"></p>
+    <title>HUAWEI Router 5G CPE PRO 2 (H122-373)</title>
+    <url>/2022/12/06/H122-373/</url>
+    <content><![CDATA[<p>Il firmware versione 10 non può aggregare tim e wind b1</p>
+<p>Non tutti i router possono essere aggiornati, devono ricevere l’OTA .</p>
+<p>porta rj11 serve solo per VOIP , In poche parole, non è possibile effettuare chiamate da o verso la sim nel router.</p>
+<p>27-01-2023</p>
+<p>È possibile fare l’aggiornamento <strong>solo via OTA</strong>; se si esegue l’aggiornamento in locale, il router diventa un mattone. (Easy Firmware………………)</p>
+<p><img src="https://s2.loli.net/2022/12/06/pLEa39WOf1rPDUm.png" alt="image-20221206165552506"></p>
 ]]></content>
   </entry>
   <entry>
@@ -372,17 +383,6 @@
 ]]></content>
   </entry>
   <entry>
-    <title>HUAWEI Router 5G CPE PRO 2 (H122-373)</title>
-    <url>/2022/12/06/H122-373/</url>
-    <content><![CDATA[<p>Il firmware versione 10 non può aggregare tim e wind b1</p>
-<p>Non tutti i router possono essere aggiornati, devono ricevere l’OTA .</p>
-<p>porta rj11 serve solo per VOIP , In poche parole, non è possibile effettuare chiamate da o verso la sim nel router.</p>
-<p>27-01-2023</p>
-<p>È possibile fare l’aggiornamento <strong>solo via OTA</strong>; se si esegue l’aggiornamento in locale, il router diventa un mattone. (Easy Firmware………………)</p>
-<p><img src="https://s2.loli.net/2022/12/06/pLEa39WOf1rPDUm.png" alt="image-20221206165552506"></p>
-]]></content>
-  </entry>
-  <entry>
     <title>H138-380 HUAWEI 5G CPE Pro 3</title>
     <url>/2022/01/27/H138-380/</url>
     <content><![CDATA[<p><img src="https://s2.loli.net/2022/01/27/eXUGBDcq59jmstF.jpg" alt="IMG_7933"></p>
@@ -405,6 +405,112 @@
 <p><img src="https://s2.loli.net/2023/07/03/VcEjRNQJt5rlkiL.png" alt="0005"></p>
 <p><img src="https://s2.loli.net/2023/07/03/uYqOnsiLEZwT5lP.png" alt="0006"></p>
 <p><img src="https://s2.loli.net/2023/07/03/nAEm6uhtZzRPGeL.png" alt="0007"></p>
+]]></content>
+  </entry>
+  <entry>
+    <title>Modalità di antenna del CPE ZTE</title>
+    <url>/2022/06/25/Modalit%C3%A0-di-antenna-del-CPE-ZTE/</url>
+    <content><![CDATA[<h1 id="Modalita-di-antenna-del-CPE-ZTE"><a href="#Modalita-di-antenna-del-CPE-ZTE" class="headerlink" title="Modalità di antenna del CPE ZTE"></a>Modalità di antenna del CPE ZTE</h1><h2 id="MF286D-MF289F"><a href="#MF286D-MF289F" class="headerlink" title="MF286D MF289F"></a>MF286D MF289F</h2><p>I due modelli più popolari di router zte attualmente disponibili sono entrambi in modalità antenna SISO</p>
+<p><img src="https://s2.loli.net/2022/06/25/ENDc7rnTgC2jHIl.png" alt="siso-mimo-overview"></p>
+<p>Modalità di trasmissione a ingresso singolo Uscita singola (SISO) </p>
+<p>Modalità di trasmissione a ingresso multiplo e uscita multipla (MIMO) </p>
+<p><strong>single Input Single Output</strong> (SISO) </p>
+<p><strong>multiple-input and multiple-output</strong> (MIMO) </p>
+<p>In breve, è possibile installare l’antenna, ma funziona in modalità SISO anziché MIMO, poi, quando si usa l’antenna interna, si usa la modalità 4x4 MIMO. Il segnale può essere migliorato, ma non si sa se la velocità della rete sarà migliorata, dato che la maggior parte delle stazioni base supporta ancora il 2X2 MIMO.</p>
+<h3 id="Come-far-si-che-supportino-il-MIMO"><a href="#Come-far-si-che-supportino-il-MIMO" class="headerlink" title="Come far sì che supportino il MIMO"></a>Come far sì che supportino il MIMO</h3><h2 id="289F"><a href="#289F" class="headerlink" title="289F"></a>289F</h2><p><img src="https://s2.loli.net/2022/02/28/Jq5zuKNrvlRUjGC.png" alt="image-20220228122129156"></p>
+<p>ANT4 MIMO_1</p>
+<p>ANT1 MAIN_HB</p>
+<p>ANT0 MAIN_MLB</p>
+<p>ANT2 AUX</p>
+<p>ANT3 MIMO_0</p>
+<p>MLB = MONOPOLE LOW BAND<br>HB = HIGH BAND<br>AUX = AUXILIARY</p>
+<p><img src="https://s2.loli.net/2022/02/28/bY2CyRNoA8Oi9Xf.png" alt="image-20220228144646853"></p>
+<h2 id="286D"><a href="#286D" class="headerlink" title="286D"></a>286D</h2><p>286D dovrebbe essere uguale a 289f con 5 interfacce</p>
+<p>IPX1 -&gt; SMA</p>
+]]></content>
+  </entry>
+  <entry>
+    <title>MC 801A</title>
+    <url>/2022/01/24/MC-801A/</url>
+    <content><![CDATA[<h1 id="ZTE-801A"><a href="#ZTE-801A" class="headerlink" title="ZTE 801A"></a>ZTE 801A</h1><p><img src="https://s2.loli.net/2022/01/24/WzpQu25Ac36n9ah.jpg" alt="IMG_7804"></p>
+<p><img src="https://s2.loli.net/2022/01/24/9pvhsGK4LawQlm5.png" alt="Snipaste_2022-01-24_15-23-44"></p>
+<p>DreiMaxx<br>Megenta Internet 5G Box<br>A1 Net Cube 5G 2<br>ZTE HyperBox 5G - MC801A</p>
+<p>Megenta Internet 5G Box e ZTE HyperBox 5G - MC801A hanno lo stesso firmware</p>
+<p>L’aggiornamento online dell’801a richiede molto tempo… 5 minuti?<br>Non è consigliabile eseguire l’aggiornamento se il router è attualmente stabile.</p>
+<p>In particolare, il dreimaxx è diventato instabile dopo l’aggiornamento del firmware. (b17)</p>
+<h2 id="HyperBox-o-Megenta"><a href="#HyperBox-o-Megenta" class="headerlink" title="HyperBox o Megenta"></a>HyperBox o Megenta</h2><p>Megenta Internet 5G Box e ZTE HyperBox 5G - MC801A hanno lo stesso firmware</p>
+<p><em>HyperBox non può flashare se no perde il segnale e per momento no c’è modo per recuperare il segnale</em></p>
+<ul>
+<li>I amici russi hanno risolto questo problema.<ul>
+<li><a href="https://4pda.to/forum/index.php?showtopic=1011903&amp;view=findpost&amp;p=117679496">https://4pda.to/forum/index.php?showtopic=1011903&amp;view=findpost&amp;p=117679496</a></li>
+<li><a href="https://4pda.to/forum/index.php?showtopic=1011903&amp;st=1900#entry119272281">https://4pda.to/forum/index.php?showtopic=1011903&amp;st=1900#entry119272281</a><ul>
+<li><a href="https://4pda.to/forum/index.php?showuser=4957492">USER@555 - w3bsit3-dns.com</a></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<p>hanno la porta nascosta cs non funziona VoIP funziona</p>
+<h2 id="DreiMaxx"><a href="#DreiMaxx" class="headerlink" title="DreiMaxx"></a>DreiMaxx</h2><p>Può essere flashato con qualsiasi fw e cambiare imei</p>
+<p><img src="https://s2.loli.net/2022/02/21/CIbksW9GNTtmD26.png" alt="image-20220221162733920"></p>
+<p>Alcuni dreimaxx hanno dei blocchi per motivi sconosciuti</p>
+<p><strong>Ma con la possibilità di cambiare l’imei e il firmware, questo non è un problema</strong></p>
+<p>ha la porta rj11 e funziona </p>
+<p>27-01-2023</p>
+<ul>
+<li>Ho trovato un dreimaxx che non poteva essere flashato con il firmware dreimaxx (nessun segnale).</li>
+<li>Problema risolto con 396590B1250BD_FITELIAMC801AV1.0.0B12.</li>
+</ul>
+<p><strong>Questa è la versione migliore</strong></p>
+<h2 id="A1-Net-Cube-5G-2"><a href="#A1-Net-Cube-5G-2" class="headerlink" title="A1 Net Cube 5G 2"></a>A1 Net Cube 5G 2</h2><p>Il segnale può essere ripristinato flashando 396590B1250BD_FITELIAMC801AV1.0.0B12</p>
+<p>ma non c’e’ modo per ritornare fw originale</p>
+<p>ha la porta rj11 e funziona </p>
+<p>Il motivo della perdita del segnale è ancora sconosciuto, ci dovrebbe essere un posto per memorizzare i dati all’interno</p>
+<h2 id="firmware"><a href="#firmware" class="headerlink" title="firmware"></a>firmware</h2><p>Quando questo router è stato rilasciato per la prima volta, poiché le persone non ne erano a conoscenza, alcuni hanno provato a flsharlo e a sperimentare altri firmware.<br>Questo è ciò che causa l’assenza di segnale</p>
+<p>Dal momento che mionono ha rilasciato l’haker, non ha più senso cambiare il firmware.</p>
+<h2 id="imei"><a href="#imei" class="headerlink" title="imei"></a>imei</h2><p>Se esiste una priorità, il telefono deve avere una priorità superiore a quella del router.</p>
+<p><a href="https://www.fastweb.it/myfastweb/assistenza/guide/5g-mobile/">MyFastweb - Rete Mobile 5G</a></p>
+<ul>
+<li>In teoria è possibile utilizzare la rete 5g di fastweb modificando l’imei, ma non ho mai provato.</li>
+</ul>
+<h2 id="Alimentazione"><a href="#Alimentazione" class="headerlink" title="Alimentazione"></a>Alimentazione</h2><p>Il router può funzionare a 5v</p>
+<p>Molti caricabatterie supportano la ricarica rapida, e quindi non un 5v fisso commuterà automaticamente la tensione in base al dispositivo. (Prestare attenzione se si utilizzano cavi a tensione variabile da 5v a 12v.)</p>
+<p><img src="https://s2.loli.net/2022/05/18/QUXkry8MVJjgEG3.jpg" alt="IMG_20210413_233445"></p>
+<h2 id="Antenna-4g-esterna"><a href="#Antenna-4g-esterna" class="headerlink" title="Antenna 4g esterna"></a>Antenna 4g esterna</h2><p><a href="https://www.adslgate.com/dsl/showthread.php?p=1083314126">تعديل راوتر ZTE 5G MC801A وعمل وصلات للانتينا الخارجي - البوابة الرقمية ADSLGATE</a></p>
+<p><a href="https://www.adslgate.com/dsl/showthread.php?t=2630621">مشاركة تجربة وصلات 4G بدون لحام لراوتر ZTE MC801A 5G - البوابة الرقمية ADSLGATE</a></p>
+<p><a href="https://4pda.to/forum/index.php?showtopic=1011903&st=1100#entry113199006">ZTE MC801 / MC801а – обсуждение - 4PDA</a></p>
+<p><img src="https://s2.loli.net/2022/05/18/Bs7Z2aExD51YMW6.jpg" alt="DREIMAXX"></p>
+<p>A1 E A3 sono main</p>
+<p>Le due plastiche sono antenne</p>
+<p>Il nome del cavo è MS156</p>
+<p><img src="https://s2.loli.net/2022/05/18/hr6AvbR3MOuoaQD.jpg"></p>
+<h2 id="Antenna-esterna"><a href="#Antenna-esterna" class="headerlink" title="Antenna esterna"></a>Antenna esterna</h2><p>L’801a è dotato di due connettori ts9 per la ricezione di segnali 5g.</p>
+<p>5g n78 no N3 (Usa la frequenza 4g)</p>
+<h2 id="LAN"><a href="#LAN" class="headerlink" title="LAN"></a>LAN</h2><p><img src="https://s2.loli.net/2023/01/04/DjaARpxM9XBgiUo.jpg" alt="photo_2022-01-28_18-27-50"></p>
+<p>Bisogna ammettere che ha una latenza maggiore rispetto ad altri router.</p>
+<p>ping </p>
+<p>qpc -&gt; router via LAN</p>
+<h2 id="LED"><a href="#LED" class="headerlink" title="LED"></a>LED</h2><ol>
+<li>SEGNALE<br>(Tre luci)<br>Acceso: Tre spie indicano la potenza del segnale. Più luci accese significano segnali migliori.<br>Spento: non c’è segnale o non è inserita una scheda nano-SIM.</li>
+<li>RETE<br>Rosso: il dispositivo è acceso ma non è registrato alla rete mobile.<br>Blu fisso: il dispositivo è registrato o connesso alla rete mobile 3G/4G.<br>Bianco fisso: il dispositivo è registrato o connesso alla rete 5G.<br>Blu (1 SECONDO) Rosso  (2 SECONDI)<br>Il router ti ricorda di tenere sotto controllo il tuo traffico<br><img src="https://s2.loli.net/2022/05/23/3Y9swNQ7BdZEA6r.png" alt="image-20220522185358952"></li>
+<li>WIFI<br>Acceso: La WLAN (Wi-Fi) funziona normalmente. Lampeggiante: WPS si sta attivando.<br>Spento: la WLAN(Wi-Fi) è disattivata.</li>
+<li>ALIMENTAZIONE<br>Acceso: Il dispositivo è acceso.<br>Off: il dispositivo è spento.</li>
+</ol>
+]]></content>
+  </entry>
+  <entry>
+    <title>NETGEAR Nighthawk M1 4X4 MIMO MOD</title>
+    <url>/2022/03/19/NETGEAR-Nighthawk-M1/</url>
+    <content><![CDATA[<h1 id="NETGEAR-Nighthawk-M1-4X4-MIMO-MOD"><a href="#NETGEAR-Nighthawk-M1-4X4-MIMO-MOD" class="headerlink" title="NETGEAR Nighthawk M1 4X4 MIMO MOD"></a>NETGEAR Nighthawk M1 4X4 MIMO MOD</h1><p><img src="https://s2.loli.net/2022/03/20/iFEWcbfSaI81dJp.jpg" alt="s-l1600 (2)"></p>
+<p><img src="https://s2.loli.net/2022/03/20/AfR6XuxZp8qY3tB.jpg" alt="s-l1600 (3)"></p>
+<p><img src="https://s2.loli.net/2022/03/20/24J81iBascO9z3Z.jpg" alt="s-l1600 (4)"></p>
+<p><img src="https://s2.loli.net/2022/03/20/W87EbIAuKRUDBfa.jpg" alt="s-l1600 (5)"></p>
+<p><img src="https://s2.loli.net/2022/03/20/3dkVwblMqcfF6RY.jpg" alt="s-l1600 (6)"></p>
+<p><img src="https://s2.loli.net/2022/03/20/aRmNVLh2E93Itbw.jpg" alt="s-l1600 (7)"></p>
+<p><img src="https://s2.loli.net/2022/03/20/PYo84UHqViJLRpQ.jpg" alt="s-l1600 (8)"></p>
+<p><img src="https://s2.loli.net/2022/03/20/9DSpcC8PyVxqXng.jpg" alt="s-l1600"></p>
+<p>by</p>
+<p><a href="https://www.ebay.it/itm/">NETGEAR Nighthawk M1 4gx LTE Mobile Router Mr1100 (Network unlocked)</a></p>
 ]]></content>
   </entry>
   <entry>
@@ -479,112 +585,6 @@
 ]]></content>
   </entry>
   <entry>
-    <title>MC 801A</title>
-    <url>/2022/01/24/MC-801A/</url>
-    <content><![CDATA[<h1 id="ZTE-801A"><a href="#ZTE-801A" class="headerlink" title="ZTE 801A"></a>ZTE 801A</h1><p><img src="https://s2.loli.net/2022/01/24/WzpQu25Ac36n9ah.jpg" alt="IMG_7804"></p>
-<p><img src="https://s2.loli.net/2022/01/24/9pvhsGK4LawQlm5.png" alt="Snipaste_2022-01-24_15-23-44"></p>
-<p>DreiMaxx<br>Megenta Internet 5G Box<br>A1 Net Cube 5G 2<br>ZTE HyperBox 5G - MC801A</p>
-<p>Megenta Internet 5G Box e ZTE HyperBox 5G - MC801A hanno lo stesso firmware</p>
-<p>L’aggiornamento online dell’801a richiede molto tempo… 5 minuti?<br>Non è consigliabile eseguire l’aggiornamento se il router è attualmente stabile.</p>
-<p>In particolare, il dreimaxx è diventato instabile dopo l’aggiornamento del firmware. (b17)</p>
-<h2 id="HyperBox-o-Megenta"><a href="#HyperBox-o-Megenta" class="headerlink" title="HyperBox o Megenta"></a>HyperBox o Megenta</h2><p>Megenta Internet 5G Box e ZTE HyperBox 5G - MC801A hanno lo stesso firmware</p>
-<p><em>HyperBox non può flashare se no perde il segnale e per momento no c’è modo per recuperare il segnale</em></p>
-<ul>
-<li>I amici russi hanno risolto questo problema.<ul>
-<li><a href="https://4pda.to/forum/index.php?showtopic=1011903&amp;view=findpost&amp;p=117679496">https://4pda.to/forum/index.php?showtopic=1011903&amp;view=findpost&amp;p=117679496</a></li>
-<li><a href="https://4pda.to/forum/index.php?showtopic=1011903&amp;st=1900#entry119272281">https://4pda.to/forum/index.php?showtopic=1011903&amp;st=1900#entry119272281</a><ul>
-<li><a href="https://4pda.to/forum/index.php?showuser=4957492">USER@555 - w3bsit3-dns.com</a></li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-<p>hanno la porta nascosta cs non funziona VoIP funziona</p>
-<h2 id="DreiMaxx"><a href="#DreiMaxx" class="headerlink" title="DreiMaxx"></a>DreiMaxx</h2><p>Può essere flashato con qualsiasi fw e cambiare imei</p>
-<p><img src="https://s2.loli.net/2022/02/21/CIbksW9GNTtmD26.png" alt="image-20220221162733920"></p>
-<p>Alcuni dreimaxx hanno dei blocchi per motivi sconosciuti</p>
-<p><strong>Ma con la possibilità di cambiare l’imei e il firmware, questo non è un problema</strong></p>
-<p>ha la porta rj11 e funziona </p>
-<p>27-01-2023</p>
-<ul>
-<li>Ho trovato un dreimaxx che non poteva essere flashato con il firmware dreimaxx (nessun segnale).</li>
-<li>Problema risolto con 396590B1250BD_FITELIAMC801AV1.0.0B12.</li>
-</ul>
-<p><strong>Questa è la versione migliore</strong></p>
-<h2 id="A1-Net-Cube-5G-2"><a href="#A1-Net-Cube-5G-2" class="headerlink" title="A1 Net Cube 5G 2"></a>A1 Net Cube 5G 2</h2><p>Il segnale può essere ripristinato flashando 396590B1250BD_FITELIAMC801AV1.0.0B12</p>
-<p>ma non c’e’ modo per ritornare fw originale</p>
-<p>ha la porta rj11 e funziona </p>
-<p>Il motivo della perdita del segnale è ancora sconosciuto, ci dovrebbe essere un posto per memorizzare i dati all’interno</p>
-<h2 id="firmware"><a href="#firmware" class="headerlink" title="firmware"></a>firmware</h2><p>Quando questo router è stato rilasciato per la prima volta, poiché le persone non ne erano a conoscenza, alcuni hanno provato a flsharlo e a sperimentare altri firmware.<br>Questo è ciò che causa l’assenza di segnale</p>
-<p>Dal momento che mionono ha rilasciato l’haker, non ha più senso cambiare il firmware.</p>
-<h2 id="imei"><a href="#imei" class="headerlink" title="imei"></a>imei</h2><p>Se esiste una priorità, il telefono deve avere una priorità superiore a quella del router.</p>
-<p><a href="https://www.fastweb.it/myfastweb/assistenza/guide/5g-mobile/">MyFastweb - Rete Mobile 5G</a></p>
-<ul>
-<li>In teoria è possibile utilizzare la rete 5g di fastweb modificando l’imei, ma non ho mai provato.</li>
-</ul>
-<h2 id="Alimentazione"><a href="#Alimentazione" class="headerlink" title="Alimentazione"></a>Alimentazione</h2><p>Il router può funzionare a 5v</p>
-<p>Molti caricabatterie supportano la ricarica rapida, e quindi non un 5v fisso commuterà automaticamente la tensione in base al dispositivo. (Prestare attenzione se si utilizzano cavi a tensione variabile da 5v a 12v.)</p>
-<p><img src="https://s2.loli.net/2022/05/18/QUXkry8MVJjgEG3.jpg" alt="IMG_20210413_233445"></p>
-<h2 id="Antenna-4g-esterna"><a href="#Antenna-4g-esterna" class="headerlink" title="Antenna 4g esterna"></a>Antenna 4g esterna</h2><p><a href="https://www.adslgate.com/dsl/showthread.php?p=1083314126">تعديل راوتر ZTE 5G MC801A وعمل وصلات للانتينا الخارجي - البوابة الرقمية ADSLGATE</a></p>
-<p><a href="https://www.adslgate.com/dsl/showthread.php?t=2630621">مشاركة تجربة وصلات 4G بدون لحام لراوتر ZTE MC801A 5G - البوابة الرقمية ADSLGATE</a></p>
-<p><a href="https://4pda.to/forum/index.php?showtopic=1011903&st=1100#entry113199006">ZTE MC801 / MC801а – обсуждение - 4PDA</a></p>
-<p><img src="https://s2.loli.net/2022/05/18/Bs7Z2aExD51YMW6.jpg" alt="DREIMAXX"></p>
-<p>A1 E A3 sono main</p>
-<p>Le due plastiche sono antenne</p>
-<p>Il nome del cavo è MS156</p>
-<p><img src="https://s2.loli.net/2022/05/18/hr6AvbR3MOuoaQD.jpg"></p>
-<h2 id="Antenna-esterna"><a href="#Antenna-esterna" class="headerlink" title="Antenna esterna"></a>Antenna esterna</h2><p>L’801a è dotato di due connettori ts9 per la ricezione di segnali 5g.</p>
-<p>5g n78 no N3 (Usa la frequenza 4g)</p>
-<h2 id="LAN"><a href="#LAN" class="headerlink" title="LAN"></a>LAN</h2><p><img src="https://s2.loli.net/2023/01/04/DjaARpxM9XBgiUo.jpg" alt="photo_2022-01-28_18-27-50"></p>
-<p>Bisogna ammettere che ha una latenza maggiore rispetto ad altri router.</p>
-<p>ping </p>
-<p>qpc -&gt; router via LAN</p>
-<h2 id="LED"><a href="#LED" class="headerlink" title="LED"></a>LED</h2><ol>
-<li>SEGNALE<br>(Tre luci)<br>Acceso: Tre spie indicano la potenza del segnale. Più luci accese significano segnali migliori.<br>Spento: non c’è segnale o non è inserita una scheda nano-SIM.</li>
-<li>RETE<br>Rosso: il dispositivo è acceso ma non è registrato alla rete mobile.<br>Blu fisso: il dispositivo è registrato o connesso alla rete mobile 3G/4G.<br>Bianco fisso: il dispositivo è registrato o connesso alla rete 5G.<br>Blu (1 SECONDO) Rosso  (2 SECONDI)<br>Il router ti ricorda di tenere sotto controllo il tuo traffico<br><img src="https://s2.loli.net/2022/05/23/3Y9swNQ7BdZEA6r.png" alt="image-20220522185358952"></li>
-<li>WIFI<br>Acceso: La WLAN (Wi-Fi) funziona normalmente. Lampeggiante: WPS si sta attivando.<br>Spento: la WLAN(Wi-Fi) è disattivata.</li>
-<li>ALIMENTAZIONE<br>Acceso: Il dispositivo è acceso.<br>Off: il dispositivo è spento.</li>
-</ol>
-]]></content>
-  </entry>
-  <entry>
-    <title>Modalità di antenna del CPE ZTE</title>
-    <url>/2022/06/25/Modalit%C3%A0-di-antenna-del-CPE-ZTE/</url>
-    <content><![CDATA[<h1 id="Modalita-di-antenna-del-CPE-ZTE"><a href="#Modalita-di-antenna-del-CPE-ZTE" class="headerlink" title="Modalità di antenna del CPE ZTE"></a>Modalità di antenna del CPE ZTE</h1><h2 id="MF286D-MF289F"><a href="#MF286D-MF289F" class="headerlink" title="MF286D MF289F"></a>MF286D MF289F</h2><p>I due modelli più popolari di router zte attualmente disponibili sono entrambi in modalità antenna SISO</p>
-<p><img src="https://s2.loli.net/2022/06/25/ENDc7rnTgC2jHIl.png" alt="siso-mimo-overview"></p>
-<p>Modalità di trasmissione a ingresso singolo Uscita singola (SISO) </p>
-<p>Modalità di trasmissione a ingresso multiplo e uscita multipla (MIMO) </p>
-<p><strong>single Input Single Output</strong> (SISO) </p>
-<p><strong>multiple-input and multiple-output</strong> (MIMO) </p>
-<p>In breve, è possibile installare l’antenna, ma funziona in modalità SISO anziché MIMO, poi, quando si usa l’antenna interna, si usa la modalità 4x4 MIMO. Il segnale può essere migliorato, ma non si sa se la velocità della rete sarà migliorata, dato che la maggior parte delle stazioni base supporta ancora il 2X2 MIMO.</p>
-<h3 id="Come-far-si-che-supportino-il-MIMO"><a href="#Come-far-si-che-supportino-il-MIMO" class="headerlink" title="Come far sì che supportino il MIMO"></a>Come far sì che supportino il MIMO</h3><h2 id="289F"><a href="#289F" class="headerlink" title="289F"></a>289F</h2><p><img src="https://s2.loli.net/2022/02/28/Jq5zuKNrvlRUjGC.png" alt="image-20220228122129156"></p>
-<p>ANT4 MIMO_1</p>
-<p>ANT1 MAIN_HB</p>
-<p>ANT0 MAIN_MLB</p>
-<p>ANT2 AUX</p>
-<p>ANT3 MIMO_0</p>
-<p>MLB = MONOPOLE LOW BAND<br>HB = HIGH BAND<br>AUX = AUXILIARY</p>
-<p><img src="https://s2.loli.net/2022/02/28/bY2CyRNoA8Oi9Xf.png" alt="image-20220228144646853"></p>
-<h2 id="286D"><a href="#286D" class="headerlink" title="286D"></a>286D</h2><p>286D dovrebbe essere uguale a 289f con 5 interfacce</p>
-<p>IPX1 -&gt; SMA</p>
-]]></content>
-  </entry>
-  <entry>
-    <title>NETGEAR Nighthawk M1 4X4 MIMO MOD</title>
-    <url>/2022/03/19/NETGEAR-Nighthawk-M1/</url>
-    <content><![CDATA[<h1 id="NETGEAR-Nighthawk-M1-4X4-MIMO-MOD"><a href="#NETGEAR-Nighthawk-M1-4X4-MIMO-MOD" class="headerlink" title="NETGEAR Nighthawk M1 4X4 MIMO MOD"></a>NETGEAR Nighthawk M1 4X4 MIMO MOD</h1><p><img src="https://s2.loli.net/2022/03/20/iFEWcbfSaI81dJp.jpg" alt="s-l1600 (2)"></p>
-<p><img src="https://s2.loli.net/2022/03/20/AfR6XuxZp8qY3tB.jpg" alt="s-l1600 (3)"></p>
-<p><img src="https://s2.loli.net/2022/03/20/24J81iBascO9z3Z.jpg" alt="s-l1600 (4)"></p>
-<p><img src="https://s2.loli.net/2022/03/20/W87EbIAuKRUDBfa.jpg" alt="s-l1600 (5)"></p>
-<p><img src="https://s2.loli.net/2022/03/20/3dkVwblMqcfF6RY.jpg" alt="s-l1600 (6)"></p>
-<p><img src="https://s2.loli.net/2022/03/20/aRmNVLh2E93Itbw.jpg" alt="s-l1600 (7)"></p>
-<p><img src="https://s2.loli.net/2022/03/20/PYo84UHqViJLRpQ.jpg" alt="s-l1600 (8)"></p>
-<p><img src="https://s2.loli.net/2022/03/20/9DSpcC8PyVxqXng.jpg" alt="s-l1600"></p>
-<p>by</p>
-<p><a href="https://www.ebay.it/itm/">NETGEAR Nighthawk M1 4gx LTE Mobile Router Mr1100 (Network unlocked)</a></p>
-]]></content>
-  </entry>
-  <entry>
     <title>Pixel 1 spazio illimitato su Google Foto</title>
     <url>/2022/06/05/Pixel-1-spazio-illimitato-su-Google-Foto/</url>
     <content><![CDATA[<h1 id="Pixel-1-spazio-illimitato-su-Google-Foto"><a href="#Pixel-1-spazio-illimitato-su-Google-Foto" class="headerlink" title="Pixel 1 spazio illimitato su Google Foto"></a>Pixel 1 spazio illimitato su Google Foto</h1><p><a href="https://support.google.com/photos/answer/6220791?hl=it">Scegliere le dimensioni di caricamento di foto e video - Computer - Guida di Google Foto</a></p>
@@ -605,6 +605,45 @@
 <ul>
 <li><h2 id="External-Links"><a href="#External-Links" class="headerlink" title="External Links"></a><strong>External Links</strong></h2></li>
 </ul>
+]]></content>
+  </entry>
+  <entry>
+    <title>Super Internet Casa - Offerte Internet con Super Internet Wi-Fi</title>
+    <url>/2022/01/16/Super-Internet-Casa/</url>
+    <content><![CDATA[<h1 id="Super-Internet-Casa-Offerte-Internet-con-Super-Internet-Wi-Fi"><a href="#Super-Internet-Casa-Offerte-Internet-con-Super-Internet-Wi-Fi" class="headerlink" title="Super Internet Casa - Offerte Internet con Super Internet Wi-Fi"></a>Super Internet Casa - Offerte Internet con Super Internet Wi-Fi</h1><p><a href="https://www.windtre.it/offerte-internet-mobile/super-internet-casa/">Super Internet Casa - Offerte Internet con Super Internet Wi-Fi</a></p>
+<ul>
+<li><p>Super Internet Casa = SUPER INTERNET CASA EASY PAY  (con carta di credito, conto corrente o carte conto abilitate)</p>
+</li>
+<li><p>Fino a 300 Mega in download e 50 Mega in upload</p>
+</li>
+<li><p>si disconnette ogni 4 ore</p>
+</li>
+<li><p>fino a 500/550 giga vai tranquillo, dopo è un mistero</p>
+</li>
+<li><p>il Servizio è prevista una durata di 24 mesi</p>
+</li>
+<li><p>SIM si può mettere in qualunque modem</p>
+</li>
+<li><p>modem Brandizzato windtre probabile, ma cambiando apn quasi sicuramente si può mettere qualunque sim</p>
+</li>
+<li><p>router B628-265 CAT 12 2CA</p>
+<ul>
+<li><strong>Huawei B628-265 4G+</strong>, <strong>Huawei B628-350 4G+</strong> oppure lo <strong>ZYXEL LTE5398-M904</strong> in base alle loro disponibilità</li>
+</ul>
+</li>
+<li><p>In caso di reiterato mancato rispetto delle condizioni di utilizzo dell’offerta geolocalizzata in un comune diverso da quello di sottoscrizione o interessato dall’offerta (e di conseguente relativa fruizione) WindTre si riserva di non erogare i benefici legati all’offerta geolocalizzata, conseguentemente, erogando al Cliente un quantitativo di traffico dati inferiore con relativo prezzo ovvero 100 GB (mese) a 12.99€.</p>
+</li>
+</ul>
+<h2 id="e-una-offerta-mobile"><a href="#e-una-offerta-mobile" class="headerlink" title="è una offerta mobile"></a>è una offerta mobile</h2><p><a href="https://www.windtre.it/trasparenza-tariffaria/">https://www.windtre.it/trasparenza-tariffaria/</a></p>
+<p>MOBILE -&gt; Piani Privati -&gt; <a href="https://d1qsjop7tycsfb.cloudfront.net/fileadmin/mainbrand/trasparenza-tariffaria/privati/mobile/20211206/20211206-Super_Internet_Casa_Easy_Pay.pdf">SUPER INTERNET CASA EASY PAY</a></p>
+<p>Poiché questo è un offerta mobile, la <strong>CONDIZIONI GENERALI DI CONTRATTO</strong> è questo</p>
+<p><img src="https://s2.loli.net/2022/02/28/YbND64Z9BlEndGC.png" alt="image-20220228143513960"></p>
+<ol>
+<li>volumi di traffico mensili anomali e almeno superiori a 5 volte rispetto alla media di<br>consumo di clienti con offerte omogenee o analoghe;</li>
+<li>volumi di traffico dati superiore per tre mesi consecutivi al volume del traffico medio<br>mensile di clienti con offerte omogenee o analoghe.</li>
+</ol>
+<p><a href="https://d1qsjop7tycsfb.cloudfront.net/fileadmin/mainbrand/trasparenza-tariffaria/privati/mobile/20211206/20211206-Super_Internet_Casa_Easy_Pay.pdf">Caratteristiche offerta</a></p>
+<p><a href="https://www.windtre.it/info-consumi-rete-dati/">Info-consumi-rete-dati</a></p>
 ]]></content>
   </entry>
   <entry>
@@ -656,45 +695,6 @@
 ]]></content>
   </entry>
   <entry>
-    <title>Super Internet Casa - Offerte Internet con Super Internet Wi-Fi</title>
-    <url>/2022/01/16/Super-Internet-Casa/</url>
-    <content><![CDATA[<h1 id="Super-Internet-Casa-Offerte-Internet-con-Super-Internet-Wi-Fi"><a href="#Super-Internet-Casa-Offerte-Internet-con-Super-Internet-Wi-Fi" class="headerlink" title="Super Internet Casa - Offerte Internet con Super Internet Wi-Fi"></a>Super Internet Casa - Offerte Internet con Super Internet Wi-Fi</h1><p><a href="https://www.windtre.it/offerte-internet-mobile/super-internet-casa/">Super Internet Casa - Offerte Internet con Super Internet Wi-Fi</a></p>
-<ul>
-<li><p>Super Internet Casa = SUPER INTERNET CASA EASY PAY  (con carta di credito, conto corrente o carte conto abilitate)</p>
-</li>
-<li><p>Fino a 300 Mega in download e 50 Mega in upload</p>
-</li>
-<li><p>si disconnette ogni 4 ore</p>
-</li>
-<li><p>fino a 500/550 giga vai tranquillo, dopo è un mistero</p>
-</li>
-<li><p>il Servizio è prevista una durata di 24 mesi</p>
-</li>
-<li><p>SIM si può mettere in qualunque modem</p>
-</li>
-<li><p>modem Brandizzato windtre probabile, ma cambiando apn quasi sicuramente si può mettere qualunque sim</p>
-</li>
-<li><p>router B628-265 CAT 12 2CA</p>
-<ul>
-<li><strong>Huawei B628-265 4G+</strong>, <strong>Huawei B628-350 4G+</strong> oppure lo <strong>ZYXEL LTE5398-M904</strong> in base alle loro disponibilità</li>
-</ul>
-</li>
-<li><p>In caso di reiterato mancato rispetto delle condizioni di utilizzo dell’offerta geolocalizzata in un comune diverso da quello di sottoscrizione o interessato dall’offerta (e di conseguente relativa fruizione) WindTre si riserva di non erogare i benefici legati all’offerta geolocalizzata, conseguentemente, erogando al Cliente un quantitativo di traffico dati inferiore con relativo prezzo ovvero 100 GB (mese) a 12.99€.</p>
-</li>
-</ul>
-<h2 id="e-una-offerta-mobile"><a href="#e-una-offerta-mobile" class="headerlink" title="è una offerta mobile"></a>è una offerta mobile</h2><p><a href="https://www.windtre.it/trasparenza-tariffaria/">https://www.windtre.it/trasparenza-tariffaria/</a></p>
-<p>MOBILE -&gt; Piani Privati -&gt; <a href="https://d1qsjop7tycsfb.cloudfront.net/fileadmin/mainbrand/trasparenza-tariffaria/privati/mobile/20211206/20211206-Super_Internet_Casa_Easy_Pay.pdf">SUPER INTERNET CASA EASY PAY</a></p>
-<p>Poiché questo è un offerta mobile, la <strong>CONDIZIONI GENERALI DI CONTRATTO</strong> è questo</p>
-<p><img src="https://s2.loli.net/2022/02/28/YbND64Z9BlEndGC.png" alt="image-20220228143513960"></p>
-<ol>
-<li>volumi di traffico mensili anomali e almeno superiori a 5 volte rispetto alla media di<br>consumo di clienti con offerte omogenee o analoghe;</li>
-<li>volumi di traffico dati superiore per tre mesi consecutivi al volume del traffico medio<br>mensile di clienti con offerte omogenee o analoghe.</li>
-</ol>
-<p><a href="https://d1qsjop7tycsfb.cloudfront.net/fileadmin/mainbrand/trasparenza-tariffaria/privati/mobile/20211206/20211206-Super_Internet_Casa_Easy_Pay.pdf">Caratteristiche offerta</a></p>
-<p><a href="https://www.windtre.it/info-consumi-rete-dati/">Info-consumi-rete-dati</a></p>
-]]></content>
-  </entry>
-  <entry>
     <title>Tenda 5G03 AX1800 Wi-Fi 6 5G NR Router PHOTOS</title>
     <url>/2023/02/11/TENDA-5G03-PHOTOS/</url>
     <content><![CDATA[<h1 id="Tenda-5G03-AX1800-Wi-Fi-6-5G-NR-Router-PHOTOS"><a href="#Tenda-5G03-AX1800-Wi-Fi-6-5G-NR-Router-PHOTOS" class="headerlink" title="Tenda 5G03 AX1800 Wi-Fi 6 5G NR Router PHOTOS"></a>Tenda 5G03 AX1800 Wi-Fi 6 5G NR Router PHOTOS</h1><p><img src="https://s2.loli.net/2023/02/12/RH8d6wa5iP7zEjn.jpg" alt="0002"></p>
@@ -725,22 +725,6 @@
 ]]></content>
   </entry>
   <entry>
-    <title>Tenda 5G03 AX1800 Wi-Fi 6 5G NR Router</title>
-    <url>/2023/02/11/TENDA-5G03/</url>
-    <content><![CDATA[<h1 id="Tenda-5G03-AX1800-Wi-Fi-6-5G-NR-Router"><a href="#Tenda-5G03-AX1800-Wi-Fi-6-5G-NR-Router" class="headerlink" title="Tenda 5G03 AX1800 Wi-Fi 6 5G NR Router"></a>Tenda 5G03 AX1800 Wi-Fi 6 5G NR Router</h1><p><a href="https://www.tendacn.com/it/product/download/5G03.html">5G03 Download-Tenda (Italia)</a></p>
-]]></content>
-  </entry>
-  <entry>
-    <title>China Unicom VN007+China Unicom VN007+</title>
-    <url>/2023/07/08/VN007+/</url>
-    <content><![CDATA[<h1 id="China-Unicom-VN007"><a href="#China-Unicom-VN007" class="headerlink" title="China Unicom VN007+"></a>China Unicom VN007+</h1><p><img src="https://s2.loli.net/2023/07/09/YZeM6w82V5iGFRt.jpg" alt="⚛️antykat_v26.R16_LMC_11TPro_20230618_232216_lmc_8.4"></p>
-<p><img src="https://s2.loli.net/2023/07/09/Zm7VxSMqefjJzdF.jpg" alt="⚛️antykat_v26.R16_LMC_11TPro_20230618_232231_lmc_8.4"></p>
-<p><img src="https://s2.loli.net/2023/07/09/4iqkLfwyjnA5PdF.jpg" alt="⚛️antykat_v26.R16_LMC_11TPro_20230618_232301_lmc_8.4"></p>
-<p><img src="https://s2.loli.net/2023/07/09/qgln7FbvCrNmS8x.jpg" alt="⚛️antykat_v26.R16_LMC_11TPro_20230618_232354_lmc_8.4"></p>
-<p><img src="https://s2.loli.net/2023/07/09/RcQWuiX6pVdaCYI.jpg" alt="Snipaste_2023-06-18_23-32-37"></p>
-]]></content>
-  </entry>
-  <entry>
     <title>Utilizzare Vodafone Power station come Access Point/ Router secondario</title>
     <url>/2022/10/01/Utilizzare-Vodafone-Power-station-come-Access-Point-Router-secondario/</url>
     <content><![CDATA[<h1 id="Utilizzare-Vodafone-Power-station-come-Access-Point-Router-secondario"><a href="#Utilizzare-Vodafone-Power-station-come-Access-Point-Router-secondario" class="headerlink" title="Utilizzare Vodafone Power station come Access Point/ Router secondario"></a>Utilizzare Vodafone Power station come Access Point/ Router secondario</h1><p><img src="https://s2.loli.net/2022/10/01/Q2e5tI9JRM8wZAU.jpg" alt="IMG_20221001_130017"></p>
@@ -763,6 +747,36 @@
 ]]></content>
   </entry>
   <entry>
+    <title>Tenda 5G03 AX1800 Wi-Fi 6 5G NR Router</title>
+    <url>/2023/02/11/TENDA-5G03/</url>
+    <content><![CDATA[<h1 id="Tenda-5G03-AX1800-Wi-Fi-6-5G-NR-Router"><a href="#Tenda-5G03-AX1800-Wi-Fi-6-5G-NR-Router" class="headerlink" title="Tenda 5G03 AX1800 Wi-Fi 6 5G NR Router"></a>Tenda 5G03 AX1800 Wi-Fi 6 5G NR Router</h1><p><a href="https://www.tendacn.com/it/product/download/5G03.html">5G03 Download-Tenda (Italia)</a></p>
+]]></content>
+  </entry>
+  <entry>
+    <title>China Unicom VN007+China Unicom VN007+</title>
+    <url>/2023/07/08/VN007+/</url>
+    <content><![CDATA[<h1 id="China-Unicom-VN007"><a href="#China-Unicom-VN007" class="headerlink" title="China Unicom VN007+"></a>China Unicom VN007+</h1><p><img src="https://s2.loli.net/2023/07/09/YZeM6w82V5iGFRt.jpg" alt="⚛️antykat_v26.R16_LMC_11TPro_20230618_232216_lmc_8.4"></p>
+<p><img src="https://s2.loli.net/2023/07/09/Zm7VxSMqefjJzdF.jpg" alt="⚛️antykat_v26.R16_LMC_11TPro_20230618_232231_lmc_8.4"></p>
+<p><img src="https://s2.loli.net/2023/07/09/4iqkLfwyjnA5PdF.jpg" alt="⚛️antykat_v26.R16_LMC_11TPro_20230618_232301_lmc_8.4"></p>
+<p><img src="https://s2.loli.net/2023/07/09/qgln7FbvCrNmS8x.jpg" alt="⚛️antykat_v26.R16_LMC_11TPro_20230618_232354_lmc_8.4"></p>
+<p><img src="https://s2.loli.net/2023/07/09/RcQWuiX6pVdaCYI.jpg" alt="Snipaste_2023-06-18_23-32-37"></p>
+<p><img src="https://s2.loli.net/2023/07/09/jGVDvqBTUhouF95.jpg" alt="Snipaste_2023-07-08_22-34-35"></p>
+<p><img src="https://s2.loli.net/2023/07/09/vfqZW29toEUCVnL.jpg" alt="Snipaste_2023-07-08_22-39-29"></p>
+<p><img src="https://s2.loli.net/2023/07/09/24vjLReHFmOoPEG.jpg" alt="Snipaste_2023-07-08_22-39-39"></p>
+<p><img src="https://s2.loli.net/2023/07/09/tXKPxsQ8ZLlFVrD.jpg" alt="Snipaste_2023-07-08_22-40-46"></p>
+<h2 id="antenna-esterna"><a href="#antenna-esterna" class="headerlink" title="antenna esterna"></a>antenna esterna</h2><p>IPX1 SMA</p>
+<p>ANT 3 / 6 MAIN</p>
+<p>ANT 4 / 5 MIMO</p>
+<p>ANT 3 = SA</p>
+<p>ANT 6 = NSA</p>
+<h2 id="imei"><a href="#imei" class="headerlink" title="imei"></a>imei</h2><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">CHANGE IMEI:</span><br><span class="line"></span><br><span class="line">AT+SPIMEI=0, &quot;IMEI CODE HERE&quot;</span><br><span class="line">AT+SPIMEI?</span><br></pre></td></tr></table></figure>
+
+<p>​    </p>
+<p><a href="https://github.com/mattfaraday/vn007/tree/main/fw/plus">vn007/fw/plus at main · mattfaraday/vn007 · GitHub</a></p>
+<p><a href="https://jeromelaliag.com/tools/Unicom%20SuperAdmin%20Generator/">Unicom SuperAdmin Generator</a></p>
+]]></content>
+  </entry>
+  <entry>
     <title>Xiaomi 5G CPE Pro Magenta Internet 5G Box AX5400</title>
     <url>/2022/12/05/Xiaomi%205G%20CPE%20Pro%20Magenta%20Internet%205G%20Box%20AX5400/</url>
     <content><![CDATA[<h1 id="Xiaomi-5G-CPE-Pro-Magenta-Internet-5G-Box-AX5400"><a href="#Xiaomi-5G-CPE-Pro-Magenta-Internet-5G-Box-AX5400" class="headerlink" title="Xiaomi 5G CPE Pro Magenta Internet 5G Box AX5400"></a>Xiaomi 5G CPE Pro Magenta Internet 5G Box AX5400</h1><p><img src="https://s2.loli.net/2022/12/05/GjPduyWFMpm9gNZ.jpg" alt="1"></p>
@@ -778,38 +792,18 @@
 ]]></content>
   </entry>
   <entry>
-    <title>ZTE MC7010 5G - Router WiFi per esterniq</title>
-    <url>/2023/05/15/ZTE-MC7010/</url>
-    <content><![CDATA[<h1 id="ZTE-MC7010-5G-Router-WiFi-per-esterni"><a href="#ZTE-MC7010-5G-Router-WiFi-per-esterni" class="headerlink" title="ZTE MC7010 5G - Router WiFi per esterni"></a>ZTE MC7010 5G - Router WiFi per esterni</h1><p>Poiché tutti i dispositivi 7010 sono brandizzati, è fondamentale controllare il codice di versione prima di acquistare.</p>
-<p><img src="https://s2.loli.net/2023/06/18/lqXwOFoEMkaNVU4.png" alt="image-20230618002046119"></p>
-<h2 id="LINKEM"><a href="#LINKEM" class="headerlink" title="LINKEM"></a>LINKEM</h2><p>BD_ITLINKEMMC7010V1.0.0B07</p>
-<ul>
-<li><p>Impossibile modificare l’apn</p>
-</li>
-<li><p>Impossibile modificare il firmware, perdita di segnale dopo la modifica del firmware.</p>
-</li>
-</ul>
-<h2 id="Vodafone-ITA"><a href="#Vodafone-ITA" class="headerlink" title="Vodafone ITA"></a>Vodafone ITA</h2><p>Non aggrega <strong>b20</strong><br>Non compatibile con SIM Vodafone. (diversa da quella abbinata)<br>L’hack non funziona, quindi non è possibile selezionare le bande o Cell lock</p>
-<p>La modifica dell’APN non è possibile senza la password superuser.</p>
-<h2 id="Fastweb"><a href="#Fastweb" class="headerlink" title="Fastweb"></a>Fastweb</h2><p>BD_ITFASTWEBMC7010V1.0.0B13<br>blocatto non si puo’ fare niente</p>
-<p>27-06-2023</p>
-<p>@Giammarco</p>
-<p>Giammarco ha scoperto che questo router manca di alcuni chip rf a livello hardware, quindi alcune bande non sono supportate a livello hardware.</p>
-<p><img src="https://s2.loli.net/2023/06/28/cdGm5NjkQiSWrVb.jpg" alt="photo_2023-06-27_14-20-27 (2)"></p>
-<p><img src="https://s2.loli.net/2023/06/28/eJ26rQy3amPDsjM.jpg" alt="photo_2023-06-27_14-20-27"></p>
-<h2 id="Wind"><a href="#Wind" class="headerlink" title="Wind"></a>Wind</h2><p>funziona tutto</p>
-<h2 id="DNA"><a href="#DNA" class="headerlink" title="DNA"></a>DNA</h2><p>non ha la b38</p>
-<h2 id="3-UK"><a href="#3-UK" class="headerlink" title="3 UK"></a>3 UK</h2><p>SIM LOCKED</p>
-<h2 id="7010CA"><a href="#7010CA" class="headerlink" title="7010CA"></a>7010CA</h2><p>No segnale</p>
-<h2 id="Telenor"><a href="#Telenor" class="headerlink" title="Telenor"></a>Telenor</h2><p><a href="https://www.ispreview.co.uk/talk/threads/outdoor-cpes.37141/post-283530">no 38 e 32</a></p>
-<p><a href="https://www.ispreview.co.uk/talk/search/10567/?c%5Busers%5D=lyonanderson&o=date">Qualcuno ha provato a modificare il firmware e ci è riuscito</a></p>
-<ul>
-<li><a href="https://www.ispreview.co.uk/talk/threads/outdoor-cpes.37141/post-289510">I’m 100% what he did. From what I could see he took the files from 3_Download_File MC7010_Elisa1_B07 and then replaced the sdxprairie-sysfs.ubi file with that from the Play firmware.</a></li>
-</ul>
-<p>versione svedese, funziona tutto</p>
-<p><img src="https://s2.loli.net/2023/07/05/qJ3ReMSWXZj4HsB.png" alt="image-20230705034458396"></p>
-<p>PV_ZTE_MC7010CAV1.0.0B01</p>
-<h1 id="In-ogni-caso-controllate-la-versione-prima-di-acquistarla"><a href="#In-ogni-caso-controllate-la-versione-prima-di-acquistarla" class="headerlink" title="In ogni caso, controllate la versione prima di acquistarla."></a>In ogni caso, controllate la versione prima di acquistarla.</h1>]]></content>
+    <title>Zyxel 5G NR/4G LTE CPE Quick Sales Guide</title>
+    <url>/2023/02/17/Zyxel-5G-NR-4G-LTE-CPE-Quick-Sales-Guide/</url>
+    <content><![CDATA[<h1 id="Zyxel-5G-NR-4G-LTE-CPE-Quick-Sales-Guide"><a href="#Zyxel-5G-NR-4G-LTE-CPE-Quick-Sales-Guide" class="headerlink" title="Zyxel 5G NR/4G LTE CPE Quick Sales Guide"></a>Zyxel 5G NR/4G LTE CPE Quick Sales Guide</h1><p><img src="https://s2.loli.net/2023/02/17/s5AOIDBub9VFZz6.png" alt="0001"></p>
+<span id="more"></span>
+
+<p><img src="https://s2.loli.net/2023/02/17/Dw9BPSrGUtbHTiq.png" alt="0002"></p>
+<p><img src="https://s2.loli.net/2023/02/17/Eufame8xqg4vT6H.png" alt="0003"></p>
+<p><img src="https://s2.loli.net/2023/02/17/gtRiSZjBpFhOMVL.png" alt="0004"></p>
+<p><img src="https://s2.loli.net/2023/02/17/yjmKBlvEGHqZXNd.png" alt="0005"></p>
+<p><img src="https://s2.loli.net/2023/02/17/nohQUDyGqa12uWm.png" alt="0006"></p>
+<p><img src="https://s2.loli.net/2023/02/17/eQTjW2xuRvL5G9A.png" alt="0007"></p>
+]]></content>
   </entry>
   <entry>
     <title>Zyxel NR5103E</title>
@@ -853,25 +847,38 @@
 ]]></content>
   </entry>
   <entry>
-    <title>Zyxel 5G NR/4G LTE CPE Quick Sales Guide</title>
-    <url>/2023/02/17/Zyxel-5G-NR-4G-LTE-CPE-Quick-Sales-Guide/</url>
-    <content><![CDATA[<h1 id="Zyxel-5G-NR-4G-LTE-CPE-Quick-Sales-Guide"><a href="#Zyxel-5G-NR-4G-LTE-CPE-Quick-Sales-Guide" class="headerlink" title="Zyxel 5G NR/4G LTE CPE Quick Sales Guide"></a>Zyxel 5G NR/4G LTE CPE Quick Sales Guide</h1><p><img src="https://s2.loli.net/2023/02/17/s5AOIDBub9VFZz6.png" alt="0001"></p>
-<span id="more"></span>
-
-<p><img src="https://s2.loli.net/2023/02/17/Dw9BPSrGUtbHTiq.png" alt="0002"></p>
-<p><img src="https://s2.loli.net/2023/02/17/Eufame8xqg4vT6H.png" alt="0003"></p>
-<p><img src="https://s2.loli.net/2023/02/17/gtRiSZjBpFhOMVL.png" alt="0004"></p>
-<p><img src="https://s2.loli.net/2023/02/17/yjmKBlvEGHqZXNd.png" alt="0005"></p>
-<p><img src="https://s2.loli.net/2023/02/17/nohQUDyGqa12uWm.png" alt="0006"></p>
-<p><img src="https://s2.loli.net/2023/02/17/eQTjW2xuRvL5G9A.png" alt="0007"></p>
-]]></content>
-  </entry>
-  <entry>
-    <title>istruzione per 286D NORDIC</title>
-    <url>/2022/07/12/istruzione-per-286D-NORDIC/</url>
-    <content><![CDATA[<p><img src="https://s2.loli.net/2022/07/13/Aa8j6hP5tOg7Srs.jpg" alt="0001"></p>
-<p><img src="https://s2.loli.net/2022/07/13/4n3gv5JEfKzOqRr.jpg" alt="0002"></p>
-]]></content>
+    <title>ZTE MC7010 5G - Router WiFi per esterniq</title>
+    <url>/2023/05/15/ZTE-MC7010/</url>
+    <content><![CDATA[<h1 id="ZTE-MC7010-5G-Router-WiFi-per-esterni"><a href="#ZTE-MC7010-5G-Router-WiFi-per-esterni" class="headerlink" title="ZTE MC7010 5G - Router WiFi per esterni"></a>ZTE MC7010 5G - Router WiFi per esterni</h1><p>Poiché tutti i dispositivi 7010 sono brandizzati, è fondamentale controllare il codice di versione prima di acquistare.</p>
+<p><img src="https://s2.loli.net/2023/06/18/lqXwOFoEMkaNVU4.png" alt="image-20230618002046119"></p>
+<h2 id="LINKEM"><a href="#LINKEM" class="headerlink" title="LINKEM"></a>LINKEM</h2><p>BD_ITLINKEMMC7010V1.0.0B07</p>
+<ul>
+<li><p>Impossibile modificare l’apn</p>
+</li>
+<li><p>Impossibile modificare il firmware, perdita di segnale dopo la modifica del firmware.</p>
+</li>
+</ul>
+<h2 id="Vodafone-ITA"><a href="#Vodafone-ITA" class="headerlink" title="Vodafone ITA"></a>Vodafone ITA</h2><p>Non aggrega <strong>b20</strong><br>Non compatibile con SIM Vodafone. (diversa da quella abbinata)<br>L’hack non funziona, quindi non è possibile selezionare le bande o Cell lock</p>
+<p>La modifica dell’APN non è possibile senza la password superuser.</p>
+<h2 id="Fastweb"><a href="#Fastweb" class="headerlink" title="Fastweb"></a>Fastweb</h2><p>BD_ITFASTWEBMC7010V1.0.0B13<br>blocatto non si puo’ fare niente</p>
+<p>27-06-2023</p>
+<p>@Giammarco</p>
+<p>Giammarco ha scoperto che questo router manca di alcuni chip rf a livello hardware, quindi alcune bande non sono supportate a livello hardware.</p>
+<p><img src="https://s2.loli.net/2023/06/28/cdGm5NjkQiSWrVb.jpg" alt="photo_2023-06-27_14-20-27 (2)"></p>
+<p><img src="https://s2.loli.net/2023/06/28/eJ26rQy3amPDsjM.jpg" alt="photo_2023-06-27_14-20-27"></p>
+<h2 id="Wind"><a href="#Wind" class="headerlink" title="Wind"></a>Wind</h2><p>funziona tutto</p>
+<h2 id="DNA"><a href="#DNA" class="headerlink" title="DNA"></a>DNA</h2><p>non ha la b38</p>
+<h2 id="3-UK"><a href="#3-UK" class="headerlink" title="3 UK"></a>3 UK</h2><p>SIM LOCKED</p>
+<h2 id="7010CA"><a href="#7010CA" class="headerlink" title="7010CA"></a>7010CA</h2><p>No segnale</p>
+<h2 id="Telenor"><a href="#Telenor" class="headerlink" title="Telenor"></a>Telenor</h2><p><a href="https://www.ispreview.co.uk/talk/threads/outdoor-cpes.37141/post-283530">no 38 e 32</a></p>
+<p><a href="https://www.ispreview.co.uk/talk/search/10567/?c%5Busers%5D=lyonanderson&o=date">Qualcuno ha provato a modificare il firmware e ci è riuscito</a></p>
+<ul>
+<li><a href="https://www.ispreview.co.uk/talk/threads/outdoor-cpes.37141/post-289510">I’m 100% what he did. From what I could see he took the files from 3_Download_File MC7010_Elisa1_B07 and then replaced the sdxprairie-sysfs.ubi file with that from the Play firmware.</a></li>
+</ul>
+<p>versione svedese, funziona tutto</p>
+<p><img src="https://s2.loli.net/2023/07/05/qJ3ReMSWXZj4HsB.png" alt="image-20230705034458396"></p>
+<p>PV_ZTE_MC7010CAV1.0.0B01</p>
+<h1 id="In-ogni-caso-controllate-la-versione-prima-di-acquistarla"><a href="#In-ogni-caso-controllate-la-versione-prima-di-acquistarla" class="headerlink" title="In ogni caso, controllate la versione prima di acquistarla."></a>In ogni caso, controllate la versione prima di acquistarla.</h1>]]></content>
   </entry>
   <entry>
     <title>istruzione per 289F</title>
@@ -884,6 +891,22 @@
     <title>istruzione per 818 263</title>
     <url>/2022/07/12/istruzione-per-818-263/</url>
     <content><![CDATA[<p><img src="https://s2.loli.net/2022/07/13/hKGmg6Ra8JEYrnP.jpg" alt="0001"></p>
+<p><img src="https://s2.loli.net/2022/07/13/4n3gv5JEfKzOqRr.jpg" alt="0002"></p>
+]]></content>
+  </entry>
+  <entry>
+    <title>zte 289f dhcp off with xiaomi ax3000</title>
+    <url>/2022/09/08/zte-289f-dhcp-off-with-xiaomi-ax3000/</url>
+    <content><![CDATA[<p><img src="https://s2.loli.net/2022/09/08/FMk3S5cR6JCV2zr.jpg" alt="Snipaste_2022-09-08_10-51-37"></p>
+<ul>
+<li>Disattivare il DHCP significa ridurre il carico di lavoro della CPE.</li>
+</ul>
+]]></content>
+  </entry>
+  <entry>
+    <title>istruzione per 286D NORDIC</title>
+    <url>/2022/07/12/istruzione-per-286D-NORDIC/</url>
+    <content><![CDATA[<p><img src="https://s2.loli.net/2022/07/13/Aa8j6hP5tOg7Srs.jpg" alt="0001"></p>
 <p><img src="https://s2.loli.net/2022/07/13/4n3gv5JEfKzOqRr.jpg" alt="0002"></p>
 ]]></content>
   </entry>
@@ -977,15 +1000,6 @@
 <p><img src="https://s2.loli.net/2022/04/26/lG97ApdReUCYQmg.jpg" alt="IMG_8645_compressed"></p>
 <p>Utilizza un’interfaccia non standard, simile alla ipx1, ma a metà altezza.</p>
 <p>Tuttavia, anche l’IPX1 è si collega e funziona bene.</p>
-]]></content>
-  </entry>
-  <entry>
-    <title>zte 289f dhcp off with xiaomi ax3000</title>
-    <url>/2022/09/08/zte-289f-dhcp-off-with-xiaomi-ax3000/</url>
-    <content><![CDATA[<p><img src="https://s2.loli.net/2022/09/08/FMk3S5cR6JCV2zr.jpg" alt="Snipaste_2022-09-08_10-51-37"></p>
-<ul>
-<li>Disattivare il DHCP significa ridurre il carico di lavoro della CPE.</li>
-</ul>
 ]]></content>
   </entry>
 </search>
