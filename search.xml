@@ -1,6 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>Configurare APN su 818-263</title>
+    <url>/2022/01/16/818-263-APN/</url>
+    <content><![CDATA[<h1 id="Configurare-APN-su-818-263"><a href="#Configurare-APN-su-818-263" class="headerlink" title="Configurare APN su 818-263"></a>Configurare APN su 818-263</h1><p><img src="https://s2.loli.net/2022/01/16/AKIOWQlpF2L4D9u.png" alt="APN 818 263"></p>
+<p><img src="https://s2.loli.net/2022/01/21/21Y8UiyLIZ9NVQX.png" alt="image-20220121145544942"></p>
+]]></content>
+      <tags>
+        <tag>818-263</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>4G 5G module</title>
     <url>/2022/01/16/4G-5G-module/</url>
     <content><![CDATA[<h1 id="4G-5G-module"><a href="#4G-5G-module" class="headerlink" title="4G 5G module"></a>4G 5G module</h1><p><a href="https://www.ofmodemsandmen.com/modems.html">ROOter by Of Modems and Men</a></p>
@@ -36,23 +46,6 @@
       <tags>
         <tag>4g</tag>
       </tags>
-  </entry>
-  <entry>
-    <title>Configurare APN su 818-263</title>
-    <url>/2022/01/16/818-263-APN/</url>
-    <content><![CDATA[<h1 id="Configurare-APN-su-818-263"><a href="#Configurare-APN-su-818-263" class="headerlink" title="Configurare APN su 818-263"></a>Configurare APN su 818-263</h1><p><img src="https://s2.loli.net/2022/01/16/AKIOWQlpF2L4D9u.png" alt="APN 818 263"></p>
-<p><img src="https://s2.loli.net/2022/01/21/21Y8UiyLIZ9NVQX.png" alt="image-20220121145544942"></p>
-]]></content>
-      <tags>
-        <tag>818-263</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>CAP VF</title>
-    <url>/2022/02/04/CAP-VF/</url>
-    <content><![CDATA[<p><img src="https://s2.loli.net/2022/02/04/wAsFDijHBdaZ6SX.png" alt="Snipaste_2022-02-04_13-16-30"></p>
-<p><a href="https://www.vodafone.it/privati/supporto/sim-piano-mobile/gestione-piano-mobile.html?icmp=infinito">https://www.vodafone.it/privati/supporto/sim-piano-mobile/gestione-piano-mobile.html?icmp=infinito</a></p>
-]]></content>
   </entry>
   <entry>
     <title>HUAWEI 4G ROUTER 3 PRIME B818-263 CAT19 LTE ROUTER</title>
@@ -131,6 +124,58 @@
 <p><img src="https://s2.loli.net/2022/02/24/CXopbPB6VF7YNhZ.jpg" alt="IMG_8160(1)"></p>
 <p><img src="https://s2.loli.net/2022/02/24/SwQ58MTHRtnDmrq.png" alt="Snipaste_2022-02-10_19-58-06"></p>
 <p><img src="https://s2.loli.net/2022/02/24/DG8nSM3qZHO1KsW.png" alt="Snipaste_2022-02-13_19-00-17"></p>
+]]></content>
+  </entry>
+  <entry>
+    <title>Modalità di antenna del CPE ZTE</title>
+    <url>/2022/06/25/Come-rendere-la-rete-pi%C3%B9-stabile/</url>
+    <content><![CDATA[<h1 id="Come-rendere-la-rete-piu-stabile"><a href="#Come-rendere-la-rete-piu-stabile" class="headerlink" title="Come rendere la rete più stabile"></a>Come rendere la rete più stabile</h1><h2 id="Scheduled-reboot-Riavvio-programmato"><a href="#Scheduled-reboot-Riavvio-programmato" class="headerlink" title="Scheduled reboot / Riavvio programmato"></a>Scheduled reboot / Riavvio programmato</h2><p>Molti router supportano questa funzione, quindi assicuratevi di attivarla.</p>
+<blockquote>
+<p>Prima il mio computer si sconnetteva ogni pochi minuti, avevo appena sostituito la scheda di rete del computer, pensavo che ci fosse un problema con la scheda, ma dopo aver riavviato il router andava tutto bene…</p>
+</blockquote>
+<p>Il riavvio programmato è una funzione che si pensava fosse una necessità sui router precedenti con hardware scadente e poca memoria. Alcuni router moderni non supportano queste funzioni e il mio ha funzionato bene per un mese o due prima del problema.</p>
+<h2 id="Ridurre-il-lavoro-del-router"><a href="#Ridurre-il-lavoro-del-router" class="headerlink" title="Ridurre il lavoro del router"></a>Ridurre il lavoro del router</h2><p>In generale, è sufficiente disattivare la funzione wifi del router e collegare un AP.</p>
+<p><img src="https://s2.loli.net/2022/06/25/rD1ZUmxSefidH4n.jpg" alt="Snipaste_2022-06-25_11-41-49"></p>
+]]></content>
+  </entry>
+  <entry>
+    <title>CAP VF</title>
+    <url>/2022/02/04/CAP-VF/</url>
+    <content><![CDATA[<p><img src="https://s2.loli.net/2022/02/04/wAsFDijHBdaZ6SX.png" alt="Snipaste_2022-02-04_13-16-30"></p>
+<p><a href="https://www.vodafone.it/privati/supporto/sim-piano-mobile/gestione-piano-mobile.html?icmp=infinito">https://www.vodafone.it/privati/supporto/sim-piano-mobile/gestione-piano-mobile.html?icmp=infinito</a></p>
+]]></content>
+  </entry>
+  <entry>
+    <title>ELENCO APN ITALIANI</title>
+    <url>/2022/01/16/ELENCO%20APN%20ITALIANI/</url>
+    <content><![CDATA[<h1 id="APN"><a href="#APN" class="headerlink" title="APN"></a>APN</h1><p>ELENCO APN ITALIANI</p>
+<p><strong>TIM:</strong> </p>
+<p>ibox.tim.it</p>
+<p><strong>Vodafone:</strong> </p>
+<p>mobile.vodafone.it</p>
+<p>iphone.vodafone.it</p>
+<p><strong>Wind:</strong> </p>
+<p>internet.it</p>
+<p>internet.wind</p>
+<p><strong>Iliad Italia:</strong> </p>
+<p>iliad</p>
+<p><strong>Fastweb Mobile:</strong> </p>
+<p>apn.fastweb.it</p>
+<p><strong>Poste Mobile:</strong> </p>
+<p>wap.postemobile.it </p>
+<p>casa.postemobile.it (PosteMobile Casa Web)</p>
+<p><strong>Tiscali Mobile:</strong> </p>
+<p>tiscalimobileinternet </p>
+<p><strong>Coop Voce:</strong> </p>
+<p>internet.coopvoce.it</p>
+<p><strong>Kena Mobile:</strong> </p>
+<p>web.kenamobile.it</p>
+<p><strong>Ho Mobile:</strong> </p>
+<p>web.ho-mobile.it</p>
+<p><strong>Lycamobile:</strong> </p>
+<p>data.lycamobile.it </p>
+<p><strong>Rabona Mobile:</strong> </p>
+<p>rabona.it</p>
 ]]></content>
   </entry>
   <entry>
@@ -327,18 +372,6 @@
 ]]></content>
   </entry>
   <entry>
-    <title>Modalità di antenna del CPE ZTE</title>
-    <url>/2022/06/25/Come-rendere-la-rete-pi%C3%B9-stabile/</url>
-    <content><![CDATA[<h1 id="Come-rendere-la-rete-piu-stabile"><a href="#Come-rendere-la-rete-piu-stabile" class="headerlink" title="Come rendere la rete più stabile"></a>Come rendere la rete più stabile</h1><h2 id="Scheduled-reboot-Riavvio-programmato"><a href="#Scheduled-reboot-Riavvio-programmato" class="headerlink" title="Scheduled reboot / Riavvio programmato"></a>Scheduled reboot / Riavvio programmato</h2><p>Molti router supportano questa funzione, quindi assicuratevi di attivarla.</p>
-<blockquote>
-<p>Prima il mio computer si sconnetteva ogni pochi minuti, avevo appena sostituito la scheda di rete del computer, pensavo che ci fosse un problema con la scheda, ma dopo aver riavviato il router andava tutto bene…</p>
-</blockquote>
-<p>Il riavvio programmato è una funzione che si pensava fosse una necessità sui router precedenti con hardware scadente e poca memoria. Alcuni router moderni non supportano queste funzioni e il mio ha funzionato bene per un mese o due prima del problema.</p>
-<h2 id="Ridurre-il-lavoro-del-router"><a href="#Ridurre-il-lavoro-del-router" class="headerlink" title="Ridurre il lavoro del router"></a>Ridurre il lavoro del router</h2><p>In generale, è sufficiente disattivare la funzione wifi del router e collegare un AP.</p>
-<p><img src="https://s2.loli.net/2022/06/25/rD1ZUmxSefidH4n.jpg" alt="Snipaste_2022-06-25_11-41-49"></p>
-]]></content>
-  </entry>
-  <entry>
     <title>HUAWEI Router 5G CPE PRO 2 (H122-373)</title>
     <url>/2022/12/06/H122-373/</url>
     <content><![CDATA[<p>Il firmware versione 10 non può aggregare tim e wind b1</p>
@@ -347,51 +380,6 @@
 <p>27-01-2023</p>
 <p>È possibile fare l’aggiornamento <strong>solo via OTA</strong>; se si esegue l’aggiornamento in locale, il router diventa un mattone. (Easy Firmware………………)</p>
 <p><img src="https://s2.loli.net/2022/12/06/pLEa39WOf1rPDUm.png" alt="image-20221206165552506"></p>
-]]></content>
-  </entry>
-  <entry>
-    <title>ELENCO APN ITALIANI</title>
-    <url>/2022/01/16/ELENCO%20APN%20ITALIANI/</url>
-    <content><![CDATA[<h1 id="APN"><a href="#APN" class="headerlink" title="APN"></a>APN</h1><p>ELENCO APN ITALIANI</p>
-<p><strong>TIM:</strong> </p>
-<p>ibox.tim.it</p>
-<p><strong>Vodafone:</strong> </p>
-<p>mobile.vodafone.it</p>
-<p>iphone.vodafone.it</p>
-<p><strong>Wind:</strong> </p>
-<p>internet.it</p>
-<p>internet.wind</p>
-<p><strong>Iliad Italia:</strong> </p>
-<p>iliad</p>
-<p><strong>Fastweb Mobile:</strong> </p>
-<p>apn.fastweb.it</p>
-<p><strong>Poste Mobile:</strong> </p>
-<p>wap.postemobile.it </p>
-<p>casa.postemobile.it (PosteMobile Casa Web)</p>
-<p><strong>Tiscali Mobile:</strong> </p>
-<p>tiscalimobileinternet </p>
-<p><strong>Coop Voce:</strong> </p>
-<p>internet.coopvoce.it</p>
-<p><strong>Kena Mobile:</strong> </p>
-<p>web.kenamobile.it</p>
-<p><strong>Ho Mobile:</strong> </p>
-<p>web.ho-mobile.it</p>
-<p><strong>Lycamobile:</strong> </p>
-<p>data.lycamobile.it </p>
-<p><strong>Rabona Mobile:</strong> </p>
-<p>rabona.it</p>
-]]></content>
-  </entry>
-  <entry>
-    <title>H138-380 HUAWEI 5G CPE Pro 3</title>
-    <url>/2022/01/27/H138-380/</url>
-    <content><![CDATA[<p><img src="https://s2.loli.net/2022/01/27/eXUGBDcq59jmstF.jpg" alt="IMG_7933"></p>
-<p><img src="https://s2.loli.net/2022/01/27/q8OhzQb5Pj46ZoL.jpg" alt="IMG_7936"></p>
-<p><img src="https://s2.loli.net/2022/01/27/uJ3kxqvoTdb8FPw.jpg" alt="IMG_7937"></p>
-<p><img src="https://s2.loli.net/2022/01/27/81fA5naW2GpVPMR.jpg" alt="IMG_7938"></p>
-<p><img src="https://s2.loli.net/2022/01/27/wnJimDqQvFu8a2Z.png" alt="Snipaste_2022-01-27_13-17-10"></p>
-<p><img src="https://s2.loli.net/2022/01/27/1tiTVLDMS8j4dQF.png" alt="Snipaste_2022-01-27_13-17-41"></p>
-<p><img src="https://s2.loli.net/2022/01/27/ifJLIoSKyMg2bAt.png" alt="Snipaste_2022-01-27_13-18-19"></p>
 ]]></content>
   </entry>
   <entry>
@@ -407,6 +395,18 @@
 <p><img src="https://s2.loli.net/2023/07/03/VcEjRNQJt5rlkiL.png" alt="0005"></p>
 <p><img src="https://s2.loli.net/2023/07/03/uYqOnsiLEZwT5lP.png" alt="0006"></p>
 <p><img src="https://s2.loli.net/2023/07/03/nAEm6uhtZzRPGeL.png" alt="0007"></p>
+]]></content>
+  </entry>
+  <entry>
+    <title>H138-380 HUAWEI 5G CPE Pro 3</title>
+    <url>/2022/01/27/H138-380/</url>
+    <content><![CDATA[<p><img src="https://s2.loli.net/2022/01/27/eXUGBDcq59jmstF.jpg" alt="IMG_7933"></p>
+<p><img src="https://s2.loli.net/2022/01/27/q8OhzQb5Pj46ZoL.jpg" alt="IMG_7936"></p>
+<p><img src="https://s2.loli.net/2022/01/27/uJ3kxqvoTdb8FPw.jpg" alt="IMG_7937"></p>
+<p><img src="https://s2.loli.net/2022/01/27/81fA5naW2GpVPMR.jpg" alt="IMG_7938"></p>
+<p><img src="https://s2.loli.net/2022/01/27/wnJimDqQvFu8a2Z.png" alt="Snipaste_2022-01-27_13-17-10"></p>
+<p><img src="https://s2.loli.net/2022/01/27/1tiTVLDMS8j4dQF.png" alt="Snipaste_2022-01-27_13-17-41"></p>
+<p><img src="https://s2.loli.net/2022/01/27/ifJLIoSKyMg2bAt.png" alt="Snipaste_2022-01-27_13-18-19"></p>
 ]]></content>
   </entry>
   <entry>
@@ -481,18 +481,25 @@
 ]]></content>
   </entry>
   <entry>
-    <title>NETGEAR Nighthawk M1 4X4 MIMO MOD</title>
-    <url>/2022/03/19/NETGEAR-Nighthawk-M1/</url>
-    <content><![CDATA[<h1 id="NETGEAR-Nighthawk-M1-4X4-MIMO-MOD"><a href="#NETGEAR-Nighthawk-M1-4X4-MIMO-MOD" class="headerlink" title="NETGEAR Nighthawk M1 4X4 MIMO MOD"></a>NETGEAR Nighthawk M1 4X4 MIMO MOD</h1><p><img src="https://s2.loli.net/2022/03/20/iFEWcbfSaI81dJp.jpg" alt="s-l1600 (2)"></p>
-<p><img src="https://s2.loli.net/2022/03/20/AfR6XuxZp8qY3tB.jpg" alt="s-l1600 (3)"></p>
-<p><img src="https://s2.loli.net/2022/03/20/24J81iBascO9z3Z.jpg" alt="s-l1600 (4)"></p>
-<p><img src="https://s2.loli.net/2022/03/20/W87EbIAuKRUDBfa.jpg" alt="s-l1600 (5)"></p>
-<p><img src="https://s2.loli.net/2022/03/20/3dkVwblMqcfF6RY.jpg" alt="s-l1600 (6)"></p>
-<p><img src="https://s2.loli.net/2022/03/20/aRmNVLh2E93Itbw.jpg" alt="s-l1600 (7)"></p>
-<p><img src="https://s2.loli.net/2022/03/20/PYo84UHqViJLRpQ.jpg" alt="s-l1600 (8)"></p>
-<p><img src="https://s2.loli.net/2022/03/20/9DSpcC8PyVxqXng.jpg" alt="s-l1600"></p>
-<p>by</p>
-<p><a href="https://www.ebay.it/itm/">NETGEAR Nighthawk M1 4gx LTE Mobile Router Mr1100 (Network unlocked)</a></p>
+    <title>Modalità di antenna del CPE ZTE</title>
+    <url>/2022/06/25/Modalit%C3%A0-di-antenna-del-CPE-ZTE/</url>
+    <content><![CDATA[<h1 id="Modalita-di-antenna-del-CPE-ZTE"><a href="#Modalita-di-antenna-del-CPE-ZTE" class="headerlink" title="Modalità di antenna del CPE ZTE"></a>Modalità di antenna del CPE ZTE</h1><h2 id="MF286D-MF289F"><a href="#MF286D-MF289F" class="headerlink" title="MF286D MF289F"></a>MF286D MF289F</h2><p>I due modelli più popolari di router zte attualmente disponibili sono entrambi in modalità antenna SISO</p>
+<p><img src="https://s2.loli.net/2022/06/25/ENDc7rnTgC2jHIl.png" alt="siso-mimo-overview"></p>
+<p>Modalità di trasmissione a ingresso singolo Uscita singola (SISO) </p>
+<p>Modalità di trasmissione a ingresso multiplo e uscita multipla (MIMO) </p>
+<p><strong>single Input Single Output</strong> (SISO) </p>
+<p><strong>multiple-input and multiple-output</strong> (MIMO) </p>
+<p>In breve, è possibile installare l’antenna, ma funziona in modalità SISO anziché MIMO, poi, quando si usa l’antenna interna, si usa la modalità 4x4 MIMO. Il segnale può essere migliorato, ma non si sa se la velocità della rete sarà migliorata, dato che la maggior parte delle stazioni base supporta ancora il 2X2 MIMO.</p>
+<h3 id="Come-far-si-che-supportino-il-MIMO"><a href="#Come-far-si-che-supportino-il-MIMO" class="headerlink" title="Come far sì che supportino il MIMO"></a>Come far sì che supportino il MIMO</h3><h2 id="289F"><a href="#289F" class="headerlink" title="289F"></a>289F</h2><p><img src="https://s2.loli.net/2022/02/28/Jq5zuKNrvlRUjGC.png" alt="image-20220228122129156"></p>
+<p>ANT4 MIMO_1</p>
+<p>ANT1 MAIN_HB</p>
+<p>ANT0 MAIN_MLB</p>
+<p>ANT2 AUX</p>
+<p>ANT3 MIMO_0</p>
+<p>MLB = MONOPOLE LOW BAND<br>HB = HIGH BAND<br>AUX = AUXILIARY</p>
+<p><img src="https://s2.loli.net/2022/02/28/bY2CyRNoA8Oi9Xf.png" alt="image-20220228144646853"></p>
+<h2 id="286D"><a href="#286D" class="headerlink" title="286D"></a>286D</h2><p>286D dovrebbe essere uguale a 289f con 5 interfacce</p>
+<p>IPX1 -&gt; SMA</p>
 ]]></content>
   </entry>
   <entry>
@@ -565,25 +572,41 @@
 ]]></content>
   </entry>
   <entry>
-    <title>Modalità di antenna del CPE ZTE</title>
-    <url>/2022/06/25/Modalit%C3%A0-di-antenna-del-CPE-ZTE/</url>
-    <content><![CDATA[<h1 id="Modalita-di-antenna-del-CPE-ZTE"><a href="#Modalita-di-antenna-del-CPE-ZTE" class="headerlink" title="Modalità di antenna del CPE ZTE"></a>Modalità di antenna del CPE ZTE</h1><h2 id="MF286D-MF289F"><a href="#MF286D-MF289F" class="headerlink" title="MF286D MF289F"></a>MF286D MF289F</h2><p>I due modelli più popolari di router zte attualmente disponibili sono entrambi in modalità antenna SISO</p>
-<p><img src="https://s2.loli.net/2022/06/25/ENDc7rnTgC2jHIl.png" alt="siso-mimo-overview"></p>
-<p>Modalità di trasmissione a ingresso singolo Uscita singola (SISO) </p>
-<p>Modalità di trasmissione a ingresso multiplo e uscita multipla (MIMO) </p>
-<p><strong>single Input Single Output</strong> (SISO) </p>
-<p><strong>multiple-input and multiple-output</strong> (MIMO) </p>
-<p>In breve, è possibile installare l’antenna, ma funziona in modalità SISO anziché MIMO, poi, quando si usa l’antenna interna, si usa la modalità 4x4 MIMO. Il segnale può essere migliorato, ma non si sa se la velocità della rete sarà migliorata, dato che la maggior parte delle stazioni base supporta ancora il 2X2 MIMO.</p>
-<h3 id="Come-far-si-che-supportino-il-MIMO"><a href="#Come-far-si-che-supportino-il-MIMO" class="headerlink" title="Come far sì che supportino il MIMO"></a>Come far sì che supportino il MIMO</h3><h2 id="289F"><a href="#289F" class="headerlink" title="289F"></a>289F</h2><p><img src="https://s2.loli.net/2022/02/28/Jq5zuKNrvlRUjGC.png" alt="image-20220228122129156"></p>
-<p>ANT4 MIMO_1</p>
-<p>ANT1 MAIN_HB</p>
-<p>ANT0 MAIN_MLB</p>
-<p>ANT2 AUX</p>
-<p>ANT3 MIMO_0</p>
-<p>MLB = MONOPOLE LOW BAND<br>HB = HIGH BAND<br>AUX = AUXILIARY</p>
-<p><img src="https://s2.loli.net/2022/02/28/bY2CyRNoA8Oi9Xf.png" alt="image-20220228144646853"></p>
-<h2 id="286D"><a href="#286D" class="headerlink" title="286D"></a>286D</h2><p>286D dovrebbe essere uguale a 289f con 5 interfacce</p>
-<p>IPX1 -&gt; SMA</p>
+    <title>Pixel 1 spazio illimitato su Google Foto</title>
+    <url>/2022/06/05/Pixel-1-spazio-illimitato-su-Google-Foto/</url>
+    <content><![CDATA[<h1 id="Pixel-1-spazio-illimitato-su-Google-Foto"><a href="#Pixel-1-spazio-illimitato-su-Google-Foto" class="headerlink" title="Pixel 1 spazio illimitato su Google Foto"></a>Pixel 1 spazio illimitato su Google Foto</h1><p><a href="https://support.google.com/photos/answer/6220791?hl=it">Scegliere le dimensioni di caricamento di foto e video - Computer - Guida di Google Foto</a></p>
+<p><img src="https://s2.loli.net/2022/06/05/mtCqAwXUgaIcB15.jpg" alt="Snipaste_2022-06-05_10-24-41"></p>
+<p><img src="https://s2.loli.net/2022/06/05/SDFjuLrBNd4TlZR.jpg" alt="IMG_20220531_131445"></p>
+<p><img src="https://s2.loli.net/2022/06/05/Hrfy9gECbstTv6D.png" alt="image-20220605102702984"></p>
+<h2 id="informazione"><a href="#informazione" class="headerlink" title="informazione"></a>informazione</h2><ul>
+<li>Il telefono è stato rilasciato nel 2016 e all’epoca il prezzo non era basso.<ul>
+<li>649 dollari per Pixel da 32 GB. 749 dollari per Pixel da 128 GB. 769 dollari per Pixel XL da 32 GB. 869 dollari per Pixel XL da 128 GB.Oct 4, 2016</li>
+</ul>
+</li>
+<li>Lo schermo è OLED, quindi invecchierà e si brucerà (Burn-in).</li>
+<li>Per sostituire la batteria è necessario rimuovere lo schermo, che è fragile e può essere facilmente danneggiato da questa operazione.</li>
+<li>Se questo telefono ha un problema di surriscaldamento o di riavvio, di solito è un problema di scheda madre, quindi non acquistate questo tipo di telefono usato.</li>
+</ul>
+<h1 id="Il-metodo-di-backup-delle-foto"><a href="#Il-metodo-di-backup-delle-foto" class="headerlink" title="Il metodo di backup delle foto"></a>Il metodo di backup delle foto</h1><p>Foto -&gt; Pixel -&gt; Google Foto -&gt; Liberare spazio</p>
+<p><img src="https://s2.loli.net/2022/06/05/U23q5mXvTHFPrfa.jpg" alt="Snipaste_2022-06-05_10-38-30"></p>
+<ul>
+<li><h2 id="External-Links"><a href="#External-Links" class="headerlink" title="External Links"></a><strong>External Links</strong></h2></li>
+</ul>
+]]></content>
+  </entry>
+  <entry>
+    <title>NETGEAR Nighthawk M1 4X4 MIMO MOD</title>
+    <url>/2022/03/19/NETGEAR-Nighthawk-M1/</url>
+    <content><![CDATA[<h1 id="NETGEAR-Nighthawk-M1-4X4-MIMO-MOD"><a href="#NETGEAR-Nighthawk-M1-4X4-MIMO-MOD" class="headerlink" title="NETGEAR Nighthawk M1 4X4 MIMO MOD"></a>NETGEAR Nighthawk M1 4X4 MIMO MOD</h1><p><img src="https://s2.loli.net/2022/03/20/iFEWcbfSaI81dJp.jpg" alt="s-l1600 (2)"></p>
+<p><img src="https://s2.loli.net/2022/03/20/AfR6XuxZp8qY3tB.jpg" alt="s-l1600 (3)"></p>
+<p><img src="https://s2.loli.net/2022/03/20/24J81iBascO9z3Z.jpg" alt="s-l1600 (4)"></p>
+<p><img src="https://s2.loli.net/2022/03/20/W87EbIAuKRUDBfa.jpg" alt="s-l1600 (5)"></p>
+<p><img src="https://s2.loli.net/2022/03/20/3dkVwblMqcfF6RY.jpg" alt="s-l1600 (6)"></p>
+<p><img src="https://s2.loli.net/2022/03/20/aRmNVLh2E93Itbw.jpg" alt="s-l1600 (7)"></p>
+<p><img src="https://s2.loli.net/2022/03/20/PYo84UHqViJLRpQ.jpg" alt="s-l1600 (8)"></p>
+<p><img src="https://s2.loli.net/2022/03/20/9DSpcC8PyVxqXng.jpg" alt="s-l1600"></p>
+<p>by</p>
+<p><a href="https://www.ebay.it/itm/">NETGEAR Nighthawk M1 4gx LTE Mobile Router Mr1100 (Network unlocked)</a></p>
 ]]></content>
   </entry>
   <entry>
@@ -635,29 +658,6 @@
 ]]></content>
   </entry>
   <entry>
-    <title>Pixel 1 spazio illimitato su Google Foto</title>
-    <url>/2022/06/05/Pixel-1-spazio-illimitato-su-Google-Foto/</url>
-    <content><![CDATA[<h1 id="Pixel-1-spazio-illimitato-su-Google-Foto"><a href="#Pixel-1-spazio-illimitato-su-Google-Foto" class="headerlink" title="Pixel 1 spazio illimitato su Google Foto"></a>Pixel 1 spazio illimitato su Google Foto</h1><p><a href="https://support.google.com/photos/answer/6220791?hl=it">Scegliere le dimensioni di caricamento di foto e video - Computer - Guida di Google Foto</a></p>
-<p><img src="https://s2.loli.net/2022/06/05/mtCqAwXUgaIcB15.jpg" alt="Snipaste_2022-06-05_10-24-41"></p>
-<p><img src="https://s2.loli.net/2022/06/05/SDFjuLrBNd4TlZR.jpg" alt="IMG_20220531_131445"></p>
-<p><img src="https://s2.loli.net/2022/06/05/Hrfy9gECbstTv6D.png" alt="image-20220605102702984"></p>
-<h2 id="informazione"><a href="#informazione" class="headerlink" title="informazione"></a>informazione</h2><ul>
-<li>Il telefono è stato rilasciato nel 2016 e all’epoca il prezzo non era basso.<ul>
-<li>649 dollari per Pixel da 32 GB. 749 dollari per Pixel da 128 GB. 769 dollari per Pixel XL da 32 GB. 869 dollari per Pixel XL da 128 GB.Oct 4, 2016</li>
-</ul>
-</li>
-<li>Lo schermo è OLED, quindi invecchierà e si brucerà (Burn-in).</li>
-<li>Per sostituire la batteria è necessario rimuovere lo schermo, che è fragile e può essere facilmente danneggiato da questa operazione.</li>
-<li>Se questo telefono ha un problema di surriscaldamento o di riavvio, di solito è un problema di scheda madre, quindi non acquistate questo tipo di telefono usato.</li>
-</ul>
-<h1 id="Il-metodo-di-backup-delle-foto"><a href="#Il-metodo-di-backup-delle-foto" class="headerlink" title="Il metodo di backup delle foto"></a>Il metodo di backup delle foto</h1><p>Foto -&gt; Pixel -&gt; Google Foto -&gt; Liberare spazio</p>
-<p><img src="https://s2.loli.net/2022/06/05/U23q5mXvTHFPrfa.jpg" alt="Snipaste_2022-06-05_10-38-30"></p>
-<ul>
-<li><h2 id="External-Links"><a href="#External-Links" class="headerlink" title="External Links"></a><strong>External Links</strong></h2></li>
-</ul>
-]]></content>
-  </entry>
-  <entry>
     <title>Super Internet Casa - Offerte Internet con Super Internet Wi-Fi</title>
     <url>/2022/01/16/Super-Internet-Casa/</url>
     <content><![CDATA[<h1 id="Super-Internet-Casa-Offerte-Internet-con-Super-Internet-Wi-Fi"><a href="#Super-Internet-Casa-Offerte-Internet-con-Super-Internet-Wi-Fi" class="headerlink" title="Super Internet Casa - Offerte Internet con Super Internet Wi-Fi"></a>Super Internet Casa - Offerte Internet con Super Internet Wi-Fi</h1><p><a href="https://www.windtre.it/offerte-internet-mobile/super-internet-casa/">Super Internet Casa - Offerte Internet con Super Internet Wi-Fi</a></p>
@@ -697,17 +697,6 @@
 ]]></content>
   </entry>
   <entry>
-    <title>TCL H500 MOD SSH</title>
-    <url>/2023/07/09/TCL-H500-MOD-SSH/</url>
-    <content><![CDATA[<h1 id="TCL-H500-MOD-SSH"><a href="#TCL-H500-MOD-SSH" class="headerlink" title="TCL H500 MOD SSH"></a>TCL H500 MOD SSH</h1><p><img src="https://s2.loli.net/2023/07/10/zplVZGemL9J4w5D.jpg" alt="TCL H500 TESTPOINT"></p>
-<span id="more"></span>
-
-<p><img src="https://s2.loli.net/2023/07/10/eulrHq2M4XtwZcI.png" alt="image-20230709221406020"></p>
-<figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="comment">#Change root password</span></span><br><span class="line">su</span><br><span class="line"></span><br><span class="line"><span class="comment">#Open SSH</span></span><br><span class="line">/usr/sbin/dropbear -p <span class="number">2222</span></span><br><span class="line"></span><br><span class="line"></span><br></pre></td></tr></table></figure>
-
-]]></content>
-  </entry>
-  <entry>
     <title>Tenda 5G03 AX1800 Wi-Fi 6 5G NR Router PHOTOS</title>
     <url>/2023/02/11/TENDA-5G03-PHOTOS/</url>
     <content><![CDATA[<h1 id="Tenda-5G03-AX1800-Wi-Fi-6-5G-NR-Router-PHOTOS"><a href="#Tenda-5G03-AX1800-Wi-Fi-6-5G-NR-Router-PHOTOS" class="headerlink" title="Tenda 5G03 AX1800 Wi-Fi 6 5G NR Router PHOTOS"></a>Tenda 5G03 AX1800 Wi-Fi 6 5G NR Router PHOTOS</h1><p><img src="https://s2.loli.net/2023/02/12/RH8d6wa5iP7zEjn.jpg" alt="0002"></p>
@@ -738,6 +727,17 @@
 ]]></content>
   </entry>
   <entry>
+    <title>TCL H500 MOD SSH</title>
+    <url>/2023/07/09/TCL-H500-MOD-SSH/</url>
+    <content><![CDATA[<h1 id="TCL-H500-MOD-SSH"><a href="#TCL-H500-MOD-SSH" class="headerlink" title="TCL H500 MOD SSH"></a>TCL H500 MOD SSH</h1><p><img src="https://s2.loli.net/2023/07/10/zplVZGemL9J4w5D.jpg" alt="TCL H500 TESTPOINT"></p>
+<span id="more"></span>
+
+<p><img src="https://s2.loli.net/2023/07/10/eulrHq2M4XtwZcI.png" alt="image-20230709221406020"></p>
+<figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="comment">#Change root password</span></span><br><span class="line">su</span><br><span class="line"></span><br><span class="line"><span class="comment">#Open SSH</span></span><br><span class="line">/usr/sbin/dropbear -p <span class="number">2222</span></span><br><span class="line"></span><br><span class="line"></span><br></pre></td></tr></table></figure>
+
+]]></content>
+  </entry>
+  <entry>
     <title>Tenda 5G03 AX1800 Wi-Fi 6 5G NR Router</title>
     <url>/2023/02/11/TENDA-5G03/</url>
     <content><![CDATA[<h1 id="Tenda-5G03-AX1800-Wi-Fi-6-5G-NR-Router"><a href="#Tenda-5G03-AX1800-Wi-Fi-6-5G-NR-Router" class="headerlink" title="Tenda 5G03 AX1800 Wi-Fi 6 5G NR Router"></a>Tenda 5G03 AX1800 Wi-Fi 6 5G NR Router</h1><p><a href="https://www.tendacn.com/it/product/download/5G03.html">5G03 Download-Tenda (Italia)</a></p>
@@ -763,6 +763,21 @@
 </ul>
 </li>
 </ul>
+]]></content>
+  </entry>
+  <entry>
+    <title>Xiaomi 5G CPE Pro Magenta Internet 5G Box AX5400</title>
+    <url>/2022/12/05/Xiaomi%205G%20CPE%20Pro%20Magenta%20Internet%205G%20Box%20AX5400/</url>
+    <content><![CDATA[<h1 id="Xiaomi-5G-CPE-Pro-Magenta-Internet-5G-Box-AX5400"><a href="#Xiaomi-5G-CPE-Pro-Magenta-Internet-5G-Box-AX5400" class="headerlink" title="Xiaomi 5G CPE Pro Magenta Internet 5G Box AX5400"></a>Xiaomi 5G CPE Pro Magenta Internet 5G Box AX5400</h1><p><img src="https://s2.loli.net/2022/12/05/GjPduyWFMpm9gNZ.jpg" alt="1"></p>
+<span id="more"></span>
+
+<p><img src="https://s2.loli.net/2022/12/05/32wJgt5Fxj6KlUG.jpg" alt="2"></p>
+<p><img src="https://s2.loli.net/2022/12/05/TiSteKAaDvq8z6W.jpg" alt="3"></p>
+<p><img src="https://s2.loli.net/2022/12/05/zKmUqs2iAVDwkyx.jpg" alt="5"></p>
+<p><img src="https://s2.loli.net/2022/12/05/YSMPqguW2hO7wxC.jpg" alt="6"></p>
+<p><img src="https://s2.loli.net/2022/12/05/frI8opGFdnlucAk.jpg" alt="7"></p>
+<p><img src="https://s2.loli.net/2022/12/05/xVwSTelLO75QEor.jpg" alt="44"></p>
+<p><img src="https://s2.loli.net/2022/12/05/67JxY2NhbvrIpdU.jpg" alt="1670255127831"></p>
 ]]></content>
   </entry>
   <entry>
@@ -806,19 +821,44 @@
 ]]></content>
   </entry>
   <entry>
-    <title>Xiaomi 5G CPE Pro Magenta Internet 5G Box AX5400</title>
-    <url>/2022/12/05/Xiaomi%205G%20CPE%20Pro%20Magenta%20Internet%205G%20Box%20AX5400/</url>
-    <content><![CDATA[<h1 id="Xiaomi-5G-CPE-Pro-Magenta-Internet-5G-Box-AX5400"><a href="#Xiaomi-5G-CPE-Pro-Magenta-Internet-5G-Box-AX5400" class="headerlink" title="Xiaomi 5G CPE Pro Magenta Internet 5G Box AX5400"></a>Xiaomi 5G CPE Pro Magenta Internet 5G Box AX5400</h1><p><img src="https://s2.loli.net/2022/12/05/GjPduyWFMpm9gNZ.jpg" alt="1"></p>
+    <title>ZTE MC7010 5G - Router WiFi per esterniq</title>
+    <url>/2023/05/15/ZTE-MC7010/</url>
+    <content><![CDATA[<h1 id="ZTE-MC7010-MC889-5G-Router-WiFi-per-esterni"><a href="#ZTE-MC7010-MC889-5G-Router-WiFi-per-esterni" class="headerlink" title="ZTE MC7010 MC889 5G - Router WiFi per esterni"></a>ZTE MC7010 MC889 5G - Router WiFi per esterni</h1><p>Poiché tutti i dispositivi 7010 e 889 sono brandizzati, è fondamentale controllare il codice di versione prima di acquistare.</p>
+<p><img src="https://s2.loli.net/2023/06/18/lqXwOFoEMkaNVU4.png" alt="image-20230618002046119"></p>
 <span id="more"></span>
 
-<p><img src="https://s2.loli.net/2022/12/05/32wJgt5Fxj6KlUG.jpg" alt="2"></p>
-<p><img src="https://s2.loli.net/2022/12/05/TiSteKAaDvq8z6W.jpg" alt="3"></p>
-<p><img src="https://s2.loli.net/2022/12/05/zKmUqs2iAVDwkyx.jpg" alt="5"></p>
-<p><img src="https://s2.loli.net/2022/12/05/YSMPqguW2hO7wxC.jpg" alt="6"></p>
-<p><img src="https://s2.loli.net/2022/12/05/frI8opGFdnlucAk.jpg" alt="7"></p>
-<p><img src="https://s2.loli.net/2022/12/05/xVwSTelLO75QEor.jpg" alt="44"></p>
-<p><img src="https://s2.loli.net/2022/12/05/67JxY2NhbvrIpdU.jpg" alt="1670255127831"></p>
-]]></content>
+<h2 id="7010"><a href="#7010" class="headerlink" title="7010"></a>7010</h2><h3 id="LINKEM"><a href="#LINKEM" class="headerlink" title="LINKEM"></a>LINKEM</h3><p>BD_ITLINKEMMC7010V1.0.0B07</p>
+<ul>
+<li><p>Impossibile modificare l’apn</p>
+</li>
+<li><p>Impossibile modificare il firmware, perdita di segnale dopo la modifica del firmware.</p>
+</li>
+</ul>
+<h3 id="Vodafone-ITA"><a href="#Vodafone-ITA" class="headerlink" title="Vodafone ITA"></a>Vodafone ITA</h3><p>Non aggrega <strong>b20</strong><br>Non compatibile con SIM Vodafone. (diversa da quella abbinata)<br>L’hack non funziona, quindi non è possibile selezionare le bande o Cell lock</p>
+<p>La modifica dell’APN non è possibile senza la password superuser.</p>
+<h3 id="Fastweb"><a href="#Fastweb" class="headerlink" title="Fastweb"></a>Fastweb</h3><p>BD_ITFASTWEBMC7010V1.0.0B13<br>blocatto non si puo’ fare niente</p>
+<p>27-06-2023</p>
+<p>@Giammarco</p>
+<p>Giammarco ha scoperto che questo router manca di alcuni chip rf a livello hardware, quindi alcune bande non sono supportate a livello hardware.</p>
+<p><img src="https://s2.loli.net/2023/06/28/cdGm5NjkQiSWrVb.jpg" alt="photo_2023-06-27_14-20-27 (2)"></p>
+<p><img src="https://s2.loli.net/2023/06/28/eJ26rQy3amPDsjM.jpg" alt="photo_2023-06-27_14-20-27"></p>
+<h3 id="Wind"><a href="#Wind" class="headerlink" title="Wind"></a>Wind</h3><p>funziona tutto</p>
+<h3 id="DNA"><a href="#DNA" class="headerlink" title="DNA"></a>DNA</h3><p>non ha la b38</p>
+<h3 id="3-UK"><a href="#3-UK" class="headerlink" title="3 UK"></a>3 UK</h3><p>SIM LOCKED</p>
+<h3 id="7010CA"><a href="#7010CA" class="headerlink" title="7010CA"></a>7010CA</h3><p>No segnale</p>
+<h3 id="Telenor"><a href="#Telenor" class="headerlink" title="Telenor"></a>Telenor</h3><p><a href="https://www.ispreview.co.uk/talk/threads/outdoor-cpes.37141/post-283530">La frequenza B38 non è elencata sulla pagina web, tuttavia si può aggregare tranquillamente.</a></p>
+<p>Il B32 dovrebbe essere lo stesso.</p>
+<p>Lo zte è davvero troppo complicato.</p>
+<p><a href="https://www.ispreview.co.uk/talk/search/10567/?c%5Busers%5D=lyonanderson&o=date">Qualcuno ha provato a modificare il firmware e ci è riuscito</a></p>
+<ul>
+<li><a href="https://www.ispreview.co.uk/talk/threads/outdoor-cpes.37141/post-289510">I’m 100% what he did. From what I could see he took the files from 3_Download_File MC7010_Elisa1_B07 and then replaced the sdxprairie-sysfs.ubi file with that from the Play firmware.</a></li>
+</ul>
+<p>versione svedese, funziona tutto</p>
+<p><img src="https://s2.loli.net/2023/07/05/qJ3ReMSWXZj4HsB.png" alt="image-20230705034458396"></p>
+<p>PV_ZTE_MC7010CAV1.0.0B01</p>
+<h2 id="889"><a href="#889" class="headerlink" title="889"></a>889</h2><h3 id="STDMC8891-0-0B01"><a href="#STDMC8891-0-0B01" class="headerlink" title="STDMC8891.0.0B01"></a><a href="https://www.youtube.com/watch?v=Pb0FkrpshXc&t=284s">STDMC8891.0.0B01</a></h3><p>bands lock + cell lock</p>
+<h3 id="BD-MC889V1-0-0B01"><a href="#BD-MC889V1-0-0B01" class="headerlink" title="BD MC889V1.0.0B01"></a>BD MC889V1.0.0B01</h3><p>FUNZIONA CON TUTTE LE SIM</p>
+<h1 id="In-ogni-caso-controllate-la-versione-prima-di-acquistarla"><a href="#In-ogni-caso-controllate-la-versione-prima-di-acquistarla" class="headerlink" title="In ogni caso, controllate la versione prima di acquistarla."></a>In ogni caso, controllate la versione prima di acquistarla.</h1>]]></content>
   </entry>
   <entry>
     <title>Zyxel NR5103E</title>
@@ -862,59 +902,6 @@
 ]]></content>
   </entry>
   <entry>
-    <title>ZTE MC7010 5G - Router WiFi per esterniq</title>
-    <url>/2023/05/15/ZTE-MC7010/</url>
-    <content><![CDATA[<h1 id="ZTE-MC7010-5G-Router-WiFi-per-esterni"><a href="#ZTE-MC7010-5G-Router-WiFi-per-esterni" class="headerlink" title="ZTE MC7010 5G - Router WiFi per esterni"></a>ZTE MC7010 5G - Router WiFi per esterni</h1><p>Poiché tutti i dispositivi 7010 sono brandizzati, è fondamentale controllare il codice di versione prima di acquistare.</p>
-<p><img src="https://s2.loli.net/2023/06/18/lqXwOFoEMkaNVU4.png" alt="image-20230618002046119"></p>
-<span id="more"></span>
-
-
-<h2 id="LINKEM"><a href="#LINKEM" class="headerlink" title="LINKEM"></a>LINKEM</h2><p>BD_ITLINKEMMC7010V1.0.0B07</p>
-<ul>
-<li><p>Impossibile modificare l’apn</p>
-</li>
-<li><p>Impossibile modificare il firmware, perdita di segnale dopo la modifica del firmware.</p>
-</li>
-</ul>
-<h2 id="Vodafone-ITA"><a href="#Vodafone-ITA" class="headerlink" title="Vodafone ITA"></a>Vodafone ITA</h2><p>Non aggrega <strong>b20</strong><br>Non compatibile con SIM Vodafone. (diversa da quella abbinata)<br>L’hack non funziona, quindi non è possibile selezionare le bande o Cell lock</p>
-<p>La modifica dell’APN non è possibile senza la password superuser.</p>
-<h2 id="Fastweb"><a href="#Fastweb" class="headerlink" title="Fastweb"></a>Fastweb</h2><p>BD_ITFASTWEBMC7010V1.0.0B13<br>blocatto non si puo’ fare niente</p>
-<p>27-06-2023</p>
-<p>@Giammarco</p>
-<p>Giammarco ha scoperto che questo router manca di alcuni chip rf a livello hardware, quindi alcune bande non sono supportate a livello hardware.</p>
-<p><img src="https://s2.loli.net/2023/06/28/cdGm5NjkQiSWrVb.jpg" alt="photo_2023-06-27_14-20-27 (2)"></p>
-<p><img src="https://s2.loli.net/2023/06/28/eJ26rQy3amPDsjM.jpg" alt="photo_2023-06-27_14-20-27"></p>
-<h2 id="Wind"><a href="#Wind" class="headerlink" title="Wind"></a>Wind</h2><p>funziona tutto</p>
-<h2 id="DNA"><a href="#DNA" class="headerlink" title="DNA"></a>DNA</h2><p>non ha la b38</p>
-<h2 id="3-UK"><a href="#3-UK" class="headerlink" title="3 UK"></a>3 UK</h2><p>SIM LOCKED</p>
-<h2 id="7010CA"><a href="#7010CA" class="headerlink" title="7010CA"></a>7010CA</h2><p>No segnale</p>
-<h2 id="Telenor"><a href="#Telenor" class="headerlink" title="Telenor"></a>Telenor</h2><p><a href="https://www.ispreview.co.uk/talk/threads/outdoor-cpes.37141/post-283530">La frequenza B38 non è elencata sulla pagina web, tuttavia si può aggregare tranquillamente.</a></p>
-<p>Il B32 dovrebbe essere lo stesso.</p>
-<p>Lo zte è davvero troppo complicato.</p>
-<p><a href="https://www.ispreview.co.uk/talk/search/10567/?c%5Busers%5D=lyonanderson&o=date">Qualcuno ha provato a modificare il firmware e ci è riuscito</a></p>
-<ul>
-<li><a href="https://www.ispreview.co.uk/talk/threads/outdoor-cpes.37141/post-289510">I’m 100% what he did. From what I could see he took the files from 3_Download_File MC7010_Elisa1_B07 and then replaced the sdxprairie-sysfs.ubi file with that from the Play firmware.</a></li>
-</ul>
-<p>versione svedese, funziona tutto</p>
-<p><img src="https://s2.loli.net/2023/07/05/qJ3ReMSWXZj4HsB.png" alt="image-20230705034458396"></p>
-<p>PV_ZTE_MC7010CAV1.0.0B01</p>
-<h1 id="In-ogni-caso-controllate-la-versione-prima-di-acquistarla"><a href="#In-ogni-caso-controllate-la-versione-prima-di-acquistarla" class="headerlink" title="In ogni caso, controllate la versione prima di acquistarla."></a>In ogni caso, controllate la versione prima di acquistarla.</h1>]]></content>
-  </entry>
-  <entry>
-    <title>istruzione per 289F</title>
-    <url>/2022/07/12/istruzione-per-289F/</url>
-    <content><![CDATA[<p><img src="https://s2.loli.net/2022/07/13/18FBNn4eXZwT6lP.png" alt="0001"></p>
-<p><img src="https://s2.loli.net/2022/07/13/J68O5Azldvo2uma.png" alt="0002"></p>
-]]></content>
-  </entry>
-  <entry>
-    <title>istruzione per 286D NORDIC</title>
-    <url>/2022/07/12/istruzione-per-286D-NORDIC/</url>
-    <content><![CDATA[<p><img src="https://s2.loli.net/2022/07/13/Aa8j6hP5tOg7Srs.jpg" alt="0001"></p>
-<p><img src="https://s2.loli.net/2022/07/13/4n3gv5JEfKzOqRr.jpg" alt="0002"></p>
-]]></content>
-  </entry>
-  <entry>
     <title>Zyxel 5G NR/4G LTE CPE Quick Sales Guide</title>
     <url>/2023/02/17/Zyxel-5G-NR-4G-LTE-CPE-Quick-Sales-Guide/</url>
     <content><![CDATA[<h1 id="Zyxel-5G-NR-4G-LTE-CPE-Quick-Sales-Guide"><a href="#Zyxel-5G-NR-4G-LTE-CPE-Quick-Sales-Guide" class="headerlink" title="Zyxel 5G NR/4G LTE CPE Quick Sales Guide"></a>Zyxel 5G NR/4G LTE CPE Quick Sales Guide</h1><p><img src="https://s2.loli.net/2023/02/17/s5AOIDBub9VFZz6.png" alt="0001"></p>
@@ -926,6 +913,27 @@
 <p><img src="https://s2.loli.net/2023/02/17/yjmKBlvEGHqZXNd.png" alt="0005"></p>
 <p><img src="https://s2.loli.net/2023/02/17/nohQUDyGqa12uWm.png" alt="0006"></p>
 <p><img src="https://s2.loli.net/2023/02/17/eQTjW2xuRvL5G9A.png" alt="0007"></p>
+]]></content>
+  </entry>
+  <entry>
+    <title>istruzione per 289F</title>
+    <url>/2022/07/12/istruzione-per-289F/</url>
+    <content><![CDATA[<p><img src="https://s2.loli.net/2022/07/13/18FBNn4eXZwT6lP.png" alt="0001"></p>
+<p><img src="https://s2.loli.net/2022/07/13/J68O5Azldvo2uma.png" alt="0002"></p>
+]]></content>
+  </entry>
+  <entry>
+    <title>istruzione per 818 263</title>
+    <url>/2022/07/12/istruzione-per-818-263/</url>
+    <content><![CDATA[<p><img src="https://s2.loli.net/2022/07/13/hKGmg6Ra8JEYrnP.jpg" alt="0001"></p>
+<p><img src="https://s2.loli.net/2022/07/13/4n3gv5JEfKzOqRr.jpg" alt="0002"></p>
+]]></content>
+  </entry>
+  <entry>
+    <title>istruzione per 286D NORDIC</title>
+    <url>/2022/07/12/istruzione-per-286D-NORDIC/</url>
+    <content><![CDATA[<p><img src="https://s2.loli.net/2022/07/13/Aa8j6hP5tOg7Srs.jpg" alt="0001"></p>
+<p><img src="https://s2.loli.net/2022/07/13/4n3gv5JEfKzOqRr.jpg" alt="0002"></p>
 ]]></content>
   </entry>
   <entry>
@@ -957,22 +965,6 @@
 </blockquote>
 <h3 id="ROS"><a href="#ROS" class="headerlink" title="ROS"></a>ROS</h3><p>Non ci sono problemi con i router che hanno questo sistema.</p>
 <p>I dettagli dell’operazione possono essere trovati online</p>
-]]></content>
-  </entry>
-  <entry>
-    <title>istruzione per 818 263</title>
-    <url>/2022/07/12/istruzione-per-818-263/</url>
-    <content><![CDATA[<p><img src="https://s2.loli.net/2022/07/13/hKGmg6Ra8JEYrnP.jpg" alt="0001"></p>
-<p><img src="https://s2.loli.net/2022/07/13/4n3gv5JEfKzOqRr.jpg" alt="0002"></p>
-]]></content>
-  </entry>
-  <entry>
-    <title>zte 289f dhcp off with xiaomi ax3000</title>
-    <url>/2022/09/08/zte-289f-dhcp-off-with-xiaomi-ax3000/</url>
-    <content><![CDATA[<p><img src="https://s2.loli.net/2022/09/08/FMk3S5cR6JCV2zr.jpg" alt="Snipaste_2022-09-08_10-51-37"></p>
-<ul>
-<li>Disattivare il DHCP significa ridurre il carico di lavoro della CPE.</li>
-</ul>
 ]]></content>
   </entry>
   <entry>
@@ -1034,6 +1026,15 @@
 <p><img src="https://s2.loli.net/2022/04/26/lG97ApdReUCYQmg.jpg" alt="IMG_8645_compressed"></p>
 <p>Utilizza un’interfaccia non standard, simile alla ipx1, ma a metà altezza.</p>
 <p>Tuttavia, anche l’IPX1 è si collega e funziona bene.</p>
+]]></content>
+  </entry>
+  <entry>
+    <title>zte 289f dhcp off with xiaomi ax3000</title>
+    <url>/2022/09/08/zte-289f-dhcp-off-with-xiaomi-ax3000/</url>
+    <content><![CDATA[<p><img src="https://s2.loli.net/2022/09/08/FMk3S5cR6JCV2zr.jpg" alt="Snipaste_2022-09-08_10-51-37"></p>
+<ul>
+<li>Disattivare il DHCP significa ridurre il carico di lavoro della CPE.</li>
+</ul>
 ]]></content>
   </entry>
 </search>
