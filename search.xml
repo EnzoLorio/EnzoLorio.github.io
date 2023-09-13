@@ -38,6 +38,16 @@
       </tags>
   </entry>
   <entry>
+    <title>Configurare APN su 818-263</title>
+    <url>/2022/01/16/818-263-APN/</url>
+    <content><![CDATA[<h1 id="Configurare-APN-su-818-263"><a href="#Configurare-APN-su-818-263" class="headerlink" title="Configurare APN su 818-263"></a>Configurare APN su 818-263</h1><p><img src="https://s2.loli.net/2022/01/16/AKIOWQlpF2L4D9u.png" alt="APN 818 263"></p>
+<p><img src="https://s2.loli.net/2022/01/21/21Y8UiyLIZ9NVQX.png" alt="image-20220121145544942"></p>
+]]></content>
+      <tags>
+        <tag>818-263</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>ZTE 888 ULTRA GigaCube 5G Z22</title>
     <url>/2023/09/01/888/</url>
     <content><![CDATA[<h1 id="ZTE-888-ULTRA"><a href="#ZTE-888-ULTRA" class="headerlink" title="ZTE 888 ULTRA"></a>ZTE 888 ULTRA</h1><h2 id="ZTE-888-ULTRA-GigaCube-5G-Z22"><a href="#ZTE-888-ULTRA-GigaCube-5G-Z22" class="headerlink" title="ZTE 888 ULTRA GigaCube 5G Z22"></a>ZTE 888 ULTRA GigaCube 5G Z22</h2><p><img src="https://s2.loli.net/2023/09/04/4hwYyZPJRUt6NEj.jpg" alt="⚛️antykat_v26.R16_LMC_11TPro_20230904_150314_lmc_8.4"></p>
@@ -64,16 +74,6 @@
 <p>È possibile modificare l’apn tramite <strong><a href="https://forum.fibra.click/d/38902-cambiare-apn-fwa-vodafone-5g-zte-mc7010/19">superuser</a></strong>.</p>
 <p> ☝️FWA 5G OUTDOOR  ITALIA☝️</p>
 ]]></content>
-  </entry>
-  <entry>
-    <title>Configurare APN su 818-263</title>
-    <url>/2022/01/16/818-263-APN/</url>
-    <content><![CDATA[<h1 id="Configurare-APN-su-818-263"><a href="#Configurare-APN-su-818-263" class="headerlink" title="Configurare APN su 818-263"></a>Configurare APN su 818-263</h1><p><img src="https://s2.loli.net/2022/01/16/AKIOWQlpF2L4D9u.png" alt="APN 818 263"></p>
-<p><img src="https://s2.loli.net/2022/01/21/21Y8UiyLIZ9NVQX.png" alt="image-20220121145544942"></p>
-]]></content>
-      <tags>
-        <tag>818-263</tag>
-      </tags>
   </entry>
   <entry>
     <title>HUAWEI 4G ROUTER 3 PRIME B818-263 CAT19 LTE ROUTER</title>
@@ -153,18 +153,6 @@
 ]]></content>
   </entry>
   <entry>
-    <title>Modalità di antenna del CPE ZTE</title>
-    <url>/2022/06/25/Come-rendere-la-rete-pi%C3%B9-stabile/</url>
-    <content><![CDATA[<h1 id="Come-rendere-la-rete-piu-stabile"><a href="#Come-rendere-la-rete-piu-stabile" class="headerlink" title="Come rendere la rete più stabile"></a>Come rendere la rete più stabile</h1><h2 id="Scheduled-reboot-Riavvio-programmato"><a href="#Scheduled-reboot-Riavvio-programmato" class="headerlink" title="Scheduled reboot / Riavvio programmato"></a>Scheduled reboot / Riavvio programmato</h2><p>Molti router supportano questa funzione, quindi assicuratevi di attivarla.</p>
-<blockquote>
-<p>Prima il mio computer si sconnetteva ogni pochi minuti, avevo appena sostituito la scheda di rete del computer, pensavo che ci fosse un problema con la scheda, ma dopo aver riavviato il router andava tutto bene…</p>
-</blockquote>
-<p>Il riavvio programmato è una funzione che si pensava fosse una necessità sui router precedenti con hardware scadente e poca memoria. Alcuni router moderni non supportano queste funzioni e il mio ha funzionato bene per un mese o due prima del problema.</p>
-<h2 id="Ridurre-il-lavoro-del-router"><a href="#Ridurre-il-lavoro-del-router" class="headerlink" title="Ridurre il lavoro del router"></a>Ridurre il lavoro del router</h2><p>In generale, è sufficiente disattivare la funzione wifi del router e collegare un AP.</p>
-<p><img src="https://s2.loli.net/2022/06/25/rD1ZUmxSefidH4n.jpg" alt="Snipaste_2022-06-25_11-41-49"></p>
-]]></content>
-  </entry>
-  <entry>
     <title>Chateau CAT 18</title>
     <url>/2022/02/24/Chateau-CAT-18/</url>
     <content><![CDATA[<h1 id="Chateau-CAT-18"><a href="#Chateau-CAT-18" class="headerlink" title="Chateau CAT 18"></a>Chateau CAT 18</h1><p><img src="https://s2.loli.net/2022/02/24/mtdJXL23xiBEh6D.jpg" alt="IMG_8153"></p>
@@ -175,36 +163,15 @@
 ]]></content>
   </entry>
   <entry>
-    <title>ELENCO APN ITALIANI</title>
-    <url>/2022/01/16/ELENCO%20APN%20ITALIANI/</url>
-    <content><![CDATA[<h1 id="APN"><a href="#APN" class="headerlink" title="APN"></a>APN</h1><p>ELENCO APN ITALIANI</p>
-<p><strong>TIM:</strong> </p>
-<p>ibox.tim.it</p>
-<p><strong>Vodafone:</strong> </p>
-<p>mobile.vodafone.it</p>
-<p>iphone.vodafone.it</p>
-<p><strong>Wind:</strong> </p>
-<p>internet.it</p>
-<p>internet.wind</p>
-<p><strong>Iliad Italia:</strong> </p>
-<p>iliad</p>
-<p><strong>Fastweb Mobile:</strong> </p>
-<p>apn.fastweb.it</p>
-<p><strong>Poste Mobile:</strong> </p>
-<p>wap.postemobile.it </p>
-<p>casa.postemobile.it (PosteMobile Casa Web)</p>
-<p><strong>Tiscali Mobile:</strong> </p>
-<p>tiscalimobileinternet </p>
-<p><strong>Coop Voce:</strong> </p>
-<p>internet.coopvoce.it</p>
-<p><strong>Kena Mobile:</strong> </p>
-<p>web.kenamobile.it</p>
-<p><strong>Ho Mobile:</strong> </p>
-<p>web.ho-mobile.it</p>
-<p><strong>Lycamobile:</strong> </p>
-<p>data.lycamobile.it </p>
-<p><strong>Rabona Mobile:</strong> </p>
-<p>rabona.it</p>
+    <title>Modalità di antenna del CPE ZTE</title>
+    <url>/2022/06/25/Come-rendere-la-rete-pi%C3%B9-stabile/</url>
+    <content><![CDATA[<h1 id="Come-rendere-la-rete-piu-stabile"><a href="#Come-rendere-la-rete-piu-stabile" class="headerlink" title="Come rendere la rete più stabile"></a>Come rendere la rete più stabile</h1><h2 id="Scheduled-reboot-Riavvio-programmato"><a href="#Scheduled-reboot-Riavvio-programmato" class="headerlink" title="Scheduled reboot / Riavvio programmato"></a>Scheduled reboot / Riavvio programmato</h2><p>Molti router supportano questa funzione, quindi assicuratevi di attivarla.</p>
+<blockquote>
+<p>Prima il mio computer si sconnetteva ogni pochi minuti, avevo appena sostituito la scheda di rete del computer, pensavo che ci fosse un problema con la scheda, ma dopo aver riavviato il router andava tutto bene…</p>
+</blockquote>
+<p>Il riavvio programmato è una funzione che si pensava fosse una necessità sui router precedenti con hardware scadente e poca memoria. Alcuni router moderni non supportano queste funzioni e il mio ha funzionato bene per un mese o due prima del problema.</p>
+<h2 id="Ridurre-il-lavoro-del-router"><a href="#Ridurre-il-lavoro-del-router" class="headerlink" title="Ridurre il lavoro del router"></a>Ridurre il lavoro del router</h2><p>In generale, è sufficiente disattivare la funzione wifi del router e collegare un AP.</p>
+<p><img src="https://s2.loli.net/2022/06/25/rD1ZUmxSefidH4n.jpg" alt="Snipaste_2022-06-25_11-41-49"></p>
 ]]></content>
   </entry>
   <entry>
@@ -420,15 +387,36 @@
 ]]></content>
   </entry>
   <entry>
-    <title>MODEM INTERNO LINKEM SAGEMCOM FAST 5862L SIM 5G WIFI WIRELESS</title>
-    <url>/2023/09/01/FAST-5862L/</url>
-    <content><![CDATA[<h1 id="MODEM-INTERNO-LINKEM-SAGEMCOM-FAST-5862L-SIM-5G-WIFI-WIRELESS"><a href="#MODEM-INTERNO-LINKEM-SAGEMCOM-FAST-5862L-SIM-5G-WIFI-WIRELESS" class="headerlink" title="MODEM INTERNO LINKEM SAGEMCOM FAST 5862L SIM 5G WIFI WIRELESS"></a>MODEM INTERNO LINKEM SAGEMCOM FAST 5862L SIM 5G WIFI WIRELESS</h1><p>RG502Q-GT</p>
-<p>funziona solo con sim linkem</p>
-<p><img src="https://s2.loli.net/2023/09/10/7w8uKnFaeEkzvH3.jpg" alt="1 (1)"></p>
-<span id="more"></span>
-
-<p><img src="https://s2.loli.net/2023/09/10/7LawRStbrFZgyfK.jpg" alt="1 (2)"></p>
-<p><img src="https://s2.loli.net/2023/09/02/oVBJrM9GFgEX7zK.png" alt="image-20230901193025835"></p>
+    <title>ELENCO APN ITALIANI</title>
+    <url>/2022/01/16/ELENCO%20APN%20ITALIANI/</url>
+    <content><![CDATA[<h1 id="APN"><a href="#APN" class="headerlink" title="APN"></a>APN</h1><p>ELENCO APN ITALIANI</p>
+<p><strong>TIM:</strong> </p>
+<p>ibox.tim.it</p>
+<p><strong>Vodafone:</strong> </p>
+<p>mobile.vodafone.it</p>
+<p>iphone.vodafone.it</p>
+<p><strong>Wind:</strong> </p>
+<p>internet.it</p>
+<p>internet.wind</p>
+<p><strong>Iliad Italia:</strong> </p>
+<p>iliad</p>
+<p><strong>Fastweb Mobile:</strong> </p>
+<p>apn.fastweb.it</p>
+<p><strong>Poste Mobile:</strong> </p>
+<p>wap.postemobile.it </p>
+<p>casa.postemobile.it (PosteMobile Casa Web)</p>
+<p><strong>Tiscali Mobile:</strong> </p>
+<p>tiscalimobileinternet </p>
+<p><strong>Coop Voce:</strong> </p>
+<p>internet.coopvoce.it</p>
+<p><strong>Kena Mobile:</strong> </p>
+<p>web.kenamobile.it</p>
+<p><strong>Ho Mobile:</strong> </p>
+<p>web.ho-mobile.it</p>
+<p><strong>Lycamobile:</strong> </p>
+<p>data.lycamobile.it </p>
+<p><strong>Rabona Mobile:</strong> </p>
+<p>rabona.it</p>
 ]]></content>
   </entry>
   <entry>
@@ -444,18 +432,15 @@
 ]]></content>
   </entry>
   <entry>
-    <title>TCL HH500v 5G LTE ROUTER 5G SNAPDRAGON X55 WIFI 6 APN</title>
-    <url>/2023/07/03/HH500v-APN/</url>
-    <content><![CDATA[<h2 id="Dopo-aver-personalizzato-l’APN-il-router-non-si-connette-automaticamente"><a href="#Dopo-aver-personalizzato-l’APN-il-router-non-si-connette-automaticamente" class="headerlink" title="Dopo aver personalizzato l’APN, il router non si connette automaticamente."></a>Dopo aver personalizzato l’APN, il router non si connette automaticamente.</h2><p>Per risolvere questo problema, la prima cosa da fare è impostare la modalità di connessione del router su manuale. Successivamente, modifica il nome dell’apn predefinito “default” in un altro nome di tua scelta. Dopodiché, crea un nuovo apn e, una volta creato con successo, rinominalo come “default”. Infine, reimposta la modalità di connessione su automatico.</p>
-<p>Si applica solo a HH500V_VDFES_V2.0.0B19.</p>
+    <title>MODEM INTERNO LINKEM SAGEMCOM FAST 5862L SIM 5G WIFI WIRELESS</title>
+    <url>/2023/09/01/FAST-5862L/</url>
+    <content><![CDATA[<h1 id="MODEM-INTERNO-LINKEM-SAGEMCOM-FAST-5862L-SIM-5G-WIFI-WIRELESS"><a href="#MODEM-INTERNO-LINKEM-SAGEMCOM-FAST-5862L-SIM-5G-WIFI-WIRELESS" class="headerlink" title="MODEM INTERNO LINKEM SAGEMCOM FAST 5862L SIM 5G WIFI WIRELESS"></a>MODEM INTERNO LINKEM SAGEMCOM FAST 5862L SIM 5G WIFI WIRELESS</h1><p>RG502Q-GT</p>
+<p>funziona solo con sim linkem</p>
+<p><img src="https://s2.loli.net/2023/09/10/7w8uKnFaeEkzvH3.jpg" alt="1 (1)"></p>
 <span id="more"></span>
 
-<p><img src="https://s2.loli.net/2023/07/03/28c6Ue7r9jKgAo1.png" alt="0002"></p>
-<p><img src="https://s2.loli.net/2023/07/03/TQ2wrulgC8dxim9.png" alt="0003"></p>
-<p><img src="https://s2.loli.net/2023/07/03/tORsISxCLdYnZ8b.png" alt="0004"></p>
-<p><img src="https://s2.loli.net/2023/07/03/VcEjRNQJt5rlkiL.png" alt="0005"></p>
-<p><img src="https://s2.loli.net/2023/07/03/uYqOnsiLEZwT5lP.png" alt="0006"></p>
-<p><img src="https://s2.loli.net/2023/07/03/nAEm6uhtZzRPGeL.png" alt="0007"></p>
+<p><img src="https://s2.loli.net/2023/09/10/7LawRStbrFZgyfK.jpg" alt="1 (2)"></p>
+<p><img src="https://s2.loli.net/2023/09/02/oVBJrM9GFgEX7zK.png" alt="image-20230901193025835"></p>
 ]]></content>
   </entry>
   <entry>
@@ -468,6 +453,21 @@
 <p><img src="https://s2.loli.net/2022/01/27/wnJimDqQvFu8a2Z.png" alt="Snipaste_2022-01-27_13-17-10"></p>
 <p><img src="https://s2.loli.net/2022/01/27/1tiTVLDMS8j4dQF.png" alt="Snipaste_2022-01-27_13-17-41"></p>
 <p><img src="https://s2.loli.net/2022/01/27/ifJLIoSKyMg2bAt.png" alt="Snipaste_2022-01-27_13-18-19"></p>
+]]></content>
+  </entry>
+  <entry>
+    <title>TCL HH500v 5G LTE ROUTER 5G SNAPDRAGON X55 WIFI 6 APN</title>
+    <url>/2023/07/03/HH500v-APN/</url>
+    <content><![CDATA[<h2 id="Dopo-aver-personalizzato-l’APN-il-router-non-si-connette-automaticamente"><a href="#Dopo-aver-personalizzato-l’APN-il-router-non-si-connette-automaticamente" class="headerlink" title="Dopo aver personalizzato l’APN, il router non si connette automaticamente."></a>Dopo aver personalizzato l’APN, il router non si connette automaticamente.</h2><p>Per risolvere questo problema, la prima cosa da fare è impostare la modalità di connessione del router su manuale. Successivamente, modifica il nome dell’apn predefinito “default” in un altro nome di tua scelta. Dopodiché, crea un nuovo apn e, una volta creato con successo, rinominalo come “default”. Infine, reimposta la modalità di connessione su automatico.</p>
+<p>Si applica solo a HH500V_VDFES_V2.0.0B19.</p>
+<span id="more"></span>
+
+<p><img src="https://s2.loli.net/2023/07/03/28c6Ue7r9jKgAo1.png" alt="0002"></p>
+<p><img src="https://s2.loli.net/2023/07/03/TQ2wrulgC8dxim9.png" alt="0003"></p>
+<p><img src="https://s2.loli.net/2023/07/03/tORsISxCLdYnZ8b.png" alt="0004"></p>
+<p><img src="https://s2.loli.net/2023/07/03/VcEjRNQJt5rlkiL.png" alt="0005"></p>
+<p><img src="https://s2.loli.net/2023/07/03/uYqOnsiLEZwT5lP.png" alt="0006"></p>
+<p><img src="https://s2.loli.net/2023/07/03/nAEm6uhtZzRPGeL.png" alt="0007"></p>
 ]]></content>
   </entry>
   <entry>
@@ -735,6 +735,45 @@
 ]]></content>
   </entry>
   <entry>
+    <title>Super Internet Casa - Offerte Internet con Super Internet Wi-Fi</title>
+    <url>/2022/01/16/Super-Internet-Casa/</url>
+    <content><![CDATA[<h1 id="Super-Internet-Casa-Offerte-Internet-con-Super-Internet-Wi-Fi"><a href="#Super-Internet-Casa-Offerte-Internet-con-Super-Internet-Wi-Fi" class="headerlink" title="Super Internet Casa - Offerte Internet con Super Internet Wi-Fi"></a>Super Internet Casa - Offerte Internet con Super Internet Wi-Fi</h1><p><a href="https://www.windtre.it/offerte-internet-mobile/super-internet-casa/">Super Internet Casa - Offerte Internet con Super Internet Wi-Fi</a></p>
+<ul>
+<li><p>Super Internet Casa = SUPER INTERNET CASA EASY PAY  (con carta di credito, conto corrente o carte conto abilitate)</p>
+</li>
+<li><p>Fino a 300 Mega in download e 50 Mega in upload</p>
+</li>
+<li><p>si disconnette ogni 4 ore</p>
+</li>
+<li><p>fino a 500/550 giga vai tranquillo, dopo è un mistero</p>
+</li>
+<li><p>il Servizio è prevista una durata di 24 mesi</p>
+</li>
+<li><p>SIM si può mettere in qualunque modem</p>
+</li>
+<li><p>modem Brandizzato windtre probabile, ma cambiando apn quasi sicuramente si può mettere qualunque sim</p>
+</li>
+<li><p>router B628-265 CAT 12 2CA</p>
+<ul>
+<li><strong>Huawei B628-265 4G+</strong>, <strong>Huawei B628-350 4G+</strong> oppure lo <strong>ZYXEL LTE5398-M904</strong> in base alle loro disponibilità</li>
+</ul>
+</li>
+<li><p>In caso di reiterato mancato rispetto delle condizioni di utilizzo dell’offerta geolocalizzata in un comune diverso da quello di sottoscrizione o interessato dall’offerta (e di conseguente relativa fruizione) WindTre si riserva di non erogare i benefici legati all’offerta geolocalizzata, conseguentemente, erogando al Cliente un quantitativo di traffico dati inferiore con relativo prezzo ovvero 100 GB (mese) a 12.99€.</p>
+</li>
+</ul>
+<h2 id="e-una-offerta-mobile"><a href="#e-una-offerta-mobile" class="headerlink" title="è una offerta mobile"></a>è una offerta mobile</h2><p><a href="https://www.windtre.it/trasparenza-tariffaria/">https://www.windtre.it/trasparenza-tariffaria/</a></p>
+<p>MOBILE -&gt; Piani Privati -&gt; <a href="https://d1qsjop7tycsfb.cloudfront.net/fileadmin/mainbrand/trasparenza-tariffaria/privati/mobile/20211206/20211206-Super_Internet_Casa_Easy_Pay.pdf">SUPER INTERNET CASA EASY PAY</a></p>
+<p>Poiché questo è un offerta mobile, la <strong>CONDIZIONI GENERALI DI CONTRATTO</strong> è questo</p>
+<p><img src="https://s2.loli.net/2022/02/28/YbND64Z9BlEndGC.png" alt="image-20220228143513960"></p>
+<ol>
+<li>volumi di traffico mensili anomali e almeno superiori a 5 volte rispetto alla media di<br>consumo di clienti con offerte omogenee o analoghe;</li>
+<li>volumi di traffico dati superiore per tre mesi consecutivi al volume del traffico medio<br>mensile di clienti con offerte omogenee o analoghe.</li>
+</ol>
+<p><a href="https://d1qsjop7tycsfb.cloudfront.net/fileadmin/mainbrand/trasparenza-tariffaria/privati/mobile/20211206/20211206-Super_Internet_Casa_Easy_Pay.pdf">Caratteristiche offerta</a></p>
+<p><a href="https://www.windtre.it/info-consumi-rete-dati/">Info-consumi-rete-dati</a></p>
+]]></content>
+  </entry>
+  <entry>
     <title>Pixel 1 spazio illimitato su Google Foto</title>
     <url>/2022/06/05/Pixel-1-spazio-illimitato-su-Google-Foto/</url>
     <content><![CDATA[<h1 id="Pixel-1-spazio-illimitato-su-Google-Foto"><a href="#Pixel-1-spazio-illimitato-su-Google-Foto" class="headerlink" title="Pixel 1 spazio illimitato su Google Foto"></a>Pixel 1 spazio illimitato su Google Foto</h1><p><a href="https://support.google.com/photos/answer/6220791?hl=it">Scegliere le dimensioni di caricamento di foto e video - Computer - Guida di Google Foto</a></p>
@@ -755,6 +794,17 @@
 <ul>
 <li><h2 id="External-Links"><a href="#External-Links" class="headerlink" title="External Links"></a><strong>External Links</strong></h2></li>
 </ul>
+]]></content>
+  </entry>
+  <entry>
+    <title>TCL H500 MOD SSH</title>
+    <url>/2023/07/09/TCL-H500-MOD-SSH/</url>
+    <content><![CDATA[<h1 id="TCL-H500-MOD-SSH"><a href="#TCL-H500-MOD-SSH" class="headerlink" title="TCL H500 MOD SSH"></a>TCL H500 MOD SSH</h1><p><img src="https://s2.loli.net/2023/07/10/zplVZGemL9J4w5D.jpg" alt="TCL H500 TESTPOINT"></p>
+<span id="more"></span>
+
+<p><img src="https://s2.loli.net/2023/07/10/eulrHq2M4XtwZcI.png" alt="image-20230709221406020"></p>
+<figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="comment">#Change root password</span></span><br><span class="line">su</span><br><span class="line"></span><br><span class="line"><span class="comment">#Open SSH</span></span><br><span class="line">/usr/sbin/dropbear -p <span class="number">2222</span></span><br><span class="line"></span><br><span class="line"></span><br></pre></td></tr></table></figure>
+
 ]]></content>
   </entry>
   <entry>
@@ -810,42 +860,18 @@
 ]]></content>
   </entry>
   <entry>
-    <title>Super Internet Casa - Offerte Internet con Super Internet Wi-Fi</title>
-    <url>/2022/01/16/Super-Internet-Casa/</url>
-    <content><![CDATA[<h1 id="Super-Internet-Casa-Offerte-Internet-con-Super-Internet-Wi-Fi"><a href="#Super-Internet-Casa-Offerte-Internet-con-Super-Internet-Wi-Fi" class="headerlink" title="Super Internet Casa - Offerte Internet con Super Internet Wi-Fi"></a>Super Internet Casa - Offerte Internet con Super Internet Wi-Fi</h1><p><a href="https://www.windtre.it/offerte-internet-mobile/super-internet-casa/">Super Internet Casa - Offerte Internet con Super Internet Wi-Fi</a></p>
-<ul>
-<li><p>Super Internet Casa = SUPER INTERNET CASA EASY PAY  (con carta di credito, conto corrente o carte conto abilitate)</p>
-</li>
-<li><p>Fino a 300 Mega in download e 50 Mega in upload</p>
-</li>
-<li><p>si disconnette ogni 4 ore</p>
-</li>
-<li><p>fino a 500/550 giga vai tranquillo, dopo è un mistero</p>
-</li>
-<li><p>il Servizio è prevista una durata di 24 mesi</p>
-</li>
-<li><p>SIM si può mettere in qualunque modem</p>
-</li>
-<li><p>modem Brandizzato windtre probabile, ma cambiando apn quasi sicuramente si può mettere qualunque sim</p>
-</li>
-<li><p>router B628-265 CAT 12 2CA</p>
-<ul>
-<li><strong>Huawei B628-265 4G+</strong>, <strong>Huawei B628-350 4G+</strong> oppure lo <strong>ZYXEL LTE5398-M904</strong> in base alle loro disponibilità</li>
-</ul>
-</li>
-<li><p>In caso di reiterato mancato rispetto delle condizioni di utilizzo dell’offerta geolocalizzata in un comune diverso da quello di sottoscrizione o interessato dall’offerta (e di conseguente relativa fruizione) WindTre si riserva di non erogare i benefici legati all’offerta geolocalizzata, conseguentemente, erogando al Cliente un quantitativo di traffico dati inferiore con relativo prezzo ovvero 100 GB (mese) a 12.99€.</p>
-</li>
-</ul>
-<h2 id="e-una-offerta-mobile"><a href="#e-una-offerta-mobile" class="headerlink" title="è una offerta mobile"></a>è una offerta mobile</h2><p><a href="https://www.windtre.it/trasparenza-tariffaria/">https://www.windtre.it/trasparenza-tariffaria/</a></p>
-<p>MOBILE -&gt; Piani Privati -&gt; <a href="https://d1qsjop7tycsfb.cloudfront.net/fileadmin/mainbrand/trasparenza-tariffaria/privati/mobile/20211206/20211206-Super_Internet_Casa_Easy_Pay.pdf">SUPER INTERNET CASA EASY PAY</a></p>
-<p>Poiché questo è un offerta mobile, la <strong>CONDIZIONI GENERALI DI CONTRATTO</strong> è questo</p>
-<p><img src="https://s2.loli.net/2022/02/28/YbND64Z9BlEndGC.png" alt="image-20220228143513960"></p>
-<ol>
-<li>volumi di traffico mensili anomali e almeno superiori a 5 volte rispetto alla media di<br>consumo di clienti con offerte omogenee o analoghe;</li>
-<li>volumi di traffico dati superiore per tre mesi consecutivi al volume del traffico medio<br>mensile di clienti con offerte omogenee o analoghe.</li>
-</ol>
-<p><a href="https://d1qsjop7tycsfb.cloudfront.net/fileadmin/mainbrand/trasparenza-tariffaria/privati/mobile/20211206/20211206-Super_Internet_Casa_Easy_Pay.pdf">Caratteristiche offerta</a></p>
-<p><a href="https://www.windtre.it/info-consumi-rete-dati/">Info-consumi-rete-dati</a></p>
+    <title>Tenda 5G03 AX1800 Wi-Fi 6 5G NR Router</title>
+    <url>/2023/02/11/TENDA-5G03/</url>
+    <content><![CDATA[<h1 id="Tenda-5G03-AX1800-Wi-Fi-6-5G-NR-Router"><a href="#Tenda-5G03-AX1800-Wi-Fi-6-5G-NR-Router" class="headerlink" title="Tenda 5G03 AX1800 Wi-Fi 6 5G NR Router"></a>Tenda 5G03 AX1800 Wi-Fi 6 5G NR Router</h1><p><a href="https://www.tendacn.com/it/product/download/5G03.html">5G03 Download-Tenda (Italia)</a></p>
+]]></content>
+  </entry>
+  <entry>
+    <title>Deco X80-5G</title>
+    <url>/2023/07/04/TP-Link-Deco-X80-5G/</url>
+    <content><![CDATA[<h1 id="TP-Link-Deco-X80-5G"><a href="#TP-Link-Deco-X80-5G" class="headerlink" title="TP-Link Deco X80-5G"></a>TP-Link Deco X80-5G</h1><p>Deco X80-5G adopts Qualcomm Networking Pro 1610 Platform and Snapdragon X55 5G Modem chip</p>
+<p><img src="https://s2.loli.net/2023/07/05/6kxuYURaGm2JEPc.jpg" alt="photo_2023-07-04_09-27-06"></p>
+<p><img src="https://s2.loli.net/2023/07/05/TcosFzQMIR43Nkj.jpg" alt="photo_2023-07-04_09-27-06 (2)"></p>
+<p><a href="https://iphonewired.com/industry/501673/">https://iphonewired.com/industry/501673/</a></p>
 ]]></content>
   </entry>
   <entry>
@@ -879,54 +905,6 @@
 ]]></content>
   </entry>
   <entry>
-    <title>Tenda 5G03 AX1800 Wi-Fi 6 5G NR Router</title>
-    <url>/2023/02/11/TENDA-5G03/</url>
-    <content><![CDATA[<h1 id="Tenda-5G03-AX1800-Wi-Fi-6-5G-NR-Router"><a href="#Tenda-5G03-AX1800-Wi-Fi-6-5G-NR-Router" class="headerlink" title="Tenda 5G03 AX1800 Wi-Fi 6 5G NR Router"></a>Tenda 5G03 AX1800 Wi-Fi 6 5G NR Router</h1><p><a href="https://www.tendacn.com/it/product/download/5G03.html">5G03 Download-Tenda (Italia)</a></p>
-]]></content>
-  </entry>
-  <entry>
-    <title>Deco X80-5G</title>
-    <url>/2023/07/04/TP-Link-Deco-X80-5G/</url>
-    <content><![CDATA[<h1 id="TP-Link-Deco-X80-5G"><a href="#TP-Link-Deco-X80-5G" class="headerlink" title="TP-Link Deco X80-5G"></a>TP-Link Deco X80-5G</h1><p>Deco X80-5G adopts Qualcomm Networking Pro 1610 Platform and Snapdragon X55 5G Modem chip</p>
-<p><img src="https://s2.loli.net/2023/07/05/6kxuYURaGm2JEPc.jpg" alt="photo_2023-07-04_09-27-06"></p>
-<p><img src="https://s2.loli.net/2023/07/05/TcosFzQMIR43Nkj.jpg" alt="photo_2023-07-04_09-27-06 (2)"></p>
-<p><a href="https://iphonewired.com/industry/501673/">https://iphonewired.com/industry/501673/</a></p>
-]]></content>
-  </entry>
-  <entry>
-    <title>TCL H500 MOD SSH</title>
-    <url>/2023/07/09/TCL-H500-MOD-SSH/</url>
-    <content><![CDATA[<h1 id="TCL-H500-MOD-SSH"><a href="#TCL-H500-MOD-SSH" class="headerlink" title="TCL H500 MOD SSH"></a>TCL H500 MOD SSH</h1><p><img src="https://s2.loli.net/2023/07/10/zplVZGemL9J4w5D.jpg" alt="TCL H500 TESTPOINT"></p>
-<span id="more"></span>
-
-<p><img src="https://s2.loli.net/2023/07/10/eulrHq2M4XtwZcI.png" alt="image-20230709221406020"></p>
-<figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="comment">#Change root password</span></span><br><span class="line">su</span><br><span class="line"></span><br><span class="line"><span class="comment">#Open SSH</span></span><br><span class="line">/usr/sbin/dropbear -p <span class="number">2222</span></span><br><span class="line"></span><br><span class="line"></span><br></pre></td></tr></table></figure>
-
-]]></content>
-  </entry>
-  <entry>
-    <title>Utilizzare Vodafone Power station come Access Point/ Router secondario</title>
-    <url>/2022/10/01/Utilizzare-Vodafone-Power-station-come-Access-Point-Router-secondario/</url>
-    <content><![CDATA[<h1 id="Utilizzare-Vodafone-Power-station-come-Access-Point-Router-secondario"><a href="#Utilizzare-Vodafone-Power-station-come-Access-Point-Router-secondario" class="headerlink" title="Utilizzare Vodafone Power station come Access Point/ Router secondario"></a>Utilizzare Vodafone Power station come Access Point/ Router secondario</h1><p><img src="https://s2.loli.net/2022/10/01/Q2e5tI9JRM8wZAU.jpg" alt="IMG_20221001_130017"></p>
-<span id="more"></span>
-
-<p><img src="https://s2.loli.net/2022/10/01/nzbyd8xejTuEDAB.jpg" alt="IMG_20221001_124228"></p>
-<p><img src="https://s2.loli.net/2022/11/08/7rVXK9PDEBsRjHZ.jpg" alt="Snipaste_2022-10-01_12-50-21"></p>
-<p><img src="https://s2.loli.net/2022/10/01/tvDbNWxTf3G8U4X.jpg" alt="Snipaste_2022-10-01_12-54-49"></p>
-<ul>
-<li>192.168.32.1 è l’indirizzo del mio router principale</li>
-<li>192.168.32.199 è l’indirizzo della Vodafone Power Station nel router principale.<ul>
-<li>è necessario impostare un valore maggiore per evitare conflitti IP qui ho messo 199</li>
-</ul>
-</li>
-<li>8.8.8.8 8.8.4.4 <ul>
-<li>Sono gli indirizzi dei server DNS di Google</li>
-</ul>
-</li>
-</ul>
-]]></content>
-  </entry>
-  <entry>
     <title>China Unicom VN007+China Unicom VN007+</title>
     <url>/2023/07/08/VN007+/</url>
     <content><![CDATA[<h1 id="China-Unicom-VN007"><a href="#China-Unicom-VN007" class="headerlink" title="China Unicom VN007+"></a>China Unicom VN007+</h1><p>Nel caso del 4G, è possibile aggregare al massimo tre frequenze, mentre nel caso del 5G, è possibile aggregare al massimo la frequenza N78 e una ulteriore frequenza. Qualora il segnale fosse ottimo, il router ha ottime prestazioni nella velocità di connessione 5G, che può raggiungere i 650 Mbps.</p>
@@ -953,6 +931,28 @@
 <p>​    </p>
 <p><a href="https://github.com/mattfaraday/vn007/tree/main/fw/plus">vn007/fw/plus at main · mattfaraday/vn007 · GitHub</a></p>
 <p><a href="https://jeromelaliag.com/tools/Unicom%20SuperAdmin%20Generator/">Unicom SuperAdmin Generator</a></p>
+]]></content>
+  </entry>
+  <entry>
+    <title>Utilizzare Vodafone Power station come Access Point/ Router secondario</title>
+    <url>/2022/10/01/Utilizzare-Vodafone-Power-station-come-Access-Point-Router-secondario/</url>
+    <content><![CDATA[<h1 id="Utilizzare-Vodafone-Power-station-come-Access-Point-Router-secondario"><a href="#Utilizzare-Vodafone-Power-station-come-Access-Point-Router-secondario" class="headerlink" title="Utilizzare Vodafone Power station come Access Point/ Router secondario"></a>Utilizzare Vodafone Power station come Access Point/ Router secondario</h1><p><img src="https://s2.loli.net/2022/10/01/Q2e5tI9JRM8wZAU.jpg" alt="IMG_20221001_130017"></p>
+<span id="more"></span>
+
+<p><img src="https://s2.loli.net/2022/10/01/nzbyd8xejTuEDAB.jpg" alt="IMG_20221001_124228"></p>
+<p><img src="https://s2.loli.net/2022/11/08/7rVXK9PDEBsRjHZ.jpg" alt="Snipaste_2022-10-01_12-50-21"></p>
+<p><img src="https://s2.loli.net/2022/10/01/tvDbNWxTf3G8U4X.jpg" alt="Snipaste_2022-10-01_12-54-49"></p>
+<ul>
+<li>192.168.32.1 è l’indirizzo del mio router principale</li>
+<li>192.168.32.199 è l’indirizzo della Vodafone Power Station nel router principale.<ul>
+<li>è necessario impostare un valore maggiore per evitare conflitti IP qui ho messo 199</li>
+</ul>
+</li>
+<li>8.8.8.8 8.8.4.4 <ul>
+<li>Sono gli indirizzi dei server DNS di Google</li>
+</ul>
+</li>
+</ul>
 ]]></content>
   </entry>
   <entry>
@@ -1038,8 +1038,10 @@
 </li>
 </ul>
 <h3 id="Vodafone-ITA"><a href="#Vodafone-ITA" class="headerlink" title="Vodafone ITA"></a>Vodafone ITA</h3><p><strong><a href="https://forum.fibra.click/d/38902-cambiare-apn-fwa-vodafone-5g-zte-mc7010/91">Questo router è sbloccabile 10-08-2023</a></strong></p>
-<p>Non aggrega <strong>b20</strong><br>Non compatibile con SIM Vodafone. (diversa da quella abbinata)<br>L’hack non funziona, quindi non è possibile selezionare le bande o Cell lock</p>
+<p>Non aggrega <strong>b20</strong><br>L’hack non funziona, quindi non è possibile selezionare le bande o Cell lock</p>
 <p>È possibile modificare l’apn tramite <strong><a href="https://forum.fibra.click/d/38902-cambiare-apn-fwa-vodafone-5g-zte-mc7010/19">superuser</a></strong>.</p>
+<p>Se si desidera utilizzare la scheda di vdf diversa da quella abbinata , è necessario modificare questi tre APN.</p>
+<p><img src="https://s2.loli.net/2023/09/13/NTFUCgR16ExaMX9.png" alt="image-20230913112759639"></p>
 <h2 id="CINESE"><a href="#CINESE" class="headerlink" title="CINESE"></a>CINESE</h2><p><a href="https://www.ispreview.co.uk/talk/threads/outdoor-cpes.37141/post-300133">It can handle B1+B3, but cant handle B1 + B7 OR B3 + B7 let alone B1 + B3 +B7,</a></p>
 <h3 id="Fastweb-amp-LINKEM"><a href="#Fastweb-amp-LINKEM" class="headerlink" title="Fastweb &amp; LINKEM"></a>Fastweb &amp; LINKEM</h3><p>BD_ITFASTWEBMC7010V1.0.0B13<br>blocatto non si puo’ fare niente</p>
 <p>27-06-2023</p>
@@ -1078,6 +1080,20 @@
     <url>/2022/07/12/istruzione-per-286D-NORDIC/</url>
     <content><![CDATA[<p><img src="https://s2.loli.net/2022/07/13/Aa8j6hP5tOg7Srs.jpg" alt="0001"></p>
 <p><img src="https://s2.loli.net/2022/07/13/4n3gv5JEfKzOqRr.jpg" alt="0002"></p>
+]]></content>
+  </entry>
+  <entry>
+    <title>Zyxel 5G NR/4G LTE CPE Quick Sales Guide</title>
+    <url>/2023/02/17/Zyxel-5G-NR-4G-LTE-CPE-Quick-Sales-Guide/</url>
+    <content><![CDATA[<h1 id="Zyxel-5G-NR-4G-LTE-CPE-Quick-Sales-Guide"><a href="#Zyxel-5G-NR-4G-LTE-CPE-Quick-Sales-Guide" class="headerlink" title="Zyxel 5G NR/4G LTE CPE Quick Sales Guide"></a>Zyxel 5G NR/4G LTE CPE Quick Sales Guide</h1><p><img src="https://s2.loli.net/2023/02/17/s5AOIDBub9VFZz6.png" alt="0001"></p>
+<span id="more"></span>
+
+<p><img src="https://s2.loli.net/2023/02/17/Dw9BPSrGUtbHTiq.png" alt="0002"></p>
+<p><img src="https://s2.loli.net/2023/02/17/Eufame8xqg4vT6H.png" alt="0003"></p>
+<p><img src="https://s2.loli.net/2023/02/17/gtRiSZjBpFhOMVL.png" alt="0004"></p>
+<p><img src="https://s2.loli.net/2023/02/17/yjmKBlvEGHqZXNd.png" alt="0005"></p>
+<p><img src="https://s2.loli.net/2023/02/17/nohQUDyGqa12uWm.png" alt="0006"></p>
+<p><img src="https://s2.loli.net/2023/02/17/eQTjW2xuRvL5G9A.png" alt="0007"></p>
 ]]></content>
   </entry>
   <entry>
@@ -1122,24 +1138,17 @@
 ]]></content>
   </entry>
   <entry>
-    <title>Zyxel 5G NR/4G LTE CPE Quick Sales Guide</title>
-    <url>/2023/02/17/Zyxel-5G-NR-4G-LTE-CPE-Quick-Sales-Guide/</url>
-    <content><![CDATA[<h1 id="Zyxel-5G-NR-4G-LTE-CPE-Quick-Sales-Guide"><a href="#Zyxel-5G-NR-4G-LTE-CPE-Quick-Sales-Guide" class="headerlink" title="Zyxel 5G NR/4G LTE CPE Quick Sales Guide"></a>Zyxel 5G NR/4G LTE CPE Quick Sales Guide</h1><p><img src="https://s2.loli.net/2023/02/17/s5AOIDBub9VFZz6.png" alt="0001"></p>
-<span id="more"></span>
-
-<p><img src="https://s2.loli.net/2023/02/17/Dw9BPSrGUtbHTiq.png" alt="0002"></p>
-<p><img src="https://s2.loli.net/2023/02/17/Eufame8xqg4vT6H.png" alt="0003"></p>
-<p><img src="https://s2.loli.net/2023/02/17/gtRiSZjBpFhOMVL.png" alt="0004"></p>
-<p><img src="https://s2.loli.net/2023/02/17/yjmKBlvEGHqZXNd.png" alt="0005"></p>
-<p><img src="https://s2.loli.net/2023/02/17/nohQUDyGqa12uWm.png" alt="0006"></p>
-<p><img src="https://s2.loli.net/2023/02/17/eQTjW2xuRvL5G9A.png" alt="0007"></p>
-]]></content>
-  </entry>
-  <entry>
     <title>istruzione per 289F</title>
     <url>/2022/07/12/istruzione-per-289F/</url>
     <content><![CDATA[<p><img src="https://s2.loli.net/2022/07/13/18FBNn4eXZwT6lP.png" alt="0001"></p>
 <p><img src="https://s2.loli.net/2022/07/13/J68O5Azldvo2uma.png" alt="0002"></p>
+]]></content>
+  </entry>
+  <entry>
+    <title>istruzione per 818 263</title>
+    <url>/2022/07/12/istruzione-per-818-263/</url>
+    <content><![CDATA[<p><img src="https://s2.loli.net/2022/07/13/hKGmg6Ra8JEYrnP.jpg" alt="0001"></p>
+<p><img src="https://s2.loli.net/2022/07/13/4n3gv5JEfKzOqRr.jpg" alt="0002"></p>
 ]]></content>
   </entry>
   <entry>
@@ -1171,13 +1180,6 @@
 </blockquote>
 <h3 id="ROS"><a href="#ROS" class="headerlink" title="ROS"></a>ROS</h3><p>Non ci sono problemi con i router che hanno questo sistema.</p>
 <p>I dettagli dell’operazione possono essere trovati online</p>
-]]></content>
-  </entry>
-  <entry>
-    <title>istruzione per 818 263</title>
-    <url>/2022/07/12/istruzione-per-818-263/</url>
-    <content><![CDATA[<p><img src="https://s2.loli.net/2022/07/13/hKGmg6Ra8JEYrnP.jpg" alt="0001"></p>
-<p><img src="https://s2.loli.net/2022/07/13/4n3gv5JEfKzOqRr.jpg" alt="0002"></p>
 ]]></content>
   </entry>
   <entry>
