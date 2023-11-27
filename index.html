@@ -520,6 +520,287 @@
   
 
   <article itemscope itemtype="http://schema.org/Article" class="post-content" lang="">
+    <link itemprop="mainEntityOfPage" href="https://enzolorio.github.io/2022/02/24/Costruire-un-sistema-di-rete-4G/">
+
+    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
+      <meta itemprop="image" content="/images/header.jpg">
+      <meta itemprop="name" content="Enzo Lorio">
+      <meta itemprop="description" content="Enzo Lorio">
+    </span>
+
+    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+      <meta itemprop="name" content="Enzo Lorio">
+    </span>
+      <header class="post-header">
+        <h2 class="post-title" itemprop="name headline">
+          <a href="/2022/02/24/Costruire-un-sistema-di-rete-4G/" class="post-title-link" itemprop="url">Costruire un sistema di rete 4G</a>
+        </h2>
+
+        <div class="post-meta-container">
+          <div class="post-meta">
+    <span class="post-meta-item">
+      <span class="post-meta-item-icon">
+        <i class="far fa-calendar"></i>
+      </span>
+      <span class="post-meta-item-text">Posted on</span>
+
+      <time title="Created: 2022-02-24 10:45:18" itemprop="dateCreated datePublished" datetime="2022-02-24T10:45:18+01:00">2022-02-24</time>
+    </span>
+    <span class="post-meta-item">
+      <span class="post-meta-item-icon">
+        <i class="far fa-calendar-check"></i>
+      </span>
+      <span class="post-meta-item-text">Edited on</span>
+      <time title="Modified: 2023-11-27 19:33:45" itemprop="dateModified" datetime="2023-11-27T19:33:45+01:00">2023-11-27</time>
+    </span>
+
+  
+</div>
+
+        </div>
+      </header>
+
+    
+    
+    
+    <div class="post-body" itemprop="articleBody">
+          <h1 id="Costruire-un-sistema-di-rete-4G-5G-04-09-2023"><a href="#Costruire-un-sistema-di-rete-4G-5G-04-09-2023" class="headerlink" title="Costruire un sistema di rete 4G 5G 04-09-2023"></a>Costruire un sistema di rete 4G 5G 04-09-2023</h1><p><img src="https://s2.loli.net/2023/11/28/SJvLNofwren5dcF.jpg" alt="⚛️antykat_v26.R16_LMC_11TPro_20231127_181403_lmc_8.4"></p>
+<h2 id="Glossario"><a href="#Glossario" class="headerlink" title="Glossario"></a>Glossario</h2><p><strong>BTS</strong> = stazione radio base</p>
+<ul>
+<li>BTS fibrata<ul>
+<li>sono collegate tramite fibra ottica</li>
+<li><a target="_blank" rel="noopener" href="https://wiki.lteitaly.it/faq/">Come capisco se una BTS è “fibrata”?</a></li>
+</ul>
+</li>
+<li>ponte<ul>
+<li>sono collegate tramite ponte radio</li>
+</ul>
+</li>
+</ul>
+<p><strong>CAT</strong> = Categorie LTE</p>
+<ul>
+<li>  Semplicemente, più alto è il CAT più veloce è la velocità di internet supportata dal router</li>
+<li>  In generale il cat12 supporta 3ca, cat 16 supporta 4ca</li>
+<li>  <a target="_blank" rel="noopener" href="https://www.cellmapper.net/4G-speed">4G/LTE Throughput Calculator - Cellular Coverage and Tower Map</a></li>
+</ul>
+<p><strong>CELL LOCK</strong></p>
+<ul>
+<li>In poche parole è possibile bloccare un bts</li>
+</ul>
+<p><strong>CA</strong> = <em>Carrier Aggregation</em></p>
+<p><img src="https://s2.loli.net/2022/02/24/k42hL6XANjTSeRU.png" alt="image-20220224102536521"></p>
+<p>bts trasmetterà segnali su varie frequenze e la con la tecnologia <em>Carrier Aggregation</em> possiamo utilizzare questi segnali simultaneamente.</p>
+<p>b7+b1+b3+b20+b38 &gt; b1</p>
+<p><img src="https://r2.community.samsung.com/t5/image/serverpage/image-id/867796iD8B26A32A40EEF63?v=v2" alt="Carrier Aggregation - Page 2 - Samsung Members"></p>
+<ul>
+<li><a target="_blank" rel="noopener" href="https://wiki.lteitaly.it/ca_combos/">Combo CA (4G+) di Smartphone e Modem - LTE ITALY Wiki</a></li>
+<li><a target="_blank" rel="noopener" href="https://cacombos.com/">4G/5G Bands &amp; Combos</a></li>
+</ul>
+<p><strong>5G DSS</strong></p>
+<ul>
+<li>  N3</li>
+<li>  La sintesi è che in generale la velocità di download non è così veloce e stabile come il 4g+, ma la velocità di upload è più veloce.</li>
+<li>  5g fake</li>
+</ul>
+<p><strong>CPE</strong></p>
+<ul>
+<li><p>In telecomunicazioni il Customer Premises Equipment (abbreviato in CPE) è un dispositivo elettronico utilizzato come terminale lato utente che può così connettersi direttamente alla rete di trasmissione geografica</p>
+</li>
+<li><p>Per noi è un dispositivo che converte una rete 4G/5G in una connessione wifi o lan.</p>
+</li>
+</ul>
+<p><strong>AP</strong></p>
+<ul>
+<li>Un access point, contraddistinto dall’acronimo AP e conosciuto anche come Access Point wireless, <strong>è un dispositivo hardware di rete che consente ad altri dispositivi Wi-Fi di connettersi a una rete cablata</strong></li>
+<li>Un dispositivo che crea il wifi</li>
+</ul>
+<p> <strong>SIM DeNAT</strong></p>
+<ul>
+<li> la sim Denat viene fornito IP pubblico con cambio IP ogni 24h e Ipv4 (windtre)</li>
+</ul>
+<p><strong>Mesh</strong></p>
+<ul>
+<li>Una tecnologia che collega due AP tra di loro con mezzi cablati o wireless.</li>
+<li>mesh supporta il roaming ad alta velocità.</li>
+<li>In parole povere, una rete mesh è costituita da più reti wifi e il passaggio dalla rete wifi di un router a quella di un altro comporta soltanto pochissimi ritardo.</li>
+<li><img src="https://s2.loli.net/2022/09/23/DU7aZd9KyuCXkns.jpg" alt="Snipaste_2022-09-23_11-27-59"></li>
+</ul>
+<p><strong>DNS</strong></p>
+<ul>
+<li><img src="https://kinsta.com/it/wp-content/uploads/sites/2/2018/06/cosa-e-il-dns.png" alt="Cosa è il DNS? Una Spiegazione del Sistema dei Nomi di Dominio"></li>
+<li>Se vogliamo accedere al sito web domain.com, se non abbiamo l’indirizzo ip di domain.com sul nostro computer, dobbiamo accedere al server DNS e il server DNS ci darà l’IP per il sito web domain.com.</li>
+<li>Il computer memorizza l’IP del sito web, quindi non deve sempre accedere al server dns.</li>
+<li>La conclusione è che se scegliamo un server DNS migliore, la velocità della rete sarà teoricamente migliore.</li>
+</ul>
+<h2 id="Offerte-da-sapere"><a href="#Offerte-da-sapere" class="headerlink" title="Offerte da sapere"></a>Offerte da sapere</h2><h3 id="Vodafone"><a href="#Vodafone" class="headerlink" title="Vodafone"></a>Vodafone</h3><p><a href="https://enzolorio.github.io/2023/08/10/Vodafone-Bronze-Plus/?highlight=plus">Vodafone Bronze Plus | Enzo Lorio</a></p>
+<h3 id="WindTre"><a href="#WindTre" class="headerlink" title="WindTre"></a>WindTre</h3><p><code>08-09-2023  in pratica è da circa due anni che non cappano più  nessuno</code></p>
+<p><a href="https://enzolorio.github.io/2022/01/20/le-soluzioni-per-w3/?highlight=wind">le soluzioni per w3 | Enzo Lorio</a></p>
+<ul>
+<li><p>04-09-2023</p>
+<ul>
+<li><a target="_blank" rel="noopener" href="https://www.alpsim.it/business/it/4g-5g/4g-5g-denat-pro/">https://www.alpsim.it/business/it/4g-5g/4g-5g-denat-pro/</a></li>
+<li>Ciao, si ti confermo che i codici HDSUMMER e HDSUMMERDENAT sono ancora validi (-4 euro)</li>
+<li>si parla della sim <a target="_blank" rel="noopener" href="https://www.windtrebusiness.it/grandi-aziende">w3 Business per Aziende</a> per privati</li>
+</ul>
+</li>
+<li><p>29-09-2022</p>
+<ul>
+<li>Il contratto è sempre lo stesso, ma al momento non impongono alcuna restrizione agli utenti.<ul>
+<li>giga veramente illimitati</li>
+<li>E si può inserire la sim in qualsiasi dispositivo.</li>
+<li>tutte le offerte windtre con giga ilimitati sono veramente giga ilimitati</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<h3 id="Tim"><a href="#Tim" class="headerlink" title="Tim"></a>Tim</h3><ul>
+<li>cap<ul>
+<li>1000 giga la tim business mentre quella privati 600 giga</li>
+</ul>
+</li>
+<li>Tim unica</li>
+</ul>
+<h3 id="Aziende-che-vendono-sim"><a href="#Aziende-che-vendono-sim" class="headerlink" title="Aziende che vendono sim."></a>Aziende che vendono sim.</h3><ul>
+<li><p><a target="_blank" rel="noopener" href="https://www.brokerperlatelefonia.it/">Broker per la Telefonia &amp; Consulenza - Broker Telefonico ed Energetico</a></p>
+<ul>
+<li>Anche se il loro sito web sia molto datato, ma molti utenti dei gruppi telegram utilizzano la loro sim.</li>
+<li>Le loro sim sono comunque valide.</li>
+<li>Non l’ho mai usato personalmente.</li>
+</ul>
+</li>
+<li><p><a target="_blank" rel="noopener" href="https://lundax.com/">LundaX - Internet ULTRAVELOCE e SENZA LIMITI con LundaX</a></p>
+</li>
+<li><p><a target="_blank" rel="noopener" href="https://www.alpsim.it/">HOME - Alpsim</a></p>
+</li>
+</ul>
+<p>Non ho acquistato le loro sims, ma queste tre sono le aziende più famose…</p>
+<p>Non credo di aver sentito qualcuno lamentarsi di Broker, ma per le altre due aziende a volte vedo persone che si lamentano di loro.</p>
+<h2 id="Come-facciamo-a-sapere-quali-stazioni-base-sono-vicine-a-noi"><a href="#Come-facciamo-a-sapere-quali-stazioni-base-sono-vicine-a-noi" class="headerlink" title="Come facciamo a sapere quali stazioni base sono vicine a noi?"></a>Come facciamo a sapere quali stazioni base sono vicine a noi?</h2><p><a target="_blank" rel="noopener" href="https://lteitaly.it/it/">LTE ITALY - Mappa Antenne 4G</a></p>
+<p><img src="https://s2.loli.net/2022/02/24/XpQ1GyCbBguwakV.png" alt="image-20220224102939375"></p>
+<h2 id="Quale-scheda-sim-dovremmo-comprare"><a href="#Quale-scheda-sim-dovremmo-comprare" class="headerlink" title="Quale scheda sim dovremmo comprare?"></a>Quale scheda sim dovremmo comprare?</h2><p><a href="https://enzolorio.github.io/2022/01/15/Poste-Mobile-CasaWeb/">Poste Mobile CasaWeb</a></p>
+<ul>
+<li>Questa è l’unica scheda sim che possiamo comprare attraverso i canali ufficiali</li>
+</ul>
+<h2 id="Quale-router-dovremmo-comprare"><a href="#Quale-router-dovremmo-comprare" class="headerlink" title="Quale router dovremmo comprare"></a>Quale router dovremmo comprare</h2><p><a target="_blank" rel="noopener" href="https://www.subito.it/utente/13746782">SHOP SHOP SHOP SHOP SHOP</a></p>
+<p><strong>3CA</strong></p>
+<ul>
+<li>ZTE MF286D ROUTER MODEM CPE 4G LTE CAT12 3CA</li>
+<li>ZTE MF 289F Vodafone FWA ITALIA che (non ha la B20 = ha la b20 ma non aggrega con altre bande )</li>
+<li>Chateau LTE12</li>
+</ul>
+<p><strong>4CA</strong></p>
+<ul>
+<li>ZTE MF 289F Vodafone Tedesco (GigaCube) CAT 20<ul>
+<li>ha due attacchi TS9 pero non spinge niente con antenna non andrà in 2x2 mimo (meglio usarlo in casa e amen)</li>
+<li>  <a href="!https://enzolorio.github.io/2022/02/19/zte-289f/">ZTE MF 289F MODEM ROUTER CPE 4G LET CAT 20 FUNZIONA CON TUTTE LE SIM</a></li>
+</ul>
+</li>
+<li>HUAWEI 4G Router B818-263 VODAFONE TEDESCO (GIGACUBE ) FW11<ul>
+<li>non aggrega b1 con tim</li>
+<li>  <a href="https://enzolorio.github.io/2022/01/15/B818-263-Firmware/?highlight=818">B818-263 Firmware</a></li>
+</ul>
+</li>
+</ul>
+<p><strong>5G</strong></p>
+<ul>
+<li>  <a href="https://enzolorio.github.io/2023/02/17/Zyxel-NR5103E/?highlight=zyxe">Zyxel NR5103E</a></li>
+<li>  <a href="https://enzolorio.github.io/2022/12/06/H122-373/?highlight=cpe+pro+2">HUAWEI Router 5G CPE PRO 2</a></li>
+<li>  <a href="https://enzolorio.github.io/2022/01/24/MC-801A/?highlight=801a">MC 801A</a></li>
+</ul>
+<p><strong>Router portatile</strong></p>
+<ul>
+<li>MU5001<ul>
+<li>X55</li>
+<li>CELL LOCK ✅</li>
+<li>BANDS LOCK✅</li>
+</ul>
+</li>
+</ul>
+<p><strong>289f VS 818</strong></p>
+<blockquote>
+<p>huawei 818 263<br>funziona con tutte le sim non ci sono i limiti<br>soltanto non aggrega b1 tim<br>funziona bene con le antenne esterne</p>
+<p>zte 289f<br>aggrega tutte le bande<br>funziona con tutte le sim<br>funziona male con le antenne esterne è un ottimo router indoor per chi ha una buona segnale ma per chi ha poca segnale e devono usare antenne esterne non è una buona scelta 289f</p>
+</blockquote>
+<p>Le prestazioni sono le stesse.</p>
+<h2 id="Wi-Fi"><a href="#Wi-Fi" class="headerlink" title="Wi-Fi"></a>Wi-Fi</h2><ul>
+<li><p>In realtà, le prestazioni Wi-Fi del CPE sono generalmente meno potenti degli AP.</p>
+</li>
+<li><p>È consigliabile disattivare il wi-fi della CPE e utilizzare un AP per creare il wi-fi, in quanto sarà più stabile più potente.</p>
+</li>
+<li><p>C’è anche il fatto che un AP a volte non è sufficiente. È quindi necessario avere più AP e utilizzarli per creare una rete più grande. (MESH)</p>
+</li>
+<li></li>
+</ul>
+<p><img src="https://s2.loli.net/2022/09/24/XTEr5ehJDxqYjfN.jpg" alt="Snipaste_2022-07-23_17-53-26"></p>
+<h2 id="Quale-antenna-dovremmo-comprare"><a href="#Quale-antenna-dovremmo-comprare" class="headerlink" title="Quale antenna dovremmo comprare"></a>Quale antenna dovremmo comprare</h2><p><a target="_blank" rel="noopener" href="https://www.youtube.com/c/MioNonno/videos">https://www.youtube.com/c/MioNonno/videos</a></p>
+<p><img src="https://s2.loli.net/2022/02/24/AnVSmtY4zEaw9vr.png" alt="image-20220224114941049"></p>
+<p><img src="https://s2.loli.net/2022/02/24/jLOKnurylxtB5im.png" alt="image-20220224115046231"></p>
+<ul>
+<li>Il LPAD è abbastanza grande e vulnerabile alle intemperie (venti forti) ma è più sensibile</li>
+<li>TS9 Adattatore SMA in puro metallo possono facilmente rompere il connettore ts9</li>
+</ul>
+<h3 id="Antenne-4x4-MIMO"><a href="#Antenne-4x4-MIMO" class="headerlink" title="Antenne 4x4 MIMO"></a>Antenne 4x4 MIMO</h3><p>4x4 è la scelta migliore, ma per usarli bisogna modificare il router, generalmente i router forniscono solo 2 attacchi , ma per ottenere 4x4 ne servono 4.</p>
+<p><img src="https://s2.loli.net/2022/03/10/bhFgvdXtax9zrsc.jpg" alt="Snipaste_2022-03-10_13-41-36"></p>
+<p><a target="_blank" rel="noopener" href="https://www.eurodk.com/en/search?s=MIMO+4x4">eurodk MIMO 4x4</a></p>
+<blockquote>
+<p><a target="_blank" rel="noopener" href="https://quwireless.com/where-to-buy">QuWireless – Where to buy - QuWireless</a></p>
+<p>distributore ufficiale di QuWireless</p>
+<p><a target="_blank" rel="noopener" href="https://www.youtube.com/watch?v=GIohe00lmpY">QuPanel LTE HP 4x4 Mimo - YouTube</a></p>
+</blockquote>
+<h3 id="guida-per-il-moding"><a href="#guida-per-il-moding" class="headerlink" title="guida per il moding"></a>guida per il moding</h3><p><a href="https://enzolorio.github.io/2022/02/19/zte-289f/">ZTE MF 289F</a></p>
+<p><a href="https://enzolorio.github.io/2022/01/15/B818-263-Firmware/?highlight=818">Huawei B818-263</a></p>
+<p>I router migliori non danno una migliore velocità di internet, dipende sempre da BTS</p>
+<p><strong>Se la nostra BTS sono collegate tramite un filo di rame arrugginito, non possiamo avere una buona velocità di internet</strong></p>
+<h2 id="Load-balancing"><a href="#Load-balancing" class="headerlink" title="Load balancing"></a>Load balancing</h2><p>Non è un semplicemente 1+1</p>
+<p>Invece, consente ad alcuni software che supportano i download multi-thread di utilizzare più reti contemporaneamente.</p>
+<p>EdgeRouter X</p>
+<p><img src="https://s2.loli.net/2022/11/04/fJQpimr7B2UhPnC.jpg" alt="Snipaste_2022-11-03_23-20-03"></p>
+<p><img src="https://s2.loli.net/2022/11/04/R2IjTYKHNpSBfUX.jpg" alt="Snipaste_2022-11-03_23-20-21"></p>
+<h2 id="Tetto-🏠"><a href="#Tetto-🏠" class="headerlink" title="Tetto 🏠"></a>Tetto 🏠</h2><p>Il tetto è il posto migliore per ottenere un segnale, quindi se è possibile installare un router lassù, è sicuramente l’opzione migliore.</p>
+<p>Attualmente sono disponibili tre opzioni.</p>
+<ol>
+<li>router indoor + antenna esterna</li>
+<li>router indoor + scatola stagna (POE)</li>
+<li>router outdoor</li>
+</ol>
+<h3 id="router-indoor-scatola-stagna-POE"><a href="#router-indoor-scatola-stagna-POE" class="headerlink" title="router indoor + scatola stagna (POE)"></a>router indoor + scatola stagna (POE)</h3><p>materiale</p>
+<p><img src="D:\Screenshots\temp\image-20230904191418111.png" alt="image-20230904191418111"></p>
+<h3 id="APP-Utili"><a href="#APP-Utili" class="headerlink" title="APP Utili"></a>APP Utili</h3><p><a target="_blank" rel="noopener" href="https://play.google.com/store/apps/details?id=com.qtrun.QuickTest&hl=it&gl=US">Network Signal Guru - App su Google Play</a></p>
+<p><a target="_blank" rel="noopener" href="https://play.google.com/store/apps/details?id=cz.mroczis.netmonster&hl=it&gl=US">NetMonster - App su Google Play</a></p>
+<p><a target="_blank" rel="noopener" href="https://play.google.com/store/apps/details?id=it.lteitaly.mobileapp&hl=it&gl=US">LTE Italy - App su Google Play</a></p>
+<h2 id="comunity"><a href="#comunity" class="headerlink" title="comunity"></a>comunity</h2><h3 id="telegram"><a href="#telegram" class="headerlink" title="telegram"></a>telegram</h3><ul>
+<li><a target="_blank" rel="noopener" href="https://t.me/internet4Glte">https://t.me/internet4Glte</a></li>
+<li><a target="_blank" rel="noopener" href="https://t.me/ltesperimentazioni">https://t.me/ltesperimentazioni</a></li>
+<li><a target="_blank" rel="noopener" href="https://t.me/FibraClickBar">https://t.me/FibraClickBar</a></li>
+<li><a target="_blank" rel="noopener" href="https://fibra.click/">FibraClick Wiki, risposte sulla fibra ottica</a></li>
+</ul>
+
+      
+    </div>
+
+    
+    
+    
+
+    <footer class="post-footer">
+        <div class="post-eof"></div>
+      
+    </footer>
+  </article>
+</div>
+
+
+
+
+    
+
+
+<div class="post-block">
+  
+  
+
+  <article itemscope itemtype="http://schema.org/Article" class="post-content" lang="">
     <link itemprop="mainEntityOfPage" href="https://enzolorio.github.io/2022/01/15/B818-263-Firmware/">
 
     <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
@@ -964,106 +1245,6 @@
           <!--noindex-->
             <div class="post-button">
               <a class="btn" href="/2023/09/01/FAST-5862L/#more" rel="contents">
-                Read more &raquo;
-              </a>
-            </div>
-          <!--/noindex-->
-        
-      
-    </div>
-
-    
-    
-    
-
-    <footer class="post-footer">
-        <div class="post-eof"></div>
-      
-    </footer>
-  </article>
-</div>
-
-
-
-
-    
-
-
-<div class="post-block">
-  
-  
-
-  <article itemscope itemtype="http://schema.org/Article" class="post-content" lang="">
-    <link itemprop="mainEntityOfPage" href="https://enzolorio.github.io/2023/08/10/Vodafone-Bronze-Plus/">
-
-    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
-      <meta itemprop="image" content="/images/header.jpg">
-      <meta itemprop="name" content="Enzo Lorio">
-      <meta itemprop="description" content="Enzo Lorio">
-    </span>
-
-    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
-      <meta itemprop="name" content="Enzo Lorio">
-    </span>
-      <header class="post-header">
-        <h2 class="post-title" itemprop="name headline">
-          <a href="/2023/08/10/Vodafone-Bronze-Plus/" class="post-title-link" itemprop="url">Vodafone Bronze Plus</a>
-        </h2>
-
-        <div class="post-meta-container">
-          <div class="post-meta">
-    <span class="post-meta-item">
-      <span class="post-meta-item-icon">
-        <i class="far fa-calendar"></i>
-      </span>
-      <span class="post-meta-item-text">Posted on</span>
-
-      <time title="Created: 2023-08-10 18:23:33" itemprop="dateCreated datePublished" datetime="2023-08-10T18:23:33+02:00">2023-08-10</time>
-    </span>
-    <span class="post-meta-item">
-      <span class="post-meta-item-icon">
-        <i class="far fa-calendar-check"></i>
-      </span>
-      <span class="post-meta-item-text">Edited on</span>
-      <time title="Modified: 2023-09-28 12:38:47" itemprop="dateModified" datetime="2023-09-28T12:38:47+02:00">2023-09-28</time>
-    </span>
-
-  
-</div>
-
-        </div>
-      </header>
-
-    
-    
-    
-    <div class="post-body" itemprop="articleBody">
-          <h1 id="Vodafone-Bronze-Plus-2023-09-21-11-04-34"><a href="#Vodafone-Bronze-Plus-2023-09-21-11-04-34" class="headerlink" title="Vodafone Bronze Plus 2023-09-21 11:04:34"></a>Vodafone Bronze Plus 2023-09-21 11:04:34</h1><p><img src="https://s2.loli.net/2023/08/11/ncvtH9xPFdjfkZ4.jpg" alt="Potrebbe essere un&#39;immagine raffigurante testo"></p>
-<p>L’offerta è riservata ai clienti in portabilità provenienti da Iliad, PosteMobile, Fastweb e Operatori Virtuali (esclusi KENA, VERY, HO MOBILE).</p>
-<p>include </p>
-<p>minuti ed SMS illimitati e 70 Giga </p>
-<p><strong>Giga illimitati</strong></p>
-<ul>
-<li>con metodo di pagamento Smart Pay (<strong>IBAN</strong>)</li>
-</ul>
-<p> prezzo bloccato per 24 mesi attivando .</p>
-<p>5G</p>
-<ul>
-<li><p>inclusa gratuitamente la tecnologia 5G per il primo mese. A partire dal rinnovo successivo, è possibile usufruire del 5G a un costo di soli 1,99€, su richiesta. (clienti che hanno attivato l’offerta <strong>prima del 26 luglio 2023</strong>)</p>
-<ul>
-<li>5G Priority Access <strong>1,99€ al mese</strong></li>
-</ul>
-</li>
-<li><p>Vodafone Bronze Plus da oggi anche con 5G incluso (<strong>26 Luglio 2023</strong>)</p>
-<ul>
-<li>Promo 5G</li>
-</ul>
-</li>
-</ul>
-<p><strong>L’offerta viene addebitata attraverso il metodo di pagamento scelto, ma non è soggetta a nessun vincolo contrattuale.</strong></p>
-          <!--noindex-->
-            <div class="post-button">
-              <a class="btn" href="/2023/08/10/Vodafone-Bronze-Plus/#more" rel="contents">
                 Read more &raquo;
               </a>
             </div>
