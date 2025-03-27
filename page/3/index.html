@@ -252,7 +252,7 @@
         <i class="far fa-calendar-check"></i>
       </span>
       <span class="post-meta-item-text">Edited on</span>
-      <time title="Modified: 2024-12-27 11:37:00" itemprop="dateModified" datetime="2024-12-27T11:37:00+01:00">2024-12-27</time>
+      <time title="Modified: 2025-03-27 22:57:40" itemprop="dateModified" datetime="2025-03-27T22:57:40+01:00">2025-03-27</time>
     </span>
 
   
@@ -265,8 +265,113 @@
     
     
     <div class="post-body" itemprop="articleBody">
-          <h1 id="ZTE-MC7010-MC889-5G"><a href="#ZTE-MC7010-MC889-5G" class="headerlink" title="ZTE MC7010 MC889 5G"></a>ZTE MC7010 MC889 5G</h1><p><a target="_blank" rel="noopener" href="https://www.youtube.com/watch?v=T-JufQzAZlU">ZTE 5G Outdoor CPE MC7010 Installation Guide - YouTube</a></p>
-<p>Poiché tutti i dispositivi 7010 e 889 sono brandizzati, è fondamentale controllare il codice di versione prima di acquistare.</p>
+          <h1 id="ZTE-MC7010-MC889-5G-Analisi-Tecnica-per-Uso-Outdoor"><a href="#ZTE-MC7010-MC889-5G-Analisi-Tecnica-per-Uso-Outdoor" class="headerlink" title="ZTE MC7010 / MC889 5G - Analisi Tecnica per Uso Outdoor"></a>ZTE MC7010 / MC889 5G - Analisi Tecnica per Uso Outdoor</h1><blockquote>
+<p>⚠️ Tutti i modelli ZTE MC7010 e MC889 sono <strong>brandizzati</strong>: è essenziale <strong>controllare il firmware</strong> prima dell’acquisto.</p>
+</blockquote>
+<hr>
+<h2 id="📹-Video-guida-installazione-MC7010"><a href="#📹-Video-guida-installazione-MC7010" class="headerlink" title="📹 Video guida installazione MC7010"></a>📹 Video guida installazione MC7010</h2><p><a target="_blank" rel="noopener" href="https://www.youtube.com/watch?v=T-JufQzAZlU">ZTE 5G Outdoor CPE MC7010 Installation Guide - YouTube</a></p>
+<hr>
+<h2 id="MC7010-Varianti-principali"><a href="#MC7010-Varianti-principali" class="headerlink" title="MC7010 - Varianti principali"></a>MC7010 - Varianti principali</h2><h3 id="🇦🇹-3-AT-Austria"><a href="#🇦🇹-3-AT-Austria" class="headerlink" title="🇦🇹 3 AT (Austria)"></a>🇦🇹 3 AT (Austria)</h3><ul>
+<li>Interfaccia in <strong>inglese/tedesco</strong> personalizzata dall’operatore</li>
+<li>Funziona con tutte le SIM</li>
+<li><strong>Cell Lock + Band Lock: funzionanti</strong> ✅</li>
+<li>Firmware: <code>MC7010_H3G_AT_B07</code><ul>
+<li><a target="_blank" rel="noopener" href="https://uecapability.smartphonecombo.it/view/?id=6921825c-dd86-4474-867b-6cd24f3c5072">LTE Capability</a></li>
+<li><a target="_blank" rel="noopener" href="https://uecapability.smartphonecombo.it/view/?id=9b705119-74ea-4055-b4fb-485846097e63">5G Capability</a></li>
+</ul>
+</li>
+</ul>
+<h3 id="🇮🇹-Vodafone-Italia"><a href="#🇮🇹-Vodafone-Italia" class="headerlink" title="🇮🇹 Vodafone Italia"></a>🇮🇹 Vodafone Italia</h3><ul>
+<li>Funziona con tutte le SIM</li>
+<li><strong>NO Cell Lock</strong> / <strong>NO Band Lock</strong> ❌</li>
+<li><strong>Non aggrega B20</strong> (problema firmware)</li>
+<li>Possibile modifica APN tramite credenziali:<ul>
+<li>Utente: <code>Superuser</code></li>
+<li>Password: <code>Zm#pna7hE@9q+Wx6</code></li>
+<li>Guida: <a target="_blank" rel="noopener" href="https://forum.fibra.click/d/38902-cambiare-apn-fwa-vodafone-5g-zte-mc7010/19">Forum Fibra.click</a></li>
+</ul>
+</li>
+<li>Sblocco possibile, ma a rischio: <a target="_blank" rel="noopener" href="https://forum.fibra.click/d/38902-cambiare-apn-fwa-vodafone-5g-zte-mc7010/91">Discussione</a></li>
+</ul>
+<h3 id="Versione-Cinese"><a href="#Versione-Cinese" class="headerlink" title="Versione Cinese"></a>Versione Cinese</h3><ul>
+<li>Supporta solo alcune combinazioni CA: B1+B3</li>
+<li>Non supporta B1+B7 / B3+B7 / B1+B3+B7</li>
+<li>Limitazioni hardware accertate</li>
+</ul>
+<h3 id="Fastweb-amp-Linkem"><a href="#Fastweb-amp-Linkem" class="headerlink" title="Fastweb &amp; Linkem"></a>Fastweb &amp; Linkem</h3><ul>
+<li>Firmware:<ul>
+<li><code>BD_ITFASTWEBMC7010V1.0.0B13</code></li>
+<li><code>BD_ITLINKEMMC7010V1.0.0B07</code></li>
+</ul>
+</li>
+<li>Dispositivi <strong>bloccati</strong>: non funzionano con alcuna SIM</li>
+</ul>
+<h3 id="Wind"><a href="#Wind" class="headerlink" title="Wind"></a>Wind</h3><ul>
+<li>Firmware: <code>BD_MC7010V1.0.0B04</code></li>
+<li>Funziona solo tramite VLAN</li>
+</ul>
+<h3 id="DNA-Finlandia"><a href="#DNA-Finlandia" class="headerlink" title="DNA (Finlandia)"></a>DNA (Finlandia)</h3><ul>
+<li>Firmware: <code>MC7010_DNA5_B14_FWA</code></li>
+<li>Manca la banda B38</li>
+</ul>
+<h3 id="3-UK"><a href="#3-UK" class="headerlink" title="3 UK"></a>3 UK</h3><ul>
+<li><strong>SIM-Locked</strong></li>
+</ul>
+<h3 id="Elisa-Finlandia"><a href="#Elisa-Finlandia" class="headerlink" title="Elisa (Finlandia)"></a>Elisa (Finlandia)</h3><ul>
+<li><code>MC7010_Elisa1_B07</code>: NO Cell Lock</li>
+<li><code>MC7010_Elisa1_B17</code>: Cell Lock funzionante</li>
+</ul>
+<h3 id="Telenor"><a href="#Telenor" class="headerlink" title="Telenor"></a>Telenor</h3><ul>
+<li>Supporta B38 anche se non dichiarata</li>
+<li>B32 aggregabile</li>
+<li>Versione svedese pienamente funzionante</li>
+</ul>
+<h3 id="7010CA-PV-ZTE-MC7010CAV1-0-0B01"><a href="#7010CA-PV-ZTE-MC7010CAV1-0-0B01" class="headerlink" title="7010CA / PV_ZTE_MC7010CAV1.0.0B01"></a>7010CA / PV_ZTE_MC7010CAV1.0.0B01</h3><ul>
+<li>Nessun segnale se non sbloccato</li>
+</ul>
+<h3 id="Firmware-personalizzato-Cina-BD-XCBZHKMC7010V1-0-0B01"><a href="#Firmware-personalizzato-Cina-BD-XCBZHKMC7010V1-0-0B01" class="headerlink" title="Firmware personalizzato Cina: BD_XCBZHKMC7010V1.0.0B01"></a>Firmware personalizzato Cina: <code>BD_XCBZHKMC7010V1.0.0B01</code></h3><ul>
+<li>B28 non supportata</li>
+</ul>
+<hr>
+<h2 id="MC889-Varianti-principali"><a href="#MC889-Varianti-principali" class="headerlink" title="MC889 - Varianti principali"></a>MC889 - Varianti principali</h2><h3 id="ZTE-MC889-BD-ATMC889V1-0-0B05"><a href="#ZTE-MC889-BD-ATMC889V1-0-0B05" class="headerlink" title="ZTE MC889_BD_ATMC889V1.0.0B05"></a><code>ZTE MC889_BD_ATMC889V1.0.0B05</code></h3><ul>
+<li>Funziona con tutte le SIM</li>
+<li><strong>Band Lock + Cell Lock</strong> ✅</li>
+<li><a target="_blank" rel="noopener" href="https://uecapability.smartphonecombo.it/view/multi/?id=71019dac-e646-4d96-9fa0-85b84a16a9c0">UE Capability</a></li>
+</ul>
+<h3 id="STDMC8891-0-0B01"><a href="#STDMC8891-0-0B01" class="headerlink" title="STDMC8891.0.0B01"></a><code>STDMC8891.0.0B01</code></h3><ul>
+<li>Band Lock + Cell Lock presenti</li>
+</ul>
+<h3 id="BD-MC889V1-0-0B01"><a href="#BD-MC889V1-0-0B01" class="headerlink" title="BD_MC889V1.0.0B01"></a><code>BD_MC889V1.0.0B01</code></h3><ul>
+<li>Funziona con tutte le SIM</li>
+</ul>
+<h3 id="BD-LIVEWIREUKMC889V1-0-0B06"><a href="#BD-LIVEWIREUKMC889V1-0-0B06" class="headerlink" title="BD_LIVEWIREUKMC889V1.0.0B06"></a><code>BD_LIVEWIREUKMC889V1.0.0B06</code></h3><ul>
+<li>Tutto funzionante (inclusi Lock)</li>
+</ul>
+<hr>
+<h2 id="Note-Hardware"><a href="#Note-Hardware" class="headerlink" title="Note Hardware"></a>Note Hardware</h2><p>Nel modello MC7010 sono state rilevate <strong>limitazioni hardware</strong>: alcuni esemplari risultano privi di componenti RF specifici, che impediscono l’utilizzo di determinate bande (es. B7/B28). Foto disponibili:</p>
+<ul>
+<li><img src="https://s2.loli.net/2023/06/28/cdGm5NjkQiSWrVb.jpg" alt="RF Chip Photo 1"></li>
+<li><img src="https://s2.loli.net/2023/06/28/eJ26rQy3amPDsjM.jpg" alt="RF Chip Photo 2"></li>
+</ul>
+<hr>
+<h2 id="Firmware-amp-Modding"><a href="#Firmware-amp-Modding" class="headerlink" title="Firmware &amp; Modding"></a>Firmware &amp; Modding</h2><ul>
+<li>Thread tecnico su 4PDA (MC801 / MC7010): <a target="_blank" rel="noopener" href="https://4pda.to/forum/index.php?showtopic=1011903&st=1560#entry116903832">4PDA Forum</a></li>
+<li>Firmware Elisa con accesso admin: <a target="_blank" rel="noopener" href="https://mega.nz/file/drZyyT6D#c6mbcDHx-sji2uYulVNxTwIATSB0iHay50hdR7FOOeE">Download Mega</a></li>
+</ul>
+<blockquote>
+<p>⚠️ Installare un firmware errato o incompatibile può causare danni irreversibili al dispositivo. Procedere solo se esperti.</p>
+</blockquote>
+<hr>
+<h2 id="Hack-Utility"><a href="#Hack-Utility" class="headerlink" title="Hack / Utility"></a>Hack / Utility</h2><ul>
+<li>Video: <a target="_blank" rel="noopener" href="https://www.youtube.com/watch?v=1kanq1w2DA0">Hack ZTE MC801A - Bande, lock di cella , DNS via browser</a></li>
+<li>Script JS per modelli ZTE (MC7010 / 801 / MU5001): <a target="_blank" rel="noopener" href="https://miononno.it/files/ZTE/888-4.0.min.js">miononno.it</a></li>
+</ul>
+<hr>
+<h2 id="Conclusione"><a href="#Conclusione" class="headerlink" title="Conclusione"></a>Conclusione</h2><p>I modelli <strong>ZTE MC7010 e MC889</strong> offrono buone prestazioni in ambito outdoor, ma presentano <strong>molte varianti firmware/operatori</strong> con funzionalità molto diverse.</p>
+<blockquote>
+<p>⚠️ <strong>Controllare sempre la versione firmware</strong> prima dell’acquisto per evitare limitazioni critiche (SIM lock, assenza band lock, bande non supportate a livello hardware).</p>
+</blockquote>
+<hr>
 <p><img src="https://s2.loli.net/2023/06/18/lqXwOFoEMkaNVU4.png" alt="image-20230618002046119"></p>
           <!--noindex-->
             <div class="post-button">
