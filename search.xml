@@ -529,14 +529,10 @@
 <li><strong>Chipset modem</strong>: Qualcomm Snapdragon X55</li>
 <li><strong>Supporto SA / NSA 5G</strong>, pienamente compatibile con reti europee</li>
 <li><strong>Bande tipicamente supportate</strong> (verificare sempre nel dettaglio via UE Capability):<ul>
-<li><strong>5G NR</strong>: n1 / n3 / n5 / n7 / n8 / n20 / n28 / n38 / n40 / n77 / n78</li>
-<li><strong>LTE</strong>: B1 / B3 / B5 / B7 / B8 / B20 / B28 / B32 / B38 / B40 / B41</li>
+<li><a href="https://uecapability.smartphonecombo.it/view/multi/?id=5e34eced-ccf7-4d50-85fe-8b2795349cf7">https://uecapability.smartphonecombo.it/view/multi/?id=5e34eced-ccf7-4d50-85fe-8b2795349cf7</a></li>
 </ul>
 </li>
 </ul>
-<blockquote>
-<p>Il modem 5G garantisce <strong>alte prestazioni anche in uplink</strong>, con <strong>supporto a MIMO 2x2 in upload</strong>, riducendo la latenza nei flussi bidirezionali (es. live streaming o upload massivo).</p>
-</blockquote>
 <hr>
 <h2 id="🔌-Porte-e-connettivita"><a href="#🔌-Porte-e-connettivita" class="headerlink" title="🔌 Porte e connettività"></a>🔌 Porte e connettività</h2><ul>
 <li><strong>1x porta Ethernet 2.5G</strong></li>
