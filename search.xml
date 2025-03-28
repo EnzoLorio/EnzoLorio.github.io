@@ -504,17 +504,82 @@
 ]]></content>
   </entry>
   <entry>
-    <title>Arcadyan AW1000</title>
+    <title>AW1000 4G 5G CPE ROUTER MODEM WIFI 6</title>
     <url>/2024/02/10/Arcadyan_AW1000/</url>
-    <content><![CDATA[<h2 id="Arcadyan-AW1000"><a href="#Arcadyan-AW1000" class="headerlink" title="Arcadyan AW1000"></a>Arcadyan AW1000</h2><p><img src="https://s2.loli.net/2024/02/11/tZBDzFgj87IAkVC.jpg" alt="⚛️antykat_v26.R16_LMC_11TPro_20240112_123339_lmc_8.4_enzo"></p>
-<iframe src="https://www.youtube.com/embed/9Cy6lodHcKc" frameborder="0" allowfullscreen=""></iframe>
-
-
+    <content><![CDATA[<h2 id="AW1000-4G-5G-CPE-ROUTER-MODEM-WIFI-6"><a href="#AW1000-4G-5G-CPE-ROUTER-MODEM-WIFI-6" class="headerlink" title="AW1000 4G 5G CPE ROUTER MODEM WIFI 6"></a>AW1000 4G 5G CPE ROUTER MODEM WIFI 6</h2><p><img src="https://s2.loli.net/2024/02/11/tZBDzFgj87IAkVC.jpg" alt="⚛️antykat_v26.R16_LMC_11TPro_20240112_123339_lmc_8.4_enzo"></p>
 <span id="more"></span>
 
+
+
+<h1 id="📡-Telstra-Arcadyan-X55-AW1000-–-CPE-5G-avanzato-con-firmware-sbloccato-e-architettura-Qualcomm"><a href="#📡-Telstra-Arcadyan-X55-AW1000-–-CPE-5G-avanzato-con-firmware-sbloccato-e-architettura-Qualcomm" class="headerlink" title="📡 Telstra Arcadyan X55 AW1000 – CPE 5G avanzato con firmware sbloccato e architettura Qualcomm"></a>📡 Telstra Arcadyan X55 AW1000 – CPE 5G avanzato con firmware sbloccato e architettura Qualcomm</h1><p>Il <strong>Telstra Arcadyan X55 AW1000</strong> è un router 5G indoor di fascia alta, dotato di <strong>modem RG500Q-EA</strong> (basato su Qualcomm X55) e <strong>architettura SoC IPQ8072A</strong>, con supporto per <strong>WiFi 6</strong> e funzionalità avanzate via firmware non limitato. Originariamente destinato al mercato australiano, è oggi disponibile in versione <strong>completamente sbloccata</strong>, risultando compatibile con SIM europee e personalizzabile lato software.</p>
+<hr>
+<h2 id="⚙️-Architettura-hardware"><a href="#⚙️-Architettura-hardware" class="headerlink" title="⚙️ Architettura hardware"></a>⚙️ Architettura hardware</h2><ul>
+<li><strong>CPU</strong>: Qualcomm IPQ8072A – Quad-core Cortex-A53 @ 2.2 GHz</li>
+<li><strong>RAM</strong>: 1 GB DDR3</li>
+<li><strong>ROM interna</strong>: 1 GB NAND</li>
+<li><strong>Moduli WiFi</strong>:<ul>
+<li>QCN5024 (2.4 GHz, WiFi 6)</li>
+<li>QCN5054 (5 GHz, WiFi 6, fino a 160 MHz channel width)</li>
+</ul>
+</li>
+</ul>
+<p>La combinazione hardware consente <strong>prestazioni LAN/WLAN elevate</strong>, anche in scenari ad alta densità o trasferimento dati locale.</p>
+<hr>
+<h2 id="📶-Modulo-5G-RG500Q-EA"><a href="#📶-Modulo-5G-RG500Q-EA" class="headerlink" title="📶 Modulo 5G: RG500Q-EA"></a>📶 Modulo 5G: RG500Q-EA</h2><ul>
+<li><strong>Chipset modem</strong>: Qualcomm Snapdragon X55</li>
+<li><strong>Supporto SA / NSA 5G</strong>, pienamente compatibile con reti europee</li>
+<li><strong>Bande tipicamente supportate</strong> (verificare sempre nel dettaglio via UE Capability):<ul>
+<li><strong>5G NR</strong>: n1 / n3 / n5 / n7 / n8 / n20 / n28 / n38 / n40 / n77 / n78</li>
+<li><strong>LTE</strong>: B1 / B3 / B5 / B7 / B8 / B20 / B28 / B32 / B38 / B40 / B41</li>
+</ul>
+</li>
+</ul>
+<blockquote>
+<p>Il modem 5G garantisce <strong>alte prestazioni anche in uplink</strong>, con <strong>supporto a MIMO 2x2 in upload</strong>, riducendo la latenza nei flussi bidirezionali (es. live streaming o upload massivo).</p>
+</blockquote>
+<hr>
+<h2 id="🔌-Porte-e-connettivita"><a href="#🔌-Porte-e-connettivita" class="headerlink" title="🔌 Porte e connettività"></a>🔌 Porte e connettività</h2><ul>
+<li><strong>1x porta Ethernet 2.5G</strong></li>
+<li><strong>4x porte Gigabit LAN</strong></li>
+<li><strong>1x USB 3.0</strong> per storage o stampanti in rete</li>
+<li><strong>1x Slot SIM</strong></li>
+<li><strong>2x connettori SMA</strong> per antenne esterne 4G/5G</li>
+<li><strong>1x RJ11 (non funzionante)</strong> – non utilizzabile per chiamate, limitato dal firmware originale</li>
+</ul>
+<hr>
+<h2 id="🧭-Firmware-e-funzioni-avanzate"><a href="#🧭-Firmware-e-funzioni-avanzate" class="headerlink" title="🧭 Firmware e funzioni avanzate"></a>🧭 Firmware e funzioni avanzate</h2><p>Il firmware fornito nella versione sbloccata consente:</p>
+<ul>
+<li><strong>Accesso root o SSH</strong> (a seconda della build)</li>
+<li><strong>Monitoraggio in tempo reale</strong> (traffico, frequenze, log)</li>
+<li><strong>Blocchi su banda/cella (band lock / cell lock)</strong></li>
+<li><strong>Filtraggio DNS e blocco pubblicità</strong> integrati in alcune release personalizzate</li>
+</ul>
+<blockquote>
+<p>⚠️ La porta RJ11 è presente, ma non abilitata per la funzione VoIP.</p>
+</blockquote>
+<hr>
+<h2 id="🖥-Supporto-OpenWRT-e-hardware-acceleration"><a href="#🖥-Supporto-OpenWRT-e-hardware-acceleration" class="headerlink" title="🖥 Supporto OpenWRT e hardware acceleration"></a>🖥 Supporto OpenWRT e hardware acceleration</h2><p>È noto che il dispositivo <strong>supporta parzialmente OpenWRT</strong>, ma <strong>non tutte le build garantiscono accelerazione hardware</strong>. Nelle versioni ottimizzate per l’AW1000:</p>
+<ul>
+<li>La <strong>rete WiFi in LAN raggiunge fino a ~1.7 Gbps reali</strong> in test locali</li>
+<li><strong>CPU load basso</strong> durante trasferimenti 5G o LAN, segno dell’efficace utilizzo dell’offload hardware</li>
+</ul>
+<hr>
+<h2 id="🧭-Considerazioni-finali"><a href="#🧭-Considerazioni-finali" class="headerlink" title="🧭 Considerazioni finali"></a>🧭 Considerazioni finali</h2><p>Il <strong>Telstra Arcadyan X55 AW1000</strong> si rivolge a utenti avanzati alla ricerca di:</p>
+<ul>
+<li>Prestazioni elevate in <strong>rete 5G e WiFi 6</strong></li>
+<li>Architettura Qualcomm scalabile e stabile</li>
+<li><strong>Firmware sbloccato e flessibile</strong>, con accesso a funzionalità spesso assenti nei dispositivi consumer</li>
+<li>Compatibilità con <strong>OpenWRT (parziale)</strong> per scenari di routing personalizzati o applicazioni edge</li>
+</ul>
+<p>È una soluzione interessante sia in ambito <strong>residenziale avanzato</strong> sia in contesti <strong>semi-professionali</strong>, dove stabilità, controllo e performance sono prioritari.</p>
 <p><img src="https://s2.loli.net/2024/02/11/1R7lUP6vFsjyQJi.jpg" alt="⚛️antykat_v26.R16_LMC_11TPro_20240112_123359_lmc_8.4_enzo"></p>
 <p><img src="https://s2.loli.net/2024/02/11/O3B9sXujTonENHk.jpg" alt="⚛️antykat_v26.R16_LMC_11TPro_20240112_123329_lmc_8.4_enzo"></p>
-<h2 id=""><a href="#" class="headerlink" title=""></a><img src="https://s2.loli.net/2024/02/11/Cn6V52W7SehZxAw.jpg" alt="⚛️antykat_v26.R16_LMC_11TPro_20240112_123350_lmc_8.4_enzo"></h2><p><img src="https://s2.loli.net/2024/02/11/UcmrXYERiQkxJP6.jpg" alt="01"></p>
+<h2 id=""><a href="#" class="headerlink" title=""></a><img src="https://s2.loli.net/2024/02/11/Cn6V52W7SehZxAw.jpg" alt="⚛️antykat_v26.R16_LMC_11TPro_20240112_123350_lmc_8.4_enzo"></h2><h2 id="Rooter"><a href="#Rooter" class="headerlink" title="Rooter"></a>Rooter</h2><iframe src="https://www.youtube.com/embed/9Cy6lodHcKc" frameborder="0" allowfullscreen=""></iframe>
+
+<blockquote>
+<p> Sono solo dei vecchi appunti che avevo fatto quando avevo installato Rooter. Di per sé quel firmware non ha molto valore pratico, anche perché non supporta l’accelerazione hardware.</p>
+</blockquote>
+<p><img src="https://s2.loli.net/2024/02/11/UcmrXYERiQkxJP6.jpg" alt="01"></p>
 <p><img src="https://s2.loli.net/2024/02/11/ycoeK5tRXbEGWNU.jpg" alt="Snipaste_2024-02-10_18-02-24"></p>
 <p><img src="https://s2.loli.net/2024/02/11/lOqUv14KscMHIyo.jpg" alt="Snipaste_2024-02-10_18-02-34"></p>
 <p><img src="https://s2.loli.net/2024/02/11/soj2hKInqEmkf7P.jpg" alt="Snipaste_2024-02-10_18-03-09"></p>
