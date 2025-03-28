@@ -1321,22 +1321,11 @@
     <title>Utilizzare Vodafone Power station come Access Point/ Router secondario</title>
     <url>/2022/10/01/Utilizzare-Vodafone-Power-station-come-Access-Point-Router-secondario/</url>
     <content><![CDATA[<h1 id="Utilizzare-Vodafone-Power-station-come-Access-Point-Router-secondario"><a href="#Utilizzare-Vodafone-Power-station-come-Access-Point-Router-secondario" class="headerlink" title="Utilizzare Vodafone Power station come Access Point/ Router secondario"></a>Utilizzare Vodafone Power station come Access Point/ Router secondario</h1><p><img src="https://s2.loli.net/2022/10/01/Q2e5tI9JRM8wZAU.jpg" alt="IMG_20221001_130017"></p>
+<iframe src="https://www.youtube.com/embed/Bvyjr5EpaZE" frameborder="0" allowfullscreen=""></iframe>
+
 <span id="more"></span>
 
-<p><img src="https://s2.loli.net/2022/10/01/nzbyd8xejTuEDAB.jpg" alt="IMG_20221001_124228"></p>
-<p><img src="https://s2.loli.net/2022/11/08/7rVXK9PDEBsRjHZ.jpg" alt="Snipaste_2022-10-01_12-50-21"></p>
-<p><img src="https://s2.loli.net/2022/10/01/tvDbNWxTf3G8U4X.jpg" alt="Snipaste_2022-10-01_12-54-49"></p>
-<ul>
-<li>192.168.32.1 è l’indirizzo del mio router principale</li>
-<li>192.168.32.199 è l’indirizzo della Vodafone Power Station nel router principale.<ul>
-<li>è necessario impostare un valore maggiore per evitare conflitti IP qui ho messo 199</li>
-</ul>
-</li>
-<li>8.8.8.8 8.8.4.4 <ul>
-<li>Sono gli indirizzi dei server DNS di Google</li>
-</ul>
-</li>
-</ul>
+
 ]]></content>
   </entry>
   <entry>
