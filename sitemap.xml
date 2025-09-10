@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://enzolorio.github.io/2023/05/15/ZTE-MC7010/</loc>
+    
+    <lastmod>2025-09-10</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://enzolorio.github.io/2025/05/17/tappo-router/</loc>
     
     <lastmod>2025-05-17</lastmod>
@@ -50,15 +59,6 @@
     <loc>https://enzolorio.github.io/2025/01/28/H153-381/</loc>
     
     <lastmod>2025-03-28</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://enzolorio.github.io/2023/05/15/ZTE-MC7010/</loc>
-    
-    <lastmod>2025-03-27</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -481,36 +481,36 @@
 
   <url>
     <loc>https://enzolorio.github.io/</loc>
-    <lastmod>2025-06-29</lastmod>
+    <lastmod>2025-09-10</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
 
   
   <url>
-    <loc>https://enzolorio.github.io/tags/4g/</loc>
-    <lastmod>2025-06-29</lastmod>
+    <loc>https://enzolorio.github.io/tags/818-263/</loc>
+    <lastmod>2025-09-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://enzolorio.github.io/tags/818-263/</loc>
-    <lastmod>2025-06-29</lastmod>
+    <loc>https://enzolorio.github.io/tags/4g/</loc>
+    <lastmod>2025-09-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://enzolorio.github.io/tags/5g/</loc>
-    <lastmod>2025-06-29</lastmod>
+    <lastmod>2025-09-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://enzolorio.github.io/tags/outdoor/</loc>
-    <lastmod>2025-06-29</lastmod>
+    <lastmod>2025-09-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
