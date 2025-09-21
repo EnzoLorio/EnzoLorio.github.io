@@ -101,7 +101,7 @@
   </url>
   
   <url>
-    <loc>https://enzolorio.github.io/2024/03/24/Router-ZTE-MU5120/</loc>
+    <loc>https://enzolorio.github.io/2024/03/01/ONDA-DM100/</loc>
     
     <lastmod>2025-03-27</lastmod>
     
@@ -110,7 +110,7 @@
   </url>
   
   <url>
-    <loc>https://enzolorio.github.io/2024/03/01/ONDA-DM100/</loc>
+    <loc>https://enzolorio.github.io/2024/03/24/Router-ZTE-MU5120/</loc>
     
     <lastmod>2025-03-27</lastmod>
     
@@ -137,15 +137,6 @@
   </url>
   
   <url>
-    <loc>https://enzolorio.github.io/2024/03/01/fm150/</loc>
-    
-    <lastmod>2025-03-27</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://enzolorio.github.io/2024/03/01/Magenta_5G_Box_Outdoor_Indoor/</loc>
     
     <lastmod>2025-03-27</lastmod>
@@ -156,6 +147,15 @@
   
   <url>
     <loc>https://enzolorio.github.io/2023/11/27/cpe/</loc>
+    
+    <lastmod>2025-03-27</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://enzolorio.github.io/2024/03/01/fm150/</loc>
     
     <lastmod>2025-03-27</lastmod>
     
