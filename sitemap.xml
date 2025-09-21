@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://enzolorio.github.io/2022/02/24/Costruire-un-sistema-di-rete-4G/</loc>
+    
+    <lastmod>2025-09-21</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://enzolorio.github.io/2023/05/15/ZTE-MC7010/</loc>
     
     <lastmod>2025-09-10</lastmod>
@@ -101,7 +110,7 @@
   </url>
   
   <url>
-    <loc>https://enzolorio.github.io/2024/03/01/ONDA-DM100/</loc>
+    <loc>https://enzolorio.github.io/2024/03/24/Router-ZTE-MU5120/</loc>
     
     <lastmod>2025-03-27</lastmod>
     
@@ -110,7 +119,7 @@
   </url>
   
   <url>
-    <loc>https://enzolorio.github.io/2024/03/24/Router-ZTE-MU5120/</loc>
+    <loc>https://enzolorio.github.io/2024/03/01/ONDA-DM100/</loc>
     
     <lastmod>2025-03-27</lastmod>
     
@@ -137,6 +146,15 @@
   </url>
   
   <url>
+    <loc>https://enzolorio.github.io/2024/03/01/fm150/</loc>
+    
+    <lastmod>2025-03-27</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://enzolorio.github.io/2024/03/01/Magenta_5G_Box_Outdoor_Indoor/</loc>
     
     <lastmod>2025-03-27</lastmod>
@@ -155,27 +173,9 @@
   </url>
   
   <url>
-    <loc>https://enzolorio.github.io/2024/03/01/fm150/</loc>
-    
-    <lastmod>2025-03-27</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://enzolorio.github.io/2022/12/06/H122-373/</loc>
     
     <lastmod>2024-12-27</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://enzolorio.github.io/2022/02/24/Costruire-un-sistema-di-rete-4G/</loc>
-    
-    <lastmod>2024-03-08</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -488,14 +488,14 @@
 
   
   <url>
-    <loc>https://enzolorio.github.io/tags/4g/</loc>
+    <loc>https://enzolorio.github.io/tags/818-263/</loc>
     <lastmod>2025-09-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://enzolorio.github.io/tags/818-263/</loc>
+    <loc>https://enzolorio.github.io/tags/4g/</loc>
     <lastmod>2025-09-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
